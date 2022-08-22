@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EST603 Energy Systems Analysis"
+  navbar:
+    background: light
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Syllabus
+        href: syllabus.qmd
+      - text: Lectures
+        menu:
+          - text: Lecture 1
+            href: lectures/lecture1/index.qmd
+      - text: Homework
+        menu:
+          - text: Homework0
+            href: homeworks/hw0.qmd
+          - text: Homework1
+            href: homeworks/hw1.qmd
+      - text: Resources
+        href: resources.qmd
+  page-navigation: true
+  page-footer: 
+    left: "Copyright &copy; 2022 [Gang He](http://drganghe.github.io). All rights reserved." 
+    right: 
+      - icon: github
+        href: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall
+      - icon: twitter 
+        href: https://twitter.com/DrGangHe
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall
+  repo-actions: [edit, issue, source]
+  twitter-card: true
+  site-url: "https://drganghe.github.io/est603-energy-systems-analysis-2022-fall"
+  theme:
+    light: flatly
+    dark: darkly
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+    #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+
+
+

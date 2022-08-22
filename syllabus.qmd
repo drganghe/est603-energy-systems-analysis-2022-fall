@@ -1,0 +1,81 @@
+---
+title: Syllabus
+---
+
+## Course Information
+
+**Department of Technology \& Society**
+
+**Course Name**: EST 603 (#96063), Energy Systems Analysis
+
+**Instructor**: Gang He
+
+**Email**: <gang.he@stonybrook.edu>	
+
+**Office Hours**: Wed 11am-1pm
+
+**Office Location**: Online <https://goo.gl/oMjKuj> 
+
+
+## Course Description
+
+This class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results. 
+
+## Learning Objectives 
+
+- Develop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption; 
+- Gain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses; 
+- Get introduced to major analytical concepts and modeling tools used in energy systems and policy analysis; 
+- Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
+
+## Class Readings
+
+This is a restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally, but they are optional.
+
+- Masters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. 2 edition. Hoboken, New Jersey: Wiley.
+- MacKay, David JC. 2008. Sustainable Energy without the Hot Air. UIT Cambridge Ltd.
+- Readings and materials will be posted online.
+
+## Grading
+
+Final grades will be calculated as follows:
+
+<div style="width:550px">
+Item                           | Weight | Notes
+-------------------------------|--------|-------------------------------------
+Homework                       | 40 %   | 4 homeworks
+Final Project: Proposal        | 10 %   | 
+Final Project: Presentation    | 20 %   |
+Final Project: Report          | 30 %   |
+
+</div>
+
+**Late submission**: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice.
+
+## Grading Scale
+
+<div style="width:400px">
+Grade  | Range       | Grade | Range
+-------|-------------|-------|------------
+A      | 93 - 100%   | C     | 73 - 76.99%
+A-     | 90 - 92.99% | C-    | 70 - 72.99%
+B+     | 87 - 89.99% | D+    | 67 - 69.99%
+B      | 83 - 86.99% | D     | 63 - 66.99%
+B-     | 80 - 82.99% | D-    | 60 - 62.99%
+C+     | 77 - 79.99% | F     | < 60%
+</div>
+
+We do NOT offer extra credit or bump up grade. Please do your work to bump up your grade. No grade bump requests will be responded.
+
+
+## Student Accessibility Support Center Statement 
+
+If you have a physical, psychological, medical or learning disability that may impact your course work, please contact Student Accessibility Support Center, ECC (Educational Communications Center) Building, Room 128, (631)632-6748. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential. Students who require assistance during emergency evacuation are encouraged to discuss their needs with their professors and Student Accessibility Support Center. For procedures and information go to the following website: <http://www.stonybrook.edu/ehs/fire/disabilities>.
+
+## Academy Integrity Statement 
+
+Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing another person's work as your own is always wrong. Faculty is required to report any suspected instances of academic dishonesty to the Academic Judiciary. Faculty in the Health Sciences Center (School of Health Technology & Management, Nursing, Social Welfare, Dental Medicine) and School of Medicine are required to follow their school-specific procedures. For more comprehensive information on academic integrity, including categories of academic dishonesty please refer to the academic judiciary website at <http://www.stonybrook.edu/commcms/academic_integrity/index.html>
+
+## Critical Incident Management 
+
+Stony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures. Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook.

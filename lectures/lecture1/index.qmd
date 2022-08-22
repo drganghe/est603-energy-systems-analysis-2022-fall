@@ -1,0 +1,284 @@
+---
+title: "Lecture 1 Introduction"
+author: "Gang He"
+date: Aug 22, 2022
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: custom.css
+#   footer: <https://drganghe.github.io>
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## US passed historical climate bill
+
+How to evaluate its impact to the emission reduction?
+
+::: columns
+::: {.column width="50%"}
+![](images/biden-sign.jpeg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [Washington Post](https://www.forbes.com/sites/alanohnsman/2022/08/20/biden-signs-climate-bill-how-long-range-evs-work-and-defeating-forever-chemicals/?sh=4149864b7c2f)
+</p>
+:::
+
+::: {.column width="50%"}
+![](images/ira-impact-repeat.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [NY Times](https://www.nytimes.com/interactive/2022/08/02/climate/manchin-deal-emissions-cuts.html)
+</p>
+:::
+:::
+
+## Why EST603?
+
+-   Quantitative skills/tools
+
+    -   Research
+
+    -   Jobs
+
+-   Evidence based energy/environmental policy making
+
+## Organization
+
+-   Syllabus
+
+-   Brightspace
+
+-   Course website:
+    <https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall>
+
+-   Homework (4): 40%
+
+-   Proposal: 10%
+
+-   Final presentations: 20%
+
+-   Final paper/policy memo: 30%
+
+## Contents
+
+::: columns
+::: {.column width="50%"}
+-   Energy systems
+
+    -   Data
+
+    -   Economics
+
+    -   Technology
+
+    -   Supply
+
+    -   Demand
+
+    -   Power
+:::
+
+::: {.column width="50%"}
+-   Tools/skills
+
+    -   Data analysis
+
+    -   Economic analysis
+
+    -   Life cycle analysis
+
+    -   Energy-economy-environment (nexus)
+:::
+:::
+
+
+## Start with two quotes
+
+::: columns
+::: {.column width="50%"}
+George Box:
+
+>All models are wrong, but some are useful.
+:::
+
+::: {.column width="50%"}
+Albert Einstein:
+
+>Everything should be made as simple as possible, but not simpler.
+:::
+:::
+
+
+## What is energy systems analysis
+
+We also call it energy modeling, using computing models to simulate, design, and operate energy systems. Answering questions such as:
+
+- What are our energy needs?
+- What infrastructure do they require?
+- Where should we build?
+- What are the environmental/climate impacts?
+- How much will it cost?
+
+
+## Why models
+
+- Prediction/Projection
+- Simulation
+- Optimization
+- Control
+- Stochastic/dynamic
+- Policy: Scenarios
+
+Models help us think
+
+
+## Modeling is hard
+::: columns
+::: {.column width="50%"}
+![](images/EIA-coal-consumption-forecasts.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/WEO-PV-projections.png){fig-align="center"}
+:::
+:::
+
+## Why?
+
+- **Risk**: Core data and assumptions, which drive results, are based on historical experience, which can be misleading if structural conditions change. Example: shale gas revolution.
+
+- **Uncertainty**: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.
+
+## Why: energy systems are complicated
+
+![](images/us-energy-infrastructure.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [EIA](https://www.eia.gov/state/maps.php)
+</p>
+
+## The Energy Trillemma: Balancing trade-offs
+::: columns
+::: {.column width="50%"}
+![](images/world-energy-trilemma-2021.png){fig-align="center"}
+<p style="font-size:14pt; color:gray;">
+Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/world-energy-trilemma-index)
+</p>
+:::
+
+::: {.column width="50%"}
+:::{.r-fit-text}
+**Energy security**: Ensure reliable energy supply
+
+**Energy equity**: Provide universal access to reliable, affordable, and abundant energy
+
+**Environmental Sustainability**: Avoid environmental harm or climate impact
+
+Those goals sometimes conflict with each other, and decisions has to make trade-offs between them
+:::
+:::
+:::
+
+## Energy, economy, and environment
+::: columns
+::: {.column width="50%"}
+![](images/economy-environment-energy.jpeg){fig-align="center"}
+<p style="font-size:14pt; color:gray;">
+Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
+</p>
+:::
+
+::: {.column width="50%"}
+
+**Economy**: Decent living? Growth? Degrowth?
+
+**Environment**: Emissions, ecosystems constraints/goals
+
+**Energy**: Work within constraints
+
+:::
+:::
+
+
+## Energy great achievement
+
+![](images/energy-great-achievement.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [National Academies](http://www.greatachievements.org/)
+</p>
+
+
+## Energy grand challenges: SDGs
+![](images/un-sdg.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+</p>
+
+## Energy grand challenges: net-zero
+![](images/iea-net-zero.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [IEA](https://www.iea.org/reports/net-zero-by-2050)
+</p>
+
+
+## Modeling can be useful/insightful (an example)
+
+- Build the structure
+- Demonstrate the relation
+- Visualize the changes
+- Inform the impacts
+
+
+## Renewables are achieving grid parity: a structural change
+![](images/irena-re-costs-2021.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray;">
+Source: [IRENA](https://irena.org/-/media/Files/IRENA/Agency/Publication/2022/Jul/IRENA_Power_Generation_Costs_2021_Summary.pdf?la=en&hash=C0C810E72185BB4132AC5EA07FA26C669D3AFBFC)
+</p>
+
+
+## Implications are profound
+::: columns
+::: {.column width="50%"}
+![](images/re-costs-and-ccs.jpg){fig-align="center"}
+<p style="font-size:14pt; color:gray;">
+Source: [Grant et al.](https://www.sciencedirect.com/science/article/abs/pii/S2590332221006102)
+</p>
+:::
+
+::: {.column width="50%"}
+<br>
+
+![](images/accelerate-re-china.png){fig-align="center"}
+<p style="font-size:14pt; color:gray;">
+Source: [He et al.](https://www.nature.com/articles/s41467-020-16184-x)
+</p>
+:::
+:::
+
+
+## End with two quotes
+
+::: columns
+::: {.column width="50%"}
+Bill Hogan:
+
+>It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
+:::
+
+::: {.column width="50%"}
+Huntington, Weyant, Sweeney “Modeling for insights, not numbers":
+
+>The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.
+:::
+:::

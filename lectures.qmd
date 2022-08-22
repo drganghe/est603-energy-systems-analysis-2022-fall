@@ -1,0 +1,16 @@
+---
+title: "Lectures"
+listing:
+  contents: lectures
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+#page-layout: full
+page-navigation: true
+title-block-banner: false
+---
+
+

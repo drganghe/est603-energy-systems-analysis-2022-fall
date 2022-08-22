@@ -1,0 +1,82 @@
+---
+title: Resources
+---
+
+>All models are wrong, but some are useful”.
+
+\-- [_Engineering Statistics Handbook_](https://www.itl.nist.gov/div898/handbook/apr/section2/apr24.htm), [George Box](https://en.wikipedia.org/wiki/George_E._P._Box)
+
+
+## Modeler’s community
+
+[Macro-Energy Systems](https://www.macroenergysystems.org/)
+
+National Center for Atmospheric Research, [Community Earth System Model](https://www.cesm.ucar.edu/)
+
+[Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
+
+Stanford University, [Energy Model Forum](https://emf.stanford.edu/)
+
+Stockholm Environment Institute, [Community of Energy, Environment, and Development](https://leap.sei.org/)
+
+[Open Energy Modeling Initiative](https://forum.openmod.org/)
+
+- [List of models](https://wiki.openmod-initiative.org/wiki/Open_Models)
+- [Data](https://wiki.openmod-initiative.org/wiki/Data)
+
+
+## Models We Discuss in the Class
+
+[RICE/DICE](https://nordhaus.econ.yale.edu/dicemodels.htm), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)
+
+[C-ROADS](https://www.climateinteractive.org/simulations), Climate Rapid Overview and Decision Support
+
+[LEAP](https://leap.sei.org/), The Long-range Energy Alternatives Planning System
+
+[MARKAL](https://iea-etsap.org/index.php/etsaptool/model-generators/markal), Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.
+
+[MESSAGE](https://webarchive.iiasa.ac.at), Model for Energy Supply Strategy Alternatives and their General Environmental Impact
+
+[GAINS](https://gains.iiasa.ac.at/models), The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.
+
+[NEMS](https://www.eia.gov), The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.
+
+[MERGE](https://eea.epri.com/models.html#tab=1), Model for Evaluating the Regional and Global Effects of GHG Reduction Policies
+
+[SWITCH](https://www.switch-model.org), A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments
+
+[ReEDS](https://www.nrel.gov/analysis/reeds/), The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.
+
+[PLEXOS](https://www.energyexemplar.com/plexos), PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.
+
+[Balmorel](https://www.balmorel.com), Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.
+
+[GridLAB-D](https://www.gridlabd.org), GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.
+
+[EnergyPlus](https://apps1.eere.energy.gov), EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.
+
+[SAM](https://sam.nrel.gov) , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.
+
+[GCAM](https://www.globalchange.umd.edu/gcam), Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.
+
+  
+
+## Open-source Efforts
+
+
+[Open Model Initiative](https://openmod-initiative.org): Open models and open data will advance knowledge and lead to better energy policies.
+
+[OSeMOSYS](https://www.osemosys.org): The Open Source Energy Modeling System
+
+[TEMOA](https://www.temoaproject.org): Tools for Energy Model Optimization and Assessment
+
+   
+
+## Programming Language
+
+
+[GAMS](https://www.gams.com), The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization
+
+[AMPL](https://www.ampl.com), A Modeling Language for Mathematical Programming
+
+[Julia](https://juliacomputing.com/industries/energy/) 

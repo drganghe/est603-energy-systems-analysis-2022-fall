@@ -1,0 +1,32 @@
+---
+title: Homework0
+---
+
+This is a "get a taste of the field" homework, no need to submit for grading. 
+
+## Background
+
+On August 16, President Biden Signed H.R. 5376, The Inflation Reduction Act of 2022 into law. The law targets to reduce U.S. carbon emission by 40% compared to the 2005 level, but can it deliver? Energy systems analysis could help to answer such questions. Three notable groups have released energy and emissions models that have been widely cited by lawmakers, advocates and the press:
+
+- The REPEAT Project, an academic initiative that aims for data-driven climate policy at Princeton University, [estimated](https://repeatproject.org/) the bill would cut emissions 42 percent of 2005 levels by 2030, or 27 percent without it.
+
+- The Rhodium Group, an economic and environment consulting firm, [found](https://rhg.com/research/climate-clean-energy-inflation-reduction-act/) that emissions would fall 31 to 44 percent from 2005 levels by 2030 under the “Inflation Reduction Act”, and decline 24 to 35 percent without the bill. 
+
+- Energy Innovation, a climate and energy think tank, [showed](https://energyinnovation.org/wp-content/uploads/2022/08/Modeling-the-Inflation-Reduction-Act-with-the-US-Energy-Policy-Simulator_August.pdf) that emissions would fall 37 to 41 percent of 2005 levels by the end of the decade with the bill, compared to 24 percent without it. 
+
+## Questions
+
+Please compare models and results by those three groups and assess the pros and cons of those models, and discuss how to interpretate those estimates and findings.
+
+- What models do the groups use?
+- What are the key assumptions behind those estimates?
+- What are the uncertainties in the modeling results?
+
+## Further readings
+
+<https://www.eenews.net/articles/modeling-ira-carbon-cuts-caveats-uncertainty-and-luggage/>
+
+<https://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential>
+
+<https://www.washingtonpost.com/climate-environment/2022/08/18/ira-inflation-reduction-act-climate-change/>
+

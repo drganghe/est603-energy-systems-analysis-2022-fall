@@ -1,0 +1,303 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "",
+    "text": "Department: Department of Technology and Society @ Stony Brook University\nInstructor: Gang He\nCredits: 3"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "Description",
+    "text": "Description\nThis class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nDevelop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;\nGain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses;\nGet introduced to major analytical concepts and modeling tools used in energy systems and policy analysis;\nDevelop basic analytical skills to translate energy systems analysis into effective policy discussion and debate."
+  },
+  {
+    "objectID": "index.html#acknowledgement",
+    "href": "index.html#acknowledgement",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "Acknowledgement",
+    "text": "Acknowledgement\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nJohn Helveston, EMSE 4572: Exploratory Data Analysis @ GWU\nTom Brown, Energy Systems\nDaniel Kammen, Energy and Society\nJon Koomey, Turning Numbers into Knowledge: Mastering the Art of Problem Solving\nScott Moura, Energy System and Control\nBaosen Zhang, Introduction to Energy Systems"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Aug 22, 2022\n\n\nGang He\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "homeworks/hw1.html",
+    "href": "homeworks/hw1.html",
+    "title": "Homework1",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "homeworks/hw0.html",
+    "href": "homeworks/hw0.html",
+    "title": "Homework0",
+    "section": "",
+    "text": "This is a “get a taste of the field” homework, no need to submit for grading."
+  },
+  {
+    "objectID": "homeworks/hw0.html#background",
+    "href": "homeworks/hw0.html#background",
+    "title": "Homework0",
+    "section": "Background",
+    "text": "Background\nOn August 16, President Biden Signed H.R. 5376, The Inflation Reduction Act of 2022 into law. The law targets to reduce U.S. carbon emission by 40% compared to the 2005 level, but can it deliver? Energy systems analysis could help to answer such questions. Three notable groups have released energy and emissions models that have been widely cited by lawmakers, advocates and the press:\n\nThe REPEAT Project, an academic initiative that aims for data-driven climate policy at Princeton University, estimated the bill would cut emissions 42 percent of 2005 levels by 2030, or 27 percent without it.\nThe Rhodium Group, an economic and environment consulting firm, found that emissions would fall 31 to 44 percent from 2005 levels by 2030 under the “Inflation Reduction Act”, and decline 24 to 35 percent without the bill.\nEnergy Innovation, a climate and energy think tank, showed that emissions would fall 37 to 41 percent of 2005 levels by the end of the decade with the bill, compared to 24 percent without it."
+  },
+  {
+    "objectID": "homeworks/hw0.html#questions",
+    "href": "homeworks/hw0.html#questions",
+    "title": "Homework0",
+    "section": "Questions",
+    "text": "Questions\nPlease compare models and results by those three groups and assess the pros and cons of those models, and discuss how to interpretate those estimates and findings.\n\nWhat models do the groups use?\nWhat are the key assumptions behind those estimates?\nWhat are the uncertainties in the modeling results?"
+  },
+  {
+    "objectID": "homeworks/hw0.html#further-readings",
+    "href": "homeworks/hw0.html#further-readings",
+    "title": "Homework0",
+    "section": "Further readings",
+    "text": "Further readings\nhttps://www.eenews.net/articles/modeling-ira-carbon-cuts-caveats-uncertainty-and-luggage/\nhttps://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential\nhttps://www.washingtonpost.com/climate-environment/2022/08/18/ira-inflation-reduction-act-climate-change/"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Department of Technology & Society\nCourse Name: EST 603 (#96063), Energy Systems Analysis\nInstructor: Gang He\nEmail: gang.he@stonybrook.edu\nOffice Hours: Wed 11am-1pm\nOffice Location: Online https://goo.gl/oMjKuj"
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThis class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results."
+  },
+  {
+    "objectID": "syllabus.html#learning-objectives",
+    "href": "syllabus.html#learning-objectives",
+    "title": "Syllabus",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nDevelop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;\nGain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses;\nGet introduced to major analytical concepts and modeling tools used in energy systems and policy analysis;\nDevelop basic analytical skills to translate energy systems analysis into effective policy discussion and debate."
+  },
+  {
+    "objectID": "syllabus.html#class-readings",
+    "href": "syllabus.html#class-readings",
+    "title": "Syllabus",
+    "section": "Class Readings",
+    "text": "Class Readings\nThis is a restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally, but they are optional.\n\nMasters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. 2 edition. Hoboken, New Jersey: Wiley.\nMacKay, David JC. 2008. Sustainable Energy without the Hot Air. UIT Cambridge Ltd.\nReadings and materials will be posted online."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nHomework\n40 %\n4 homeworks\n\n\nFinal Project: Proposal\n10 %\n\n\n\nFinal Project: Presentation\n20 %\n\n\n\nFinal Project: Report\n30 %\n\n\n\n\n\nLate submission: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice."
+  },
+  {
+    "objectID": "syllabus.html#grading-scale",
+    "href": "syllabus.html#grading-scale",
+    "title": "Syllabus",
+    "section": "Grading Scale",
+    "text": "Grading Scale\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93 - 100%\nC\n73 - 76.99%\n\n\nA-\n90 - 92.99%\nC-\n70 - 72.99%\n\n\nB+\n87 - 89.99%\nD+\n67 - 69.99%\n\n\nB\n83 - 86.99%\nD\n63 - 66.99%\n\n\nB-\n80 - 82.99%\nD-\n60 - 62.99%\n\n\nC+\n77 - 79.99%\nF\n< 60%\n\n\n\n\nWe do NOT offer extra credit or bump up grade. Please do your work to bump up your grade. No grade bump requests will be responded."
+  },
+  {
+    "objectID": "syllabus.html#student-accessibility-support-center-statement",
+    "href": "syllabus.html#student-accessibility-support-center-statement",
+    "title": "Syllabus",
+    "section": "Student Accessibility Support Center Statement",
+    "text": "Student Accessibility Support Center Statement\nIf you have a physical, psychological, medical or learning disability that may impact your course work, please contact Student Accessibility Support Center, ECC (Educational Communications Center) Building, Room 128, (631)632-6748. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential. Students who require assistance during emergency evacuation are encouraged to discuss their needs with their professors and Student Accessibility Support Center. For procedures and information go to the following website: http://www.stonybrook.edu/ehs/fire/disabilities."
+  },
+  {
+    "objectID": "syllabus.html#academy-integrity-statement",
+    "href": "syllabus.html#academy-integrity-statement",
+    "title": "Syllabus",
+    "section": "Academy Integrity Statement",
+    "text": "Academy Integrity Statement\nEach student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing another person’s work as your own is always wrong. Faculty is required to report any suspected instances of academic dishonesty to the Academic Judiciary. Faculty in the Health Sciences Center (School of Health Technology & Management, Nursing, Social Welfare, Dental Medicine) and School of Medicine are required to follow their school-specific procedures. For more comprehensive information on academic integrity, including categories of academic dishonesty please refer to the academic judiciary website at http://www.stonybrook.edu/commcms/academic_integrity/index.html"
+  },
+  {
+    "objectID": "syllabus.html#critical-incident-management",
+    "href": "syllabus.html#critical-incident-management",
+    "title": "Syllabus",
+    "section": "Critical Incident Management",
+    "text": "Critical Incident Management\nStony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students’ ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures. Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook."
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
+    "href": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
+    "title": "Lecture 1 Introduction",
+    "section": "US passed historical climate bill",
+    "text": "US passed historical climate bill\nHow to evaluate its impact to the emission reduction?\n\n\n\n\n\n\n\n\nSource: Washington Post\n\n\n\n\n\n\n\n\nSource: NY Times"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#why-est603",
+    "href": "lectures/lecture1/index.html#why-est603",
+    "title": "Lecture 1 Introduction",
+    "section": "Why EST603?",
+    "text": "Why EST603?\n\nQuantitative skills/tools\n\nResearch\nJobs\n\nEvidence based energy/environmental policy making"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#organization",
+    "href": "lectures/lecture1/index.html#organization",
+    "title": "Lecture 1 Introduction",
+    "section": "Organization",
+    "text": "Organization\n\nSyllabus\nBrightspace\nCourse website: https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall\nHomework (4): 40%\nProposal: 10%\nFinal presentations: 20%\nFinal paper/policy memo: 30%"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#contents",
+    "href": "lectures/lecture1/index.html#contents",
+    "title": "Lecture 1 Introduction",
+    "section": "Contents",
+    "text": "Contents\n\n\n\nEnergy systems\n\nData\nEconomics\nTechnology\nSupply\nDemand\nPower\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nLife cycle analysis\nEnergy-economy-environment (nexus)"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#start-with-two-quotes",
+    "href": "lectures/lecture1/index.html#start-with-two-quotes",
+    "title": "Lecture 1 Introduction",
+    "section": "Start with two quotes",
+    "text": "Start with two quotes\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#what-is-energy-systems-analysis",
+    "href": "lectures/lecture1/index.html#what-is-energy-systems-analysis",
+    "title": "Lecture 1 Introduction",
+    "section": "What is energy systems analysis",
+    "text": "What is energy systems analysis\nWe also call it energy modeling, using computing models to simulate, design, and operate energy systems. Answering questions such as:\n\nWhat are our energy needs?\nWhat infrastructure do they require?\nWhere should we build?\nWhat are the environmental/climate impacts?\nHow much will it cost?"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#why-models",
+    "href": "lectures/lecture1/index.html#why-models",
+    "title": "Lecture 1 Introduction",
+    "section": "Why models",
+    "text": "Why models\n\nPrediction/Projection\nSimulation\nOptimization\nControl\nStochastic/dynamic\nPolicy: Scenarios\n\nModels help us think"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#modeling-is-hard",
+    "href": "lectures/lecture1/index.html#modeling-is-hard",
+    "title": "Lecture 1 Introduction",
+    "section": "Modeling is hard",
+    "text": "Modeling is hard"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#why",
+    "href": "lectures/lecture1/index.html#why",
+    "title": "Lecture 1 Introduction",
+    "section": "Why?",
+    "text": "Why?\n\nRisk: Core data and assumptions, which drive results, are based on historical experience, which can be misleading if structural conditions change. Example: shale gas revolution.\nUncertainty: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion."
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#why-energy-systems-are-complicated",
+    "href": "lectures/lecture1/index.html#why-energy-systems-are-complicated",
+    "title": "Lecture 1 Introduction",
+    "section": "Why: energy systems are complicated",
+    "text": "Why: energy systems are complicated\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#the-energy-trillemma-balancing-trade-offs",
+    "href": "lectures/lecture1/index.html#the-energy-trillemma-balancing-trade-offs",
+    "title": "Lecture 1 Introduction",
+    "section": "The Energy Trillemma: Balancing trade-offs",
+    "text": "The Energy Trillemma: Balancing trade-offs\n\n\n\n\nSource: World Energy Council\n\n\n\nEnergy security: Ensure reliable energy supply\nEnergy equity: Provide universal access to reliable, affordable, and abundant energy\nEnvironmental Sustainability: Avoid environmental harm or climate impact\nThose goals sometimes conflict with each other, and decisions has to make trade-offs between them"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#energy-economy-and-environment",
+    "href": "lectures/lecture1/index.html#energy-economy-and-environment",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy, economy, and environment",
+    "text": "Energy, economy, and environment\n\n\n\n\nSource: ICMA\n\n\nEconomy: Decent living? Growth? Degrowth?\nEnvironment: Emissions, ecosystems constraints/goals\nEnergy: Work within constraints"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#energy-great-achievement",
+    "href": "lectures/lecture1/index.html#energy-great-achievement",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy great achievement",
+    "text": "Energy great achievement\n\n\nSource: National Academies"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#energy-grand-challenges-sdgs",
+    "href": "lectures/lecture1/index.html#energy-grand-challenges-sdgs",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy grand challenges: SDGs",
+    "text": "Energy grand challenges: SDGs\n\n\nSource: UN"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#energy-grand-challenges-net-zero",
+    "href": "lectures/lecture1/index.html#energy-grand-challenges-net-zero",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy grand challenges: net-zero",
+    "text": "Energy grand challenges: net-zero\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#modeling-can-be-usefulinsightful-an-example",
+    "href": "lectures/lecture1/index.html#modeling-can-be-usefulinsightful-an-example",
+    "title": "Lecture 1 Introduction",
+    "section": "Modeling can be useful/insightful (an example)",
+    "text": "Modeling can be useful/insightful (an example)\n\nBuild the structure\nDemonstrate the relation\nVisualize the changes\nInform the impacts"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#renewables-are-achieving-grid-parity-a-structural-change",
+    "href": "lectures/lecture1/index.html#renewables-are-achieving-grid-parity-a-structural-change",
+    "title": "Lecture 1 Introduction",
+    "section": "Renewables are achieving grid parity: a structural change",
+    "text": "Renewables are achieving grid parity: a structural change\n\n\nSource: IRENA"
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#implications-are-profound",
+    "href": "lectures/lecture1/index.html#implications-are-profound",
+    "title": "Lecture 1 Introduction",
+    "section": "Implications are profound",
+    "text": "Implications are profound\n\n\n\n\nSource: Grant et al.\n\n\n\n\n\nSource: He et al."
+  },
+  {
+    "objectID": "lectures/lecture1/index.html#end-with-two-quotes",
+    "href": "lectures/lecture1/index.html#end-with-two-quotes",
+    "title": "Lecture 1 Introduction",
+    "section": "End with two quotes",
+    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "All models are wrong, but some are useful”.\n-- Engineering Statistics Handbook, George Box"
+  },
+  {
+    "objectID": "resources.html#modelers-community",
+    "href": "resources.html#modelers-community",
+    "title": "Resources",
+    "section": "Modeler’s community",
+    "text": "Modeler’s community\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nIntegrated Assessment Modeling Consortium\nStanford University, Energy Model Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData"
+  },
+  {
+    "objectID": "resources.html#models-we-discuss-in-the-class",
+    "href": "resources.html#models-we-discuss-in-the-class",
+    "title": "Resources",
+    "section": "Models We Discuss in the Class",
+    "text": "Models We Discuss in the Class\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)\nC-ROADS, Climate Rapid Overview and Decision Support\nLEAP, The Long-range Energy Alternatives Planning System\nMARKAL, Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.\nMESSAGE, Model for Energy Supply Strategy Alternatives and their General Environmental Impact\nGAINS, The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.\nNEMS, The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.\nMERGE, Model for Evaluating the Regional and Global Effects of GHG Reduction Policies\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nPLEXOS, PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.\nBalmorel, Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.\nGridLAB-D, GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.\nEnergyPlus, EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
+  },
+  {
+    "objectID": "resources.html#open-source-efforts",
+    "href": "resources.html#open-source-efforts",
+    "title": "Resources",
+    "section": "Open-source Efforts",
+    "text": "Open-source Efforts\nOpen Model Initiative: Open models and open data will advance knowledge and lead to better energy policies.\nOSeMOSYS: The Open Source Energy Modeling System\nTEMOA: Tools for Energy Model Optimization and Assessment"
+  },
+  {
+    "objectID": "resources.html#programming-language",
+    "href": "resources.html#programming-language",
+    "title": "Resources",
+    "section": "Programming Language",
+    "text": "Programming Language\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia"
+  }
+]
