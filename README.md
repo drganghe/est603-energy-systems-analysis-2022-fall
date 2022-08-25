@@ -7,8 +7,10 @@ I'm still catching up on using Quarto for my academic activities, please feel fr
 This class benefits from many similar classes and I cannot credit them enough below:
 
 - John Helveston, [EMSE 4572: Exploratory Data Analysis @ GWU](https://github.com/emse-eda-gwu/2022-Fall)  
-- Tom Brown, [Energy Systems](https://nworbmot.org/teaching.html).  
+- Tom Brown, [Energy Systems](https://nworbmot.org/teaching.html)
+- Michael Davidson and Jesse Jenkins, [Power systems optimization](https://github.com/east-winds/power-systems-optimization)     
 - Daniel Kammen, [Energy and Society](http://kammen.berkeley.edu/)   
+- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)   
 - Jon Koomey, [Turning Numbers into Knowledge: Mastering the Art of Problem Solving](https://www.koomey.com/books.html)   
 - Scott Moura, [Energy System and Control](https://ecal.berkeley.edu/ce295.html)   
 - Baosen Zhang, [Introduction to Energy Systems](https://zhangbaosen.github.io/teaching/EE351)  

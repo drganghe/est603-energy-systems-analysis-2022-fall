@@ -1,0 +1,156 @@
+---
+title: "Lecture 2 Make sense of energy numbers"
+author: "Gang He"
+date: Aug 27, 2022
+#suppress-bibliography: true
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: custom.css
+    #footer: Back [home](https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall)
+---
+
+## {background-color="black" background-image="./images/one-ton-co2.jpg"}
+
+::: footer
+Photo by Gang He
+:::
+
+
+## NYC's daily carbon dioxide emissions as one-tonne spheres
+
+![](images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
+
+::: footer
+Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
+:::
+
+
+## Climate strips
+
+![](images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+
+::: footer
+Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
+:::
+
+
+## Emission and concentration
+
+https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide
+
+
+## Scale of numbers
+
+
+## Get comfortable with units
+
+![](images/energy-units.pdf){fig-align="center"}
+
+::: footer
+Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
+:::
+
+
+## The scale of problems
+
+
+
+## Comparing the world's energy resources
+
+![](images/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Energy vs. power
+
+![](images/Power-vs-Energy.png){fig-align="center"}
+
+::: footer
+Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/)
+:::
+
+
+## Energy vs. power
+::: columns
+::: {.column width="50%"}
+Energy is the ability to do work
+:::
+
+::: {.column width="50%"}
+Power is the rate
+:::
+:::
+
+
+## Back-of-envelope estimation
+
+
+
+## Art Rosenfeld
+
+![](images/art-rosenfeld.jpeg){fig-align="center"}
+
+::: footer
+Source: [LBL](https://artrosenfeld.lbl.gov/)
+:::
+
+## Rosenfeld Effect
+
+![](images/art-rosenfeld-effect.png){fig-align="center"}
+
+::: footer
+Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/), @koomey2010defining 
+:::
+
+## Comparing with the Three Gorges Dam
+
+![](images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+
+::: footer
+Source: @fridley2016impacts 
+:::
+
+
+## Common sources of energy and climate data {.smaller}
+
+- IEA (OECD)  
+- EIA  
+- CDIAC (Carbon Dioxide Information Analysis Center)  
+- EDGAR (emissions database for global atmospheric research system)  
+- NASA  
+- UN  
+- WB  
+- BP Statistical Review of World Energy  
+
+::: footer
+Source: @macknick_energy_2011 
+:::
+
+## Data quality
+
+- Availability  
+- Accessibility  
+- Credibility  
+
+
+## Use data tools
+
+
+
+## Big data
+
+
+---
+### References
+
+::: {#refs}
+:::

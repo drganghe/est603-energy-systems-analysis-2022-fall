@@ -25,7 +25,20 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 - [Data](https://wiki.openmod-initiative.org/wiki/Data)
 
 
-## Models We Discuss in the Class
+## Models we discuss in the class
+
+[SWITCH](https://www.switch-model.org), A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments
+
+[ReEDS](https://www.nrel.gov/analysis/reeds/), The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.
+
+[PLEXOS](https://www.energyexemplar.com/plexos), PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.
+
+[SAM](https://sam.nrel.gov) , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.
+
+[GCAM](https://www.globalchange.umd.edu/gcam), Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.
+
+
+## Models We Donot Discuss in the Class, but could be useful
 
 [RICE/DICE](https://nordhaus.econ.yale.edu/dicemodels.htm), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)
 
@@ -43,26 +56,14 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 [MERGE](https://eea.epri.com/models.html#tab=1), Model for Evaluating the Regional and Global Effects of GHG Reduction Policies
 
-[SWITCH](https://www.switch-model.org), A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments
-
-[ReEDS](https://www.nrel.gov/analysis/reeds/), The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.
-
-[PLEXOS](https://www.energyexemplar.com/plexos), PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.
-
 [Balmorel](https://www.balmorel.com), Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.
 
 [GridLAB-D](https://www.gridlabd.org), GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.
 
 [EnergyPlus](https://apps1.eere.energy.gov), EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.
 
-[SAM](https://sam.nrel.gov) , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.
 
-[GCAM](https://www.globalchange.umd.edu/gcam), Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.
-
-  
-
-## Open-source Efforts
-
+## Open-source efforts
 
 [Open Model Initiative](https://openmod-initiative.org): Open models and open data will advance knowledge and lead to better energy policies.
 
@@ -72,7 +73,7 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
    
 
-## Programming Language
+## Programming language
 
 
 [GAMS](https://www.gams.com), The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization

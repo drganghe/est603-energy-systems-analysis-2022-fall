@@ -11,10 +11,7 @@ format:
     r-fit-text: true
     center: true
     css: custom.css
-#   footer: <https://drganghe.github.io>
-editor: 
-  markdown: 
-    wrap: 72
+    #footer: Back [home](https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall)
 ---
 
 ## US passed historical climate bill
@@ -120,12 +117,16 @@ Albert Einstein:
 
 We also call it energy modeling, using computing models to simulate, design, and operate energy systems. Answering questions such as:
 
-- What are our energy needs?
+- What will be our energy demand?
+- What technology to invest to satify that demand?
 - What infrastructure do they require?
-- Where should we build?
+- Where/when should we build?
 - What are the environmental/climate impacts?
 - How much will it cost?
 
+::: footer
+Read more from [Tom Brown](https://nworbmot.org/courses/es-22/)
+:::
 
 ## Why models
 
@@ -152,9 +153,13 @@ Models help us think
 
 ## Why?
 
-- **Risk**: Core data and assumptions, which drive results, are based on historical experience, which can be misleading if structural conditions change. Example: shale gas revolution.
+- **Risk**: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.
 
 - **Uncertainty**: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.
+
+::: footer
+Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance-is-no-guide-to-future-returns-why-we-cant-accurately-forecast-the-future)
+:::
 
 ## Why: energy systems are complicated
 
@@ -227,7 +232,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 ![](images/iea-net-zero.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray;">
-Source: [IEA](https://www.iea.org/reports/net-zero-by-2050)
+Source: @iea_net_2021 
 </p>
 
 
@@ -243,7 +248,7 @@ Source: [IEA](https://www.iea.org/reports/net-zero-by-2050)
 ![](images/irena-re-costs-2021.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray;">
-Source: [IRENA](https://irena.org/-/media/Files/IRENA/Agency/Publication/2022/Jul/IRENA_Power_Generation_Costs_2021_Summary.pdf?la=en&hash=C0C810E72185BB4132AC5EA07FA26C669D3AFBFC)
+Source: @irena_renewable_2021 
 </p>
 
 
@@ -252,7 +257,7 @@ Source: [IRENA](https://irena.org/-/media/Files/IRENA/Agency/Publication/2022/Ju
 ::: {.column width="50%"}
 ![](images/re-costs-and-ccs.jpg){fig-align="center"}
 <p style="font-size:14pt; color:gray;">
-Source: [Grant et al.](https://www.sciencedirect.com/science/article/abs/pii/S2590332221006102)
+Source: @grant_cost_2021 
 </p>
 :::
 
@@ -261,24 +266,38 @@ Source: [Grant et al.](https://www.sciencedirect.com/science/article/abs/pii/S25
 
 ![](images/accelerate-re-china.png){fig-align="center"}
 <p style="font-size:14pt; color:gray;">
-Source: [He et al.](https://www.nature.com/articles/s41467-020-16184-x)
+Source: @he_rapid_2020 
 </p>
 :::
 :::
 
 
-## End with two quotes
+## End with two quotes {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
 Bill Hogan:
 
 >It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
+
+<p style="font-size:14pt; color:gray;">
+Source: @hogan_energy_2002   
+</p>
 :::
 
 ::: {.column width="50%"}
 Huntington, Weyant, Sweeney “Modeling for insights, not numbers":
 
 >The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.
+
+<p style="font-size:14pt; color:gray;">
+Source: @huntington_modeling_1982  
+</p>
 :::
+:::
+
+---
+### References
+
+::: {#refs}
 :::

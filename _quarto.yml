@@ -43,6 +43,8 @@ website:
     light: flatly
     dark: darkly
 
+bibliography: readings.bib
+
 format:
   html:
     theme: cosmo
@@ -52,5 +54,7 @@ format:
     link-external-newwindow: true
     #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
-
+comments:
+  hypothesis: false
+  
 
