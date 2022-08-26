@@ -15,6 +15,8 @@ website:
         menu:
           - text: Lecture 1
             href: lectures/lecture1/index.qmd
+          - text: Lecture 2
+            href: lectures/lecture2/index.qmd
       - text: Homework
         menu:
           - text: Homework0

@@ -24,8 +24,12 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 - [List of models](https://wiki.openmod-initiative.org/wiki/Open_Models)
 - [Data](https://wiki.openmod-initiative.org/wiki/Data)
 
+[Climate Change AI](https://www.climatechange.ai/)
+
 
 ## Models we discuss in the class
+
+[RICE/DICE](https://nordhaus.econ.yale.edu/dicemodels.htm), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)
 
 [SWITCH](https://www.switch-model.org), A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments
 
@@ -39,8 +43,6 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 
 ## Models We Donot Discuss in the Class, but could be useful
-
-[RICE/DICE](https://nordhaus.econ.yale.edu/dicemodels.htm), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)
 
 [C-ROADS](https://www.climateinteractive.org/simulations), Climate Rapid Overview and Decision Support
 

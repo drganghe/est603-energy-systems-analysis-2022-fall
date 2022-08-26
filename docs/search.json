@@ -28,6 +28,13 @@
     "text": "Acknowledgement\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nJohn Helveston, EMSE 4572: Exploratory Data Analysis @ GWU\nTom Brown, Energy Systems\nMichael Davidson and Jesse Jenkins, Power systems optimization\nDaniel Kammen, Energy and Society\nDuncan Callaway, Electric Power Systems\nSeverin Borenstein, Energy and Environmental Markets\nJon Koomey, Turning Numbers into Knowledge: Mastering the Art of Problem Solving\nScott Moura, Energy System and Control\nBaosen Zhang, Introduction to Energy Systems"
   },
   {
+    "objectID": "index.html#reuse-of-material",
+    "href": "index.html#reuse-of-material",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "Reuse of material",
+    "text": "Reuse of material\nPlease feel free to reuse any material that you find helpful. Copy rights belong to cited authors/creators. Those from myself you can just link to my site or this course site for credit."
+  },
+  {
     "objectID": "lectures.html",
     "href": "lectures.html",
     "title": "Lectures",
@@ -131,6 +138,139 @@
     "title": "Syllabus",
     "section": "Critical Incident Management",
     "text": "Critical Incident Management\nStony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students’ ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures. Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook."
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#section",
+    "href": "lectures/lecture2/index.html#section",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "",
+    "text": "Photo by Gang He"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
+    "href": "lectures/lecture2/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "NYC’s daily carbon dioxide emissions as one-tonne spheres",
+    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#climate-strips",
+    "href": "lectures/lecture2/index.html#climate-strips",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Climate strips",
+    "text": "Climate strips\n\n\nSource: Ed Hawkins"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#carbon-budget",
+    "href": "lectures/lecture2/index.html#carbon-budget",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Carbon budget",
+    "text": "Carbon budget\n\n\nSource: Global Carbon Project"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#emission-and-concentration",
+    "href": "lectures/lecture2/index.html#emission-and-concentration",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Emission and concentration",
+    "text": "Emission and concentration\n\n\nSource:Rebecca Lindsey, climate.gov"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#get-comfortable-with-units",
+    "href": "lectures/lecture2/index.html#get-comfortable-with-units",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Get comfortable with units",
+    "text": "Get comfortable with units\n\n\nSource: MetricMethods"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#scale-of-numbers",
+    "href": "lectures/lecture2/index.html#scale-of-numbers",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Scale of numbers",
+    "text": "Scale of numbers\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#comparing-the-worlds-energy-resources",
+    "href": "lectures/lecture2/index.html#comparing-the-worlds-energy-resources",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Comparing the world’s energy resources",
+    "text": "Comparing the world’s energy resources\n\n\nSource: Richard Perez"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#energy-stock-and-flow",
+    "href": "lectures/lecture2/index.html#energy-stock-and-flow",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Energy stock and flow",
+    "text": "Energy stock and flow\n\n\nSource: Hermann (2006)"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#energy-vs.-power",
+    "href": "lectures/lecture2/index.html#energy-vs.-power",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Energy vs. power",
+    "text": "Energy vs. power\n\n\nSource: ODP"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#energy-vs-power",
+    "href": "lectures/lecture2/index.html#energy-vs-power",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Energy vs power",
+    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\n\nWe need to know what we are talking about!"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#back-of-envelope-estimation",
+    "href": "lectures/lecture2/index.html#back-of-envelope-estimation",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Back-of-envelope estimation",
+    "text": "Back-of-envelope estimation\n\n\nSource: Gang He"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#art-rosenfeld",
+    "href": "lectures/lecture2/index.html#art-rosenfeld",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Art Rosenfeld",
+    "text": "Art Rosenfeld\n\n\nSource: LBL"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#rosenfeld-effect",
+    "href": "lectures/lecture2/index.html#rosenfeld-effect",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Rosenfeld Effect",
+    "text": "Rosenfeld Effect\n\n\nSource: LBL, Koomey et al. (2010)"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#comparing-with-the-three-gorges-dam",
+    "href": "lectures/lecture2/index.html#comparing-with-the-three-gorges-dam",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Comparing with the Three Gorges Dam",
+    "text": "Comparing with the Three Gorges Dam\n\n\nSource: Fridley et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#common-sources-of-energy-and-climate-data",
+    "href": "lectures/lecture2/index.html#common-sources-of-energy-and-climate-data",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Common sources of energy and climate data",
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\n\nSource: Macknick (2011)"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#data-quality",
+    "href": "lectures/lecture2/index.html#data-quality",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Data quality",
+    "text": "Data quality\n\nAvailability\n\nAccessibility\n\nCredibility\n\nComparison, Validation, Verification"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#use-data-tools",
+    "href": "lectures/lecture2/index.html#use-data-tools",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Use data tools",
+    "text": "Use data tools\n\nAPI\n\nPackages\n\nOpen-souce tools"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#big-data-and-ai-era",
+    "href": "lectures/lecture2/index.html#big-data-and-ai-era",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Big data and AI era",
+    "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture AI doesnot necessaries means better insights"
   },
   {
     "objectID": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
@@ -277,14 +417,21 @@
     "href": "resources.html#modelers-community",
     "title": "Resources",
     "section": "Modeler’s community",
-    "text": "Modeler’s community\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nIntegrated Assessment Modeling Consortium\nStanford University, Energy Model Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData"
+    "text": "Modeler’s community\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nIntegrated Assessment Modeling Consortium\nStanford University, Energy Model Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData\n\nClimate Change AI"
   },
   {
     "objectID": "resources.html#models-we-discuss-in-the-class",
     "href": "resources.html#models-we-discuss-in-the-class",
     "title": "Resources",
     "section": "Models we discuss in the class",
-    "text": "Models we discuss in the class\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nPLEXOS, PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
+    "text": "Models we discuss in the class\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nPLEXOS, PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
+  },
+  {
+    "objectID": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
+    "href": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
+    "title": "Resources",
+    "section": "Models We Donot Discuss in the Class, but could be useful",
+    "text": "Models We Donot Discuss in the Class, but could be useful\nC-ROADS, Climate Rapid Overview and Decision Support\nLEAP, The Long-range Energy Alternatives Planning System\nMARKAL, Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.\nMESSAGE, Model for Energy Supply Strategy Alternatives and their General Environmental Impact\nGAINS, The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.\nNEMS, The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.\nMERGE, Model for Evaluating the Regional and Global Effects of GHG Reduction Policies\nBalmorel, Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.\nGridLAB-D, GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.\nEnergyPlus, EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings."
   },
   {
     "objectID": "resources.html#open-source-efforts",
@@ -299,369 +446,5 @@
     "title": "Resources",
     "section": "Programming language",
     "text": "Programming language\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#one-ton-of-co2",
-    "href": "lectures/lecture2/index.html#one-ton-of-co2",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "One ton of CO2",
-    "text": "One ton of CO2"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
-    "href": "lectures/lecture2/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "NYC’s daily carbon dioxide emissions as one-tonne spheres",
-    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#us-passed-historical-climate-bill",
-    "href": "lectures/lecture2/index.html#us-passed-historical-climate-bill",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "US passed historical climate bill",
-    "text": "US passed historical climate bill\nHow to evaluate its impact to the emission reduction?\n\n\n\n\n\n\n\n\nSource: Washington Post\n\n\n\n\n\n\n\n\nSource: NY Times"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#section",
-    "href": "lectures/lecture2/index.html#section",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "",
-    "text": "Photo by Gang He"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#climate-strips",
-    "href": "lectures/lecture2/index.html#climate-strips",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Climate strips",
-    "text": "Climate strips\n\n\nSource: Ed Hawkins"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#scale-of-numbers",
-    "href": "lectures/lecture2/index.html#scale-of-numbers",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Scale of numbers",
-    "text": "Scale of numbers"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#solar-energy",
-    "href": "lectures/lecture2/index.html#solar-energy",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Solar energy",
-    "text": "Solar energy"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#energy-vs.-power",
-    "href": "lectures/lecture2/index.html#energy-vs.-power",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Energy vs. power",
-    "text": "Energy vs. power\n\n\nSource: ODP"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#art-rosenfeld",
-    "href": "lectures/lecture2/index.html#art-rosenfeld",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Art Rosenfeld",
-    "text": "Art Rosenfeld\n\n\nSource: LBL"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#rosenfeld-effect",
-    "href": "lectures/lecture2/index.html#rosenfeld-effect",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Rosenfeld Effect",
-    "text": "Rosenfeld Effect\n\n\nSource: LBL, Koomey et al. (2010)"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#three-gorges-dam",
-    "href": "lectures/lecture2/index.html#three-gorges-dam",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Three Gorges Dam",
-    "text": "Three Gorges Dam\n\n\nSource: Fridley et al. (2016)"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#back",
-    "href": "lectures/lecture2/index.html#back",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Back",
-    "text": "Back"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#back-of-envelope",
-    "href": "lectures/lecture2/index.html#back-of-envelope",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Back-of-envelope",
-    "text": "Back-of-envelope"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#back-of-envelope-esi",
-    "href": "lectures/lecture2/index.html#back-of-envelope-esi",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Back-of-envelope Esi",
-    "text": "Back-of-envelope Esi"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#back-of-envelope-estimation",
-    "href": "lectures/lecture2/index.html#back-of-envelope-estimation",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Back-of-envelope estimation",
-    "text": "Back-of-envelope estimation"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#common-sour",
-    "href": "lectures/lecture2/index.html#common-sour",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Common sour",
-    "text": "Common sour"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#commo",
-    "href": "lectures/lecture2/index.html#commo",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Commo",
-    "text": "Commo"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#common-sources-of-energy-data",
-    "href": "lectures/lecture2/index.html#common-sources-of-energy-data",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Common sources of energy data",
-    "text": "Common sources of energy data"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#data-quality",
-    "href": "lectures/lecture2/index.html#data-quality",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Data quality",
-    "text": "Data quality\n\nAvailability\n\nAccessibility\n\nCredibility"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#use-data",
-    "href": "lectures/lecture2/index.html#use-data",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Use data",
-    "text": "Use data"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#use-data-tools",
-    "href": "lectures/lecture2/index.html#use-data-tools",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Use data tools",
-    "text": "Use data tools"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#big-data",
-    "href": "lectures/lecture2/index.html#big-data",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Big data",
-    "text": "Big data"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#forms-of",
-    "href": "lectures/lecture2/index.html#forms-of",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Forms of",
-    "text": "Forms of"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#forms-of-energy",
-    "href": "lectures/lecture2/index.html#forms-of-energy",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Forms of energy",
-    "text": "Forms of energy"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#energy",
-    "href": "lectures/lecture2/index.html#energy",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Energy,",
-    "text": "Energy,"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#energy-cli",
-    "href": "lectures/lecture2/index.html#energy-cli",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Energy, cli",
-    "text": "Energy, cli"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#energy-climate",
-    "href": "lectures/lecture2/index.html#energy-climate",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Energy, climate",
-    "text": "Energy, climate"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#what-a",
-    "href": "lectures/lecture2/index.html#what-a",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "What a",
-    "text": "What a"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#what-are-we-talking-about",
-    "href": "lectures/lecture2/index.html#what-are-we-talking-about",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "What are we talking about",
-    "text": "What are we talking about\nhttps://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#emission-and",
-    "href": "lectures/lecture2/index.html#emission-and",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Emission and",
-    "text": "Emission and\nhttps://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#emission-and-concentration",
-    "href": "lectures/lecture2/index.html#emission-and-concentration",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Emission and concentration",
-    "text": "Emission and concentration\nhttps://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#empire-state-building",
-    "href": "lectures/lecture2/index.html#empire-state-building",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Empire State Building",
-    "text": "Empire State Building"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#common-sources-of-energy-and-climate-data",
-    "href": "lectures/lecture2/index.html#common-sources-of-energy-and-climate-data",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Common sources of energy and climate data",
-    "text": "Common sources of energy and climate data\n\nIEA (OECD)\n\nEIA\n\nCDIAC (Carbon Dioxide Information Analysis Center)\n\nEDGAR (emissions database for global atmospheric research system)\n\nNASA\n\nUN\n\nWB\n\nBP Statistical Review of World Energy\n\n\nSource: Macknick (2011)"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#the-scale-of-problems",
-    "href": "lectures/lecture2/index.html#the-scale-of-problems",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "The scale of problems",
-    "text": "The scale of problems"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#the-scale-of-probl",
-    "href": "lectures/lecture2/index.html#the-scale-of-probl",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "The scale of probl",
-    "text": "The scale of probl"
-  },
-  {
-    "objectID": "resources.html#models-we-discuss-in-the-class-1",
-    "href": "resources.html#models-we-discuss-in-the-class-1",
-    "title": "Resources",
-    "section": "Models We Discuss in the Class",
-    "text": "Models We Discuss in the Class"
-  },
-  {
-    "objectID": "resources.html#models-we-donot-discuss-in-the-class",
-    "href": "resources.html#models-we-donot-discuss-in-the-class",
-    "title": "Resources",
-    "section": "Models We Donot Discuss in the Class",
-    "text": "Models We Donot Discuss in the Class"
-  },
-  {
-    "objectID": "resources.html#models-we-donot-discuss-in-the-class-but-could",
-    "href": "resources.html#models-we-donot-discuss-in-the-class-but-could",
-    "title": "Resources",
-    "section": "Models We Donot Discuss in the Class, but could",
-    "text": "Models We Donot Discuss in the Class, but could"
-  },
-  {
-    "objectID": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
-    "href": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
-    "title": "Resources",
-    "section": "Models We Donot Discuss in the Class, but could be useful",
-    "text": "Models We Donot Discuss in the Class, but could be useful\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)\nC-ROADS, Climate Rapid Overview and Decision Support\nLEAP, The Long-range Energy Alternatives Planning System\nMARKAL, Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.\nMESSAGE, Model for Energy Supply Strategy Alternatives and their General Environmental Impact\nGAINS, The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.\nNEMS, The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.\nMERGE, Model for Evaluating the Regional and Global Effects of GHG Reduction Policies\nBalmorel, Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.\nGridLAB-D, GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.\nEnergyPlus, EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings."
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#get-comfor",
-    "href": "lectures/lecture2/index.html#get-comfor",
-    "title": "Lecture 2 Make sense of numbers",
-    "section": "Get comfor",
-    "text": "Get comfor"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#get-comfortable-with-units",
-    "href": "lectures/lecture2/index.html#get-comfortable-with-units",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Get comfortable with units",
-    "text": "Get comfortable with units\n\n\n\n\n\n\nSource: MetricMethods"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html",
-    "href": "lectures/lecture2/index.html",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "",
-    "text": "Photo by Gang He"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#comparing-with-the-three-gorges-dam",
-    "href": "lectures/lecture2/index.html#comparing-with-the-three-gorges-dam",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Comparing with the Three Gorges Dam",
-    "text": "Comparing with the Three Gorges Dam\n\n\nSource: Fridley et al. (2016)"
-  },
-  {
-    "objectID": "lectures/lecture1/index.html",
-    "href": "lectures/lecture1/index.html",
-    "title": "Lecture 1 Introduction",
-    "section": "",
-    "text": "How to evaluate its impact to the emission reduction?\n\n\n\n\n\n\n\n\nSource: Washington Post\n\n\n\n\n\n\n\n\nSource: NY Times"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#energy-vs.-power-1",
-    "href": "lectures/lecture2/index.html#energy-vs.-power-1",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Energy vs. power",
-    "text": "Energy vs. power\n\n\nEnergy is the ability to do work\n\nPower is the rate"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#comparing-the-worlds-energy-resources",
-    "href": "lectures/lecture2/index.html#comparing-the-worlds-energy-resources",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Comparing the world’s energy resources",
-    "text": "Comparing the world’s energy resources\n\n\nSource: Richard Perez"
-  },
-  {
-    "objectID": "index.html#cop",
-    "href": "index.html#cop",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Cop",
-    "text": "Cop"
-  },
-  {
-    "objectID": "index.html#use",
-    "href": "index.html#use",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Use",
-    "text": "Use"
-  },
-  {
-    "objectID": "index.html#reuse",
-    "href": "index.html#reuse",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Reuse",
-    "text": "Reuse\nPlease feel free to resu"
-  },
-  {
-    "objectID": "index.html#reuse-or",
-    "href": "index.html#reuse-or",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Reuse or",
-    "text": "Reuse or"
-  },
-  {
-    "objectID": "index.html#reuse-policy",
-    "href": "index.html#reuse-policy",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Reuse policy",
-    "text": "Reuse policy\nPlease feel free to reuse any material that you find helpful. Copy rights belong to cited authors/creators. Those from myself you can just link to my site or this course site for credit."
-  },
-  {
-    "objectID": "index.html#reuse-of-material",
-    "href": "index.html#reuse-of-material",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Reuse of material",
-    "text": "Reuse of material\nPlease feel free to reuse any material that you find helpful. Copy rights belong to cited authors/creators. Those from myself you can just link to my site or this course site for credit."
   }
 ]

@@ -1,6 +1,12 @@
 ---
 title: Homework1
 format: 
+  html: 
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
   pdf: 
     documentclass: article
     #classoption: [landscape]

@@ -40,25 +40,39 @@ Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
 :::
 
 
+## Carbon budget
+
+![](images/system-carbon-budget.png){fig-align="center"}
+
+::: footer
+Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+:::
+
 ## Emission and concentration
 
-https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide
+![](images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
 
-
-## Scale of numbers
+::: footer
+Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
+:::
 
 
 ## Get comfortable with units
 
-![](images/energy-units.pdf){fig-align="center"}
+![](images/energy-units.png){fig-align="center"}
 
 ::: footer
 Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 :::
 
 
-## The scale of problems
+## Scale of numbers
 
+![](images/energy-units-scale.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+:::
 
 
 ## Comparing the world's energy resources
@@ -67,6 +81,15 @@ Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 
 ::: footer
 Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Energy stock and flow
+
+![](images/energy-stock-flow.png){fig-align="center"}
+
+::: footer
+Source: @hermann2006quantifying 
 :::
 
 
@@ -79,20 +102,28 @@ Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-po
 :::
 
 
-## Energy vs. power
+## Energy vs power
 ::: columns
 ::: {.column width="50%"}
-Energy is the ability to do work
+- Energy is the ability to do work. Energy is power integrated over **time**.
+- Basic unit: joule = watt<span>&#183;</span>second
 :::
 
 ::: {.column width="50%"}
-Power is the rate
+- Power is the **rate** at which work is done, or energy is transmitted.
+- Basic unit: watt = jourle/second
 :::
 :::
 
+We need to know what we are talking about!
 
 ## Back-of-envelope estimation
 
+![](images/boe-equations.jpeg){fig-align="center"}
+
+::: footer
+Source: Gang He
+:::
 
 
 ## Art Rosenfeld
@@ -122,14 +153,33 @@ Source: @fridley2016impacts
 
 ## Common sources of energy and climate data {.smaller}
 
+::: columns
+::: {.column width="33%"}
+**Energy**:   
 - IEA (OECD)  
 - EIA  
-- CDIAC (Carbon Dioxide Information Analysis Center)  
-- EDGAR (emissions database for global atmospheric research system)  
-- NASA  
 - UN  
 - WB  
-- BP Statistical Review of World Energy  
+- BP Statistical Review of World Energy 
+:::
+
+::: {.column width="33%"}
+**Climate**:   
+- NASA  
+- NCAR  
+- EUCCI  
+- UNEP  
+- NOAA  
+:::
+
+::: {.column width="33%"}
+**Carbon**:   
+- CDIAC (Carbon Dioxide Information Analysis Center)  
+- EDGAR (emissions database for global atmospheric research system)  
+- Carbon Budget Project  
+- Carbon Monitor
+:::
+:::
 
 ::: footer
 Source: @macknick_energy_2011 
@@ -141,13 +191,21 @@ Source: @macknick_energy_2011
 - Accessibility  
 - Credibility  
 
+Comparison, Validation, Verification
 
 ## Use data tools
 
+- API  
+- Packages   
+- Open-souce tools
 
+## Big data and AI era
 
-## Big data
+- Big climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters
+- Data driven approches
 
+Big data doesnot necessaries means big picture
+AI doesnot necessaries means better insights
 
 ---
 ### References
