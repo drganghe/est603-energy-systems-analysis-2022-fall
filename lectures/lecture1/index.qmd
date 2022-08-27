@@ -254,6 +254,15 @@ Source: @irena_renewable_2021
 
 ## Implications are profound
 ::: columns
+
+::: {.column width="50%"}
+<br>
+![](images/accelerate-re-china.png){fig-align="center"}
+<p style="font-size:14pt; color:gray;">
+Source: @he_rapid_2020 
+</p>
+:::
+
 ::: {.column width="50%"}
 ![](images/re-costs-and-ccs.jpg){fig-align="center"}
 <p style="font-size:14pt; color:gray;">
@@ -261,14 +270,6 @@ Source: @grant_cost_2021
 </p>
 :::
 
-::: {.column width="50%"}
-<br>
-
-![](images/accelerate-re-china.png){fig-align="center"}
-<p style="font-size:14pt; color:gray;">
-Source: @he_rapid_2020 
-</p>
-:::
 :::
 
 

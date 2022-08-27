@@ -39,7 +39,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Aug 27, 2022\n\n\nGang He\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 22, 2022\n\n\nGang He\n\n\n\n\n\n\nNo matching items"
+    "text": "Sep 2, 2022\n\n\nGang He\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2022\n\n\nGang He\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 22, 2022\n\n\nGang He\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -270,7 +270,7 @@
     "href": "lectures/lecture2/index.html#big-data-and-ai-era",
     "title": "Lecture 2 Make sense of energy numbers",
     "section": "Big data and AI era",
-    "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture AI doesnot necessaries means better insights"
+    "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture\nAI doesnot necessaries means better insights"
   },
   {
     "objectID": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
@@ -396,7 +396,7 @@
     "href": "lectures/lecture1/index.html#implications-are-profound",
     "title": "Lecture 1 Introduction",
     "section": "Implications are profound",
-    "text": "Implications are profound\n\n\n\n\nSource: Grant et al. (2021)\n\n\n\n\n\nSource: He et al. (2020)"
+    "text": "Implications are profound\n\n\n \n\nSource: He et al. (2020)\n\n\n\n\nSource: Grant et al. (2021)"
   },
   {
     "objectID": "lectures/lecture1/index.html#end-with-two-quotes",
@@ -445,6 +445,55 @@
     "href": "resources.html#programming-language",
     "title": "Resources",
     "section": "Programming language",
-    "text": "Programming language\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia"
+    "text": "Programming language\nR, a free software environment for statistical computing and graphics\nPython, work quickly and integrate systems more effectively\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia, a high-level, high-performance, dynamic programming language"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#section",
+    "href": "lectures/lecture3/index.html#section",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "",
+    "text": "Photo by Gang He"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
+    "href": "lectures/lecture3/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "NYC’s daily carbon dioxide emissions as one-tonne spheres",
+    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
+  },
+  {
+    "objectID": "index.html#acknowledgment",
+    "href": "index.html#acknowledgment",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "Acknowledgment",
+    "text": "Acknowledgment\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nJohn Helveston, EMSE 4572: Exploratory Data Analysis @ GWU\nTom Brown, Energy Systems\nMichael Davidson and Jesse Jenkins, Power systems optimization\nDaniel Kammen, Energy and Society\nDuncan Callaway, Electric Power Systems\nSeverin Borenstein, Energy and Environmental Markets\nJon Koomey, Turning Numbers into Knowledge: Mastering the Art of Problem Solving\nScott Moura, Energy System and Control\nBaosen Zhang, Introduction to Energy Systems"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-and-conversions",
+    "href": "lectures/lecture3/index.html#energy-and-conversions",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy and conversions",
+    "text": "Energy and conversions\n\n\nSource: Carbon Visuals"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-and-their-conversions",
+    "href": "lectures/lecture3/index.html#energy-and-their-conversions",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy and their conversions",
+    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-and-their-conversions-1",
+    "href": "lectures/lecture3/index.html#energy-and-their-conversions-1",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy and their conversions",
+    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-systems",
+    "href": "lectures/lecture3/index.html#energy-systems",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
   }
 ]

@@ -1,0 +1,41 @@
+---
+title: "Lecture 3 Energy Systems Overview"
+author: "Gang He"
+date: September 2, 2022
+#suppress-bibliography: true
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: custom.css
+    #footer: Back [home](https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall)
+---
+
+## Energy systems
+
+![](images/energy-systems.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+
+## Energy and their conversions
+
+![](images/energy-and-conversions.png){fig-align="center"}
+
+::: footer
+Source: @smil2017energy 
+:::
+
+
+
+---
+### References
+
+::: {#refs}
+:::

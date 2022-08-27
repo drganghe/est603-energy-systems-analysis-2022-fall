@@ -77,9 +77,12 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 ## Programming language
 
+[R](https://www.r-project.org/), a free software environment for statistical computing and graphics
+
+[Python](https://www.python.org/), work quickly and integrate systems more effectively
 
 [GAMS](https://www.gams.com), The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization
 
 [AMPL](https://www.ampl.com), A Modeling Language for Mathematical Programming
 
-[Julia](https://juliacomputing.com/industries/energy/) 
+[Julia](https://juliacomputing.com/industries/energy/), a high-level, high-performance, dynamic programming language 
