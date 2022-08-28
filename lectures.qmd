@@ -2,8 +2,8 @@
 title: "Lectures"
 listing:
   contents: lectures
-  sort: "date desc"
-  type: default
+  sort: "date asc"
+  type: grid
   categories: false
   sort-ui: false
   filter-ui: false

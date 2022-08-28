@@ -65,9 +65,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -111,6 +111,9 @@ ul.task-list{list-style: none;}
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./syllabus.html">Syllabus</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./schedule.html">Schedule</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-lectures" role="button" data-bs-toggle="dropdown" aria-expanded="false">Lectures</a>
@@ -184,91 +187,82 @@ ul.task-list{list-style: none;}
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1662091200000" data-listing-file-modified-sort="1661597163428" data-listing-reading-time-sort="0.075">
-<div class="thumbnail">
-<p><a href="./lectures/lecture3/index.html"> <img src="./lectures/lecture3/images/energy-systems.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./lectures/lecture3/index.html">
-<h3 class="no-anchor listing-title">
-Lecture 3 Energy Systems Overview
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./lectures/lecture3/index.html">
-<div class="listing-date">
-Sep 2, 2022
-</div>
-<div class="listing-author">
-Gang He
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1661572800000" data-listing-file-modified-sort="1661597052582" data-listing-reading-time-sort="1.465">
-<div class="thumbnail">
-<p><a href="./lectures/lecture2/index.html"> <img src="./lectures/lecture2/images/nyc-daily-carbon-emission.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./lectures/lecture2/index.html">
-<h3 class="no-anchor listing-title">
-Lecture 2 Make sense of energy numbers
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./lectures/lecture2/index.html">
-<div class="listing-date">
-Aug 27, 2022
-</div>
-<div class="listing-author">
-Gang He
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1661140800000" data-listing-file-modified-sort="1661596336852" data-listing-reading-time-sort="2.82">
-<div class="thumbnail">
-<p><a href="./lectures/lecture1/index.html"> <img src="./lectures/lecture1/images/biden-sign.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./lectures/lecture1/index.html">
-<h3 class="no-anchor listing-title">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1661140800000" data-listing-file-modified-sort="1661632008369" data-listing-reading-time-sort="2.82">
+<a href="./lectures/lecture1/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./lectures/lecture1/images/economy-environment-energy.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Lecture 1 Introduction
-</h3>
-<div class="listing-subtitle">
+</h5>
+<div class="card-text listing-description">
 
 </div>
-<div class="listing-description">
-
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Gang He
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./lectures/lecture1/index.html">
 <div class="listing-date">
 Aug 22, 2022
 </div>
-<div class="listing-author">
-Gang He
+</div>
+</div>
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1661572800000" data-listing-file-modified-sort="1661632077775" data-listing-reading-time-sort="1.465">
+<a href="./lectures/lecture2/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./lectures/lecture2/images/boe-equations.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lecture 2 Make sense of energy numbers
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Gang He
+</div>
+<div class="listing-date">
+Aug 27, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1662091200000" data-listing-file-modified-sort="1661632340152" data-listing-reading-time-sort="0.075">
+<a href="./lectures/lecture3/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./lectures/lecture3/images/energy-systems.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lecture 3 Energy Systems Overview
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Gang He
+</div>
+<div class="listing-date">
+Sep 2, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">

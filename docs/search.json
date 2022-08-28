@@ -21,11 +21,11 @@
     "text": "Learning Objectives\n\nDevelop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;\nGain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses;\nGet introduced to major analytical concepts and modeling tools used in energy systems and policy analysis;\nDevelop basic analytical skills to translate energy systems analysis into effective policy discussion and debate."
   },
   {
-    "objectID": "index.html#acknowledgement",
-    "href": "index.html#acknowledgement",
+    "objectID": "index.html#acknowledgment",
+    "href": "index.html#acknowledgment",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Acknowledgement",
-    "text": "Acknowledgement\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nJohn Helveston, EMSE 4572: Exploratory Data Analysis @ GWU\nTom Brown, Energy Systems\nMichael Davidson and Jesse Jenkins, Power systems optimization\nDaniel Kammen, Energy and Society\nDuncan Callaway, Electric Power Systems\nSeverin Borenstein, Energy and Environmental Markets\nJon Koomey, Turning Numbers into Knowledge: Mastering the Art of Problem Solving\nScott Moura, Energy System and Control\nBaosen Zhang, Introduction to Energy Systems"
+    "section": "Acknowledgment",
+    "text": "Acknowledgment\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nJohn Helveston, EMSE 4572: Exploratory Data Analysis @ GWU\nTom Brown, Energy Systems\nMichael Davidson and Jesse Jenkins, Power systems optimization\nDaniel Kammen, Energy and Society\nDuncan Callaway, Electric Power Systems\nSeverin Borenstein, Energy and Environmental Markets\nJon Koomey, Turning Numbers into Knowledge: Mastering the Art of Problem Solving\nScott Moura, Energy System and Control\nBaosen Zhang, Introduction to Energy Systems"
   },
   {
     "objectID": "index.html#reuse-of-material",
@@ -39,7 +39,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Sep 2, 2022\n\n\nGang He\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 27, 2022\n\n\nGang He\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAug 22, 2022\n\n\nGang He\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -273,6 +273,20 @@
     "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture\nAI doesnot necessaries means better insights"
   },
   {
+    "objectID": "lectures/lecture3/index.html#energy-systems",
+    "href": "lectures/lecture3/index.html#energy-systems",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-and-their-conversions",
+    "href": "lectures/lecture3/index.html#energy-and-their-conversions",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy and their conversions",
+    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+  },
+  {
     "objectID": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
     "href": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
     "title": "Lecture 1 Introduction",
@@ -448,52 +462,10 @@
     "text": "Programming language\nR, a free software environment for statistical computing and graphics\nPython, work quickly and integrate systems more effectively\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia, a high-level, high-performance, dynamic programming language"
   },
   {
-    "objectID": "lectures/lecture3/index.html#section",
-    "href": "lectures/lecture3/index.html#section",
-    "title": "Lecture 3 Energy Systems Overview",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Course Schedule",
     "section": "",
-    "text": "Photo by Gang He"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
-    "href": "lectures/lecture3/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "NYC’s daily carbon dioxide emissions as one-tonne spheres",
-    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
-  },
-  {
-    "objectID": "index.html#acknowledgment",
-    "href": "index.html#acknowledgment",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Acknowledgment",
-    "text": "Acknowledgment\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nJohn Helveston, EMSE 4572: Exploratory Data Analysis @ GWU\nTom Brown, Energy Systems\nMichael Davidson and Jesse Jenkins, Power systems optimization\nDaniel Kammen, Energy and Society\nDuncan Callaway, Electric Power Systems\nSeverin Borenstein, Energy and Environmental Markets\nJon Koomey, Turning Numbers into Knowledge: Mastering the Art of Problem Solving\nScott Moura, Energy System and Control\nBaosen Zhang, Introduction to Energy Systems"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-and-conversions",
-    "href": "lectures/lecture3/index.html#energy-and-conversions",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy and conversions",
-    "text": "Energy and conversions\n\n\nSource: Carbon Visuals"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-and-their-conversions",
-    "href": "lectures/lecture3/index.html#energy-and-their-conversions",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy and their conversions",
-    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-and-their-conversions-1",
-    "href": "lectures/lecture3/index.html#energy-and-their-conversions-1",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy and their conversions",
-    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-systems",
-    "href": "lectures/lecture3/index.html#energy-systems",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy systems",
-    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\n\n\n\n3\n9/5\nEnergy systems overview\n1\n\n\n4\n9/12\nThe economics of energy systems\n\n\n\n5\n9/19\nEnergy sources\n2\n\n\n6\n9/26\nEnergy demand, energy and economy\n\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for sustainable energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
   }
 ]

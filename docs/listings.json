@@ -2,9 +2,9 @@
   {
     "listing": "/lectures.html",
     "items": [
-      "/lectures/lecture3/index.html",
+      "/lectures/lecture1/index.html",
       "/lectures/lecture2/index.html",
-      "/lectures/lecture1/index.html"
+      "/lectures/lecture3/index.html"
     ]
   }
 ]
