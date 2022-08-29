@@ -13,7 +13,7 @@ format:
     r-fit-text: true
     center: true
     css: custom.css
-    #footer: Back [home](https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall)
+    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
 ---
 
 ## Energy systems
@@ -60,17 +60,73 @@ Source: [LLNL](https://flowcharts.llnl.gov/)
 
 ## Energy by supply
 
+![](images/global-energy-supply-by-source.png){fig-align="center"}
 
-## Energy by demand
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
 
+## Energy end-use by sector
+
+![](images/energy-enduse-by-sector.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
 
 ## Matching supply and demand
 
+It operates like magic   
+But relys on massive infrastructure, market, and regulations   
+
+- Deliver service at the right time, location, and price  
+- Meeting safety, reliability, and environmental standard  
+- Increasingly disrupted by political economy and climate change  
+
+Solution is usually location and temporal based  
 
 
+## Electrify eveything, where are we now
+
+![](images/share-of-electricity-in-total-final-consumption-in-selected-countries-and-regions-2000-2020.png){fig-align="center"}
+
+::: footer
+Source: [IEA](https://www.iea.org/data-and-statistics/charts/share-of-electricity-in-total-final-consumption-in-selected-countries-and-regions-2000-2020) 
+:::
+
+
+## Electrify eveything, net zero
+
+![](images/iea-net-zero-electricity-share.png){fig-align="center"}  
+![](images/iea-net-zero-legend.png){fig-align="center"}  
+
+::: footer
+Source: [IEA](https://www.iea.org/reports/net-zero-by-2050), @iea_net_2021 
+:::
 
 ## Energy efficiency
 
+![](images/energy-efficiency-lighting.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+## Electric efficiency vs fossil efficiency
+
+![](images/electric-efficiency-vs-fossil-efficiency.png){fig-align="center"}
+
+::: footer
+Source: @bmwi_electricity_2015  
+:::
+
+## Milestones for long-term energy transition
+
+![](images/iea-milestones-energy-transition.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021  
+:::
 
 ## Modeler’s jargon
  
@@ -81,9 +137,16 @@ Source: [LLNL](https://flowcharts.llnl.gov/)
 - IAM  
 - Risks/uncertainties  
 
+## How modelers think about a energy system
+ 
+- System components, structure, and relations  
+- Networks (transmission, transport)  
+- Objectives and constraints (if do optimization)  
+- Validation and calibration  
+- Intepretion and communication  
 
 ---
 ### References
 
 ::: {#refs}
-:::
+:::s

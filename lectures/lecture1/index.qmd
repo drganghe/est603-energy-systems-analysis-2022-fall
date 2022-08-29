@@ -12,7 +12,7 @@ format:
     r-fit-text: true
     center: true
     css: custom.css
-    #footer: Back [home](https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall)
+    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
 ---
 
 ## US passed historical climate bill

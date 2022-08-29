@@ -494,7 +494,7 @@
     "href": "lectures/lecture3/index.html#energy-by-supply",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Energy by supply",
-    "text": "Energy by supply"
+    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture3/index.html#energy-by-demand",
@@ -508,14 +508,14 @@
     "href": "lectures/lecture3/index.html#matching-supply-and-demand",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Matching supply and demand",
-    "text": "Matching supply and demand"
+    "text": "Matching supply and demand\nIt operates like magic\nBut relys on massive infrastructure, market, and regulations\n\nDeliver service at the right time, location, and price\n\nMeeting safety, reliability, and environmental standard\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
   },
   {
     "objectID": "lectures/lecture3/index.html#energy-efficiency",
     "href": "lectures/lecture3/index.html#energy-efficiency",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Energy efficiency",
-    "text": "Energy efficiency"
+    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture3/index.html#modelers-jargon",
@@ -523,5 +523,89 @@
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Modeler’s jargon",
     "text": "Modeler’s jargon\n\nTop-down vs. bottom-up\n\nSupply-side vs. demand-side\n\nIntensity\n\nElasticity\n\nIAM\n\nRisks/uncertainties"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-consumption-by-sector",
+    "href": "lectures/lecture3/index.html#energy-consumption-by-sector",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy consumption by sector",
+    "text": "Energy consumption by sector"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
+    "href": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electrify eveything, where are we now",
+    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now-1",
+    "href": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now-1",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electrify eveything, where are we now",
+    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electrify-eveything-net-zero",
+    "href": "lectures/lecture3/index.html#electrify-eveything-net-zero",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electrify eveything, net zero",
+    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-efficiency-1",
+    "href": "lectures/lecture3/index.html#energy-efficiency-1",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electric-efficiency",
+    "href": "lectures/lecture3/index.html#electric-efficiency",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electric efficiency",
+    "text": "Electric efficiency\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electric-efficiency-vs-fossil-efficiency",
+    "href": "lectures/lecture3/index.html#electric-efficiency-vs-fossil-efficiency",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electric efficiency vs fossil efficiency",
+    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-end-by-sector",
+    "href": "lectures/lecture3/index.html#energy-end-by-sector",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy end by sector",
+    "text": "Energy end by sector"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-end-use-by-sector",
+    "href": "lectures/lecture3/index.html#energy-end-use-by-sector",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy end-use by sector",
+    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#climate-stripes",
+    "href": "lectures/lecture2/index.html#climate-stripes",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Climate stripes",
+    "text": "Climate stripes\n\n\nSource: Ed Hawkins"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#milestones-for-long-term-energy-transition",
+    "href": "lectures/lecture3/index.html#milestones-for-long-term-energy-transition",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Milestones for long-term energy transition",
+    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#how-modelers-think-about-a-energy-system",
+    "href": "lectures/lecture3/index.html#how-modelers-think-about-a-energy-system",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "How modelers think about a energy system",
+    "text": "How modelers think about a energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
   }
 ]

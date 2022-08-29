@@ -13,7 +13,7 @@ format:
     r-fit-text: true
     center: true
     css: custom.css
-    #footer: Back [home](https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall)
+    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
 ---
 
 ## {background-color="black" background-image="./images/one-ton-co2.jpg"}
@@ -32,7 +32,7 @@ Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
 :::
 
 
-## Climate strips
+## Climate stripes
 
 ![](images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
 
