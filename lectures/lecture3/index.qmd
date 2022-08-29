@@ -25,6 +25,15 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 :::
 
 
+## Resource vs reserve
+
+![](images/resource-vs-reserve.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+
 ## Energy and their conversions
 
 ![](images/energy-and-conversions.png){fig-align="center"}
@@ -33,6 +42,44 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 Source: @smil2017energy 
 :::
 
+## Global energy flow
+
+![](images/IEA-global-energy-flow.png){fig-align="center"}
+
+::: footer
+Source: [IEA](https://www.iea.org/sankey/) 
+:::
+
+## U.S. energy flow
+
+![](images/Energy-2021-United-States.png){fig-align="center"}
+
+::: footer
+Source: [LLNL](https://flowcharts.llnl.gov/) 
+:::
+
+## Energy by supply
+
+
+## Energy by demand
+
+
+## Matching supply and demand
+
+
+
+
+## Energy efficiency
+
+
+## Modeler’s jargon
+ 
+- Top-down vs. bottom-up  
+- Supply-side vs. demand-side  
+- Intensity  
+- Elasticity  
+- IAM  
+- Risks/uncertainties  
 
 
 ---

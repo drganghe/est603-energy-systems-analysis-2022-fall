@@ -54,7 +54,7 @@ Source: [NY Times](https://www.nytimes.com/interactive/2022/08/02/climate/manchi
 -   Brightspace
 
 -   Course website:
-    <https://drganghe.github.io/est603-energy-stytems-analysis-2022-fall>
+    <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 
 -   Homework (4): 40%
 
