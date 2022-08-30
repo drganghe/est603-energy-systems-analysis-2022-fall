@@ -25,7 +25,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 :::
 
 
-## Resource vs reserve
+## Resources vs reserves
 
 ![](images/resource-vs-reserve.png){fig-align="center"}
 
@@ -76,11 +76,11 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Matching supply and demand
 
-It operates like magic   
-But relys on massive infrastructure, market, and regulations   
+It operates like "magic"   
+But relys on massive infrastructure, markets, and regulations   
 
 - Deliver service at the right time, location, and price  
-- Meeting safety, reliability, and environmental standard  
+- Meet safety, reliability, and environmental standard  
 - Increasingly disrupted by political economy and climate change  
 
 Solution is usually location and temporal based  
@@ -137,7 +137,7 @@ Source: @iea_net_2021
 - IAM  
 - Risks/uncertainties  
 
-## How modelers think about a energy system
+## How modelers think about an energy system
  
 - System components, structure, and relations  
 - Networks (transmission, transport)  
@@ -149,4 +149,4 @@ Source: @iea_net_2021
 ### References
 
 ::: {#refs}
-:::s
+:::

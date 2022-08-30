@@ -118,7 +118,7 @@ Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-po
 
 We need to know what we are talking about!
 
-## Back-of-envelope estimation
+## Back-of-the-envelope estimation
 
 ![](images/boe-equations.jpeg){fig-align="center"}
 

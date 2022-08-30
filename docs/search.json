@@ -508,7 +508,7 @@
     "href": "lectures/lecture3/index.html#matching-supply-and-demand",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Matching supply and demand",
-    "text": "Matching supply and demand\nIt operates like magic\nBut relys on massive infrastructure, market, and regulations\n\nDeliver service at the right time, location, and price\n\nMeeting safety, reliability, and environmental standard\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
+    "text": "Matching supply and demand\nIt operates like “magic”\nBut relys on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standard\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
   },
   {
     "objectID": "lectures/lecture3/index.html#energy-efficiency",
@@ -607,5 +607,26 @@
     "title": "Lecture 3 Energy Systems Overview",
     "section": "How modelers think about a energy system",
     "text": "How modelers think about a energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
+  },
+  {
+    "objectID": "lectures/lecture2/index.html#back-of-the-envelope-estimation",
+    "href": "lectures/lecture2/index.html#back-of-the-envelope-estimation",
+    "title": "Lecture 2 Make sense of energy numbers",
+    "section": "Back-of-the-envelope estimation",
+    "text": "Back-of-the-envelope estimation\n\n\nSource: Gang He"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#resources-vs-reserves",
+    "href": "lectures/lecture3/index.html#resources-vs-reserves",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Resources vs reserves",
+    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
+    "href": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "How modelers think about an energy system",
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
   }
 ]

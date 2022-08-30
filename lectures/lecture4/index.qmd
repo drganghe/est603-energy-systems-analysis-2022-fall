@@ -1,0 +1,58 @@
+---
+title: "Lecture 4 Economics for Energy Systems Analysis"
+author: "Gang He"
+date: September 9, 2022
+image: "images/energy-systems.png"
+#suppress-bibliography: true
+draft: true
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: custom.css
+    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+---
+
+## Project economics
+
+- What's the LCOE of a new technology?  
+- When to retire a nuclear/coal power plant?    
+- Should I install rooftop solar, buy an EV?  
+- How long should government subsidies heatpump?  
+- When can offshore wind achieve grid parity?  
+
+## Value of time
+
+![](images/energy-systems.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+## Simple payback
+
+
+## CRF
+
+
+## Discounting
+
+
+## Discounting schedule
+
+
+## LCOE
+
+
+## Learning curve
+
+
+---
+### References
+
+::: {#refs}
+:::
