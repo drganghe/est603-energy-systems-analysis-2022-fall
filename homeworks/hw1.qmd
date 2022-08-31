@@ -1,9 +1,9 @@
 ---
-title: Homework1
+title: Homework 1 Air quality in China and India
 format: 
   html: 
     theme: cosmo
-    css: styles.css
+ #   css: styles.css
     toc: true
     link-external-icon: false
     link-external-newwindow: true
@@ -22,4 +22,31 @@ format:
     colorlinks: true
 ---
 
-Coming soon.
+## Backgound
+
+Air quality in the developing world, especially in big cities in China and India, has been a hot topic in the energy and environmental news. China’s Ministry of Environment and Ecology (MEE) announced that the air quality in major cities has been improving over time especially in recent years, though citizen’s perceptions sometimes are not the same. 
+
+## Questions
+
+Please use the hourly PM2.5 data in Beijing to verify if MEE's claim is valid or not? Comparing with the air quality trends in India and try to associate the trends with energy consumptions, socicial economic indicators, and environmental regulations. 
+
+You can download all historical data of [Beijing](https://www.airnow.gov/international/us-embassies-and-consulates/#China$Beijing) and [New Deli](https://www.airnow.gov/international/us-embassies-and-consulates/#India$New_Delhi). 
+
+Please note one monitoring station is not sufficient to show the complexity within the city or represent the whole country, we will use those data for homework data processing practice only.
+
+You can show your results in tables and/or charts, please briefly explain your work and results. You can do this HW in Excel, SQL, R, Python, or any programming language you use.  [Total 10pts]
+
+1.	Demonstrate ability to search and collect the needed data. [2pts]  
+2.	Analyze the annual average trends for both cities. [2pts]  
+3.	Able to show some in-depth pattern of the data (seasonal, monthly, weekday vs. weekend) for both cities. [2pts]  
+4.	Demonstrate basic skills to visualize the data. [2pts]  
+5.	Discuss reasons of the trend, and pattern. [2pts]  
+
+## Further readings
+
+@zhang_drivers_2019, @guan_socioeconomic_2014, and @apte_toward_2019.  
+
+### References
+
+::: {#refs}
+:::

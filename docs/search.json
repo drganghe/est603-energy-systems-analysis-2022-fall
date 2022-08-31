@@ -44,35 +44,49 @@
   {
     "objectID": "homeworks/hw1.html",
     "href": "homeworks/hw1.html",
-    "title": "Homework1",
+    "title": "Homework 1 Air quality in China and India",
     "section": "",
-    "text": "Coming soon."
+    "text": "Air quality in the developing world, especially in big cities in China and India, has been a hot topic in the energy and environmental news. China’s Ministry of Environment and Ecology (MEE) announced that the air quality in major cities has been improving over time especially in recent years, though citizen’s perceptions sometimes are not the same."
+  },
+  {
+    "objectID": "homeworks/hw1.html#questions",
+    "href": "homeworks/hw1.html#questions",
+    "title": "Homework 1 Air quality in China and India",
+    "section": "Questions",
+    "text": "Questions\nPlease use the hourly PM2.5 data in Beijing to verify if MEE’s claim is valid or not? Comparing with the air quality trends in India and try to associate the trends with energy consumptions, socicial economic indicators, and environmental regulations.\nYou can download all historical data of Beijing and New Deli.\nPlease note one monitoring station is not sufficient to show the complexity within the city or represent the whole country, we will use those data for homework data processing practice only.\nYou can show your results in tables and/or charts, please briefly explain your work and results. You can do this HW in Excel, SQL, R, Python, or any programming language you use. [Total 10pts]\n\nDemonstrate ability to search and collect the needed data. [2pts]\n\nAnalyze the annual average trends for both cities. [2pts]\n\nAble to show some in-depth pattern of the data (seasonal, monthly, weekday vs. weekend) for both cities. [2pts]\n\nDemonstrate basic skills to visualize the data. [2pts]\n\nDiscuss reasons of the trend, and pattern. [2pts]"
+  },
+  {
+    "objectID": "homeworks/hw1.html#further-readings",
+    "href": "homeworks/hw1.html#further-readings",
+    "title": "Homework 1 Air quality in China and India",
+    "section": "Further readings",
+    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019).\n\nReferences\n\n\nApte, Joshua S., and Pallavi Pant. 2019. “Toward Cleaner Air for a Billion Indians.” Proceedings of the National Academy of Sciences 116 (22): 10614–16. https://doi.org/10.1073/pnas.1905458116.\n\n\nGuan, Dabo, Xin Su, Qiang Zhang, Glen P. Peters, Zhu Liu, Yu Lei, and Kebin He. 2014. “The Socioeconomic Drivers of China’s Primary PM2.5 Emissions.” Environmental Research Letters 9 (2): 024010. https://doi.org/10.1088/1748-9326/9/2/024010.\n\n\nZhang, Qiang, Yixuan Zheng, Dan Tong, Min Shao, Shuxiao Wang, Yuanhang Zhang, Xiangde Xu, et al. 2019. “Drivers of Improved PM2.5 Air Quality in China from 2013 to 2017.” Proceedings of the National Academy of Sciences, November. https://doi.org/10.1073/pnas.1907956116."
   },
   {
     "objectID": "homeworks/hw0.html",
     "href": "homeworks/hw0.html",
-    "title": "Homework0",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
     "section": "",
     "text": "This is a “get a taste of the field” homework, no need to submit for grading."
   },
   {
     "objectID": "homeworks/hw0.html#background",
     "href": "homeworks/hw0.html#background",
-    "title": "Homework0",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
     "section": "Background",
     "text": "Background\nOn August 16, President Biden Signed H.R. 5376, The Inflation Reduction Act of 2022 into law. The law targets to reduce U.S. carbon emission by 40% compared to the 2005 level, but can it deliver? Energy systems analysis could help to answer such questions. Three notable groups have released energy and emissions models that have been widely cited by lawmakers, advocates and the press:\n\nThe REPEAT Project, an academic initiative that aims for data-driven climate policy at Princeton University, estimated the bill would cut emissions 42 percent of 2005 levels by 2030, or 27 percent without it.\nThe Rhodium Group, an economic and environment consulting firm, found that emissions would fall 31 to 44 percent from 2005 levels by 2030 under the “Inflation Reduction Act”, and decline 24 to 35 percent without the bill.\nEnergy Innovation, a climate and energy think tank, showed that emissions would fall 37 to 41 percent of 2005 levels by the end of the decade with the bill, compared to 24 percent without it."
   },
   {
     "objectID": "homeworks/hw0.html#questions",
     "href": "homeworks/hw0.html#questions",
-    "title": "Homework0",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
     "section": "Questions",
     "text": "Questions\nPlease compare models and results by those three groups and assess the pros and cons of those models, and discuss how to interpretate those estimates and findings.\n\nWhat models do the groups use?\nWhat are the key assumptions behind those estimates?\nWhat are the uncertainties in the modeling results?"
   },
   {
     "objectID": "homeworks/hw0.html#further-readings",
     "href": "homeworks/hw0.html#further-readings",
-    "title": "Homework0",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
     "section": "Further readings",
     "text": "Further readings\nhttps://www.eenews.net/articles/modeling-ira-carbon-cuts-caveats-uncertainty-and-luggage/\nhttps://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential\nhttps://www.washingtonpost.com/climate-environment/2022/08/18/ira-inflation-reduction-act-climate-change/"
   },
@@ -154,11 +168,11 @@
     "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
   },
   {
-    "objectID": "lectures/lecture2/index.html#climate-strips",
-    "href": "lectures/lecture2/index.html#climate-strips",
+    "objectID": "lectures/lecture2/index.html#climate-stripes",
+    "href": "lectures/lecture2/index.html#climate-stripes",
     "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Climate strips",
-    "text": "Climate strips\n\n\nSource: Ed Hawkins"
+    "section": "Climate stripes",
+    "text": "Climate stripes\n\n\nSource: Ed Hawkins"
   },
   {
     "objectID": "lectures/lecture2/index.html#carbon-budget",
@@ -217,11 +231,11 @@
     "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\n\nWe need to know what we are talking about!"
   },
   {
-    "objectID": "lectures/lecture2/index.html#back-of-envelope-estimation",
-    "href": "lectures/lecture2/index.html#back-of-envelope-estimation",
+    "objectID": "lectures/lecture2/index.html#back-of-the-envelope-estimation",
+    "href": "lectures/lecture2/index.html#back-of-the-envelope-estimation",
     "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Back-of-envelope estimation",
-    "text": "Back-of-envelope estimation\n\n\nSource: Gang He"
+    "section": "Back-of-the-envelope estimation",
+    "text": "Back-of-the-envelope estimation\n\n\nSource: Gang He"
   },
   {
     "objectID": "lectures/lecture2/index.html#art-rosenfeld",
@@ -280,11 +294,102 @@
     "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
   },
   {
+    "objectID": "lectures/lecture3/index.html#resources-vs-reserves",
+    "href": "lectures/lecture3/index.html#resources-vs-reserves",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Resources vs reserves",
+    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
     "objectID": "lectures/lecture3/index.html#energy-and-their-conversions",
     "href": "lectures/lecture3/index.html#energy-and-their-conversions",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Energy and their conversions",
     "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#global-energy-flow",
+    "href": "lectures/lecture3/index.html#global-energy-flow",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Global energy flow",
+    "text": "Global energy flow\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#u.s.-energy-flow",
+    "href": "lectures/lecture3/index.html#u.s.-energy-flow",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "U.S. energy flow",
+    "text": "U.S. energy flow\n\n\nSource: LLNL"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-by-supply",
+    "href": "lectures/lecture3/index.html#energy-by-supply",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy by supply",
+    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-end-use-by-sector",
+    "href": "lectures/lecture3/index.html#energy-end-use-by-sector",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy end-use by sector",
+    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#matching-supply-and-demand",
+    "href": "lectures/lecture3/index.html#matching-supply-and-demand",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Matching supply and demand",
+    "text": "Matching supply and demand\nIt operates like “magic”\nBut relys on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standard\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
+    "href": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electrify eveything, where are we now",
+    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electrify-eveything-net-zero",
+    "href": "lectures/lecture3/index.html#electrify-eveything-net-zero",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electrify eveything, net zero",
+    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#energy-efficiency",
+    "href": "lectures/lecture3/index.html#energy-efficiency",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#electric-efficiency-vs-fossil-efficiency",
+    "href": "lectures/lecture3/index.html#electric-efficiency-vs-fossil-efficiency",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Electric efficiency vs fossil efficiency",
+    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#milestones-for-long-term-energy-transition",
+    "href": "lectures/lecture3/index.html#milestones-for-long-term-energy-transition",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Milestones for long-term energy transition",
+    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#modelers-jargon",
+    "href": "lectures/lecture3/index.html#modelers-jargon",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Modeler’s jargon",
+    "text": "Modeler’s jargon\n\nTop-down vs. bottom-up\n\nSupply-side vs. demand-side\n\nIntensity\n\nElasticity\n\nIAM\n\nRisks/uncertainties"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
+    "href": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "How modelers think about an energy system",
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
   },
   {
     "objectID": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
@@ -467,166 +572,5 @@
     "title": "Course Schedule",
     "section": "",
     "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\n\n\n\n3\n9/5\nEnergy systems overview\n1\n\n\n4\n9/12\nEconomics for energy systems analysis\n\n\n\n5\n9/19\nEnergy sources\n2\n\n\n6\n9/26\nEnergy demand\n\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#resource-vs-reserve",
-    "href": "lectures/lecture3/index.html#resource-vs-reserve",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Resource vs reserve",
-    "text": "Resource vs reserve\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#global-energy-flow",
-    "href": "lectures/lecture3/index.html#global-energy-flow",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Global energy flow",
-    "text": "Global energy flow\n\n\nSource: IEA"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#u.s.-energy-flow",
-    "href": "lectures/lecture3/index.html#u.s.-energy-flow",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "U.S. energy flow",
-    "text": "U.S. energy flow\n\n\nSource: LLNL"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-by-supply",
-    "href": "lectures/lecture3/index.html#energy-by-supply",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy by supply",
-    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-by-demand",
-    "href": "lectures/lecture3/index.html#energy-by-demand",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy by demand",
-    "text": "Energy by demand"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#matching-supply-and-demand",
-    "href": "lectures/lecture3/index.html#matching-supply-and-demand",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Matching supply and demand",
-    "text": "Matching supply and demand\nIt operates like “magic”\nBut relys on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standard\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-efficiency",
-    "href": "lectures/lecture3/index.html#energy-efficiency",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy efficiency",
-    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#modelers-jargon",
-    "href": "lectures/lecture3/index.html#modelers-jargon",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Modeler’s jargon",
-    "text": "Modeler’s jargon\n\nTop-down vs. bottom-up\n\nSupply-side vs. demand-side\n\nIntensity\n\nElasticity\n\nIAM\n\nRisks/uncertainties"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-consumption-by-sector",
-    "href": "lectures/lecture3/index.html#energy-consumption-by-sector",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy consumption by sector",
-    "text": "Energy consumption by sector"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
-    "href": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Electrify eveything, where are we now",
-    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now-1",
-    "href": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now-1",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Electrify eveything, where are we now",
-    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#electrify-eveything-net-zero",
-    "href": "lectures/lecture3/index.html#electrify-eveything-net-zero",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Electrify eveything, net zero",
-    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-efficiency-1",
-    "href": "lectures/lecture3/index.html#energy-efficiency-1",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy efficiency",
-    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#electric-efficiency",
-    "href": "lectures/lecture3/index.html#electric-efficiency",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Electric efficiency",
-    "text": "Electric efficiency\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#electric-efficiency-vs-fossil-efficiency",
-    "href": "lectures/lecture3/index.html#electric-efficiency-vs-fossil-efficiency",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Electric efficiency vs fossil efficiency",
-    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-end-by-sector",
-    "href": "lectures/lecture3/index.html#energy-end-by-sector",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy end by sector",
-    "text": "Energy end by sector"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#energy-end-use-by-sector",
-    "href": "lectures/lecture3/index.html#energy-end-use-by-sector",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Energy end-use by sector",
-    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#climate-stripes",
-    "href": "lectures/lecture2/index.html#climate-stripes",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Climate stripes",
-    "text": "Climate stripes\n\n\nSource: Ed Hawkins"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#milestones-for-long-term-energy-transition",
-    "href": "lectures/lecture3/index.html#milestones-for-long-term-energy-transition",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Milestones for long-term energy transition",
-    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#how-modelers-think-about-a-energy-system",
-    "href": "lectures/lecture3/index.html#how-modelers-think-about-a-energy-system",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "How modelers think about a energy system",
-    "text": "How modelers think about a energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
-  },
-  {
-    "objectID": "lectures/lecture2/index.html#back-of-the-envelope-estimation",
-    "href": "lectures/lecture2/index.html#back-of-the-envelope-estimation",
-    "title": "Lecture 2 Make sense of energy numbers",
-    "section": "Back-of-the-envelope estimation",
-    "text": "Back-of-the-envelope estimation\n\n\nSource: Gang He"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#resources-vs-reserves",
-    "href": "lectures/lecture3/index.html#resources-vs-reserves",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "Resources vs reserves",
-    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
-    "href": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
-    "title": "Lecture 3 Energy Systems Overview",
-    "section": "How modelers think about an energy system",
-    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
   }
 ]

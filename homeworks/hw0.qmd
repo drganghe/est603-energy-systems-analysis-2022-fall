@@ -1,9 +1,9 @@
 ---
-title: Homework0
+title: Homework 0 IRA Emission Reduction Assessment
 format: 
   html: 
     theme: cosmo
-    css: styles.css
+#    css: styles.css
     toc: true
     link-external-icon: false
     link-external-newwindow: true
