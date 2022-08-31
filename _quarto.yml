@@ -19,11 +19,13 @@ website:
             href: lectures/lecture1/index.qmd
           - text: Lecture 2
             href: lectures/lecture2/index.qmd
+          - text: Lecture 3
+            href: lectures/lecture3/index.qmd            
       - text: Homework
         menu:
-          - text: Homework0
+          - text: HW 0
             href: homeworks/hw0.qmd
-          - text: Homework1
+          - text: HW 1
             href: homeworks/hw1.qmd
       - text: Resources
         href: resources.qmd
@@ -43,9 +45,7 @@ website:
   repo-actions: [edit, issue, source]
   twitter-card: true
   site-url: "https://drganghe.github.io/est603-energy-systems-analysis-2022-fall"
-  theme:
-    light: flatly
-    dark: darkly
+
 
 bibliography: readings.bib
 

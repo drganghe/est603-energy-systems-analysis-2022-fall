@@ -60,7 +60,7 @@
     "href": "homeworks/hw1.html#further-readings",
     "title": "Homework 1 Air quality in China and India",
     "section": "Further readings",
-    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019).\n\nReferences\n\n\nApte, Joshua S., and Pallavi Pant. 2019. “Toward Cleaner Air for a Billion Indians.” Proceedings of the National Academy of Sciences 116 (22): 10614–16. https://doi.org/10.1073/pnas.1905458116.\n\n\nGuan, Dabo, Xin Su, Qiang Zhang, Glen P. Peters, Zhu Liu, Yu Lei, and Kebin He. 2014. “The Socioeconomic Drivers of China’s Primary PM2.5 Emissions.” Environmental Research Letters 9 (2): 024010. https://doi.org/10.1088/1748-9326/9/2/024010.\n\n\nZhang, Qiang, Yixuan Zheng, Dan Tong, Min Shao, Shuxiao Wang, Yuanhang Zhang, Xiangde Xu, et al. 2019. “Drivers of Improved PM2.5 Air Quality in China from 2013 to 2017.” Proceedings of the National Academy of Sciences, November. https://doi.org/10.1073/pnas.1907956116."
+    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019)."
   },
   {
     "objectID": "homeworks/hw0.html",
@@ -378,6 +378,34 @@
     "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
   },
   {
+    "objectID": "lectures/lecture3/index.html#nys-climate-leadership-and-community-protection-act",
+    "href": "lectures/lecture3/index.html#nys-climate-leadership-and-community-protection-act",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "NYS Climate Leadership and Community Protection Act",
+    "text": "NYS Climate Leadership and Community Protection Act\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#u.s.-shale-gas-revolution",
+    "href": "lectures/lecture3/index.html#u.s.-shale-gas-revolution",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "U.S. shale gas revolution",
+    "text": "U.S. shale gas revolution\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#renewable-revolution-achieving-grid-parity",
+    "href": "lectures/lecture3/index.html#renewable-revolution-achieving-grid-parity",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Renewable revolution: achieving grid parity",
+    "text": "Renewable revolution: achieving grid parity\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture3/index.html#renewable-revolution-solar-and-wind-taking-off",
+    "href": "lectures/lecture3/index.html#renewable-revolution-solar-and-wind-taking-off",
+    "title": "Lecture 3 Energy Systems Overview",
+    "section": "Renewable revolution: solar and wind taking off",
+    "text": "Renewable revolution: solar and wind taking off\n\n\nSource: Our World in Data"
+  },
+  {
     "objectID": "lectures/lecture3/index.html#modelers-jargon",
     "href": "lectures/lecture3/index.html#modelers-jargon",
     "title": "Lecture 3 Energy Systems Overview",
@@ -571,6 +599,6 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\n\n\n\n3\n9/5\nEnergy systems overview\n1\n\n\n4\n9/12\nEconomics for energy systems analysis\n\n\n\n5\n9/19\nEnergy sources\n2\n\n\n6\n9/26\nEnergy demand\n\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due\n\n\n5\n9/19\nEnergy sources\n2\n\n\n6\n9/26\nEnergy demand\n\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
   }
 ]

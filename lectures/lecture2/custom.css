@@ -19,3 +19,11 @@ text-align: center;
 .reveal .slide div.aside {
 font-size: 12px;
 }
+
+/*
+https://github.com/hakimel/reveal.js/issues/866
+.reveal img, .reveal video, .reveal iframe {
+    max-width: 800px;
+    max-height: 600px;
+}
+*/

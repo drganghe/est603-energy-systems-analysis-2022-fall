@@ -7,7 +7,7 @@
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.0.38">
+  <meta name="generator" content="quarto-1.1.167">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2022-09-02">
@@ -20,10 +20,15 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
@@ -368,7 +373,7 @@
 <h2>Energy and their conversions</h2>
 
 <img data-src="images/energy-and-conversions.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="smil2017energy">Smil (<a href="#/ref-smil2017energy" role="doc-biblioref" onclick="return false;">2017</a>)</span></p>
+<p>Source: <span class="citation" data-cites="smil2017energy">Smil (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></p>
 </div>
 </section>
 <section id="global-energy-flow" class="slide level2 center">
@@ -424,7 +429,7 @@ But relys on massive infrastructure, markets, and regulations</p>
 <p><img data-src="images/iea-net-zero-electricity-share.png" data-fig-align="center"><br>
 <img data-src="images/iea-net-zero-legend.png" data-fig-align="center"></p>
 <div class="footer">
-<p>Source: <a href="https://www.iea.org/reports/net-zero-by-2050">IEA</a>, <span class="citation" data-cites="iea_net_2021">IEA (<a href="#/ref-iea_net_2021" role="doc-biblioref" onclick="return false;">2021</a>)</span></p>
+<p>Source: <a href="https://www.iea.org/reports/net-zero-by-2050">IEA</a>, <span class="citation" data-cites="iea_net_2021">IEA (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
 </div>
 </section>
 <section id="energy-efficiency" class="slide level2 center">
@@ -438,14 +443,43 @@ But relys on massive infrastructure, markets, and regulations</p>
 <h2>Electric efficiency vs fossil efficiency</h2>
 
 <img data-src="images/electric-efficiency-vs-fossil-efficiency.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="bmwi_electricity_2015">BMWi (<a href="#/ref-bmwi_electricity_2015" role="doc-biblioref" onclick="return false;">2015</a>)</span></p>
+<p>Source: <span class="citation" data-cites="bmwi_electricity_2015">BMWi (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span></p>
 </div>
 </section>
 <section id="milestones-for-long-term-energy-transition" class="slide level2 center">
 <h2>Milestones for long-term energy transition</h2>
 
 <img data-src="images/iea-milestones-energy-transition.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="iea_net_2021">IEA (<a href="#/ref-iea_net_2021" role="doc-biblioref" onclick="return false;">2021</a>)</span></p>
+<p>Source: <span class="citation" data-cites="iea_net_2021">IEA (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
+</div>
+</section>
+<section id="nys-climate-leadership-and-community-protection-act" class="slide level2 center">
+<h2>NYS Climate Leadership and Community Protection Act</h2>
+
+<img data-src="images/nyclcpa-timeline.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://climate.ny.gov/Our-Climate-Act/Draft-Scoping-Plan">Climate Action Council Draft Scoping Plan</a></p>
+</div>
+<p>35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities</p>
+</section>
+<section id="u.s.-shale-gas-revolution" class="slide level2 center">
+<h2>U.S. shale gas revolution</h2>
+
+<img data-src="images/us-shale-gas-revolution.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php">EIA</a></p>
+</div>
+</section>
+<section id="renewable-revolution-achieving-grid-parity" class="slide level2 center">
+<h2>Renewable revolution: achieving grid parity</h2>
+
+<img data-src="images/learning-curves-for-electricity-prices.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://ourworldindata.org/cheap-renewables-growth">Our World in Data</a></p>
+</div>
+</section>
+<section id="renewable-revolution-solar-and-wind-taking-off" class="slide level2 center">
+<h2>Renewable revolution: solar and wind taking off</h2>
+
+<img data-src="images/modern-renewable-energy-consumption.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://ourworldindata.org/renewable-energy">Our World in Data</a></p>
 </div>
 </section>
 <section id="modelers-jargon" class="slide level2 center">
@@ -478,7 +512,7 @@ But relys on massive infrastructure, markets, and regulations</p>
 <li>Intepretion and communication</li>
 </ul>
 </section>
-<section class="slide level2 smaller scrollable">
+<section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
@@ -776,7 +810,8 @@ Smil, Vaclav. 2017. <em>Energy: A Beginner’s Guide</em>. Simon; Schuster.
       for (var i=0; i<noterefs.length; i++) {
         const ref = noterefs[i];
         tippyHover(ref, function() {
-          let href = ref.getAttribute('href');
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);

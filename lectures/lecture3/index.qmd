@@ -128,6 +128,45 @@ Source: @bmwi_electricity_2015
 Source: @iea_net_2021  
 :::
 
+
+## NYS Climate Leadership and Community Protection Act
+
+![](images/nyclcpa-timeline.png){fig-align="center"}
+
+::: footer
+Source: [Climate Action Council Draft Scoping Plan](https://climate.ny.gov/Our-Climate-Act/Draft-Scoping-Plan)
+:::
+
+35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities
+
+
+## U.S. shale gas revolution
+
+![](images/us-shale-gas-revolution.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php)
+:::
+
+
+## Renewable revolution: achieving grid parity
+
+![](images/learning-curves-for-electricity-prices.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
+:::
+
+
+## Renewable revolution: solar and wind taking off
+
+![](images/modern-renewable-energy-consumption.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
+:::
+
+
 ## Modeler’s jargon
  
 - Top-down vs. bottom-up  
