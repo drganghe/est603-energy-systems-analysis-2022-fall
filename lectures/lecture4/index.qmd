@@ -1,7 +1,7 @@
 ---
 title: "Lecture 4 Economics for Energy Systems Analysis"
 author: "Gang He"
-date: September 9, 2022
+date: September 12, 2022
 image: "images/energy-systems.png"
 #suppress-bibliography: true
 draft: true
@@ -27,11 +27,6 @@ format:
 
 ## Value of time
 
-![](images/energy-systems.png){fig-align="center"}
-
-::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
-:::
 
 ## Simple payback
 
@@ -41,15 +36,37 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Discounting
 
+<center>
+$discount\ rate (r) = interest\ rate (i) + inflation$
+</center>
 
 ## Discounting schedule
 
 
 ## LCOE
+<center>
+$LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{\frac{E_t}{(1+r)^t}}}$
+</center>
+
+<p style="font-size:20pt; color:gray; text-align:center">
+I: Investment costs  
+M: Operation and maintaince costs  
+F: Fuel costs 
+</p>
 
 
 ## Learning curve
 
+
+## Role of global supply chain in PV 
+
+![](images/fig2_prices_historical_national_global.png){fig-align="center"}
+
+::: footer
+Source:  
+:::
+
+## Summary
 
 ---
 ### References

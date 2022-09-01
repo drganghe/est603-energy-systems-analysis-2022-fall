@@ -1,7 +1,7 @@
 ---
 title: "Lecture 3 Energy Systems Overview"
 author: "Gang He"
-date: September 2, 2022
+date: September 6, 2022
 image: "images/energy-systems.png"
 #suppress-bibliography: true
 format:
