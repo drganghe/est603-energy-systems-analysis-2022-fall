@@ -15,6 +15,8 @@ website:
         href: schedule.qmd        
       - text: Lectures
         menu:
+          - text: All Lectures
+            href: lectures.qmd
           - text: Lecture 1
             href: lectures/lecture1/index.qmd
           - text: Lecture 2
