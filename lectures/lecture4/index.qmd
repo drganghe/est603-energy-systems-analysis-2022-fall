@@ -2,9 +2,9 @@
 title: "Lecture 4 Economics for Energy Systems Analysis"
 author: "Gang He"
 date: September 12, 2022
-image: "images/energy-systems.png"
+image: "images/discounting-schedule.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -17,7 +17,7 @@ format:
     #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
 ---
 
-## Project economics
+## Sample questions
 
 - What's the LCOE of a new technology?  
 - When to retire a nuclear/coal power plant?    
@@ -25,13 +25,44 @@ format:
 - How long should government subsidies heatpump?  
 - When can offshore wind achieve grid parity?  
 
-## Value of time
+
+## Project economics
+ 
+- Simple Payback  
+- Discounting  
+- Present/Future Value  
+- Uniform payments (Annuities)  
+- Capital Recovery Factor  
+- Comparing Technologies/Costs (LCOE)  
+- Learning curve  
+- Market and technology drivers 
 
 
-## Simple payback
+## Time is money
+
+- Money value changes in time: a dollar today worth more than a dollar tomorrow.    
+- When money is invested, its amount changes with the return.  
+- When money is transferred into assets, its value change due to depreciation and/or inflation.  
+- Discounted cash flow is a technique that allow us to evaluate values as they change over time.  
+  
+
+## Payback period 
+
+<center>
+$Payback\ Period = Initial\ Investment ÷ Annual\ Cash\ Flow$
+</center>
+
+Simple payback: no discounting  
+Payback: with discounting  
 
 
-## CRF
+## Capital Recovery Factor (CRF)
+
+Ratio of a constant annunity to the present value of receiving that annuity for a given length of time.
+
+<center>
+$CRF = \frac{i(1+i)^n}{(1+i)^n - 1}$
+</center>
 
 
 ## Discounting
@@ -40,8 +71,20 @@ format:
 $discount\ rate (r) = interest\ rate (i) + inflation$
 </center>
 
-## Discounting schedule
+## The power of discounting
+![](images/discounting-schedule.png){fig-align="center"}
 
+::: footer
+Source: Gang He, source [data](discounting.xlsx) 
+:::
+
+## Declining discounting
+
+![](images/declining-discounting.jpeg){fig-align="center"}
+
+::: footer
+Source: @weitzman2001gamma, @arrow_determining_2013  
+:::
 
 ## LCOE
 <center>
@@ -54,9 +97,92 @@ M: Operation and maintaince costs
 F: Fuel costs 
 </p>
 
+## Comparing LCOE
+
+![](images/lazard-lcoe-2021.png){fig-align="center"}
+
+::: footer
+Source: [Lazard LCOE 15.0](https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/)
+:::
+
+## Limitations of LCOE
+
+- Fossil: Do not include other costs (e.g. enviromental, carbon, etc.)   
+- RE: Do not include integraton costs
+- Focus on economics, do not include social cultural acceptance
+
 
 ## Learning curve
 
+:::columns
+
+::: {.column width="50%"}
+
+![](images/cumulative-learning-curve.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+Empircial relations between unit costs and cumulative production.
+<center>
+$Y = aX^b$
+
+$R=2^b$
+</center>
+
+<p style="font-size:20pt; color:gray; text-align:center">
+Y: Unit costs  
+a: Cost of first unit  
+X: Units  
+b: Slopes of the learning rate  
+R: Progress ratio  
+</p>
+
+:::
+:::
+
+::: footer
+Source: @yelle_learning_1979  
+:::
+
+## Learning of differrent technologies
+
+![](images/energy-technology-learning.png){fig-align="center"}
+
+::: footer
+Source: @grubler_dynamics_1999 
+:::
+
+## Drivers of learning
+
+![](images/contribution-to-module-cost-change.jpg){fig-align="center"}
+
+::: footer
+Source: @kavlak_evaluating_2018 
+:::
+
+## Source of learning
+
+Learning by doing
+
+Learning by searching
+
+
+## How renewables are getting cheap
+
+![](images/learning-curves-for-electricity-prices.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
+:::
+
+## Why nuclear costs are going up?
+
+![](images/nuclear-learning.jpg){fig-align="center"}
+
+::: footer
+Source: @GRUBLER20105174 
+:::
 
 ## Role of global supply chain in PV 
 
@@ -67,6 +193,16 @@ Source:
 :::
 
 ## Summary
+
+- Project economics is useful for basic cost-benefit analysis  
+- Getting the price (discounting) right  
+- Understanding technology dynamics will help to model future projections  
+- Aware of the limitations   
+
+
+::: footer
+Read more: @grubler_dynamics_1999 
+:::
 
 ---
 ### References

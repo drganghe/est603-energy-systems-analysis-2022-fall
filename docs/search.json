@@ -39,7 +39,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -285,6 +285,139 @@
     "title": "Lecture 2 Make sense of energy numbers",
     "section": "Big data and AI era",
     "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture\nAI doesnot necessaries means better insights"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#sample-questions",
+    "href": "lectures/lecture4/index.html#sample-questions",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Sample questions",
+    "text": "Sample questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar, buy an EV?\n\nHow long should government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#project-economics",
+    "href": "lectures/lecture4/index.html#project-economics",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Project economics",
+    "text": "Project economics\n\nSimple Payback\n\nDiscounting\n\nPresent/Future Value\n\nUniform payments (Annuities)\n\nCapital Recovery Factor\n\nComparing Technologies/Costs (LCOE)\n\nLearning curve\n\nMarket and technology drivers"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#time-is-money",
+    "href": "lectures/lecture4/index.html#time-is-money",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Time is money",
+    "text": "Time is money\n\nMoney value changes in time: a dollar today worth more than a dollar tomorrow.\n\nWhen money is invested, its amount changes with the return.\n\nWhen money is transferred into assets, its value change due to depreciation and/or inflation.\n\nDiscounted cash flow is a technique that allow us to evaluate values as they change over time."
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#payback-period",
+    "href": "lectures/lecture4/index.html#payback-period",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Payback period",
+    "text": "Payback period\n\n\\(Payback\\ Period = Initial\\ Investment ÷ Annual\\ Cash\\ Flow\\)\n\nSimple payback: no discounting\nPayback: with discounting"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#capital-recovery-factor-crf",
+    "href": "lectures/lecture4/index.html#capital-recovery-factor-crf",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Capital Recovery Factor (CRF)",
+    "text": "Capital Recovery Factor (CRF)\nRatio of a constant annunity to the present value of receiving that annuity for a given length of time.\n\n\\(CRF = \\frac{i(1+i)^n}{(1+i)^n - 1}\\)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#discounting",
+    "href": "lectures/lecture4/index.html#discounting",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Discounting",
+    "text": "Discounting\n\n\\(discount\\ rate (r) = interest\\ rate (i) + inflation\\)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#the-power-of-discounting",
+    "href": "lectures/lecture4/index.html#the-power-of-discounting",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "The power of discounting",
+    "text": "The power of discounting\n\n\nSource: Gang He, source data"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#declining-discounting",
+    "href": "lectures/lecture4/index.html#declining-discounting",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Declining discounting",
+    "text": "Declining discounting\n\n\nSource: Weitzman (2001), Arrow et al. (2013)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#lcoe",
+    "href": "lectures/lecture4/index.html#lcoe",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "LCOE",
+    "text": "LCOE\n\n\\(LCOE=\\frac{\\text{sum of costs over lifetime}}{\\text{sum of electricity produced over life time}}=\\frac{\\sum_{t=1}^{n}{\\frac{I_t+M_t+F_t}{(1+r)^t}}}{\\sum_{t=1}^{n}{\\frac{E_t}{(1+r)^t}}}\\)\n\n\nI: Investment costs\nM: Operation and maintaince costs\nF: Fuel costs"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#comparing-lcoe",
+    "href": "lectures/lecture4/index.html#comparing-lcoe",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Comparing LCOE",
+    "text": "Comparing LCOE\n\n\nSource: Lazard LCOE 15.0"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#limitations-of-lcoe",
+    "href": "lectures/lecture4/index.html#limitations-of-lcoe",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Limitations of LCOE",
+    "text": "Limitations of LCOE\n\nFossil: Do not include other costs (e.g. enviromental, carbon, etc.)\n\nRE: Do not include integraton costs\nFocus on economics, do not include social cultural acceptance"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#learning-curve",
+    "href": "lectures/lecture4/index.html#learning-curve",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Learning curve",
+    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(R=2^b\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slopes of the learning rate\nR: Progress ratio\n\n\n\n\nSource: Yelle (1979)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#learning-of-differrent-technologies",
+    "href": "lectures/lecture4/index.html#learning-of-differrent-technologies",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Learning of differrent technologies",
+    "text": "Learning of differrent technologies\n\n\nSource: Grübler, Nakićenović, and Victor (1999)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#drivers-of-learning",
+    "href": "lectures/lecture4/index.html#drivers-of-learning",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Drivers of learning",
+    "text": "Drivers of learning\n\n\nSource: Kavlak, McNerney, and Trancik (2018)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#source-of-learning",
+    "href": "lectures/lecture4/index.html#source-of-learning",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Source of learning",
+    "text": "Source of learning\nLearning by doing\nLearning by searching"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#how-renewables-are-getting-cheap",
+    "href": "lectures/lecture4/index.html#how-renewables-are-getting-cheap",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "How renewables are getting cheap",
+    "text": "How renewables are getting cheap\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#why-nuclear-costs-are-going-up",
+    "href": "lectures/lecture4/index.html#why-nuclear-costs-are-going-up",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Why nuclear costs are going up?",
+    "text": "Why nuclear costs are going up?\n\n\nSource: Grubler (2010)"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#role-of-global-supply-chain-in-pv",
+    "href": "lectures/lecture4/index.html#role-of-global-supply-chain-in-pv",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Role of global supply chain in PV",
+    "text": "Role of global supply chain in PV\n\n\nSource:"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#summary",
+    "href": "lectures/lecture4/index.html#summary",
+    "title": "Lecture 4 Economics for Energy Systems Analysis",
+    "section": "Summary",
+    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: Grübler, Nakićenović, and Victor (1999)"
   },
   {
     "objectID": "lectures/lecture3/index.html#energy-systems",
