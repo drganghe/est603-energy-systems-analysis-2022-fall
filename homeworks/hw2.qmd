@@ -23,16 +23,26 @@ format:
     colorlinks: true
 ---
 
-## Backgound
+## 1. A tale of two nuclear plants
+
+[Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant)
+
+[Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant)
+
+### Questions
 
 
 
-## Questions
+### Further readings
 
 
 
-## Further readings
+## 2. Should you install solar panel on Long Island today
 
+### Questions
+
+
+### Further readings
 
 
 ### References

@@ -7,7 +7,7 @@ title: Course Schedule
 | 1    | 8/22  | [Introduction](lectures/lecture1/index.qmd)                 | [HW0](homeworks/hw0.qmd)          |
 | 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd) | [HW1](homeworks/hw1.qmd) assigned |
 | 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)      |                                   |
-| 4    | 9/12  | Economics for energy systems analysis                       | HW1 due                           |
+| 4    | 9/12  | [Economics for energy systems analysis](lectures/lecture4/index.qmd)  | HW1 due                 |
 | 5    | 9/19  | Energy sources                                              | 2                                 |
 | 6    | 9/26  | Energy demand                                               |                                   |
 | 7    | 10/3  | Energy, environment, and health                             | 3                                 |

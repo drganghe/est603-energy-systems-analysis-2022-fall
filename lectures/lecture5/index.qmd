@@ -1,0 +1,43 @@
+---
+title: "Lecture 4 Energy Sources and Technologies"
+author: "Gang He"
+date: September 12, 2022
+#image: "images/discounting-schedule.png"
+#suppress-bibliography: true
+draft: true
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: custom.css
+    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+---
+
+## Sample analytic questions
+
+- What's the LCOE of a new technology?  
+- When to retire a nuclear/coal power plant?    
+- Should I install rooftop solar, buy an EV?  
+- How long should government subsidies heatpump?  
+- When can offshore wind achieve grid parity?  
+
+
+## Three efficiencies 
+- 1st law: actual, thermal efficiency  
+- Carnot: maximum possible efficiency  
+- 2nd law: comparing 1st and Carnot  
+
+::: footer
+Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
+:::
+
+
+---
+### References
+
+::: {#refs}
+:::

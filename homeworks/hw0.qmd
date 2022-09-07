@@ -21,7 +21,7 @@ format:
     #fontfamily: xelatex
     colorlinks: true
 ---
-This is a "get a taste of the field" homework, no need to submit for grading. 
+This is a "get a taste of the field" homework. 
 
 ## Background
 
