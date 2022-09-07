@@ -47,9 +47,9 @@ website:
   reader-mode: true
   repo-url: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall
   repo-actions: [edit, issue, source]
-  twitter-card: 
-    creator: "@DrGangHe"
-    image: "/lectures/lecture2/images/boe-equations.png"
+  twitter-card: true
+  #  creator: "@DrGangHe"
+  #  image: "/lectures/lecture2/images/boe-equations.png"
   site-url: "https://drganghe.github.io/est603-energy-systems-analysis-2022-fall"
 
 
