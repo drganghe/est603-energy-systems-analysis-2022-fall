@@ -1,1 +1,23 @@
 /.quarto/
+
+#R Temporal Files
+.Rhistory
+.DS_Store
+.Rproj.user
+.RData
+
+
+# Office Temporal Files
+*.tmp
+# Word temporary
+~$*.doc*
+# Word Auto Backup File
+Backup of *.doc*
+# Excel temporary
+~$*.xls*
+# Excel Backup File
+*.xlk
+# PowerPoint temporary
+~$*.ppt*
+# Visio autosave temporary files
+*.~vsd*

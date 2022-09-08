@@ -1,6 +1,6 @@
 ---
 title: Homework 2 Energy project economics
-draft: true
+#draft: true
 format: 
   html: 
     theme: cosmo
@@ -23,26 +23,93 @@ format:
     colorlinks: true
 ---
 
-## 1. A tale of two nuclear plants
+## 1. Installing rooftop solar system
 
-[Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant)
+### Background  
 
-[Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant)
+Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year's system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.
 
 ### Questions
 
+1. Learn to use [PVWatts](https://pvwatts.nrel.gov/index.php) to simulate the monthly and annual generation of system. Please use the below sysetm information:
+Location: 11794  
+DC Systems Size(kW): 6.4  
+All other parameters use defalt numbers  
+Please compare your simulated monthly results with actual system daily generation [data](/homeworks/data/solar-daily-generation.xlsx) over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (**1pt**). Discuss the risks/uncertainties to use simulation results to make purchase desision (**1pt**)?  
+
+2. Calculate the simple payback time (in years, no discounting) of the solar system assuming the following (**0.5pt**):  
+System costs (including panel and installation): $14,000  
+State tax rebate: 25% (with a maximam of $5,000) of system costs
+Fed tax credit: 26% of system costs
+Household monthly electricity payment before installation: $140  
+Hourseholdl monthly PV system connection fee: $15  
+What's payback time without the State and Fed tax credit (**0.5pt**)?  
+
+3. Now taking into acount of discounting:  
+Annual discounting rate: 5%  
+Mr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.  
+Mr. XYZ would received the tax credit in April during the tax filing month the following year   
+Use July 2021 as the baseline month.  
+What's the payback time (in months) (**1pt**)?  
+
+4. Using the NPV in question 3 and calculating the leverized cost of electricity of Mr. XYZ's system (**1pt**)
+The system life time: 25 years 
+Assume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)  
+Comparing your results with PSEG Long Island's residential electricity rate.  
+
+5. Now think about more nuanced considerations when making intallation decisions if:  
+Mr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (**0.5pt**)  
+Mr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (**0.5pt**)  
+Mr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy  (**0.5pt**)   
+Mr. XYZ will potential move and sell the house in two years, how will that impact the investment decision (**0.5pt**)  
+Mr. XYZ can sell extra electricity back to the grid as in California's case  (**0.5pt**)  
+Mr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York's case  (**0.5pt**)   
+
+
+### Further modeling practice
+
+Learn to use NREL's System Advisory Model (SAM) to do more nuanced simulations.
+- [Downlod](https://sam.nrel.gov/download.html) the software   
+- Follow the instuction   
+- Get the nearest location weather data   
+- Using default parameters to simulate hourly generation   
+- Try to play with the specific parameters to get family with the software   
+
+
+## 2. A tale of two nuclear plants
+
+### Background  
+
+Please read the story of the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant). One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction cost, while the other is offered to extend operation in the midist of California's clean energy quest.
+
+
+### Questions
+
+1. How long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences)  (**1pt**)
+
+Key assumptions: LILCO attaches a **3 percent** surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately **$6 billion** price tag in 1989.  
+Residential rates in 2020: **21.22 cents/kWh**   
+Total electricity consumption in 2020: **20 TWh**   
+Distount rate: **4%**   
+Assuming the real value of total annual surchage stay the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surchages.   
+
+2. Diablo Canyon generated nearly 9 percent of Cailifornia's electricity last year and roughly 15 percent of the state's clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What's the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)?  (**1pt**)
+
+Key assumptions: **1.4** billion forgivable loans   
+Nameplate capacity: **2,256 MW**   
+Capacity factor: **80%**
+Distount rate: **4%**   
 
 
 ### Further readings
 
+Get to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investmetn decisions.
 
+New York Times, June 19, 1983. [How Long Island Will Pay For Shoreham](https://www.nytimes.com/1983/06/19/nyregion/how-li-will-pay-for-shoreham.html)  
 
-## 2. Should you install solar panel on Long Island today
+Timothy Bolger and Christopher Twarowski, June 11, 2009, [Nuclear Waste: 20 Years After Shoreham’s Closure](http://archive.longislandpress.com/2009/06/11/nuclear-waste-20-years-after-the-closure-of-the-shoreham-power-facility/)
 
-### Questions
-
-
-### Further readings
+Nathan Rott, September 1, 2022. [California lawmakers extend the life of the state's last nuclear power plant](https://www.npr.org/2022/09/01/1119778975/california-lawmakers-extend-the-life-of-the-states-last-nuclear-power-plant)  
 
 
 ### References
