@@ -1,10 +1,10 @@
 /.quarto/
 
 #R Temporal Files
-.Rhistory
-.DS_Store
-.Rproj.user
-.RData
+~$*.Rhistory*
+~$*.DS_Store*
+~$*.Rproj.user*
+~$*.RData*
 
 
 # Office Temporal Files

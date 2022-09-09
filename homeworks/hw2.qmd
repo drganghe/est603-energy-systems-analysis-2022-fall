@@ -31,7 +31,7 @@ Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021.
 
 ### Questions
 
-1. Learn to use [PVWatts](https://pvwatts.nrel.gov/index.php) to simulate the monthly and annual generation of system. Please use the below sysetm information:
+1. Learn to use [PVWatts](https://pvwatts.nrel.gov/index.php) to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information:
 Location: 11794  
 DC Systems Size(kW): 6.4  
 All other parameters use defalt numbers  
@@ -39,10 +39,10 @@ Please compare your simulated monthly results with actual system daily generatio
 
 2. Calculate the simple payback time (in years, no discounting) of the solar system assuming the following (**0.5pt**):  
 System costs (including panel and installation): $14,000  
-State tax rebate: 25% (with a maximam of $5,000) of system costs
-Fed tax credit: 26% of system costs
-Household monthly electricity payment before installation: $140  
-Hourseholdl monthly PV system connection fee: $15  
+State tax rebate: 25% (with a maximam of $5,000) of system costs   
+Fed tax credit: 26% of system costs   
+Household average monthly electricity payment before installation: $140  
+Household monthly PV system connection fee: $15  
 What's payback time without the State and Fed tax credit (**0.5pt**)?  
 
 3. Now taking into acount of discounting:  
@@ -87,7 +87,7 @@ Please read the story of the [Shoreham Nuclear Power Plant](https://en.wikipedia
 
 1. How long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences)  (**1pt**)
 
-Key assumptions: LILCO attaches a **3 percent** surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately **$6 billion** price tag in 1989.  
+Key assumptions: LILCO attaches a **3 percent** surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately **$6 billion** price tag in 1989.   
 Residential rates in 2020: **21.22 cents/kWh**   
 Total electricity consumption in 2020: **20 TWh**   
 Distount rate: **4%**   
@@ -97,7 +97,7 @@ Assuming the real value of total annual surchage stay the same. You can use 2020
 
 Key assumptions: **1.4** billion forgivable loans   
 Nameplate capacity: **2,256 MW**   
-Capacity factor: **80%**
+Capacity factor: **80%**   
 Distount rate: **4%**   
 
 
@@ -110,6 +110,8 @@ New York Times, June 19, 1983. [How Long Island Will Pay For Shoreham](https://w
 Timothy Bolger and Christopher Twarowski, June 11, 2009, [Nuclear Waste: 20 Years After Shoreham’s Closure](http://archive.longislandpress.com/2009/06/11/nuclear-waste-20-years-after-the-closure-of-the-shoreham-power-facility/)
 
 Nathan Rott, September 1, 2022. [California lawmakers extend the life of the state's last nuclear power plant](https://www.npr.org/2022/09/01/1119778975/california-lawmakers-extend-the-life-of-the-states-last-nuclear-power-plant)  
+
+@rai_overcoming_2016, @yu_deepsolar_2018, @hultman_what_2007
 
 
 ### References

@@ -1,7 +1,7 @@
 ---
-title: "Lecture 4 Energy Sources and Technologies"
+title: "Lecture 5 Energy Sources and Technologies"
 author: "Gang He"
-date: September 12, 2022
+date: September 19, 2022
 #image: "images/discounting-schedule.png"
 #suppress-bibliography: true
 draft: true
@@ -19,9 +19,9 @@ format:
 
 ## Sample analytic questions
 
-- What's the LCOE of a new technology?  
-- When to retire a nuclear/coal power plant?    
-- Should I install rooftop solar, buy an EV?  
+- How many solar/wind capacities are needed to meet global energy need?  
+- How many coal can be saved/emissions can be mitigated if China's average coal power efficiency increased by 1 percentage point?    
+- Why combined heat and power saves energy?  
 - How long should government subsidies heatpump?  
 - When can offshore wind achieve grid parity?  
 
@@ -40,4 +40,8 @@ Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi
 ### References
 
 ::: {#refs}
+:::
+
+::: footer
+Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
 :::

@@ -1,0 +1,49 @@
+---
+title: "EST603 Energy Systems Analysis (Fall 2022)"
+sidebar: false
+toc: false
+---
+
+**Department**: [Department of Technology and Society](https://www.stonybrook.edu/est/) @ [Stony Brook University](https://www.stonybrook.edu/)
+
+**Instructor**: Gang He
+
+**Credits**: 3
+
+## Description
+
+This class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results. 
+
+## Learning Objectives
+
+- Develop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption; 
+- Gain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses; 
+- Get introduced to major analytical concepts and modeling tools used in energy systems and policy analysis; 
+- Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
+
+
+## Acknowledgment
+This class benefits from many similar classes and I cannot credit them enough below:  
+
+- John Helveston, [EMSE 4572: Exploratory Data Analysis @ GWU](https://github.com/emse-eda-gwu/2022-Fall)  
+
+- Tom Brown, [Energy Systems](https://nworbmot.org/teaching.html)  
+
+- Michael Davidson and Jesse Jenkins, [Power systems optimization](https://github.com/east-winds/power-systems-optimization)
+
+- Daniel Kammen, [Energy and Society](http://kammen.berkeley.edu/)  
+
+- Duncan Callaway, [Electric Power Systems](https://erg.berkeley.edu/people/callaway-duncan/)
+
+- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)   
+
+- Jon Koomey, [Turning Numbers into Knowledge: Mastering the Art of Problem Solving](https://www.koomey.com/books.html)  
+
+- Scott Moura, [Energy System and Control](https://ecal.berkeley.edu/ce295.html) 
+
+- Baosen Zhang, [Introduction to Energy Systems](https://zhangbaosen.github.io/teaching/EE351)  
+
+## Reuse of material
+
+Please feel free to reuse any material that you find helpful. Copy rights belong to cited authors/creators. Those from myself you can just link to my [site](https://drganghe.github.io) or this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) for credit.
+

@@ -189,7 +189,7 @@ Source: @GRUBLER20105174
 ![](images/fig2_prices_historical_national_global.png){fig-align="center"}
 
 ::: footer
-Source:  
+Source: @helveston_he_davidson_2022 
 :::
 
 ## Summary
@@ -208,4 +208,8 @@ Read more: @grubler_dynamics_1999
 ### References
 
 ::: {#refs}
+:::
+
+::: footer
+Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
 :::

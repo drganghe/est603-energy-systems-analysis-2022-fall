@@ -189,3 +189,7 @@ Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
 
 ::: {#refs}
 :::
+
+::: footer
+Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+:::
