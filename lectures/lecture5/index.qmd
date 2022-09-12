@@ -22,18 +22,116 @@ format:
 - How many solar/wind capacities are needed to meet global energy need?  
 - How many coal can be saved/emissions can be mitigated if China's average coal power efficiency increased by 1 percentage point?    
 - Why combined heat and power saves energy?  
-- How long should government subsidies heatpump?  
-- When can offshore wind achieve grid parity?  
+- How to design the layout of solar/wind farms to improve production?    
 
+## Thermodynamics 
+
+
+
+## Laws of thermodynamics {.smaller}
+
+- Zeroth law  
+> If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.  
+- First law  
+> In a process without transfer of matter, the change in internal energy, $\Delta U$, of a thermodynamic system is equal to the energy gained as heat, $Q$, less the thermodynamic work, $W$, done by the system on its surroundings.
+- Second law   
+> Heat does not spontaneously flow from a colder body to a hotter body.  
+- Third law  
+> As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.  
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
+:::
 
 ## Three efficiencies 
-- 1st law: actual, thermal efficiency  
-- Carnot: maximum possible efficiency  
-- 2nd law: comparing 1st and Carnot  
+- 1st law: actual, thermal efficiency; $\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}} $
+- Carnot: maximum possible efficiency; $\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}} $ (Kelvin)  
+- 2nd law: comparing 1st and Carnot; $\eta_2 =\frac{\eta_1}{\eta_c}$  
 
 ::: footer
 Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
 :::
+
+## How steam coal plants work
+
+![](images/coal_fired_power_plant_diagram.png)
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
+:::
+
+
+## Baran cycle  
+
+
+## Largest coal plant in the U.S.
+
+:::columns
+
+::: {.column width="50%"}
+
+![](images/georgia_power_plant_scherer.png)
+
+Georgia Power plant Scherer
+
+:::
+
+::: {.column width="50%"}
+Can you identify the components  
+- Coal storage  
+- Generating unit  
+- Cooling stack  
+- Bottom ash landfill   
+- Sub-station  
+- Transimission lines  
+- Waste/pollution management  
+
+:::
+
+::: footer
+Source: [Google Map](https://goo.gl/maps/b6mCqsm6G9bhTc5b6), Read more: [Nowhere to hide](https://carbontracker.org/reports/nowhere-to-hide/)
+:::
+
+
+## Combined cycle
+
+<iframe src='https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001' allowfullscreen frameborder=0></iframe>
+
+::: footer
+Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-system/natural-gas/how-a-combined-cycle-power-plant-works)
+:::
+
+## Wind 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](images/georgia_power_plant_scherer.png)
+
+Georgia Power plant Scherer
+
+:::
+
+::: {.column width="50%"}
+$P=\frac{1}{2}\rho \pi r^2 v^3$
+
+Where,  
+$\rho$ = Density  (kg/m3)  
+$A$ = Swept Area  (m2)  = $\pi r^2$  
+$v$ = Wind Speed  (m/s)  
+$P$ = Power (W)  
+
+:::
+
+::: footer
+Read more: 
+:::
+
+## Solar 
+
+
+## Hydro 
 
 
 ---

@@ -21,19 +21,19 @@ format:
 
 - What's the LCOE of a new technology?  
 - When to retire a nuclear/coal power plant?    
-- Should I install rooftop solar, buy an EV?  
-- How long should government subsidies heatpump?  
+- Should I install rooftop solar or buy an EV?  
+- How long should the government subsidies heatpump?  
 - When can offshore wind achieve grid parity?  
 
 
 ## Project economics
  
-- Simple Payback  
+- Simple payback  
 - Discounting  
-- Present/Future Value  
-- Uniform payments (Annuities)  
-- Capital Recovery Factor  
-- Comparing Technologies/Costs (LCOE)  
+- Present/future value  
+- Uniform payments (annuities)  
+- Capital recovery factor  
+- Comparing technologies/costs (LCOE)  
 - Learning curve  
 - Market and technology drivers 
 
@@ -127,15 +127,18 @@ Empircial relations between unit costs and cumulative production.
 <center>
 $Y = aX^b$
 
-$R=2^b$
+$Pr=2^{-b}$
+
+$Lr=1-Pr$
 </center>
 
 <p style="font-size:20pt; color:gray; text-align:center">
 Y: Unit costs  
 a: Cost of first unit  
 X: Units  
-b: Slopes of the learning rate  
-R: Progress ratio  
+b: Slopes of the learning curve  
+Pr: Progress ratio   
+Lr: Learing rate
 </p>
 
 :::
@@ -165,7 +168,10 @@ Source: @kavlak_evaluating_2018
 
 Learning by doing
 
-Learning by searching
+- Economy of scale  
+- Economy of scope  
+
+Learning by searching  
 
 
 ## How renewables are getting cheap

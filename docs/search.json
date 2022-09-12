@@ -32,7 +32,7 @@
     "href": "index.html#reuse-of-material",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
     "section": "Reuse of material",
-    "text": "Reuse of material\nPlease feel free to reuse any material that you find helpful. Copy rights belong to cited authors/creators. Those from myself you can just link to my site or this course site for credit."
+    "text": "Reuse of material\nPlease feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my site or this course site for credit."
   },
   {
     "objectID": "lectures.html",
@@ -95,7 +95,7 @@
     "href": "homeworks/hw2.html",
     "title": "Homework 2 Energy project economics",
     "section": "",
-    "text": "Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year’s system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.\n\n\n\n\nLearn to use PVWatts to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information: Location: 11794\nDC Systems Size(kW): 6.4\nAll other parameters use defalt numbers\nPlease compare your simulated monthly results with actual system daily generation data over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (1pt). Discuss the risks/uncertainties to use simulation results to make purchase desision (1pt)?\nCalculate the simple payback time (in years, no discounting) of the solar system assuming the following (0.5pt):\nSystem costs (including panel and installation): $14,000\nState tax rebate: 25% (with a maximam of $5,000) of system costs\nFed tax credit: 26% of system costs\nHousehold average monthly electricity payment before installation: $140\nHousehold monthly PV system connection fee: $15\nWhat’s payback time without the State and Fed tax credit (0.5pt)?\nNow taking into acount of discounting:\nAnnual discounting rate: 5%\nMr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.\nMr. XYZ would received the tax credit in April during the tax filing month the following year\nUse July 2021 as the baseline month.\nWhat’s the payback time (in months) (1pt)?\nUsing the NPV in question 3 and calculating the leverized cost of electricity of Mr. XYZ’s system (1pt) The system life time: 25 years Assume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)\nComparing your results with PSEG Long Island’s residential electricity rate.\nNow think about more nuanced considerations when making intallation decisions if:\nMr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (0.5pt)\nMr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (0.5pt)\nMr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy (0.5pt)\nMr. XYZ will potential move and sell the house in two years, how will that impact the investment decision (0.5pt)\nMr. XYZ can sell extra electricity back to the grid as in California’s case (0.5pt)\nMr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York’s case (0.5pt)\n\n\n\n\nLearn to use NREL’s System Advisory Model (SAM) to do more nuanced simulations. - Downlod the software\n- Follow the instuction\n- Get the nearest location weather data\n- Using default parameters to simulate hourly generation\n- Try to play with the specific parameters to get family with the software"
+    "text": "Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year’s system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.\n\n\n\n\nLearn to use PVWatts to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information: Location: 11794\nDC Systems Size(kW): 6.4\nAll other parameters use defalt numbers\nPlease compare your simulated monthly results with actual system daily generation data over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (1pt). Discuss the risks/uncertainties to use simulation results to make purchase desision (1pt)?\nCalculate the simple payback time (in years, no discounting) of the solar system assuming the following (0.5pt):\nSystem costs (including panel and installation): $14,000\nState tax rebate: 25% (with a maximam of $5,000) of system costs\nFed tax credit: 26% of system costs\nHousehold average monthly electricity payment before installation: $140\nHousehold monthly PV system connection fee: $15\nWhat’s payback time without the State and Fed tax credit (0.5pt)?\nNow taking into acount of discounting:\nAnnual discounting rate: 5%\nMr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.\nMr. XYZ would received the tax credit in April during the tax filing month the following year\nUse July 2021 as the baseline month.\nWhat’s the payback time (in months) (1pt)?\nUsing the NPV in question 3 and calculating the leverized cost of electricity of Mr. XYZ’s system (1pt) The system life time: 25 years Assume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)\nComparing your results with PSEG Long Island’s residential electricity rate.\nNow think about more nuanced considerations when making intallation decisions if:\nMr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (0.5pt)\nMr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (0.5pt)\nMr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy (0.5pt)\nMr. XYZ will potential move and sell the house in two years, how will that impact the investment decision (0.5pt)\nMr. XYZ can sell extra electricity back to the grid as in California’s case (0.5pt)\nMr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York’s case (0.5pt)\n\n\n\n\nLearn to use NREL’s System Advisory Model (SAM) to do more nuanced simulations.\n\nDownlod the software\n\nFollow the instuction\n\nGet the nearest location weather data\n\nUsing default parameters to simulate hourly generation\n\nTry to play with the specific parameters to get family with the software"
   },
   {
     "objectID": "homeworks/hw2.html#a-tale-of-two-nuclear-plants",
@@ -305,14 +305,14 @@
     "href": "lectures/lecture4/index.html#sample-questions",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Sample questions",
-    "text": "Sample questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar, buy an EV?\n\nHow long should government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+    "text": "Sample questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
   },
   {
     "objectID": "lectures/lecture4/index.html#project-economics",
     "href": "lectures/lecture4/index.html#project-economics",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Project economics",
-    "text": "Project economics\n\nSimple Payback\n\nDiscounting\n\nPresent/Future Value\n\nUniform payments (Annuities)\n\nCapital Recovery Factor\n\nComparing Technologies/Costs (LCOE)\n\nLearning curve\n\nMarket and technology drivers"
+    "text": "Project economics\n\nSimple payback\n\nDiscounting\n\nPresent/future value\n\nUniform payments (annuities)\n\nCapital recovery factor\n\nComparing technologies/costs (LCOE)\n\nLearning curve\n\nMarket and technology drivers"
   },
   {
     "objectID": "lectures/lecture4/index.html#time-is-money",
@@ -382,7 +382,7 @@
     "href": "lectures/lecture4/index.html#learning-curve",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Learning curve",
-    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(R=2^b\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slopes of the learning rate\nR: Progress ratio\n\n\n\n\nSource: Yelle (1979)"
+    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{-b}\\)\n\\(Lr=1-Pr\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slopes of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: Yelle (1979)"
   },
   {
     "objectID": "lectures/lecture4/index.html#learning-of-differrent-technologies",
@@ -403,7 +403,7 @@
     "href": "lectures/lecture4/index.html#source-of-learning",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Source of learning",
-    "text": "Source of learning\nLearning by doing\nLearning by searching"
+    "text": "Source of learning\nLearning by doing\n\nEconomy of scale\n\nEconomy of scope\n\nLearning by searching"
   },
   {
     "objectID": "lectures/lecture4/index.html#how-renewables-are-getting-cheap",
@@ -424,7 +424,7 @@
     "href": "lectures/lecture4/index.html#role-of-global-supply-chain-in-pv",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Role of global supply chain in PV",
-    "text": "Role of global supply chain in PV\n\n\nSource: John Helveston, Gang He, and Michael Davidson (2022)"
+    "text": "Role of global supply chain in PV\n\n\nSource: Helveston, He, and Davidson (2022)"
   },
   {
     "objectID": "lectures/lecture4/index.html#summary",
@@ -747,5 +747,12 @@
     "title": "Course Schedule",
     "section": "",
     "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n2\n\n\n6\n9/26\nEnergy demand\n\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+  },
+  {
+    "objectID": "index.html#how-to-help",
+    "href": "index.html#how-to-help",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "How to help",
+    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. If you like my work, please consider “Star” the repository to show your support. Any comments and suggestions are very welcome."
   }
 ]

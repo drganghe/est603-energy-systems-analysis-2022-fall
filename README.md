@@ -1,10 +1,10 @@
 # EST603 Energy Systems Analysis (2022 Fall)
 
-This is the website for EST603 Energy Systems Analysis 2022 Fall. I will share the slides, homework, and source files here. 
+This is the website for EST603 Energy Systems Analysis 2022 Fall. I will share the slides, homework, and source files here.  
 
-I'm still catching up on using Quarto for my academic activities, please feel free to share your comments and feedback by submitting the issues on the right side of the page.
+## Acknowledgment
 
-This class benefits from many similar classes and I cannot credit them enough below:
+This class benefits from many similar classes and I cannot credit them enough below:  
 
 - John Helveston, [EMSE 4572: Exploratory Data Analysis @ GWU](https://github.com/emse-eda-gwu/2022-Fall)  
 
@@ -16,12 +16,18 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 - Duncan Callaway, [Electric Power Systems](https://erg.berkeley.edu/people/callaway-duncan/)
 
-- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)   
+- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)  
 
 - Jon Koomey, [Turning Numbers into Knowledge: Mastering the Art of Problem Solving](https://www.koomey.com/books.html)  
 
-- Scott Moura, [Energy System and Control](https://ecal.berkeley.edu/ce295.html) 
+- Scott Moura, [Energy System and Control](https://ecal.berkeley.edu/ce295.html)  
 
-- Baosen Zhang, [Introduction to Energy Systems](https://zhangbaosen.github.io/teaching/EE351)   
+- Baosen Zhang, [Introduction to Energy Systems](https://zhangbaosen.github.io/teaching/EE351)  
 
-If you found the material useful, please feel to use/reuse it. You can link to my Website or this Course site.
+## Reuse of material
+
+Please feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my [site](https://drganghe.github.io) or this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) for credit.
+
+## How to help  
+
+If you find any issue, please use the "Report an issue" on the right side of a specific page. If you like my work, please consider "[Star](https://github.com/drganghe/est603-energy-systems-analysis-2022-fall)" the repository to show your support. Any comments and suggestions are very welcome.

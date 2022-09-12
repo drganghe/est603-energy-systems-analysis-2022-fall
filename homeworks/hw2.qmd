@@ -57,7 +57,7 @@ The system life time: 25 years
 Assume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)  
 Comparing your results with PSEG Long Island's residential electricity rate.  
 
-5. Now think about more nuanced considerations when making intallation decisions if:  
+5. Now think about more nuanced considerations when making intallation decisions if:   
 Mr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (**0.5pt**)  
 Mr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (**0.5pt**)  
 Mr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy  (**0.5pt**)   
@@ -68,7 +68,8 @@ Mr. XYZ can only bank extra generation and will pay market rate if generation ca
 
 ### Further modeling practice
 
-Learn to use NREL's System Advisory Model (SAM) to do more nuanced simulations.
+Learn to use NREL's System Advisory Model (SAM) to do more nuanced simulations.   
+
 - [Downlod](https://sam.nrel.gov/download.html) the software   
 - Follow the instuction   
 - Get the nearest location weather data   

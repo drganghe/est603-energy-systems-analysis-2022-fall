@@ -23,6 +23,7 @@ This class offers a systems analysis approach and introduces useful modeling too
 
 
 ## Acknowledgment
+
 This class benefits from many similar classes and I cannot credit them enough below:  
 
 - John Helveston, [EMSE 4572: Exploratory Data Analysis @ GWU](https://github.com/emse-eda-gwu/2022-Fall)  
@@ -35,15 +36,18 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 - Duncan Callaway, [Electric Power Systems](https://erg.berkeley.edu/people/callaway-duncan/)
 
-- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)   
+- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)  
 
 - Jon Koomey, [Turning Numbers into Knowledge: Mastering the Art of Problem Solving](https://www.koomey.com/books.html)  
 
-- Scott Moura, [Energy System and Control](https://ecal.berkeley.edu/ce295.html) 
+- Scott Moura, [Energy System and Control](https://ecal.berkeley.edu/ce295.html)  
 
 - Baosen Zhang, [Introduction to Energy Systems](https://zhangbaosen.github.io/teaching/EE351)  
 
 ## Reuse of material
 
-Please feel free to reuse any material that you find helpful. Copy rights belong to cited authors/creators. Those from myself you can just link to my [site](https://drganghe.github.io) or this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) for credit.
+Please feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my [site](https://drganghe.github.io) or this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) for credit.
 
+## How to help  
+
+If you find any issue, please use the "Report an issue" on the right side of a specific page. If you like my work, please consider "[Star](https://github.com/drganghe/est603-energy-systems-analysis-2022-fall)" the repository to show your support. Any comments and suggestions are very welcome.

@@ -2,22 +2,22 @@
 title: Course Schedule
 ---
 
-| Week | Date  | Lecture                                                     | Assignment                        |
-|-----------------|-----------------|----------------------|-----------------|
-| 1    | 8/22  | [Introduction](lectures/lecture1/index.qmd)                 | [HW0](homeworks/hw0.qmd)          |
-| 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd) | [HW1](homeworks/hw1.qmd) assigned |
-| 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)      |                                   |
-| 4    | 9/12  | [Economics for energy systems analysis](lectures/lecture4/index.qmd)  | [HW1](homeworks/hw1.qmd) due </br> [HW2](homeworks/hw2.qmd) assigned                 |
-| 5    | 9/19  | Energy sources                                              | 2                                 |
-| 6    | 9/26  | Energy demand                                               |                                   |
-| 7    | 10/3  | Energy, environment, and health                             | 3                                 |
-| 8    | 10/10 | Fall Break -- No class in session                           |                                   |
-| 9    | 10/17 | Energy and climate change                                   |                                   |
-| 10   | 10/24 | Life cycle analysis and environmental impacts               | Proposal due                      |
-| 11   | 10/31 | Energy transition                                           |                                   |
-| 12   | 11/7  | Human behavior, culture, and sustainable energy consumption |                                   |
-| 13   | 11/14 | Energy poverty/access                                       | 4                                 |
-| 14   | 11/21 | Big data and AI for clean energy \[Thanksgiving Week\]      |                                   |
-| 15   | 11/28 | Limitations of models                                       | Presentation due                  |
-| 16   | 12/5  | No class -- preparing final paper                           |                                   |
-| 17   | 12/12 | No class -- preparing final paper                           | Paper due                         |
+| Week | Date  | Lecture                                                              | Assignment                                                           |
+|-----------------|-----------------|---------------------|-----------------|
+| 1    | 8/22  | [Introduction](lectures/lecture1/index.qmd)                          | [HW0](homeworks/hw0.qmd)                                             |
+| 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd)          | [HW1](homeworks/hw1.qmd) assigned                                    |
+| 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)               |                                                                      |
+| 4    | 9/12  | [Economics for energy systems analysis](lectures/lecture4/index.qmd) | [HW1](homeworks/hw1.qmd) due </br> [HW2](homeworks/hw2.qmd) assigned |
+| 5    | 9/19  | Energy sources                                                       | 2                                                                    |
+| 6    | 9/26  | Energy demand                                                        |                                                                      |
+| 7    | 10/3  | Energy, environment, and health                                      | 3                                                                    |
+| 8    | 10/10 | Fall Break -- No class in session                                    |                                                                      |
+| 9    | 10/17 | Energy and climate change                                            |                                                                      |
+| 10   | 10/24 | Life cycle analysis and environmental impacts                        | Proposal due                                                         |
+| 11   | 10/31 | Energy transition                                                    |                                                                      |
+| 12   | 11/7  | Human behavior, culture, and sustainable energy consumption          |                                                                      |
+| 13   | 11/14 | Energy poverty/access                                                | 4                                                                    |
+| 14   | 11/21 | Big data and AI for clean energy \[Thanksgiving Week\]               |                                                                      |
+| 15   | 11/28 | Limitations of models                                                | Presentation due                                                     |
+| 16   | 12/5  | No class -- preparing final paper                                    |                                                                      |
+| 17   | 12/12 | No class -- preparing final paper                                    | Paper due                                                            |
