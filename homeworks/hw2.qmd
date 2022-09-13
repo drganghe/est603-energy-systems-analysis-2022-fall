@@ -53,7 +53,7 @@ Use July 2021 as the baseline month.
 What's the payback time (in months) (**1pt**)?  
 
 4. Using the NPV in question 3 and calculating the leverized cost of electricity of Mr. XYZ's system (**1pt**)
-The system life time: 25 years 
+The system life time: 25 years  
 Assume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)  
 Comparing your results with PSEG Long Island's residential electricity rate.  
 
@@ -61,7 +61,7 @@ Comparing your results with PSEG Long Island's residential electricity rate.
 Mr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (**0.5pt**)  
 Mr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (**0.5pt**)  
 Mr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy  (**0.5pt**)   
-Mr. XYZ will potential move and sell the house in two years, how will that impact the investment decision (**0.5pt**)  
+Mr. XYZ will potentially move and sell the house in two years, how will that impact the investment decision (**0.5pt**)  
 Mr. XYZ can sell extra electricity back to the grid as in California's case  (**0.5pt**)  
 Mr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York's case  (**0.5pt**)   
 
@@ -72,9 +72,9 @@ Learn to use NREL's System Advisory Model (SAM) to do more nuanced simulations.
 
 - [Downlod](https://sam.nrel.gov/download.html) the software   
 - Follow the instuction   
-- Get the nearest location weather data   
+- Get the weather data of nearest location   
 - Using default parameters to simulate hourly generation   
-- Try to play with the specific parameters to get family with the software   
+- Try to play with the specific parameters to get familiar with the software   
 
 
 ## 2. A tale of two nuclear plants

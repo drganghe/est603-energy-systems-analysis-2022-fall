@@ -17,7 +17,7 @@ format:
     #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
 ---
 
-## Sample questions
+## Sample analytic questions
 
 - What's the LCOE of a new technology?  
 - When to retire a nuclear/coal power plant?    
