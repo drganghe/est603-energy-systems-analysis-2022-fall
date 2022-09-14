@@ -23,7 +23,7 @@ format:
     colorlinks: true
 ---
 
-## 1. Installing rooftop solar system
+## 1. Installing solar is not an eazy decision 
 
 ### Background  
 
@@ -42,7 +42,7 @@ System costs (including panel and installation): $14,000
 State tax rebate: 25% (with a maximam of $5,000) of system costs   
 Fed tax credit: 26% of system costs   
 Household average monthly electricity payment before installation: $140  
-Household monthly PV system connection fee: $15  
+Household monthly PV system connection fee (cost): $15  
 What's payback time without the State and Fed tax credit (**0.5pt**)?  
 
 3. Now taking into acount of discounting:  
@@ -52,12 +52,12 @@ Mr. XYZ would received the tax credit in April during the tax filing month the f
 Use July 2021 as the baseline month.  
 What's the payback time (in months) (**1pt**)?  
 
-4. Using the NPV in question 3 and calculating the leverized cost of electricity of Mr. XYZ's system (**1pt**)
+4. Building on question 3 and now calculating the leverized cost of electricity of Mr. XYZ's system (**1pt**)
 The system life time: 25 years  
-Assume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)  
-Comparing your results with PSEG Long Island's residential electricity rate.  
+Assume an annual system degradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)  
+Comparing your results with PSEG Long Island's residential electricity rate (on average 21.22 cents/kWh in 2020).  
 
-5. Now think about more nuanced considerations when making intallation decisions if:   
+5. Now think about more nuanced considerations when making intallation decisions (using simple payback time or describe qualitatively) if:   
 Mr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (**0.5pt**)  
 Mr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (**0.5pt**)  
 Mr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy  (**0.5pt**)   

@@ -340,7 +340,8 @@
     }
   </style>
 <meta name="twitter:title" content="EST603 Energy Systems Analysis - Lecture 5 Energy Sources and Technologies">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture5/images/block-island-wind.jpeg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -366,20 +367,33 @@
 </section>
 <section id="thermodynamics" class="slide level2 center">
 <h2>Thermodynamics</h2>
+<ul>
+<li>Thermodynamic <strong>efficiency</strong><br>
+</li>
+<li>Comparing different technologies<br>
+</li>
+<li>Thermodynamics provides physic limits</li>
+</ul>
+</section>
+<section id="heat-engine" class="slide level2 center">
+<h2>Heat engine</h2>
+
+<img data-src="images/heat_engine.png" class="r-stretch quarto-figure-center"><p>Heat -&gt; Mechanical energy (work)</p>
+<div class="footer">
+<p>Source: <a href="https://en.wikipedia.org/wiki/Heat_engine">Wikipedia</a></p>
+</div>
 </section>
 <section id="laws-of-thermodynamics" class="slide level2 smaller center">
 <h2>Laws of thermodynamics</h2>
 <ul>
-<li>Zeroth law<br>
-&gt; If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.<br>
-</li>
-<li>First law<br>
-&gt; In a process without transfer of matter, the change in internal energy, <span class="math inline">\(\Delta U\)</span>, of a thermodynamic system is equal to the energy gained as heat, <span class="math inline">\(Q\)</span>, less the thermodynamic work, <span class="math inline">\(W\)</span>, done by the system on its surroundings.</li>
-<li>Second law<br>
-&gt; Heat does not spontaneously flow from a colder body to a hotter body.<br>
-</li>
-<li>Third law<br>
-&gt; As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.</li>
+<li><p>Zeroth law<br>
+“If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.”</p></li>
+<li><p>First law<br>
+“In a process without transfer of matter, the change in internal energy, <span class="math inline">\(\Delta U\)</span>, of a thermodynamic system is equal to the energy gained as heat, <span class="math inline">\(Q\)</span>, less the thermodynamic work, <span class="math inline">\(W\)</span>, done by the system on its surroundings.”</p></li>
+<li><p>Second law<br>
+“Heat does not spontaneously flow from a colder body to a hotter body.”</p></li>
+<li><p>Third law<br>
+“As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.”</p></li>
 </ul>
 <div class="footer">
 <p>Read more: <a href="https://en.wikipedia.org/wiki/Laws_of_thermodynamics">Wikipedia</a></p>
@@ -388,10 +402,13 @@
 <section id="three-efficiencies" class="slide level2 center">
 <h2>Three efficiencies</h2>
 <ul>
-<li>1st law: actual, thermal efficiency; $_1 ===1- $</li>
-<li>Carnot: maximum possible efficiency; $_c ===1- $ (Kelvin)<br>
+<li>1st law: actual, thermal efficiency;<br>
+<span class="math inline">\(\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}}\)</span></li>
+<li>Carnot: maximum possible efficiency;<br>
+<span class="math inline">\(\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}}\)</span> (Kelvin)<br>
 </li>
-<li>2nd law: comparing 1st and Carnot; <span class="math inline">\(\eta_2 =\frac{\eta_1}{\eta_c}\)</span></li>
+<li>2nd law: comparing 1st and Carnot;<br>
+<span class="math inline">\(\eta_2 =\frac{\eta_1}{\eta_c}\)</span></li>
 </ul>
 <div class="footer">
 <p>Read more: <a href="https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot">Sadi Carnot</a></p>
@@ -400,72 +417,277 @@
 <section id="how-steam-coal-plants-work" class="slide level2 center">
 <h2>How steam coal plants work</h2>
 
-<img data-src="images/coal_fired_power_plant_diagram.png" class="r-stretch"><div class="footer">
+<img data-src="images/coal_fired_power_plant_diagram.png" class="r-stretch quarto-figure-center"><div class="footer">
 <p>Source: <a href="https://en.wikipedia.org/wiki/Fossil_fuel_power_station">Wikipedia</a></p>
 </div>
 </section>
-<section id="baran-cycle" class="slide level2 center">
-<h2>Baran cycle</h2>
-</section>
-<section id="largest-coal-plant-in-the-u.s." class="slide level2 center">
-<h2>Largest coal plant in the U.S.</h2>
-<p>:::columns</p>
+<section id="brayton-cycle-vs.-rankine-cycle" class="slide level2 center">
+<h2>Brayton cycle vs.&nbsp;Rankine cycle</h2>
+<div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="images/georgia_power_plant_scherer.png"></p>
-<p>Georgia Power plant Scherer</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Brayton_cycle.png"></p>
+</figure>
 </div>
-<div class="column" style="width:50%;">
-<p>Can you identify the components<br>
-- Coal storage<br>
-- Generating unit<br>
-- Cooling stack<br>
-- Bottom ash landfill<br>
-- Sub-station<br>
-- Transimission lines<br>
-- Waste/pollution management</p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Rankine_cycle.png"></p>
+</figure>
+</div>
+</div>
 </div>
 <div class="footer">
-<p>Source: <a href="https://goo.gl/maps/b6mCqsm6G9bhTc5b6">Google Map</a>, Read more: <a href="https://carbontracker.org/reports/nowhere-to-hide/">Nowhere to hide</a></p>
+<p>Read more: Wikipedia <a href="https://en.wikipedia.org/wiki/Brayton_cycle">Brayton cycle</a> and <a href="https://en.wikipedia.org/wiki/Rankine_cycle">Rankine cycle</a></p>
+</div>
+</section>
+<section id="largest-coal-plant-in-the-u.s." class="slide level2 smaller center">
+<h2>Largest coal plant in the U.S.</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/georgia_power_plant_scherer.png"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Georgia Power plant Scherer (3,720 MW)</p>
+<p>Can you identify the components</p>
+<ul>
+<li>Coal storage<br>
+</li>
+<li>Generating unit<br>
+</li>
+<li>Cooling stack<br>
+</li>
+<li>Bottom ash landfill<br>
+</li>
+<li>Sub-station<br>
+</li>
+<li>Transimission lines<br>
+</li>
+<li>Waste/pollution management<br>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<p>Source: <a href="https://goo.gl/maps/b6mCqsm6G9bhTc5b6">Google Map</a>, read more: <a href="https://carbontracker.org/reports/nowhere-to-hide/">Nowhere to hide</a></p>
 </div>
 </section>
 <section id="combined-cycle" class="slide level2 center">
 <h2>Combined cycle</h2>
-<iframe src="https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001" allowfullscreen="" frameborder="0">
+<center>
+<iframe width="800" height="450" src="https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001" allowfullscreen="" frameborder="0">
 </iframe>
+</center>
 <div class="footer">
 <p>Read more: <a href="https://www.tva.com/energy/our-power-system/natural-gas/how-a-combined-cycle-power-plant-works">Tennessee Valley Authority</a></p>
 </div>
 </section>
 <section id="wind" class="slide level2 center">
 <h2>Wind</h2>
-<p>:::columns</p>
+<div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="images/georgia_power_plant_scherer.png"></p>
-<p>Georgia Power plant Scherer</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/block-island-wind.jpeg"></p>
+</figure>
 </div>
-<div class="column" style="width:50%;">
+</div><div class="column" style="width:50%;">
 <p><span class="math inline">\(P=\frac{1}{2}\rho \pi r^2 v^3\)</span></p>
-<p>Where,<br>
+<p style="font-size:16pt; color:gray">
+Where,<br>
 <span class="math inline">\(\rho\)</span> = Density (kg/m3)<br>
 <span class="math inline">\(A\)</span> = Swept Area (m2) = <span class="math inline">\(\pi r^2\)</span><br>
 <span class="math inline">\(v\)</span> = Wind Speed (m/s)<br>
-<span class="math inline">\(P\)</span> = Power (W)</p>
+<span class="math inline">\(P\)</span> = Power (W)
+</p>
+</div>
 </div>
 <div class="footer">
-<p>Read more:</p>
+<p>Photo by Gang He</p>
+</div>
+</section>
+<section id="betzs-law-59.3" class="slide level2 center">
+<h2>Betz’s law: 59.3%</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/upwind-downwind.png"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/blade-efficiency.png"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="footer">
+<p>Source: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
+</div>
+</section>
+<section id="average-power" class="slide level2 center">
+<h2>Average power</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/wind-distribution.png"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Rayleigh (a special type of Weibull) distribution</p>
+<p><span class="math inline">\(f(v)=\frac{2v}{c^2}\exp [-(\frac{v}{c})^2]\)</span></p>
+<p><span class="math inline">\(\bar{P}=\frac{6}{\pi}\cdot \frac{1}{2}\rho \pi r^2 \bar{v}^3=1.91P\)</span></p>
+<p>Use average power when dealing with average wind speed</p>
+</div>
+</div>
+<div class="footer">
+<p>Read more: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
+</div>
+</section>
+<section id="power-curve" class="slide level2 center">
+<h2>Power curve</h2>
+
+<img data-src="images/wind-power-curve.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Read more: NREL, <a href="https://www.nrel.gov/docs/fy14osti/61714.pdf">Validation of Power Output for the WIND Toolkit</a></p>
+</div>
+</section>
+<section id="important-corrections" class="slide level2 center">
+<h2>Important corrections</h2>
+<ul>
+<li>Temperature: <span class="math inline">\(\rho = \frac{P\times M.W. \times 10^{-3}}{RT}=\frac{1 atm\times 28.97 g/mol \times 10^{-3}kg/g}{8.2056\times 10^{-5}m^3\cdot atm/(K\cdot mol)\times(273.15+T)K}\)</span><br>
+</li>
+<li>Altitude: <span class="math inline">\(P=P_0 e^{-1.185\times 10^{-4}H}\)</span> (H in elevation in meters)<br>
+</li>
+<li>Tower height: <span class="math inline">\(\frac{v}{v_0}=(\frac{H}{H_0})^\alpha\)</span> (is the friction coefficient)</li>
+</ul>
+<div class="footer">
+<p>Read more: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
 </div>
 </section>
 <section id="solar" class="slide level2 center">
 <h2>Solar</h2>
+
+<img data-src="images/p-n-junction.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Read more: <a href="https://www.energy.gov/eere/solar/how-does-solar-work" class="uri">https://www.energy.gov/eere/solar/how-does-solar-work</a></p>
+</div>
+</section>
+<section id="how-solar-works" class="slide level2 center">
+<h2>How solar works</h2>
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</center>
+<div class="footer">
+<p>Source: <a href="https://www.youtube.com/watch?v=xKxrkht7CpY" class="uri">https://www.youtube.com/watch?v=xKxrkht7CpY</a></p>
+</div>
+</section>
+<section id="key-corrections" class="slide level2 center">
+<h2>Key corrections</h2>
+<ul>
+<li>Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle<br>
+</li>
+<li>Radiation: direct beam, diffusion, reflected<br>
+</li>
+<li>Tracking: fixed, 1-axis, 2-axis</li>
+</ul>
+<div class="footer">
+<p>Read more: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
+</div>
 </section>
 <section id="hydro" class="slide level2 center">
 <h2>Hydro</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/hydro.png"></p>
+</figure>
+</div>
+<p style="font-size:14pt; color:gray; text-align:center;">
+Hydropower
+</p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/pumped-storage.jpeg"></p>
+</figure>
+</div>
+<p style="font-size:14pt; color:gray; text-align:center;">
+Pumped storage hydropower (PSH)
+</p>
+</div>
+</div>
+<p><br></p>
+<center>
+<span class="math inline">\(E=\rho mg(h_1-h_2)\)</span>
+</center>
+<div class="footer">
+<p>Source: <a href="https://www.tva.com/energy/our-power-system/hydroelectric/how-hydroelectric-power-works">TVA</a></p>
+</div>
+</section>
+<section id="nuclear" class="slide level2 center">
+<h2>Nuclear</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/fission.png"></p>
+</figure>
+</div>
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fission
+</p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/fusion-reactions.jpeg"></p>
+</figure>
+</div>
+<p><br></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fussion
+</p>
+</div>
+</div>
+<div class="footer">
+<p>Read more: EIA, <a href="https://www.eia.gov/energyexplained/nuclear/">Nuclear explained</a>; DOE, <a href="https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions">Nuclear fusion reactions</a></p>
+</div>
+</section>
+<section id="summary" class="slide level2 smaller center">
+<h2>Summary</h2>
+<ul>
+<li>Theory - learn and understand the physics of energy technologies:
+<ul>
+<li>thermaldynamics (fossil)<br>
+</li>
+<li>kinematics (wind)<br>
+</li>
+<li>light and semiconductor (solar)<br>
+</li>
+<li>gravity (hydro, tidal)<br>
+</li>
+<li>atomic (nuclear)<br>
+</li>
+</ul></li>
+<li>Pracitce - learn all kinds of corrections based on real-world situation<br>
+</li>
+<li>The physics doesn’t change, corrections help us to do better job in simulation and projections</li>
+</ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" role="doc-bibliography">
-
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-masters2013renewable" class="csl-entry" role="doc-biblioentry">
+Masters, Gilbert M. 2013. <em>Renewable and Efficient Electric Power Systems</em>. John Wiley &amp; Sons.
+</div>
 </div>
 <div class="footer">
 <p>Back to Course <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/">Home</a>, or Learn More about <a href="https://drganghe.github.io">Gang He</a></p>

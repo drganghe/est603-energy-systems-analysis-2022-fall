@@ -2,9 +2,9 @@
 title: "Lecture 5 Energy Sources and Technologies"
 author: "Gang He"
 date: September 19, 2022
-#image: "images/discounting-schedule.png"
+image: "images/block-island-wind.jpeg"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -26,27 +26,46 @@ format:
 
 ## Thermodynamics 
 
+- Thermodynamic **efficiency**   
+- Comparing different technologies  
+- Thermodynamics provides physic limits    
 
 
-## Laws of thermodynamics {.smaller}
+## Heat engine 
+
+![](images/heat_engine.png){fig-align="center"}
+
+Heat -> Mechanical energy (work) 
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Heat_engine)
+:::
+
+## Laws of thermodynamics{.smaller}
 
 - Zeroth law  
-> If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.  
+"If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other."    
+
 - First law  
-> In a process without transfer of matter, the change in internal energy, $\Delta U$, of a thermodynamic system is equal to the energy gained as heat, $Q$, less the thermodynamic work, $W$, done by the system on its surroundings.
+"In a process without transfer of matter, the change in internal energy, $\Delta U$, of a thermodynamic system is equal to the energy gained as heat, $Q$, less the thermodynamic work, $W$, done by the system on its surroundings."
+
 - Second law   
-> Heat does not spontaneously flow from a colder body to a hotter body.  
+"Heat does not spontaneously flow from a colder body to a hotter body."  
+
 - Third law  
-> As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.  
+"As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value."  
 
 ::: footer
 Read more: [Wikipedia](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
 :::
 
-## Three efficiencies 
-- 1st law: actual, thermal efficiency; $\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}} $
-- Carnot: maximum possible efficiency; $\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}} $ (Kelvin)  
-- 2nd law: comparing 1st and Carnot; $\eta_2 =\frac{\eta_1}{\eta_c}$  
+## Three efficiencies  
+- 1st law: actual, thermal efficiency;   
+$\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}}$ 
+- Carnot: maximum possible efficiency;  
+$\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}}$ (Kelvin)  
+- 2nd law: comparing 1st and Carnot;  
+$\eta_2 =\frac{\eta_1}{\eta_c}$  
 
 ::: footer
 Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
@@ -54,30 +73,45 @@ Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi
 
 ## How steam coal plants work
 
-![](images/coal_fired_power_plant_diagram.png)
+![](images/coal_fired_power_plant_diagram.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
 :::
 
 
-## Baran cycle  
-
-
-## Largest coal plant in the U.S.
+## Brayton cycle vs. Rankine cycle 
 
 :::columns
 
 ::: {.column width="50%"}
+![](images/Brayton_cycle.png){fig-align="center"}
+:::
 
-![](images/georgia_power_plant_scherer.png)
+::: {.column width="50%"}
+![](images/Rankine_cycle.png){fig-align="center"}
+:::
 
-Georgia Power plant Scherer
+:::
+
+::: footer
+Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)
+:::
+
+## Largest coal plant in the U.S. {.smaller}
+
+:::columns
+
+::: {.column width="50%"}
+![](images/georgia_power_plant_scherer.png){fig-align="center"}
 
 :::
 
 ::: {.column width="50%"}
+Georgia Power plant Scherer (3,720 MW)  
+
 Can you identify the components  
+
 - Coal storage  
 - Generating unit  
 - Cooling stack  
@@ -85,17 +119,20 @@ Can you identify the components
 - Sub-station  
 - Transimission lines  
 - Waste/pollution management  
+:::
 
 :::
 
 ::: footer
-Source: [Google Map](https://goo.gl/maps/b6mCqsm6G9bhTc5b6), Read more: [Nowhere to hide](https://carbontracker.org/reports/nowhere-to-hide/)
+Source: [Google Map](https://goo.gl/maps/b6mCqsm6G9bhTc5b6), read more: [Nowhere to hide](https://carbontracker.org/reports/nowhere-to-hide/)
 :::
 
 
 ## Combined cycle
 
-<iframe src='https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001' allowfullscreen frameborder=0></iframe>
+<center>
+<iframe width="800" height="450" src='https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001' allowfullscreen frameborder=0></iframe>
+</center>
 
 ::: footer
 Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-system/natural-gas/how-a-combined-cycle-power-plant-works)
@@ -107,31 +144,201 @@ Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-sys
 
 ::: {.column width="50%"}
 
-![](images/georgia_power_plant_scherer.png)
-
-Georgia Power plant Scherer
+![](images/block-island-wind.jpeg){fig-align="center"}
 
 :::
 
 ::: {.column width="50%"}
 $P=\frac{1}{2}\rho \pi r^2 v^3$
 
+<p style="font-size:16pt; color:gray">
 Where,  
 $\rho$ = Density  (kg/m3)  
 $A$ = Swept Area  (m2)  = $\pi r^2$  
 $v$ = Wind Speed  (m/s)  
 $P$ = Power (W)  
+</p>
+:::
+:::
+
+::: footer
+Photo by Gang He 
+:::
+
+
+## Betz's law: 59.3%
+
+:::columns
+
+::: {.column width="50%"}
+
+![](images/upwind-downwind.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](images/blade-efficiency.png){fig-align="center"}
+:::
 
 :::
 
 ::: footer
-Read more: 
+Source: @masters2013renewable 
+:::
+
+## Average power 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](images/wind-distribution.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+Rayleigh (a special type of Weibull) distribution 
+
+$f(v)=\frac{2v}{c^2}\exp [-(\frac{v}{c})^2]$
+
+$\bar{P}=\frac{6}{\pi}\cdot \frac{1}{2}\rho \pi r^2 \bar{v}^3=1.91P$
+
+Use average power when dealing with average wind speed 
+:::
+:::
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## Power curve
+
+![](images/wind-power-curve.png){fig-align="center"}
+
+::: footer
+Read more: NREL, [Validation of Power Output for the WIND Toolkit](https://www.nrel.gov/docs/fy14osti/61714.pdf)
+:::
+
+## Important corrections
+
+- Temperature: $\rho = \frac{P\times M.W. \times 10^{-3}}{RT}=\frac{1 atm\times 28.97 g/mol \times 10^{-3}kg/g}{8.2056\times 10^{-5}m^3\cdot atm/(K\cdot mol)\times(273.15+T)K}$   
+- Altitude: $P=P_0 e^{-1.185\times 10^{-4}H}$  (H in elevation in meters)  
+- Tower height: $\frac{v}{v_0}=(\frac{H}{H_0})^\alpha$  (\alpha is the friction coefficient)  
+  
+
+::: footer
+Read more: @masters2013renewable 
 :::
 
 ## Solar 
 
+![](images/p-n-junction.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
+:::
+
+## How solar works
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
+:::
+
+## Key corrections  
+
+- Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle   
+- Radiation: direct beam, diffusion, reflected  
+- Tracking: fixed, 1-axis, 2-axis  
+
+
+::: footer
+Read more: @masters2013renewable 
+:::
 
 ## Hydro 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](images/hydro.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Hydropower 
+</p>
+
+:::
+
+::: {.column width="50%"}
+![](images/pumped-storage.jpeg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Pumped storage hydropower (PSH)
+</p>
+:::
+
+:::
+
+</br>
+
+<center>
+$E=\rho mg(h_1-h_2)$
+</center>
+
+::: footer
+Source: [TVA](https://www.tva.com/energy/our-power-system/hydroelectric/how-hydroelectric-power-works)
+:::
+
+
+## Nuclear 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](images/fission.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fission
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](images/fusion-reactions.jpeg){fig-align="center"}
+
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fussion
+</p>
+:::
+
+:::
+
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/); DOE, [Nuclear fusion reactions](https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions)
+:::
+
+
+## Summary {.smaller}
+
+- Theory - learn and understand the physics of energy technologies: 
+  - thermaldynamics (fossil)  
+  - kinematics (wind)  
+  - light and semiconductor (solar)  
+  - gravity (hydro, tidal)  
+  - atomic (nuclear)    
+- Pracitce - learn all kinds of corrections based on real-world situation  
+- The physics doesn't change, corrections help us to do better job in simulation and projections  
+
 
 
 ---

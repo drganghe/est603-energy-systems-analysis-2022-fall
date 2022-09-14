@@ -35,11 +35,18 @@
     "text": "Reuse of material\nPlease feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my site or this course site for credit."
   },
   {
+    "objectID": "index.html#how-to-help",
+    "href": "index.html#how-to-help",
+    "title": "EST603 Energy Systems Analysis (Fall 2022)",
+    "section": "How to help",
+    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. If you like my work, please consider “Star” the repository to show your support. Any comments and suggestions are very welcome."
+  },
+  {
     "objectID": "lectures.html",
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -95,7 +102,7 @@
     "href": "homeworks/hw2.html",
     "title": "Homework 2 Energy project economics",
     "section": "",
-    "text": "Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year’s system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.\n\n\n\n\nLearn to use PVWatts to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information: Location: 11794\nDC Systems Size(kW): 6.4\nAll other parameters use defalt numbers\nPlease compare your simulated monthly results with actual system daily generation data over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (1pt). Discuss the risks/uncertainties to use simulation results to make purchase desision (1pt)?\nCalculate the simple payback time (in years, no discounting) of the solar system assuming the following (0.5pt):\nSystem costs (including panel and installation): $14,000\nState tax rebate: 25% (with a maximam of $5,000) of system costs\nFed tax credit: 26% of system costs\nHousehold average monthly electricity payment before installation: $140\nHousehold monthly PV system connection fee: $15\nWhat’s payback time without the State and Fed tax credit (0.5pt)?\nNow taking into acount of discounting:\nAnnual discounting rate: 5%\nMr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.\nMr. XYZ would received the tax credit in April during the tax filing month the following year\nUse July 2021 as the baseline month.\nWhat’s the payback time (in months) (1pt)?\nUsing the NPV in question 3 and calculating the leverized cost of electricity of Mr. XYZ’s system (1pt) The system life time: 25 years\nAssume an annual system decradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)\nComparing your results with PSEG Long Island’s residential electricity rate.\nNow think about more nuanced considerations when making intallation decisions if:\nMr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (0.5pt)\nMr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (0.5pt)\nMr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy (0.5pt)\nMr. XYZ will potentially move and sell the house in two years, how will that impact the investment decision (0.5pt)\nMr. XYZ can sell extra electricity back to the grid as in California’s case (0.5pt)\nMr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York’s case (0.5pt)\n\n\n\n\nLearn to use NREL’s System Advisory Model (SAM) to do more nuanced simulations.\n\nDownlod the software\n\nFollow the instuction\n\nGet the weather data of nearest location\n\nUsing default parameters to simulate hourly generation\n\nTry to play with the specific parameters to get familiar with the software"
+    "text": "Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year’s system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.\n\n\n\n\nLearn to use PVWatts to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information: Location: 11794\nDC Systems Size(kW): 6.4\nAll other parameters use defalt numbers\nPlease compare your simulated monthly results with actual system daily generation data over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (1pt). Discuss the risks/uncertainties to use simulation results to make purchase desision (1pt)?\nCalculate the simple payback time (in years, no discounting) of the solar system assuming the following (0.5pt):\nSystem costs (including panel and installation): $14,000\nState tax rebate: 25% (with a maximam of $5,000) of system costs\nFed tax credit: 26% of system costs\nHousehold average monthly electricity payment before installation: $140\nHousehold monthly PV system connection fee (cost): $15\nWhat’s payback time without the State and Fed tax credit (0.5pt)?\nNow taking into acount of discounting:\nAnnual discounting rate: 5%\nMr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.\nMr. XYZ would received the tax credit in April during the tax filing month the following year\nUse July 2021 as the baseline month.\nWhat’s the payback time (in months) (1pt)?\nBuilding on question 3 and now calculating the leverized cost of electricity of Mr. XYZ’s system (1pt) The system life time: 25 years\nAssume an annual system degradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)\nComparing your results with PSEG Long Island’s residential electricity rate (on average 21.22 cents/kWh in 2020).\nNow think about more nuanced considerations when making intallation decisions (using simple payback time or describe qualitatively) if:\nMr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (0.5pt)\nMr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (0.5pt)\nMr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy (0.5pt)\nMr. XYZ will potentially move and sell the house in two years, how will that impact the investment decision (0.5pt)\nMr. XYZ can sell extra electricity back to the grid as in California’s case (0.5pt)\nMr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York’s case (0.5pt)\n\n\n\n\nLearn to use NREL’s System Advisory Model (SAM) to do more nuanced simulations.\n\nDownlod the software\n\nFollow the instuction\n\nGet the weather data of nearest location\n\nUsing default parameters to simulate hourly generation\n\nTry to play with the specific parameters to get familiar with the software"
   },
   {
     "objectID": "homeworks/hw2.html#a-tale-of-two-nuclear-plants",
@@ -301,11 +308,151 @@
     "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture\nAI doesnot necessaries means better insights"
   },
   {
-    "objectID": "lectures/lecture4/index.html#sample-questions",
-    "href": "lectures/lecture4/index.html#sample-questions",
+    "objectID": "lectures/lecture5/index.html#sample-analytic-questions",
+    "href": "lectures/lecture5/index.html#sample-analytic-questions",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nHow many solar/wind capacities are needed to meet global energy need?\n\nHow many coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?\n\nHow to design the layout of solar/wind farms to improve production?"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#thermodynamics",
+    "href": "lectures/lecture5/index.html#thermodynamics",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Thermodynamics",
+    "text": "Thermodynamics\n\nThermodynamic efficiency\n\nComparing different technologies\n\nThermodynamics provides physic limits"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#heat-engine",
+    "href": "lectures/lecture5/index.html#heat-engine",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Heat engine",
+    "text": "Heat engine\n\nHeat -> Mechanical energy (work)\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#laws-of-thermodynamics",
+    "href": "lectures/lecture5/index.html#laws-of-thermodynamics",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Laws of thermodynamics",
+    "text": "Laws of thermodynamics\n\nZeroth law\n“If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.”\nFirst law\n“In a process without transfer of matter, the change in internal energy, \\(\\Delta U\\), of a thermodynamic system is equal to the energy gained as heat, \\(Q\\), less the thermodynamic work, \\(W\\), done by the system on its surroundings.”\nSecond law\n“Heat does not spontaneously flow from a colder body to a hotter body.”\nThird law\n“As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.”\n\n\nRead more: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#three-efficiencies",
+    "href": "lectures/lecture5/index.html#three-efficiencies",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Three efficiencies",
+    "text": "Three efficiencies\n\n1st law: actual, thermal efficiency;\n\\(\\eta_1 =\\frac{W_{net}}{Q_{in}}=\\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\\frac{Q_{low}}{Q_{high}}\\)\nCarnot: maximum possible efficiency;\n\\(\\eta_c =\\frac{W_{net}}{Q_{high}}=\\frac{T_{high}-T_{low}}{T_{high}}=1-\\frac{T_{low}}{T_{high}}\\) (Kelvin)\n\n2nd law: comparing 1st and Carnot;\n\\(\\eta_2 =\\frac{\\eta_1}{\\eta_c}\\)\n\n\nRead more: Sadi Carnot"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#how-steam-coal-plants-work",
+    "href": "lectures/lecture5/index.html#how-steam-coal-plants-work",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "How steam coal plants work",
+    "text": "How steam coal plants work\n\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#brayton-cycle-vs.-rankine-cycle",
+    "href": "lectures/lecture5/index.html#brayton-cycle-vs.-rankine-cycle",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Brayton cycle vs. Rankine cycle",
+    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#largest-coal-plant-in-the-u.s.",
+    "href": "lectures/lecture5/index.html#largest-coal-plant-in-the-u.s.",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Largest coal plant in the U.S.",
+    "text": "Largest coal plant in the U.S.\n\n\n\n\n\n\n\n\nGeorgia Power plant Scherer (3,720 MW)\nCan you identify the components\n\nCoal storage\n\nGenerating unit\n\nCooling stack\n\nBottom ash landfill\n\nSub-station\n\nTransimission lines\n\nWaste/pollution management\n\n\n\n\n\nSource: Google Map, read more: Nowhere to hide"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#combined-cycle",
+    "href": "lectures/lecture5/index.html#combined-cycle",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Combined cycle",
+    "text": "Combined cycle\n\n\n\n\n\nRead more: Tennessee Valley Authority"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#wind",
+    "href": "lectures/lecture5/index.html#wind",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Wind",
+    "text": "Wind\n\n\n\n\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Density (kg/m3)\n\\(A\\) = Swept Area (m2) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#betzs-law-59.3",
+    "href": "lectures/lecture5/index.html#betzs-law-59.3",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Betz’s law: 59.3%",
+    "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#average-power",
+    "href": "lectures/lecture5/index.html#average-power",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Average power",
+    "text": "Average power\n\n\n\n\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 \\bar{v}^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#power-curve",
+    "href": "lectures/lecture5/index.html#power-curve",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Power curve",
+    "text": "Power curve\n\n\nRead more: NREL, Validation of Power Output for the WIND Toolkit"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#important-corrections",
+    "href": "lectures/lecture5/index.html#important-corrections",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Important corrections",
+    "text": "Important corrections\n\nTemperature: \\(\\rho = \\frac{P\\times M.W. \\times 10^{-3}}{RT}=\\frac{1 atm\\times 28.97 g/mol \\times 10^{-3}kg/g}{8.2056\\times 10^{-5}m^3\\cdot atm/(K\\cdot mol)\\times(273.15+T)K}\\)\n\nAltitude: \\(P=P_0 e^{-1.185\\times 10^{-4}H}\\) (H in elevation in meters)\n\nTower height: \\(\\frac{v}{v_0}=(\\frac{H}{H_0})^\\alpha\\) (is the friction coefficient)\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#solar",
+    "href": "lectures/lecture5/index.html#solar",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Solar",
+    "text": "Solar\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#how-solar-works",
+    "href": "lectures/lecture5/index.html#how-solar-works",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "How solar works",
+    "text": "How solar works\n\n\n\n\n\nSource: https://www.youtube.com/watch?v=xKxrkht7CpY"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#key-corrections",
+    "href": "lectures/lecture5/index.html#key-corrections",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Key corrections",
+    "text": "Key corrections\n\nSolar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle\n\nRadiation: direct beam, diffusion, reflected\n\nTracking: fixed, 1-axis, 2-axis\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#hydro",
+    "href": "lectures/lecture5/index.html#hydro",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Hydro",
+    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\n\\(E=\\rho mg(h_1-h_2)\\)\n\n\nSource: TVA"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#nuclear",
+    "href": "lectures/lecture5/index.html#nuclear",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Nuclear",
+    "text": "Nuclear\n\n\n\n\n\n\n\n\nNuclear fission\n\n\n\n\n\n\n\n\n\nNuclear fussion\n\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
+  },
+  {
+    "objectID": "lectures/lecture5/index.html#summary",
+    "href": "lectures/lecture5/index.html#summary",
+    "title": "Lecture 5 Energy Sources and Technologies",
+    "section": "Summary",
+    "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPracitce - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better job in simulation and projections"
+  },
+  {
+    "objectID": "lectures/lecture4/index.html#sample-analytic-questions",
+    "href": "lectures/lecture4/index.html#sample-analytic-questions",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
-    "section": "Sample questions",
-    "text": "Sample questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
   },
   {
     "objectID": "lectures/lecture4/index.html#project-economics",
@@ -746,20 +893,6 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n2\n\n\n6\n9/26\nEnergy demand\n\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
-  },
-  {
-    "objectID": "index.html#how-to-help",
-    "href": "index.html#how-to-help",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "How to help",
-    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. If you like my work, please consider “Star” the repository to show your support. Any comments and suggestions are very welcome."
-  },
-  {
-    "objectID": "lectures/lecture4/index.html#sample-analytic-questions",
-    "href": "lectures/lecture4/index.html#sample-analytic-questions",
-    "title": "Lecture 4 Economics for Energy Systems Analysis",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\n3\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
   }
 ]
