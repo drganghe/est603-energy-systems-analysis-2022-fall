@@ -39,7 +39,7 @@
     "href": "index.html#how-to-help",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
     "section": "How to help",
-    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. If you like my work, please consider “Star” the repository to show your support. Any comments and suggestions are very welcome."
+    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. Any comments and suggestions are very welcome."
   },
   {
     "objectID": "lectures.html",
@@ -354,7 +354,7 @@
     "href": "lectures/lecture5/index.html#brayton-cycle-vs.-rankine-cycle",
     "title": "Lecture 5 Energy Sources and Technologies",
     "section": "Brayton cycle vs. Rankine cycle",
-    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
+    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\n\n\n\nJet engine, gas turbine\n\n\n\n\n\nSteam engine, steam turbine\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
   },
   {
     "objectID": "lectures/lecture5/index.html#largest-coal-plant-in-the-u.s.",
@@ -431,7 +431,7 @@
     "href": "lectures/lecture5/index.html#hydro",
     "title": "Lecture 5 Energy Sources and Technologies",
     "section": "Hydro",
-    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\n\\(E=\\rho mg(h_1-h_2)\\)\n\n\nSource: TVA"
+    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
   },
   {
     "objectID": "lectures/lecture5/index.html#nuclear",
@@ -445,7 +445,7 @@
     "href": "lectures/lecture5/index.html#summary",
     "title": "Lecture 5 Energy Sources and Technologies",
     "section": "Summary",
-    "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPracitce - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better job in simulation and projections"
+    "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better job in simulation and projections"
   },
   {
     "objectID": "lectures/lecture4/index.html#sample-analytic-questions",

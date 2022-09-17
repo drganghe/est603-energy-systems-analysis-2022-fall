@@ -22,8 +22,9 @@ format:
 - What will be the load in the NYISO service area in 2030?  
 - How EV will change the load?    
 - What drives energy demand growth?  
-- How climate change changes enegy demand?   
-- How to make reasonal assumptions about stock turn over?  
+- How climate change changes energy demand?   
+- How to make reasonal assumptions about appliances stock turn over?  
+
 
 ## Germany energy demand 
 ![](images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2020.png){fig-align="center"}
@@ -31,6 +32,34 @@ format:
 ::: footer
 Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)
 :::
+
+## IPAT
+
+## Population
+
+## Economy (GDP)
+
+## Energy intensity
+
+## Electrification
+
+## EV and load 
+
+## Techonology (Efficiency)
+
+## Decent living
+
+
+## Adoptation curve
+
+
+## Load forecast
+
+:::{.footer}
+Read more: ISO New England [load forecast](https://www.iso-ne.com/system-planning/system-forecasting/load-forecast/)
+:::
+
+## Summary
 
 
 ---

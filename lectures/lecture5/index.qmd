@@ -88,9 +88,18 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
 ![](images/Brayton_cycle.png){fig-align="center"}
 :::
 
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Jet engine, gas turbine
+</p>
+
 ::: {.column width="50%"}
 ![](images/Rankine_cycle.png){fig-align="center"}
 :::
+<p style="font-size:14pt; color:gray; text-align:center;">
+Steam engine, steam turbine
+</p>
 
 :::
 
@@ -287,7 +296,7 @@ Pumped storage hydropower (PSH)
 </br>
 
 <center>
-$E=\rho mg(h_1-h_2)$
+$E=\rho mg(h_2-h_1)$
 </center>
 
 ::: footer
@@ -336,7 +345,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
   - light and semiconductor (solar)  
   - gravity (hydro, tidal)  
   - atomic (nuclear)    
-- Pracitce - learn all kinds of corrections based on real-world situation  
+- Practice - learn all kinds of corrections based on real-world situation  
 - The physics doesn't change, corrections help us to do better job in simulation and projections  
 
 

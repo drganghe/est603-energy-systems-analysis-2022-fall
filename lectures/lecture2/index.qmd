@@ -120,7 +120,7 @@ We need to know what we are talking about!
 
 ## Back-of-the-envelope estimation
 
-![](images/boe-equations.jpeg){fig-align="center"}
+![](images/boe-equations.png){fig-align="center"}
 
 ::: footer
 Source: Gang He
