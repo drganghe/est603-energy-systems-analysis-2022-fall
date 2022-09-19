@@ -86,6 +86,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
 
 ::: {.column width="50%"}
 ![](images/Brayton_cycle.png){fig-align="center"}
+
 <p style="font-size:14pt; color:gray; text-align:center;">
 Jet engine, gas turbine
 </p>
@@ -93,6 +94,7 @@ Jet engine, gas turbine
 
 ::: {.column width="50%"}
 ![](images/Rankine_cycle.png){fig-align="center"}
+
 <p style="font-size:14pt; color:gray; text-align:center;">
 Steam engine, steam turbine
 </p>

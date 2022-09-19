@@ -2,9 +2,9 @@
 title: "Lecture 6 Energy Demand"
 author: "Gang He"
 date: September 26, 2022
-#image: "images/discounting-schedule.png"
+image: "images/china-provincial-electricity-gdp.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -35,31 +35,153 @@ Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/german
 
 ## IPAT
 
+<center>
+$I=P\times A\times T$
+
+<p style="font-size:24pt; color:gray">
+Where,  
+$I$ = Impact   
+$P$ = Population  
+$A$ = Aflluence  
+$T$ = Technology    
+</p>
+</center>
+
+::: footer
+Read more: @ehrlich1971impact, John Holdren [A brief history of "IPAT"](https://mahb.stanford.edu/wp-content/uploads/2020/02/1993-holdre-BRIEF-HISTORY-OF-COMMONER-BATTLE.pdf)
+:::
+
 ## Population
+
+![](images/total-population.png){fig-align="center"}
+
+::: footer
+Source: [UN World Population Prospects](https://population.un.org/wpp/Graphs/DemographicProfiles/Line/900)
+:::
+
 
 ## Economy (GDP)
 
+![](images/china-provincial-electricity-gdp.png){fig-align="center"}
+
+::: footer
+Read more: @lin2016economic 
+:::
+
 ## Energy intensity
+
+![](images/energy-intensity.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=JPN~USA~CHN~IND~OWID_WRL~DEU~GBR)
+:::
 
 ## Electrification
 
+![](images/electricity-share-in-final-energy.png){fig-align="center"}
+
+::: footer
+Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-final-consumption.html)
+:::
+
 ## EV and load 
 
-## Techonology (Efficiency)
+:::columns
+
+::: {.column width="30%"}
+![](images/ev-load.png){fig-align="center"}
+:::
+
+::: {.column width="70%"}
+![](images/ev-charging.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [McKinsey](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-potential-impact-of-electric-vehicles-on-global-energy-systems)
+:::
+
+## Energy efficiency - "First Fuel"
+
+![](images/ee-net-zero.png){fig-align="center"}
+
+::: footer
+Read more: [IEA](https://www.iea.org/articles/net-zero-by-2050-hinges-on-a-global-push-to-increase-energy-efficiency), @iea_net_2021
+:::
+
+## Adoption curve
+
+![](images/adoption-curve.png){fig-align="center"}
+
+::: footer
+Read more: [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+:::
+
+## Rebound
+
+![](images/Illustration-of-rebound-effects.png){fig-align="center"}
+
+::: footer
+Read more: [CarbonBrief](https://www.carbonbrief.org/guest-post-why-rebound-effects-may-cut-energy-savings-in-half/), @borenstein2015microeconomic, @brockway2021energy
+:::
+
+## Limit to growth, degrowth, green growth
+
+![](images/limits-to-growth.png){fig-align="center"}
+
+::: footer
+Read more: @meadows2018limits, [50-year argument](https://media.nature.com/original/magazine-assets/d41586-022-00723-1/d41586-022-00723-1.pdf)
+:::
+
 
 ## Decent living
 
+![](images/decent-living.jpeg){fig-align="center"}
 
-## Adoptation curve
+::: footer
+Read more: @rao2018decent 
+:::
+
+## Human behavior - demand response
+
+![](images/caiso-dr-20220906.png){fig-align="center"}
+
+::: footer
+Source: [CAIOS](https://www.caiso.com/TodaysOutlook/Pages/default.aspx)
+:::
+
+
+## Human behavior intervention
+
+![](images/energy-savings-behaviorial-us.png){fig-align="center"}
+
+::: footer
+Read more: [IEA](https://www.iea.org/articles/the-potential-of-behavioural-interventions-for-optimising-energy-use-at-home)
+:::
+
+## Load forecasting
+
+![](images/load-forecasting.jpg){fig-align="center"}
+
+:::{.footer}
+Source: @hong2016probabilistic
+:::
 
 
 ## Load forecast
 
+![](images/load-forecast-diagram.svg){fig-align="center"}
+
 :::{.footer}
-Read more: ISO New England [load forecast](https://www.iso-ne.com/system-planning/system-forecasting/load-forecast/)
+Read more: [PJM](https://learn.pjm.com/three-priorities/planning-for-the-future/load-forecasting.aspx), [ISO New England](https://www.iso-ne.com/system-planning/system-forecasting/load-forecast/)
 :::
 
 ## Summary
+
+- Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior   
+- Understanding those drivers will help us learn the magnitude and shape of our demand  
+- Load forecast integrates all insights to the show    
 
 
 ---

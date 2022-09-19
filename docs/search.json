@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -354,7 +354,7 @@
     "href": "lectures/lecture5/index.html#brayton-cycle-vs.-rankine-cycle",
     "title": "Lecture 5 Energy Sources and Technologies",
     "section": "Brayton cycle vs. Rankine cycle",
-    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\nJet engine, gas turbine\n\n\n\n\nSteam engine, steam turbine\n\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
+    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\n\n\n\n\nJet engine, gas turbine\n\n\n\n\n\n\n\n\nSteam engine, steam turbine\n\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
   },
   {
     "objectID": "lectures/lecture5/index.html#largest-coal-plant-in-the-u.s.",
@@ -712,6 +712,132 @@
     "title": "Lecture 3 Energy Systems Overview",
     "section": "How modelers think about an energy system",
     "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretion and communication"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#sample-analytic-questions",
+    "href": "lectures/lecture6/index.html#sample-analytic-questions",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change changes energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#germany-energy-demand",
+    "href": "lectures/lecture6/index.html#germany-energy-demand",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Germany energy demand",
+    "text": "Germany energy demand\n\n\nRead more: Clean Energy Wire"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#ipat",
+    "href": "lectures/lecture6/index.html#ipat",
+    "title": "Lecture 6 Energy Demand",
+    "section": "IPAT",
+    "text": "IPAT\n\n\\(I=P\\times A\\times T\\)\n\nWhere,\n\\(I\\) = Impact\n\\(P\\) = Population\n\\(A\\) = Aflluence\n\\(T\\) = Technology\n\n\n\nRead more: Ehrlich and Holdren (1971), John Holdren A brief history of “IPAT”"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#population",
+    "href": "lectures/lecture6/index.html#population",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Population",
+    "text": "Population\n\n\nSource: UN World Population Prospects"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#economy-gdp",
+    "href": "lectures/lecture6/index.html#economy-gdp",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Economy (GDP)",
+    "text": "Economy (GDP)\n\n\nRead more: Lin, He, and Yuan (2016)"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#energy-intensity",
+    "href": "lectures/lecture6/index.html#energy-intensity",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy intensity",
+    "text": "Energy intensity\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#electrification",
+    "href": "lectures/lecture6/index.html#electrification",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Electrification",
+    "text": "Electrification\n\n\nSource: EnerData"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#ev-and-load",
+    "href": "lectures/lecture6/index.html#ev-and-load",
+    "title": "Lecture 6 Energy Demand",
+    "section": "EV and load",
+    "text": "EV and load\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: McKinsey"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#energy-efficiency---first-fuel",
+    "href": "lectures/lecture6/index.html#energy-efficiency---first-fuel",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy efficiency - “First Fuel”",
+    "text": "Energy efficiency - “First Fuel”\n\n\nRead more: IEA, IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#adoption-curve",
+    "href": "lectures/lecture6/index.html#adoption-curve",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Adoption curve",
+    "text": "Adoption curve\n\n\nRead more: Diffusion of innovations"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#rebound",
+    "href": "lectures/lecture6/index.html#rebound",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Rebound",
+    "text": "Rebound\n\n\nRead more: CarbonBrief, Borenstein (2015), Brockway et al. (2021)"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#limit-to-growth-degrowth-green-growth",
+    "href": "lectures/lecture6/index.html#limit-to-growth-degrowth-green-growth",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Limit to growth, degrowth, green growth",
+    "text": "Limit to growth, degrowth, green growth\n\n\nRead more: Meadows et al. (2018), 50-year argument"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#decent-living",
+    "href": "lectures/lecture6/index.html#decent-living",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Decent living",
+    "text": "Decent living\n\n\nRead more: Rao and Min (2018)"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#human-behavior---demand-response",
+    "href": "lectures/lecture6/index.html#human-behavior---demand-response",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Human behavior - demand response",
+    "text": "Human behavior - demand response\n\n\nSource: CAIOS"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#human-behavior-intervention",
+    "href": "lectures/lecture6/index.html#human-behavior-intervention",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Human behavior intervention",
+    "text": "Human behavior intervention\n\n\nRead more: IEA"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#load-forecasting",
+    "href": "lectures/lecture6/index.html#load-forecasting",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Load forecasting",
+    "text": "Load forecasting\n\n\nSource: Hong and Fan (2016)"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#load-forecast",
+    "href": "lectures/lecture6/index.html#load-forecast",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Load forecast",
+    "text": "Load forecast\n\n\nRead more: PJM, ISO New England"
+  },
+  {
+    "objectID": "lectures/lecture6/index.html#summary",
+    "href": "lectures/lecture6/index.html#summary",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Summary",
+    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and shape of our demand\n\nLoad forecast integrates all insights to the show"
   },
   {
     "objectID": "lectures/lecture1/index.html#us-passed-historical-climate-bill",
