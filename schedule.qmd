@@ -9,7 +9,7 @@ title: Course Schedule
 | 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)               |                                                                      |
 | 4    | 9/12  | [Economics for energy systems analysis](lectures/lecture4/index.qmd) | [HW1](homeworks/hw1.qmd) due </br> [HW2](homeworks/hw2.qmd) assigned |
 | 5    | 9/19  | [Energy sources](lectures/lecture5/index.qmd)                        |                                                                      |
-| 6    | 9/26  | Energy demand                                                        | [HW2](homeworks/hw2.qmd) due                                         |
+| 6    | 9/26  | [Energy demand](lectures/lecture6/index.qmd)                         | [HW2](homeworks/hw2.qmd) due                                         |
 | 7    | 10/3  | Energy, environment, and health                                      | 3                                                                    |
 | 8    | 10/10 | Fall Break -- No class in session                                    |                                                                      |
 | 9    | 10/17 | Energy and climate change                                            |                                                                      |
