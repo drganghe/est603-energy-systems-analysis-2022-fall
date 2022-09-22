@@ -1,5 +1,5 @@
 ---
-title: "Lecture 2 Make sense of energy numbers"
+title: "Lecture 2 Make Sense of Energy Numbers"
 author: "Gang He"
 date: Aug 29, 2022
 image: "images/boe-equations.png"

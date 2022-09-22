@@ -1,0 +1,45 @@
+---
+title: "Lecture 7 Energy, Environment, and Human Health"
+author: "Gang He"
+date: October 3, 2022
+image: "images/china-provincial-electricity-gdp.png"
+#suppress-bibliography: true
+draft: true
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: custom.css
+    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+---
+
+## Sample analytic questions
+
+- What are the co-benefits of energy transitions?  
+- How EV will change the load?    
+- What drives energy demand growth?  
+- How climate change changes energy demand?   
+- How to make reasonal assumptions about appliances stock turn over?  
+
+
+
+## Summary
+
+- Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior   
+- Understanding those drivers will help us learn the magnitude and shape of our demand  
+- Load forecast integrates all insights to the show    
+
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+:::

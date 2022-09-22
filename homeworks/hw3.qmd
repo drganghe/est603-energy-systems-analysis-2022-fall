@@ -1,6 +1,6 @@
 ---
-title: Homework 2 Energy project economics
-#draft: true
+title: Homework 3 Energy supply and demand
+draft: true
 format: 
   html: 
     theme: cosmo
