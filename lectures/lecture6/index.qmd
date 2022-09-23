@@ -33,6 +33,15 @@ format:
 Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)
 :::
 
+
+## Top-down vs bottom-up
+
+![](images/top-down-and-bottom-up.png){fig-align="center"}
+
+::: footer
+Source: @swan2009modeling 
+:::
+
 ## IPAT
 
 <center>

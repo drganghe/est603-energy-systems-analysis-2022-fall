@@ -19,3 +19,9 @@ text-align: center;
 .reveal .slide div.aside {
 font-size: 12px;
 }
+
+.scrollable {
+    height: 650px;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
