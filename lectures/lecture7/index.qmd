@@ -2,7 +2,7 @@
 title: "Lecture 7 Energy, Environment, and Human Health"
 author: "Gang He"
 date: October 3, 2022
-image: "images/china-provincial-electricity-gdp.png"
+#image: "images/china-provincial-electricity-gdp.png"
 #suppress-bibliography: true
 draft: true
 format:
@@ -14,7 +14,7 @@ format:
     r-fit-text: true
     center: true
     css: custom.css
-    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+    #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
 ---
 
 ## Sample analytic questions

@@ -27,7 +27,8 @@ format:
 
 
 ## Germany energy demand 
-![](images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2020.png){fig-align="center"}
+
+![](images/german-gdp-and-energy-1990-2020.png){fig-align="center"}
 
 ::: footer
 Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)

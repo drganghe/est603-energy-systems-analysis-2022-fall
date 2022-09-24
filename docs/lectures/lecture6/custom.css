@@ -20,8 +20,3 @@ text-align: center;
 font-size: 12px;
 }
 
-.scrollable {
-    height: 650px;
-    overflow-y: auto !important;
-    overflow-x: hidden !important;
-}
