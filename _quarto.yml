@@ -7,8 +7,8 @@ website:
   navbar:
     background: light
     right:
-      - text: Home
-        href: index.qmd
+      - text: Dr. Gang He
+        href: http://drganghe.github.io
       - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
