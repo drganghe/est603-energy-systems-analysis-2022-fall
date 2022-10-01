@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -978,6 +978,139 @@
     "title": "Lecture 1 Introduction",
     "section": "End with two quotes",
     "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nSource: Hogan (2002)\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\nSource: Huntington, Weyant, and Sweeney (1982)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#sample-analytic-questions",
+    "href": "lectures/lecture7/index.html#sample-analytic-questions",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the environmental impacts of a fossil power plant?\n\nHow much water could you save if you replace all water cooling plants with air cooling?\n\nWhat are the human health impacts of energy?\n\nWhat are the co-benefits of energy transitions?"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#energy-system-environmental-and-health-impacts",
+    "href": "lectures/lecture7/index.html#energy-system-environmental-and-health-impacts",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Energy system environmental and health impacts",
+    "text": "Energy system environmental and health impacts\n\n\n\n\n\n\n\n\nSystem impacts\n- Air pollution\n- Health\n- Water\n- Land use\n- Ecosystem\n- Climate change\n\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#example-sources-of-energy-related-air-pollution",
+    "href": "lectures/lecture7/index.html#example-sources-of-energy-related-air-pollution",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Example sources of energy related air pollution",
+    "text": "Example sources of energy related air pollution\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#pollution-by-energy-sector",
+    "href": "lectures/lecture7/index.html#pollution-by-energy-sector",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Pollution by energy sector",
+    "text": "Pollution by energy sector\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#air-pollution-and-human-health-analytic-framework",
+    "href": "lectures/lecture7/index.html#air-pollution-and-human-health-analytic-framework",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Air pollution and human health analytic framework",
+    "text": "Air pollution and human health analytic framework\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#energy-related-pm-emissions-by-sector-and-region",
+    "href": "lectures/lecture7/index.html#energy-related-pm-emissions-by-sector-and-region",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Energy related PM emissions by sector and region",
+    "text": "Energy related PM emissions by sector and region\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#air-pollution-standards-aqi",
+    "href": "lectures/lecture7/index.html#air-pollution-standards-aqi",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Air pollution standards (AQI)",
+    "text": "Air pollution standards (AQI)\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#typical-power-plant-emission-control-system",
+    "href": "lectures/lecture7/index.html#typical-power-plant-emission-control-system",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Typical power plant emission control system",
+    "text": "Typical power plant emission control system\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#pollution-mitigation-technologies-and-efficiencies",
+    "href": "lectures/lecture7/index.html#pollution-mitigation-technologies-and-efficiencies",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Pollution mitigation technologies and efficiencies",
+    "text": "Pollution mitigation technologies and efficiencies\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#outdoor-air-pollution-and-premature-mortality",
+    "href": "lectures/lecture7/index.html#outdoor-air-pollution-and-premature-mortality",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Outdoor air pollution and premature mortality",
+    "text": "Outdoor air pollution and premature mortality\n\n\nSource: Lelieveld et al. (2015)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#trade-air-pollution-and-premature-mortality",
+    "href": "lectures/lecture7/index.html#trade-air-pollution-and-premature-mortality",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Trade, air pollution, and premature mortality",
+    "text": "Trade, air pollution, and premature mortality\n\n\nSource: Q. Zhang et al. (2017)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#energy-sector-accounts-18-global-water-withdrawal",
+    "href": "lectures/lecture7/index.html#energy-sector-accounts-18-global-water-withdrawal",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Energy sector accounts ~1/8 global water withdrawal",
+    "text": "Energy sector accounts ~1/8 global water withdrawal\n\n\nSource: IEA (2016b)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#water-withdrawal-vs.-water-consumption",
+    "href": "lectures/lecture7/index.html#water-withdrawal-vs.-water-consumption",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Water withdrawal vs. water consumption",
+    "text": "Water withdrawal vs. water consumption\n\nWithdrawal is the volume of water removed from a source\n\nConsumption is the volume of water withdrawn that is not returned to the source, i.e. it is evaporated or transported to another location. \nDischarge is the volume of water withdrawn that is returned to the source, often degraded by use (altered physically or chemically) and impacting water quality. \nWater withdrawals are, by definition, always greater than or equal to consumption and are, therefore, the first limit approached at an energy production facility when water availability is constrained. \nConsumptive use reduces the amount of water available to satisfy demands downstream and is an important consideration where water resources are strained to meet the needs of all users."
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#renewables-save-water",
+    "href": "lectures/lecture7/index.html#renewables-save-water",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Renewables save water",
+    "text": "Renewables save water\n\n\nSource: IEA (2016b)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#dry-cooling-makes-a-big-difference",
+    "href": "lectures/lecture7/index.html#dry-cooling-makes-a-big-difference",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Dry cooling makes a big difference",
+    "text": "Dry cooling makes a big difference"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#water-energy-carbon-nexus",
+    "href": "lectures/lecture7/index.html#water-energy-carbon-nexus",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Water-energy-carbon nexus",
+    "text": "Water-energy-carbon nexus\n\n\nSource: C. Zhang et al. (2021)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#land-use-intensity",
+    "href": "lectures/lecture7/index.html#land-use-intensity",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Land use intensity",
+    "text": "Land use intensity\n\n\nSource: Loveringa et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#multiple-uses-of-land-co-benefits",
+    "href": "lectures/lecture7/index.html#multiple-uses-of-land-co-benefits",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Multiple uses of land, co-benefits!",
+    "text": "Multiple uses of land, co-benefits!\n\n\nSource: American Society of Civil Engineers"
+  },
+  {
+    "objectID": "lectures/lecture7/index.html#summary",
+    "href": "lectures/lecture7/index.html#summary",
+    "title": "Lecture 7 Energy, Environment, and Human Health",
+    "section": "Summary",
+    "text": "Summary\n\nEnvironmental and health impact are the external impacts of energy system\n\nEnergy-air-pollution-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts shows the constraint in systems modeling"
   },
   {
     "objectID": "resources.html",

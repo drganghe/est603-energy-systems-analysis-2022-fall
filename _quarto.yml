@@ -28,7 +28,9 @@ website:
           - text: Lecture 5
             href: lectures/lecture5/index.qmd
           - text: Lecture 6
-            href: lectures/lecture6/index.qmd                                                
+            href: lectures/lecture6/index.qmd
+          - text: Lecture 7
+            href: lectures/lecture7/index.qmd                                                 
       - text: Homework
         menu:
           - text: HW 0

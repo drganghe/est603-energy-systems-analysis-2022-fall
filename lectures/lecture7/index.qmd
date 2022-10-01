@@ -2,9 +2,9 @@
 title: "Lecture 7 Energy, Environment, and Human Health"
 author: "Gang He"
 date: October 3, 2022
-#image: "images/china-provincial-electricity-gdp.png"
+image: "images/iea-energy-air-pollution.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -19,22 +19,179 @@ format:
 
 ## Sample analytic questions
 
-- What are the co-benefits of energy transitions?  
-- How EV will change the load?    
-- What drives energy demand growth?  
-- How climate change changes energy demand?   
-- How to make reasonal assumptions about appliances stock turn over?  
+-   What are the environmental impacts of a fossil power plant?\
+-   How much water could you save if you replace all water cooling plants with air cooling?\
+-   What are the human health impacts of energy?\
+-   What are the co-benefits of energy transitions?\
 
 
+## Energy system environmental and health impacts
+
+:::columns
+
+::: {.column width="70%"}
+![](images/energy-systems.png){fig-align="center" width=70%}
+:::
+
+::: {.column width="30%"}
+**System impacts**\
+- Air pollution\
+- Health\
+- Water\
+- Land use\
+- Ecosystem\
+- Climate change
+:::
+
+:::
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+:::
+
+
+## Example sources of energy related air pollution
+
+![](images/energy-related-air-pollution.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Pollution by energy sector
+
+![](images/iea-energy-air-pollution.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+## Air pollution and human health analytic framework
+
+![](images/environmental-health-framework.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Energy related PM emissions by sector and region
+
+![](images/pm-emissions-map.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+## Air pollution standards (AQI)
+
+![](images/air-pollution-standards.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+## Typical power plant emission control system
+
+![](images/power-plant-air-pollutions.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Pollution mitigation technologies and efficiencies
+
+![](images/pollution-abatement-efficiency.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Outdoor air pollution and premature mortality
+
+![](images/motality-map.png){fig-align="center"}
+
+::: footer
+Source: @lelieveld2015contribution
+:::
+
+## Trade, air pollution, and premature mortality
+
+![](images/trade-emissions-motality.jpg){fig-align="center"}
+
+::: footer
+Source: @zhang2017transboundary
+:::
+
+
+## Energy sector accounts ~1/8 global water withdrawal
+
+![](images/water-by-sector.png){fig-align="center"}
+
+::: footer
+Source: @iea2016energywater
+:::
+
+
+## Water withdrawal vs. water consumption{.smaller}
+
+- Withdrawal is the volume of water removed from a source\
+- Consumption is the volume of water withdrawn that is not returned to the source, i.e. it is evaporated or transported to another location.\ 
+- Discharge is the volume of water withdrawn that is returned to the source, often degraded by use (altered physically or chemically) and impacting water quality.\ 
+- Water withdrawals are, by definition, always greater than or equal to consumption and are, therefore, the first limit approached at an energy production facility when water availability is constrained.\ 
+- Consumptive use reduces the amount of water available to satisfy demands downstream and is an important consideration where water resources are strained to meet the needs of all users.
+
+
+## Renewables save water
+
+![](images/water-by-generating-technology.png){fig-align="center"}
+
+::: footer
+Source: @iea2016energywater
+:::
+
+
+## Dry cooling makes a big difference
+
+![](images/water-by-power-technology.png){fig-align="center"}
+
+
+## Water-energy-carbon nexus
+
+![](images/energy-water-carbon-nexus.png){fig-align="center"}
+
+::: footer
+Source: @zhang2021long
+:::
+
+## Land use intensity
+
+![](images/land-ghg-intensity-by-technolog.png){fig-align="center"}
+
+::: footer
+Source: @loveringa2022land
+:::
+
+## Multiple uses of land, co-benefits!
+
+![](images/california-solar-canal.jpeg){fig-align="center"}
+
+::: footer
+Source: [American Society of Civil Engineers](https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/article/2022/03/solar-panels-over-california-canals-test-possible-joint-siting-benefits)
+:::
 
 ## Summary
 
-- Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior   
-- Understanding those drivers will help us learn the magnitude and shape of our demand  
-- Load forecast integrates all insights to the show    
-
+-   Environmental and health impact are the external impacts of energy system\
+-   Energy-air-pollution-human health framework of analysis\
+-   Energy-water-carbon nexus\
+-   System impacts shows the constraint in systems modeling
 
 ---
+
 ### References
 
 ::: {#refs}
