@@ -39,6 +39,8 @@ website:
             href: homeworks/hw1.qmd
           - text: HW 2
             href: homeworks/hw2.qmd
+          - text: HW 3
+            href: homeworks/hw3.qmd            
       - text: Resources
         href: resources.qmd
   page-navigation: true
