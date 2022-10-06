@@ -42,10 +42,10 @@ Please show your formula, data, and results, draw a learning curve and discuss m
 
 ## 2. Offshore wind technology
 
-The U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the frontier of reach 9GW by 2035. Assume you are the project manager representing your commpany, an offshore wind developer, to bid in New York's [2022 offshore wind solicitation](https://www.nyserda.ny.gov/All-Programs/Offshore-Wind/Focus-Areas/Offshore-Wind-Solicitations/2022-Solicitation). Use the skills you learned from the class to prepare your bid.
+The U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the frontier of reaching 9GW by 2035. Assume you are the project manager representing your commpany, an offshore wind developer, to bid in New York's [2022 offshore wind solicitation](https://www.nyserda.ny.gov/All-Programs/Offshore-Wind/Focus-Areas/Offshore-Wind-Solicitations/2022-Solicitation). Use the skills you learned from the class to prepare your bid.
 
-1. Resources are key for project success. If you know the average wind speed is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\
-2. Now down load the [hourly wind speed](data/hw3-2wind.csv) from [Renewables Ninja](https://www.renewables.ninja/) using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\
+1. Resources are key for project success. If you know the average wind speed of solicitation site is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\
+2. Now download the [hourly wind speed](data/hw3-2wind.csv) from [Renewables Ninja](https://www.renewables.ninja/) using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\
 3. Your CEO needs to know the LCOE of the proposed project in order to make a investment decision, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)
 
 
@@ -53,10 +53,10 @@ The U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the f
 
 You may see [news or analysis](https://landartgenerator.org/blagi/archives/127) that a small portion of U.S. (or the world's) land can power the electricity need for the U.S. (or the whole world). With the class, you should feel uneasy not to do some back-of-the-envelope calculations to check if those claims really make sense. 
 
-1. First, go to crdiable sources to get the basics: total electricity consumpiton in the U.S (world) in 2021, average capacity factor of solar PV in the U.S. (world) in 2021 (if you do not have the direct number, you can use the solar generation and solar capacity to calculate the capacity factor). Please show your number and sources, it is also good practice to compare multiple sources. (0.5pt)\
+1. First, go to credible sources to get the basics: total electricity consumpiton in the U.S (world) in 2021, average capacity factor of solar PV in the U.S. (world) in 2021 (if you do not have the direct number, you can use the total solar generation and total solar capacity to calculate the capacity factor). Please show your number and sources, it is also good practice to compare multiple sources. (0.5pt)\
 2. Next, figure out how much solar capacity is needed to meet the electricity demand for both the U.S. and the world if all powered by solar. (0.5pt)\
-3. In addition, get the land use intensity of solar PV, citing [NREL](https://www.nrel.gov/analysis/tech-size.html) report or research papers, you may get a range of numbers and you can cite those as a range. (1pt)\
-4. Now, you can calcumate how much land is needed to power U.S. and the whole world. (0.5pt)\
+3. In addition, get the land use intensity of solar PV, citing [NREL](https://www.nrel.gov/analysis/tech-size.html) report or other research papers, you may get a range of numbers and you can calculate the results as a range. (1pt)\
+4. Now, you can calculate how much land is needed to power U.S. and the whole world. (0.5pt)\
 5. Compare your results with what you read from the news, and the total area of Long Island, and the area of the New York State.  (0.5pt)\
 6. Discuss what factors will impact your results, and how to interpretate your results. (1pt)
 
