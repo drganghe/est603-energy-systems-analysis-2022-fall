@@ -25,6 +25,15 @@ format:
 -   How climate change would affect energy supply and demand?\
 
 
+## Integrated assessment model
+
+![](images/iams-carbon-brief.png){fig-align="center"}
+
+::: footer
+Read more: Carbon Brief, [Q&A: How ‘integrated assessment models’ are used to study climate change](https://www.carbonbrief.org/qa-how-integrated-assessment-models-are-used-to-study-climate-change/)
+:::
+
+
 
 ## The mitigation wedges
 

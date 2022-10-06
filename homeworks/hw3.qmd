@@ -1,6 +1,6 @@
 ---
 title: Homework 3 Energy technology and impacts
-draft: true
+#draft: true
 format: 
   html: 
     theme: cosmo

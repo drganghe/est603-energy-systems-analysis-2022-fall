@@ -1,0 +1,65 @@
+---
+title: Project
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+---
+
+## Introduction
+
+Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics from previous students.
+
+### Sample student final project topics
+
+- Cost benefit analysis of installing solar PV in SBU\
+- Offshore wind resources potential in New York State\
+- Efficiency and Cost Analysis of Perovskite Solar Cells vs. Silicon Solar Cells\
+- Market barrier analysis of EV deployment\
+- Comparing the costs of solar with nuclear
+
+
+## Proposal
+
+Please submit an one-page proposal letting me know your topic, briefly explain why the topic, what data and analytic methods you plan to use, and any potential challenges and how would you address them.
+
+
+## Presentation
+
+Your presentation should about 15-20mins long summerizing your work. Please record your presentation with your video on or face visiable. Please submit both the video and slides.
+
+Your presentation will be graded by the following criteria:
+
+1. Nice presence [4pt]\
+2. Clear presentation of project ideas and insights [4pt]\
+3. Mastery of the subject [4pt]\
+4. Presentation design and style [4pt]\
+5. Overall impression [4pt]\
+
+
+## Final paper
+
+A typical research paper includes an introduction (research questions), literature review, methods and data, results (findings), conclusion and discussion (policy recommendation). Your paper should be double space, 10-15 pages long, excluding appropriately cited references. 
+
+Your paper will be graded by the following criteria:
+
+1. Creativity in defifing a topic/problem [5pt]\
+2. Rigorous analysis [10pt]\
+3. Clear writing, presentation, visulization [10pt]\
+4. Overall impression [5pt]\
