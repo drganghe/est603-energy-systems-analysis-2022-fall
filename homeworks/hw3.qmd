@@ -32,9 +32,9 @@ Lawrence Berkeley National Laboratory reports wind and solar data in the U.S. Th
 Use the [data](data/hw3-1data.xlsx) for 2010-2021 (higlighted in red) extracted from the reports:
  
 1. Calculate the learning rates of onshore wind (0.5pt) and utility scale solar PV (0.5pt) in the U.S.\  
-2. Then use your finding to project the future of wind and solar projects in the U.S. by 2030.\  
-  - If U.S. want to achieve \$700(2021USD)/kW cost goal by 2030 (see [ATB](https://atb.nrel.gov/electricity/2022/index) forecast), how much more wind should U.S. target to intall from 2022 to 2030?  (0.5pt)\
-  - Assume U.S. can achieve a 500GW cumulative utility scale solar PV by 2030, what the unit cost of solar PV in 2030? (0.5pt)\ 
+2. Then use your findings to project the future of wind and solar projects in the U.S. by 2030.\  
+  - If U.S. wants to achieve the \$700(2021USD)/kW cost goal by 2030 (see [ATB](https://atb.nrel.gov/electricity/2022/index) forecast), how much more wind capacity should U.S. target to intall from 2022 to 2030?  (0.5pt)\
+  - Assume U.S. can achieve a 500GW cumulative utility scale solar PV by 2030, what will be the unit cost of solar PV in 2030? (0.5pt)\ 
 3. Discuss the drives and uncertainties of learning curve, and show if your projections make sense. (1pt)
 
 Please show your formula, data, and results, draw a learning curve and discuss merits and limitation of the learning curve. 
@@ -46,7 +46,7 @@ The U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the f
 
 1. Resources are key for project success. If you know the average wind speed of solicitation site is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\
 2. Now download the [hourly wind speed](data/hw3-2wind.csv) from [Renewables Ninja](https://www.renewables.ninja/) using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\
-3. Your CEO needs to know the LCOE of the proposed project in order to make a investment decision, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)
+3. Your CEO needs to know the LCOE of the proposed project in order to make an investment decision. As a reference, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)
 
 
 ## 3. How much land does it really need for solar to power the U.S. and the world

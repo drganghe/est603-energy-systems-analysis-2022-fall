@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "homeworks/hw1.html",
@@ -116,14 +116,14 @@
     "href": "homeworks/hw3.html",
     "title": "Homework 3 Energy technology and impacts",
     "section": "",
-    "text": "Renewable costs have declined drastically in the past decade. Learning curve describles the emperical relationship between unit costs and cumulative production/installation. Please use the learning curve model to calculate the learning rates of onshore wind and utility scale solar PV in the U.S. and project future prices/capacities.\nLawrence Berkeley National Laboratory reports wind and solar data in the U.S. The most recent ones are the Land-Based Wind Market Report 2022 and Utility-Scale Solar, 2022 Edition.\nUse the data for 2010-2021 (higlighted in red) extracted from the reports:\n\nCalculate the learning rates of onshore wind (0.5pt) and utility scale solar PV (0.5pt) in the U.S. \nThen use your finding to project the future of wind and solar projects in the U.S. by 2030. \n\n\nIf U.S. want to achieve $700(2021USD)/kW cost goal by 2030 (see ATB forecast), how much more wind should U.S. target to intall from 2022 to 2030? (0.5pt)\n\nAssume U.S. can achieve a 500GW cumulative utility scale solar PV by 2030, what the unit cost of solar PV in 2030? (0.5pt) \n\n\nDiscuss the drives and uncertainties of learning curve, and show if your projections make sense. (1pt)\n\nPlease show your formula, data, and results, draw a learning curve and discuss merits and limitation of the learning curve."
+    "text": "Renewable costs have declined drastically in the past decade. Learning curve describles the emperical relationship between unit costs and cumulative production/installation. Please use the learning curve model to calculate the learning rates of onshore wind and utility scale solar PV in the U.S. and project future prices/capacities.\nLawrence Berkeley National Laboratory reports wind and solar data in the U.S. The most recent ones are the Land-Based Wind Market Report 2022 and Utility-Scale Solar, 2022 Edition.\nUse the data for 2010-2021 (higlighted in red) extracted from the reports:\n\nCalculate the learning rates of onshore wind (0.5pt) and utility scale solar PV (0.5pt) in the U.S. \nThen use your findings to project the future of wind and solar projects in the U.S. by 2030. \n\n\nIf U.S. wants to achieve the $700(2021USD)/kW cost goal by 2030 (see ATB forecast), how much more wind capacity should U.S. target to intall from 2022 to 2030? (0.5pt)\n\nAssume U.S. can achieve a 500GW cumulative utility scale solar PV by 2030, what will be the unit cost of solar PV in 2030? (0.5pt) \n\n\nDiscuss the drives and uncertainties of learning curve, and show if your projections make sense. (1pt)\n\nPlease show your formula, data, and results, draw a learning curve and discuss merits and limitation of the learning curve."
   },
   {
     "objectID": "homeworks/hw3.html#offshore-wind-technology",
     "href": "homeworks/hw3.html#offshore-wind-technology",
     "title": "Homework 3 Energy technology and impacts",
     "section": "2. Offshore wind technology",
-    "text": "2. Offshore wind technology\nThe U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the frontier of reaching 9GW by 2035. Assume you are the project manager representing your commpany, an offshore wind developer, to bid in New York’s 2022 offshore wind solicitation. Use the skills you learned from the class to prepare your bid.\n\nResources are key for project success. If you know the average wind speed of solicitation site is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\n\nNow download the hourly wind speed from Renewables Ninja using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\n\nYour CEO needs to know the LCOE of the proposed project in order to make a investment decision, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)"
+    "text": "2. Offshore wind technology\nThe U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the frontier of reaching 9GW by 2035. Assume you are the project manager representing your commpany, an offshore wind developer, to bid in New York’s 2022 offshore wind solicitation. Use the skills you learned from the class to prepare your bid.\n\nResources are key for project success. If you know the average wind speed of solicitation site is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\n\nNow download the hourly wind speed from Renewables Ninja using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\n\nYour CEO needs to know the LCOE of the proposed project in order to make an investment decision. As a reference, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)"
   },
   {
     "objectID": "homeworks/hw3.html#how-much-land-does-it-really-need-for-solar-to-power-the-u.s.-and-the-world",
@@ -1208,6 +1208,139 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nProposal due\n\n\n11\n10/31\nEnergy transition\n\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\nPresentation due\n\n\n16\n12/5\nNo class – preparing final paper\n\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#sample-analytic-questions",
+    "href": "lectures/lecture8/index.html#sample-analytic-questions",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nIf all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\n\nWhat needs to be included in New York State’s scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\n\nWhat level of social cost of carbon should New York State use?\n\nHow climate change would affect energy supply and demand?"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#integrated-assessment-model",
+    "href": "lectures/lecture8/index.html#integrated-assessment-model",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Integrated assessment model",
+    "text": "Integrated assessment model\n\n\nRead more: Carbon Brief, Q&A: How ‘integrated assessment models’ are used to study climate change"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-impacts",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-impacts",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 impacts",
+    "text": "IPCC AR6 impacts\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-mitigation-gap",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-mitigation-gap",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 mitigation gap",
+    "text": "IPCC AR6 mitigation gap\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-mitigation-pathways",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-mitigation-pathways",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 mitigation pathways",
+    "text": "IPCC AR6 mitigation pathways\n\n\nRead more: IPCC, Carbon Brief"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#the-mitigation-wedges",
+    "href": "lectures/lecture8/index.html#the-mitigation-wedges",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "The mitigation wedges",
+    "text": "The mitigation wedges\n\n\nSource: Pacala and Socolow (2004)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#the-mckingsey-curve",
+    "href": "lectures/lecture8/index.html#the-mckingsey-curve",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "The Mckingsey curve",
+    "text": "The Mckingsey curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#social-economic-impacts",
+    "href": "lectures/lecture8/index.html#social-economic-impacts",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Social economic impacts",
+    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#social-cost-of-carbon",
+    "href": "lectures/lecture8/index.html#social-cost-of-carbon",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#epa-social-cost-of-carbon",
+    "href": "lectures/lecture8/index.html#epa-social-cost-of-carbon",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "EPA social cost of carbon",
+    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#scc-updates",
+    "href": "lectures/lecture8/index.html#scc-updates",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "SCC updates",
+    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#what-works-whats-not",
+    "href": "lectures/lecture8/index.html#what-works-whats-not",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "What works what’s not",
+    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#best-practices",
+    "href": "lectures/lecture8/index.html#best-practices",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Best practices",
+    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#climate-change-affects-energy-system",
+    "href": "lectures/lecture8/index.html#climate-change-affects-energy-system",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Climate change affects energy system",
+    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#connecting-climate-and-energy-models",
+    "href": "lectures/lecture8/index.html#connecting-climate-and-energy-models",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Connecting climate and energy models",
+    "text": "Connecting climate and energy models\n\n\nSource: Craig et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#summary",
+    "href": "lectures/lecture8/index.html#summary",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Summary",
+    "text": "Summary\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instuments\n\nLearn the applicatons and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-energy-systems",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-energy-systems",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 energy systems",
+    "text": "IPCC AR6 energy systems\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-commercial-technology-availability",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-commercial-technology-availability",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 commercial technology availability",
+    "text": "IPCC AR6 commercial technology availability\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#nydec-value-of-carbon-guidance",
+    "href": "lectures/lecture8/index.html#nydec-value-of-carbon-guidance",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "NYDEC ‘Value of Carbon’ Guidance",
+    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
   }
 ]

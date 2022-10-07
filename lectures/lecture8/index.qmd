@@ -2,9 +2,9 @@
 title: "Lecture 8 Energy and Climate Change"
 author: "Gang He"
 date: October 17, 2022
-#image: "images/iea-energy-air-pollution.png"
+image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -13,7 +13,7 @@ format:
     auto-stretch: true
     r-fit-text: true
     center: true
-    css: costom.css
+    css: custom.css
     #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
 ---
 
@@ -34,13 +34,56 @@ Read more: Carbon Brief, [Q&A: How ‘integrated assessment models’ are used t
 :::
 
 
+## IPCC AR6 impacts
+
+![](images/ipcc-ar6-wg2.png){fig-align="center"}
+
+::: footer
+Read more: [IPCC](https://www.ipcc.ch/report/ar6/wg2/)
+:::
+
+## IPCC AR6 mitigation gap
+
+![](images/ipcc-ar6-wg3-ndc.png){fig-align="center"}
+
+::: footer
+Read more: [IPCC](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
+:::
+
+
+## IPCC AR6 mitigation pathways
+
+![](images/ipcc-ar6-wg3-pathway.png){fig-align="center"}
+
+::: footer
+Read more: [IPCC](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/), [Carbon Brief](https://www.carbonbrief.org/cmip6-the-next-generation-of-climate-models-explained/)
+:::
+
+
+## IPCC AR6 energy systems
+
+![](images/ipcc-ar6-wg3-energy-system.png){fig-align="center"}
+
+::: footer
+Read more: [IPCC](https://www.ipcc.ch/report/ar5/wg3/energy-systems/)
+:::
+
+
+## IPCC AR6 commercial technology availability
+
+![](images/ipcc-ar6-wg3-tech-availability.png){fig-align="center"}
+
+::: footer
+Read more: [IPCC](https://www.ipcc.ch/report/ar5/wg3/energy-systems/)
+:::
+
 
 ## The mitigation wedges
 
 ![](images/pacala-socolow-wedges.png){fig-align="center"}
 
 ::: footer
-Source: 
+Source: @pacala2004stabilization
 :::
 
 
@@ -52,16 +95,47 @@ Source:
 Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
 :::
 
+
+## Social economic impacts
+
+![](images/social-economic-impacts.png){fig-align="center"}
+
+::: footer
+Source: @carleton2016social
+:::
+
+
+## Social cost of carbon{.smaller}
+
+- Marginal cost of carbon\
+- Cost included:\
+  - Net agricultural productivity\
+  - Human health\
+  - Property damage\
+  - Energy system costs\
+- Cost not included:\
+  - Unknown impact: physical, ecological, economic\
+  - Unknown cost: information\
+
+
 ## EPA social cost of carbon
 
 :::columns
 
 ::: {.column width="50%"}
 ![](images/epa-scc-2010.png){fig-align="center"}
+
+<p style="text-align:center; font-size:14pt; color:gray;">
+2010 assessment
+</p>
 :::
 
 ::: {.column width="50%"}
 ![](images/epa-scc-2015.png){fig-align="center"}
+
+<p style="text-align:center; font-size:14pt; color:gray;">
+2015 assessment
+</p>
 :::
 
 :::
@@ -70,17 +144,68 @@ Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilit
 Source: [EPA](https://19january2017snapshot.epa.gov/climatechange/social-cost-carbon_.html)
 :::
 
+
+## NYDEC 'Value of Carbon' Guidance
+
+- Carbon dioxide: \$125 per ton\
+- Methane: \$2,782 per ton\
+- Nitrous oxide: \$44,727 per ton
+
+::: footer
+Source: [NYDEC](https://www.dec.ny.gov/press/122070.html)
+:::
+
 ## SCC updates
 
+![](images/scc185.png){fig-align="center"}
 
+::: footer
+Source: [RFF](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/), @rennert2022comprehensive
+:::
+
+
+## What works what's not
+
+- Carbon tax vs. subsides\
+- Regulations vs markets\
+- Considering\
+  - Societal acceptance\
+  - Political feasibility
+
+
+## Best practices
+
+- Energy efficiency\
+- Low carbon eco-city\
+- Renewable integration\
+- Sectoral experiences\
+- Policy/technology tools
+
+
+## Climate change affects energy system
+
+![](images/climate-impact-on-energy.webp){fig-align="center"}
+
+::: footer
+Source: @yalew2020impacts
+:::
+
+
+## Connecting climate and energy models
+
+![](images/energy-climate-models.jpg){fig-align="center"}
+
+::: footer
+Source: @craig2022overcoming
+:::
 
 
 ## Summary
 
--   Environmental and health impact are the external impacts of energy system\
--   Energy-air-pollution-human health framework of analysis\
+-   IAM framework and models to analyze energy, emissions, and climate impacts\
+-   Understanding the evolution of climate policy instuments\
 -   Learn the applicatons and limitations of social cost of carbon\
--   Climate change 
+-   Climate change affects energy supply and demand
 
 ---
 

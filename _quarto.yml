@@ -30,7 +30,9 @@ website:
           - text: Lecture 6
             href: lectures/lecture6/index.qmd
           - text: Lecture 7
-            href: lectures/lecture7/index.qmd                                                 
+            href: lectures/lecture7/index.qmd
+          - text: Lecture 8
+            href: lectures/lecture8/index.qmd                                                             
       - text: Homework
         menu:
           - text: HW 0
