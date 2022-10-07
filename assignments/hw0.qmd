@@ -1,5 +1,7 @@
 ---
 title: Homework 0 IRA Emission Reduction Assessment
+aliases:
+  - homeworks/hw0.html
 format: 
   html: 
     theme: cosmo

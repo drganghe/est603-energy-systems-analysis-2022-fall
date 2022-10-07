@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "assignments/hw1.html",
+    "href": "assignments/hw1.html",
+    "title": "Homework 1 Air quality in China and India",
+    "section": "",
+    "text": "Air quality in the developing world, especially in big cities in China and India, has been a hot topic in the energy and environmental news. China’s Ministry of Environment and Ecology (MEE) announced that the air quality in major cities has been improving over time especially in recent years, though citizen’s perceptions sometimes are not the same."
+  },
+  {
+    "objectID": "assignments/hw1.html#questions",
+    "href": "assignments/hw1.html#questions",
+    "title": "Homework 1 Air quality in China and India",
+    "section": "Questions",
+    "text": "Questions\nPlease use the hourly PM2.5 data in Beijing to verify if MEE’s claim is valid or not? Comparing with the air quality trends in India and try to associate the trends with energy consumptions, socicial economic indicators, and environmental regulations.\nYou can download all historical data of Beijing and New Deli.\nPlease note one monitoring station is not sufficient to show the complexity within the city or represent the whole country, we will use those data for homework data processing practice only.\nYou can show your results in tables and/or charts, please briefly explain your work and results. You can do this HW in Excel, SQL, R, Python, or any programming language you use. [Total 10pts]\n\nDemonstrate ability to search and collect the needed data. [2pts]\n\nAnalyze the annual average trends for both cities. [2pts]\n\nAble to show some in-depth pattern of the data (seasonal, monthly, weekday vs. weekend) for both cities. [2pts]\n\nDemonstrate basic skills to visualize the data. [2pts]\n\nDiscuss reasons of the trend, and pattern. [2pts]"
+  },
+  {
+    "objectID": "assignments/hw1.html#further-readings",
+    "href": "assignments/hw1.html#further-readings",
+    "title": "Homework 1 Air quality in China and India",
+    "section": "Further readings",
+    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019)."
+  },
+  {
+    "objectID": "assignments/hw0.html",
+    "href": "assignments/hw0.html",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "section": "",
+    "text": "This is a “get a taste of the field” homework."
+  },
+  {
+    "objectID": "assignments/hw0.html#background",
+    "href": "assignments/hw0.html#background",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "section": "Background",
+    "text": "Background\nOn August 16, President Biden Signed H.R. 5376, The Inflation Reduction Act of 2022 into law. The law targets to reduce U.S. carbon emission by 40% compared to the 2005 level, but can it deliver? Energy systems analysis could help to answer such questions. Three notable groups have released energy and emissions models that have been widely cited by lawmakers, advocates and the press:\n\nThe REPEAT Project, an academic initiative that aims for data-driven climate policy at Princeton University, estimated the bill would cut emissions 42 percent of 2005 levels by 2030, or 27 percent without it.\nThe Rhodium Group, an economic and environment consulting firm, found that emissions would fall 31 to 44 percent from 2005 levels by 2030 under the “Inflation Reduction Act”, and decline 24 to 35 percent without the bill.\nEnergy Innovation, a climate and energy think tank, showed that emissions would fall 37 to 41 percent of 2005 levels by the end of the decade with the bill, compared to 24 percent without it."
+  },
+  {
+    "objectID": "assignments/hw0.html#questions",
+    "href": "assignments/hw0.html#questions",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "section": "Questions",
+    "text": "Questions\nPlease compare models and results by those three groups and assess the pros and cons of those models, and discuss how to interpretate those estimates and findings.\n\nWhat models do the groups use?\nWhat are the key assumptions behind those estimates?\nWhat are the uncertainties in the modeling results?"
+  },
+  {
+    "objectID": "assignments/hw0.html#further-readings",
+    "href": "assignments/hw0.html#further-readings",
+    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "section": "Further readings",
+    "text": "Further readings\nhttps://www.eenews.net/articles/modeling-ira-carbon-cuts-caveats-uncertainty-and-luggage/\nhttps://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential\nhttps://www.washingtonpost.com/climate-environment/2022/08/18/ira-inflation-reduction-act-climate-change/"
+  },
+  {
+    "objectID": "assignments/hw2.html",
+    "href": "assignments/hw2.html",
+    "title": "Homework 2 Energy project economics",
+    "section": "",
+    "text": "Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year’s system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.\n\n\n\n\nLearn to use PVWatts to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information: Location: 11794\nDC Systems Size(kW): 6.4\nAll other parameters use defalt numbers\nPlease compare your simulated monthly results with actual system daily generation data over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (1pt). Discuss the risks/uncertainties to use simulation results to make purchase desision (1pt)?\nCalculate the simple payback time (in years, no discounting) of the solar system assuming the following (0.5pt):\nSystem costs (including panel and installation): $14,000\nState tax rebate: 25% (with a maximam of $5,000) of system costs\nFed tax credit: 26% of system costs\nHousehold average monthly electricity payment before installation: $140\nHousehold monthly PV system connection fee (cost): $15\nWhat’s payback time without the State and Fed tax credit (0.5pt)?\nNow taking into acount of discounting:\nAnnual discounting rate: 5%\nMr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.\nMr. XYZ would received the tax credit in April during the tax filing month the following year\nUse July 2021 as the baseline month.\nWhat’s the payback time (in months) (1pt)?\nBuilding on question 3 and now calculating the leverized cost of electricity of Mr. XYZ’s system (1pt) The system life time: 25 years\nAssume an annual system degradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)\nComparing your results with PSEG Long Island’s residential electricity rate (on average 21.22 cents/kWh in 2020).\nNow think about more nuanced considerations when making intallation decisions (using simple payback time or describe qualitatively) if:\nMr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (0.5pt)\nMr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (0.5pt)\nMr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy (0.5pt)\nMr. XYZ will potentially move and sell the house in two years, how will that impact the investment decision (0.5pt)\nMr. XYZ can sell extra electricity back to the grid as in California’s case (0.5pt)\nMr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York’s case (0.5pt)\n\n\n\n\nLearn to use NREL’s System Advisory Model (SAM) to do more nuanced simulations.\n\nDownlod the software\n\nFollow the instuction\n\nGet the weather data of nearest location\n\nUsing default parameters to simulate hourly generation\n\nTry to play with the specific parameters to get familiar with the software"
+  },
+  {
+    "objectID": "assignments/hw2.html#a-tale-of-two-nuclear-plants",
+    "href": "assignments/hw2.html#a-tale-of-two-nuclear-plants",
+    "title": "Homework 2 Energy project economics",
+    "section": "2. A tale of two nuclear plants",
+    "text": "2. A tale of two nuclear plants\n\nBackground\nPlease read the story of the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant. One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction cost, while the other is offered to extend operation in the midist of California’s clean energy quest.\n\n\nQuestions\n\nHow long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences) (1pt)\n\nKey assumptions: LILCO attaches a 3 percent surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nResidential rates in 2020: 21.22 cents/kWh\nTotal electricity consumption in 2020: 20 TWh\nDistount rate: 4%\nAssuming the real value of total annual surchage stay the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surchages.\n\nDiablo Canyon generated nearly 9 percent of Cailifornia’s electricity last year and roughly 15 percent of the state’s clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What’s the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)? (1pt)\n\nKey assumptions: 1.4 billion forgivable loans\nNameplate capacity: 2,256 MW\nCapacity factor: 80%\nDistount rate: 4%\n\n\nFurther readings\nGet to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investmetn decisions.\nNew York Times, June 19, 1983. How Long Island Will Pay For Shoreham\nTimothy Bolger and Christopher Twarowski, June 11, 2009, Nuclear Waste: 20 Years After Shoreham’s Closure\nNathan Rott, September 1, 2022. California lawmakers extend the life of the state’s last nuclear power plant\nRai, Reeves, and Margolis (2016), Yu et al. (2018), Hultman, Koomey, and Kammen (2007)."
+  },
+  {
+    "objectID": "assignments/hw3.html",
+    "href": "assignments/hw3.html",
+    "title": "Homework 3 Energy technology and impacts",
+    "section": "",
+    "text": "Renewable costs have declined drastically in the past decade. Learning curve describles the emperical relationship between unit costs and cumulative production/installation. Please use the learning curve model to calculate the learning rates of onshore wind and utility scale solar PV in the U.S. and project future prices/capacities.\nLawrence Berkeley National Laboratory reports wind and solar data in the U.S. The most recent ones are the Land-Based Wind Market Report 2022 and Utility-Scale Solar, 2022 Edition.\nUse the data for 2010-2021 (higlighted in red) extracted from the reports:\n\nCalculate the learning rates of onshore wind (0.5pt) and utility scale solar PV (0.5pt) in the U.S. \nThen use your findings to project the future of wind and solar projects in the U.S. by 2030. \n\n\nIf U.S. wants to achieve the $700(2021USD)/kW cost goal by 2030 (see ATB forecast), how much more wind capacity should U.S. target to intall from 2022 to 2030? (0.5pt)\n\nAssume U.S. can achieve a 500GW cumulative utility scale solar PV by 2030, what will be the unit cost of solar PV in 2030? (0.5pt) \n\n\nDiscuss the drives and uncertainties of learning curve, and show if your projections make sense. (1pt)\n\nPlease show your formula, data, and results, draw a learning curve and discuss merits and limitation of the learning curve."
+  },
+  {
+    "objectID": "assignments/hw3.html#offshore-wind-technology",
+    "href": "assignments/hw3.html#offshore-wind-technology",
+    "title": "Homework 3 Energy technology and impacts",
+    "section": "2. Offshore wind technology",
+    "text": "2. Offshore wind technology\nThe U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the frontier of reaching 9GW by 2035. Assume you are the project manager representing your commpany, an offshore wind developer, to bid in New York’s 2022 offshore wind solicitation. Use the skills you learned from the class to prepare your bid.\n\nResources are key for project success. If you know the average wind speed of solicitation site is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\n\nNow download the hourly wind speed from Renewables Ninja using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\n\nYour CEO needs to know the LCOE of the proposed project in order to make an investment decision. As a reference, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)"
+  },
+  {
+    "objectID": "assignments/hw3.html#how-much-land-does-it-really-need-for-solar-to-power-the-u.s.-and-the-world",
+    "href": "assignments/hw3.html#how-much-land-does-it-really-need-for-solar-to-power-the-u.s.-and-the-world",
+    "title": "Homework 3 Energy technology and impacts",
+    "section": "3. How much land does it really need for solar to power the U.S. and the world",
+    "text": "3. How much land does it really need for solar to power the U.S. and the world\nYou may see news or analysis that a small portion of U.S. (or the world’s) land can power the electricity need for the U.S. (or the whole world). With the class, you should feel uneasy not to do some back-of-the-envelope calculations to check if those claims really make sense.\n\nFirst, go to credible sources to get the basics: total electricity consumpiton in the U.S (world) in 2021, average capacity factor of solar PV in the U.S. (world) in 2021 (if you do not have the direct number, you can use the total solar generation and total solar capacity to calculate the capacity factor). Please show your number and sources, it is also good practice to compare multiple sources. (0.5pt)\n\nNext, figure out how much solar capacity is needed to meet the electricity demand for both the U.S. and the world if all powered by solar. (0.5pt)\n\nIn addition, get the land use intensity of solar PV, citing NREL report or other research papers, you may get a range of numbers and you can calculate the results as a range. (1pt)\n\nNow, you can calculate how much land is needed to power U.S. and the whole world. (0.5pt)\n\nCompare your results with what you read from the news, and the total area of Long Island, and the area of the New York State. (0.5pt)\n\nDiscuss what factors will impact your results, and how to interpretate your results. (1pt)\n\nFurther reading: Yelle (1979), Cagle et al. (2022), Loveringa et al. (2022)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
@@ -47,90 +131,6 @@
     "title": "Lectures",
     "section": "",
     "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "homeworks/hw1.html",
-    "href": "homeworks/hw1.html",
-    "title": "Homework 1 Air quality in China and India",
-    "section": "",
-    "text": "Air quality in the developing world, especially in big cities in China and India, has been a hot topic in the energy and environmental news. China’s Ministry of Environment and Ecology (MEE) announced that the air quality in major cities has been improving over time especially in recent years, though citizen’s perceptions sometimes are not the same."
-  },
-  {
-    "objectID": "homeworks/hw1.html#questions",
-    "href": "homeworks/hw1.html#questions",
-    "title": "Homework 1 Air quality in China and India",
-    "section": "Questions",
-    "text": "Questions\nPlease use the hourly PM2.5 data in Beijing to verify if MEE’s claim is valid or not? Comparing with the air quality trends in India and try to associate the trends with energy consumptions, socicial economic indicators, and environmental regulations.\nYou can download all historical data of Beijing and New Deli.\nPlease note one monitoring station is not sufficient to show the complexity within the city or represent the whole country, we will use those data for homework data processing practice only.\nYou can show your results in tables and/or charts, please briefly explain your work and results. You can do this HW in Excel, SQL, R, Python, or any programming language you use. [Total 10pts]\n\nDemonstrate ability to search and collect the needed data. [2pts]\n\nAnalyze the annual average trends for both cities. [2pts]\n\nAble to show some in-depth pattern of the data (seasonal, monthly, weekday vs. weekend) for both cities. [2pts]\n\nDemonstrate basic skills to visualize the data. [2pts]\n\nDiscuss reasons of the trend, and pattern. [2pts]"
-  },
-  {
-    "objectID": "homeworks/hw1.html#further-readings",
-    "href": "homeworks/hw1.html#further-readings",
-    "title": "Homework 1 Air quality in China and India",
-    "section": "Further readings",
-    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019)."
-  },
-  {
-    "objectID": "homeworks/hw0.html",
-    "href": "homeworks/hw0.html",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
-    "section": "",
-    "text": "This is a “get a taste of the field” homework."
-  },
-  {
-    "objectID": "homeworks/hw0.html#background",
-    "href": "homeworks/hw0.html#background",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
-    "section": "Background",
-    "text": "Background\nOn August 16, President Biden Signed H.R. 5376, The Inflation Reduction Act of 2022 into law. The law targets to reduce U.S. carbon emission by 40% compared to the 2005 level, but can it deliver? Energy systems analysis could help to answer such questions. Three notable groups have released energy and emissions models that have been widely cited by lawmakers, advocates and the press:\n\nThe REPEAT Project, an academic initiative that aims for data-driven climate policy at Princeton University, estimated the bill would cut emissions 42 percent of 2005 levels by 2030, or 27 percent without it.\nThe Rhodium Group, an economic and environment consulting firm, found that emissions would fall 31 to 44 percent from 2005 levels by 2030 under the “Inflation Reduction Act”, and decline 24 to 35 percent without the bill.\nEnergy Innovation, a climate and energy think tank, showed that emissions would fall 37 to 41 percent of 2005 levels by the end of the decade with the bill, compared to 24 percent without it."
-  },
-  {
-    "objectID": "homeworks/hw0.html#questions",
-    "href": "homeworks/hw0.html#questions",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
-    "section": "Questions",
-    "text": "Questions\nPlease compare models and results by those three groups and assess the pros and cons of those models, and discuss how to interpretate those estimates and findings.\n\nWhat models do the groups use?\nWhat are the key assumptions behind those estimates?\nWhat are the uncertainties in the modeling results?"
-  },
-  {
-    "objectID": "homeworks/hw0.html#further-readings",
-    "href": "homeworks/hw0.html#further-readings",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
-    "section": "Further readings",
-    "text": "Further readings\nhttps://www.eenews.net/articles/modeling-ira-carbon-cuts-caveats-uncertainty-and-luggage/\nhttps://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential\nhttps://www.washingtonpost.com/climate-environment/2022/08/18/ira-inflation-reduction-act-climate-change/"
-  },
-  {
-    "objectID": "homeworks/hw2.html",
-    "href": "homeworks/hw2.html",
-    "title": "Homework 2 Energy project economics",
-    "section": "",
-    "text": "Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021. Now he has one-year’s system operation data, and please go through the following questions to discuss if this is a good investment for Mr. XYZ.\n\n\n\n\nLearn to use PVWatts to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information: Location: 11794\nDC Systems Size(kW): 6.4\nAll other parameters use defalt numbers\nPlease compare your simulated monthly results with actual system daily generation data over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (1pt). Discuss the risks/uncertainties to use simulation results to make purchase desision (1pt)?\nCalculate the simple payback time (in years, no discounting) of the solar system assuming the following (0.5pt):\nSystem costs (including panel and installation): $14,000\nState tax rebate: 25% (with a maximam of $5,000) of system costs\nFed tax credit: 26% of system costs\nHousehold average monthly electricity payment before installation: $140\nHousehold monthly PV system connection fee (cost): $15\nWhat’s payback time without the State and Fed tax credit (0.5pt)?\nNow taking into acount of discounting:\nAnnual discounting rate: 5%\nMr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.\nMr. XYZ would received the tax credit in April during the tax filing month the following year\nUse July 2021 as the baseline month.\nWhat’s the payback time (in months) (1pt)?\nBuilding on question 3 and now calculating the leverized cost of electricity of Mr. XYZ’s system (1pt) The system life time: 25 years\nAssume an annual system degradation rate: 1% (meaning each year its annual total generation is 1% less than previous year)\nComparing your results with PSEG Long Island’s residential electricity rate (on average 21.22 cents/kWh in 2020).\nNow think about more nuanced considerations when making intallation decisions (using simple payback time or describe qualitatively) if:\nMr. XYZ found that his roof is too old and he has to replace the roof before installation (cost: $11,000) (0.5pt)\nMr. XYZ noticed that a big tree nearby created too much shade for the panel and is debating if he should cut the tree down (cost: $3000, and will lose a loving green space) (0.5pt)\nMr. XYZ had checked with the insurance company that the attachment of PV would impact the insurance policy (0.5pt)\nMr. XYZ will potentially move and sell the house in two years, how will that impact the investment decision (0.5pt)\nMr. XYZ can sell extra electricity back to the grid as in California’s case (0.5pt)\nMr. XYZ can only bank extra generation and will pay market rate if generation can not cover consumption as in New York’s case (0.5pt)\n\n\n\n\nLearn to use NREL’s System Advisory Model (SAM) to do more nuanced simulations.\n\nDownlod the software\n\nFollow the instuction\n\nGet the weather data of nearest location\n\nUsing default parameters to simulate hourly generation\n\nTry to play with the specific parameters to get familiar with the software"
-  },
-  {
-    "objectID": "homeworks/hw2.html#a-tale-of-two-nuclear-plants",
-    "href": "homeworks/hw2.html#a-tale-of-two-nuclear-plants",
-    "title": "Homework 2 Energy project economics",
-    "section": "2. A tale of two nuclear plants",
-    "text": "2. A tale of two nuclear plants\n\nBackground\nPlease read the story of the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant. One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction cost, while the other is offered to extend operation in the midist of California’s clean energy quest.\n\n\nQuestions\n\nHow long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences) (1pt)\n\nKey assumptions: LILCO attaches a 3 percent surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nResidential rates in 2020: 21.22 cents/kWh\nTotal electricity consumption in 2020: 20 TWh\nDistount rate: 4%\nAssuming the real value of total annual surchage stay the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surchages.\n\nDiablo Canyon generated nearly 9 percent of Cailifornia’s electricity last year and roughly 15 percent of the state’s clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What’s the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)? (1pt)\n\nKey assumptions: 1.4 billion forgivable loans\nNameplate capacity: 2,256 MW\nCapacity factor: 80%\nDistount rate: 4%\n\n\nFurther readings\nGet to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investmetn decisions.\nNew York Times, June 19, 1983. How Long Island Will Pay For Shoreham\nTimothy Bolger and Christopher Twarowski, June 11, 2009, Nuclear Waste: 20 Years After Shoreham’s Closure\nNathan Rott, September 1, 2022. California lawmakers extend the life of the state’s last nuclear power plant\nRai, Reeves, and Margolis (2016), Yu et al. (2018), Hultman, Koomey, and Kammen (2007)."
-  },
-  {
-    "objectID": "homeworks/hw3.html",
-    "href": "homeworks/hw3.html",
-    "title": "Homework 3 Energy technology and impacts",
-    "section": "",
-    "text": "Renewable costs have declined drastically in the past decade. Learning curve describles the emperical relationship between unit costs and cumulative production/installation. Please use the learning curve model to calculate the learning rates of onshore wind and utility scale solar PV in the U.S. and project future prices/capacities.\nLawrence Berkeley National Laboratory reports wind and solar data in the U.S. The most recent ones are the Land-Based Wind Market Report 2022 and Utility-Scale Solar, 2022 Edition.\nUse the data for 2010-2021 (higlighted in red) extracted from the reports:\n\nCalculate the learning rates of onshore wind (0.5pt) and utility scale solar PV (0.5pt) in the U.S. \nThen use your findings to project the future of wind and solar projects in the U.S. by 2030. \n\n\nIf U.S. wants to achieve the $700(2021USD)/kW cost goal by 2030 (see ATB forecast), how much more wind capacity should U.S. target to intall from 2022 to 2030? (0.5pt)\n\nAssume U.S. can achieve a 500GW cumulative utility scale solar PV by 2030, what will be the unit cost of solar PV in 2030? (0.5pt) \n\n\nDiscuss the drives and uncertainties of learning curve, and show if your projections make sense. (1pt)\n\nPlease show your formula, data, and results, draw a learning curve and discuss merits and limitation of the learning curve."
-  },
-  {
-    "objectID": "homeworks/hw3.html#offshore-wind-technology",
-    "href": "homeworks/hw3.html#offshore-wind-technology",
-    "title": "Homework 3 Energy technology and impacts",
-    "section": "2. Offshore wind technology",
-    "text": "2. Offshore wind technology\nThe U.S. has a goal to have 30GW offshore wind by 2030, and New York is at the frontier of reaching 9GW by 2035. Assume you are the project manager representing your commpany, an offshore wind developer, to bid in New York’s 2022 offshore wind solicitation. Use the skills you learned from the class to prepare your bid.\n\nResources are key for project success. If you know the average wind speed of solicitation site is 8.18m/s. Can you use the average wind speed to estmate the capacity factor, assuming the wind turbines can achieve rated power at the wind speed of 12m/s. (0.5pt)\n\nNow download the hourly wind speed from Renewables Ninja using the longitude and lattitude of the solicitation site. Compute the annual average capacity factor using hourly wind speed, or simulated hourly capacity factor.(0.5pt)\n\nYour CEO needs to know the LCOE of the proposed project in order to make an investment decision. As a reference, the 2.5 GW Empire Wind Offshore along with Beacon Wind receives a power purchase agreement at $80.40/MWh. Assume your company will bid for the 2GW capacity project. Try to search other information you need to figure out the LCOE and learn if it make sense for your company to bid and what price should you offer? Note your answer will depends on your reasonable assumptions. (2pt)"
-  },
-  {
-    "objectID": "homeworks/hw3.html#how-much-land-does-it-really-need-for-solar-to-power-the-u.s.-and-the-world",
-    "href": "homeworks/hw3.html#how-much-land-does-it-really-need-for-solar-to-power-the-u.s.-and-the-world",
-    "title": "Homework 3 Energy technology and impacts",
-    "section": "3. How much land does it really need for solar to power the U.S. and the world",
-    "text": "3. How much land does it really need for solar to power the U.S. and the world\nYou may see news or analysis that a small portion of U.S. (or the world’s) land can power the electricity need for the U.S. (or the whole world). With the class, you should feel uneasy not to do some back-of-the-envelope calculations to check if those claims really make sense.\n\nFirst, go to credible sources to get the basics: total electricity consumpiton in the U.S (world) in 2021, average capacity factor of solar PV in the U.S. (world) in 2021 (if you do not have the direct number, you can use the total solar generation and total solar capacity to calculate the capacity factor). Please show your number and sources, it is also good practice to compare multiple sources. (0.5pt)\n\nNext, figure out how much solar capacity is needed to meet the electricity demand for both the U.S. and the world if all powered by solar. (0.5pt)\n\nIn addition, get the land use intensity of solar PV, citing NREL report or other research papers, you may get a range of numbers and you can calculate the results as a range. (1pt)\n\nNow, you can calculate how much land is needed to power U.S. and the whole world. (0.5pt)\n\nCompare your results with what you read from the news, and the total area of Long Island, and the area of the New York State. (0.5pt)\n\nDiscuss what factors will impact your results, and how to interpretate your results. (1pt)\n\nFurther reading: Yelle (1979), Cagle et al. (2022), Loveringa et al. (2022)"
   },
   {
     "objectID": "syllabus.html",
@@ -1001,6 +1001,139 @@
     "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nSource: Hogan (2002)\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\nSource: Huntington, Weyant, and Sweeney (1982)"
   },
   {
+    "objectID": "lectures/lecture8/index.html#sample-analytic-questions",
+    "href": "lectures/lecture8/index.html#sample-analytic-questions",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nIf all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\n\nWhat needs to be included in New York State’s scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\n\nWhat level of social cost of carbon should New York State use?\n\nHow climate change would affect energy supply and demand?"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#integrated-assessment-model",
+    "href": "lectures/lecture8/index.html#integrated-assessment-model",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Integrated assessment model",
+    "text": "Integrated assessment model\n\n\nRead more: Carbon Brief, Q&A: How ‘integrated assessment models’ are used to study climate change"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-impacts",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-impacts",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 impacts",
+    "text": "IPCC AR6 impacts\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-mitigation-gap",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-mitigation-gap",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 mitigation gap",
+    "text": "IPCC AR6 mitigation gap\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-mitigation-pathways",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-mitigation-pathways",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 mitigation pathways",
+    "text": "IPCC AR6 mitigation pathways\n\n\nRead more: IPCC, Carbon Brief"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-energy-systems",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-energy-systems",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 energy systems",
+    "text": "IPCC AR6 energy systems\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#ipcc-ar6-commercial-technology-availability",
+    "href": "lectures/lecture8/index.html#ipcc-ar6-commercial-technology-availability",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "IPCC AR6 commercial technology availability",
+    "text": "IPCC AR6 commercial technology availability\n\n\nRead more: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#the-mitigation-wedges",
+    "href": "lectures/lecture8/index.html#the-mitigation-wedges",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "The mitigation wedges",
+    "text": "The mitigation wedges\n\n\nSource: Pacala and Socolow (2004)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#the-mckingsey-curve",
+    "href": "lectures/lecture8/index.html#the-mckingsey-curve",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "The Mckingsey curve",
+    "text": "The Mckingsey curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#social-economic-impacts",
+    "href": "lectures/lecture8/index.html#social-economic-impacts",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Social economic impacts",
+    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#social-cost-of-carbon",
+    "href": "lectures/lecture8/index.html#social-cost-of-carbon",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#epa-social-cost-of-carbon",
+    "href": "lectures/lecture8/index.html#epa-social-cost-of-carbon",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "EPA social cost of carbon",
+    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#nydec-value-of-carbon-guidance",
+    "href": "lectures/lecture8/index.html#nydec-value-of-carbon-guidance",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "NYDEC ‘Value of Carbon’ Guidance",
+    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#scc-updates",
+    "href": "lectures/lecture8/index.html#scc-updates",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "SCC updates",
+    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#what-works-whats-not",
+    "href": "lectures/lecture8/index.html#what-works-whats-not",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "What works what’s not",
+    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#best-practices",
+    "href": "lectures/lecture8/index.html#best-practices",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Best practices",
+    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#climate-change-affects-energy-system",
+    "href": "lectures/lecture8/index.html#climate-change-affects-energy-system",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Climate change affects energy system",
+    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#connecting-climate-and-energy-models",
+    "href": "lectures/lecture8/index.html#connecting-climate-and-energy-models",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Connecting climate and energy models",
+    "text": "Connecting climate and energy models\n\n\nSource: Craig et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture8/index.html#summary",
+    "href": "lectures/lecture8/index.html#summary",
+    "title": "Lecture 8 Energy and Climate Change",
+    "section": "Summary",
+    "text": "Summary\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instuments\n\nLearn the applicatons and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
+  },
+  {
     "objectID": "lectures/lecture7/index.html#sample-analytic-questions",
     "href": "lectures/lecture7/index.html#sample-analytic-questions",
     "title": "Lecture 7 Energy, Environment, and Human Health",
@@ -1209,138 +1342,5 @@
     "title": "Course Schedule",
     "section": "",
     "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#sample-analytic-questions",
-    "href": "lectures/lecture8/index.html#sample-analytic-questions",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nIf all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\n\nWhat needs to be included in New York State’s scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\n\nWhat level of social cost of carbon should New York State use?\n\nHow climate change would affect energy supply and demand?"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#integrated-assessment-model",
-    "href": "lectures/lecture8/index.html#integrated-assessment-model",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Integrated assessment model",
-    "text": "Integrated assessment model\n\n\nRead more: Carbon Brief, Q&A: How ‘integrated assessment models’ are used to study climate change"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#ipcc-ar6-impacts",
-    "href": "lectures/lecture8/index.html#ipcc-ar6-impacts",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "IPCC AR6 impacts",
-    "text": "IPCC AR6 impacts\n\n\nRead more: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#ipcc-ar6-mitigation-gap",
-    "href": "lectures/lecture8/index.html#ipcc-ar6-mitigation-gap",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "IPCC AR6 mitigation gap",
-    "text": "IPCC AR6 mitigation gap\n\n\nRead more: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#ipcc-ar6-mitigation-pathways",
-    "href": "lectures/lecture8/index.html#ipcc-ar6-mitigation-pathways",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "IPCC AR6 mitigation pathways",
-    "text": "IPCC AR6 mitigation pathways\n\n\nRead more: IPCC, Carbon Brief"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#the-mitigation-wedges",
-    "href": "lectures/lecture8/index.html#the-mitigation-wedges",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "The mitigation wedges",
-    "text": "The mitigation wedges\n\n\nSource: Pacala and Socolow (2004)"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#the-mckingsey-curve",
-    "href": "lectures/lecture8/index.html#the-mckingsey-curve",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "The Mckingsey curve",
-    "text": "The Mckingsey curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#social-economic-impacts",
-    "href": "lectures/lecture8/index.html#social-economic-impacts",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Social economic impacts",
-    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#social-cost-of-carbon",
-    "href": "lectures/lecture8/index.html#social-cost-of-carbon",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Social cost of carbon",
-    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#epa-social-cost-of-carbon",
-    "href": "lectures/lecture8/index.html#epa-social-cost-of-carbon",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "EPA social cost of carbon",
-    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#scc-updates",
-    "href": "lectures/lecture8/index.html#scc-updates",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "SCC updates",
-    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#what-works-whats-not",
-    "href": "lectures/lecture8/index.html#what-works-whats-not",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "What works what’s not",
-    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#best-practices",
-    "href": "lectures/lecture8/index.html#best-practices",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Best practices",
-    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#climate-change-affects-energy-system",
-    "href": "lectures/lecture8/index.html#climate-change-affects-energy-system",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Climate change affects energy system",
-    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#connecting-climate-and-energy-models",
-    "href": "lectures/lecture8/index.html#connecting-climate-and-energy-models",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Connecting climate and energy models",
-    "text": "Connecting climate and energy models\n\n\nSource: Craig et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#summary",
-    "href": "lectures/lecture8/index.html#summary",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "Summary",
-    "text": "Summary\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instuments\n\nLearn the applicatons and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#ipcc-ar6-energy-systems",
-    "href": "lectures/lecture8/index.html#ipcc-ar6-energy-systems",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "IPCC AR6 energy systems",
-    "text": "IPCC AR6 energy systems\n\n\nRead more: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#ipcc-ar6-commercial-technology-availability",
-    "href": "lectures/lecture8/index.html#ipcc-ar6-commercial-technology-availability",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "IPCC AR6 commercial technology availability",
-    "text": "IPCC AR6 commercial technology availability\n\n\nRead more: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#nydec-value-of-carbon-guidance",
-    "href": "lectures/lecture8/index.html#nydec-value-of-carbon-guidance",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "NYDEC ‘Value of Carbon’ Guidance",
-    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
   }
 ]

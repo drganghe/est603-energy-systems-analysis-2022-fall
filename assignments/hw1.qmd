@@ -1,5 +1,7 @@
 ---
 title: Homework 1 Air quality in China and India
+aliases:
+  - homeworks/hw1.html
 format: 
   html: 
     theme: cosmo

@@ -33,16 +33,16 @@ website:
             href: lectures/lecture7/index.qmd
           - text: Lecture 8
             href: lectures/lecture8/index.qmd                                                             
-      - text: Homework
+      - text: Assignments
         menu:
           - text: HW 0
-            href: homeworks/hw0.qmd
+            href: assignments/hw0.qmd
           - text: HW 1
-            href: homeworks/hw1.qmd
+            href: assignments/hw1.qmd
           - text: HW 2
-            href: homeworks/hw2.qmd
+            href: assignments/hw2.qmd
           - text: HW 3
-            href: homeworks/hw3.qmd            
+            href: assignments/hw3.qmd            
       - text: Project
         href: project.qmd
       - text: Resources
