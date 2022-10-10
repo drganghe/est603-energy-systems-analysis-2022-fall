@@ -10,8 +10,8 @@
   <meta name="generator" content="quarto-1.1.251">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2022-09-26">
-  <title>EST603 Energy Systems Analysis - Lecture 6 Energy Demand</title>
+  <meta name="dcterms.date" content="2022-11-07">
+  <title>EST603 Energy Systems Analysis - Lecture 11 Sustainable Energy Consumption</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -339,219 +339,49 @@
       margin-right: 0; 
     }
   </style>
-<meta name="twitter:title" content="EST603 Energy Systems Analysis - Lecture 6 Energy Demand">
-<meta name="twitter:image" content="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture6/images/china-provincial-electricity-gdp.png">
-<meta name="twitter:image-height" content="584">
-<meta name="twitter:image-width" content="960">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="EST603 Energy Systems Analysis - Lecture 11 Sustainable Energy Consumption">
+<meta name="twitter:card" content="summary">
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">Lecture 6 Energy Demand</h1>
+  <h1 class="title">Lecture 11 Sustainable Energy Consumption</h1>
   <p class="author">Gang He</p>
-  <p class="date">September 26, 2022</p>
+  <p class="date">November 7, 2022</p>
 </section>
 
 <section id="sample-analytic-questions" class="slide level2 center">
 <h2>Sample analytic questions</h2>
 <ul>
-<li>What will be the load in the NYISO service area in 2030?<br>
+<li>If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?<br>
 </li>
-<li>How EV will change the load?<br>
+<li>What needs to be included in New York State’s scoping plan to achieve goals in the Climate Leadership and Community Protection Act?<br>
 </li>
-<li>What drives energy demand growth?<br>
+<li>What level of social cost of carbon should New York State use?<br>
 </li>
-<li>How climate change changes energy demand?<br>
+<li>How climate change would affect energy supply and demand?<br>
 </li>
-<li>How to make reasonal assumptions about appliances stock turn over?</li>
 </ul>
-</section>
-<section id="germany-energy-demand" class="slide level2 center">
-<h2>Germany energy demand</h2>
-
-<img data-src="images/german-gdp-and-energy-1990-2020.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts">Clean Energy Wire</a></p>
-</div>
-</section>
-<section id="top-down-vs-bottom-up" class="slide level2 center">
-<h2>Top-down vs bottom-up</h2>
-
-<img data-src="images/top-down-and-bottom-up.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="swan2009modeling">Swan and Ugursal (<a href="#/references" role="doc-biblioref" onclick="">2009</a>)</span></p>
-</div>
-</section>
-<section id="ipat" class="slide level2 center">
-<h2>IPAT</h2>
-<center>
-<p><span class="math inline">\(I=P\times A\times T\)</span></p>
-<p style="font-size:24pt; color:gray">
-Where,<br>
-<span class="math inline">\(I\)</span> = Impact<br>
-<span class="math inline">\(P\)</span> = Population<br>
-<span class="math inline">\(A\)</span> = Aflluence<br>
-<span class="math inline">\(T\)</span> = Technology
-</p>
-</center>
-<div class="footer">
-<p>Read more: <span class="citation" data-cites="ehrlich1971impact">Ehrlich and Holdren (<a href="#/references" role="doc-biblioref" onclick="">1971</a>)</span>, John Holdren <a href="https://mahb.stanford.edu/wp-content/uploads/2020/02/1993-holdre-BRIEF-HISTORY-OF-COMMONER-BATTLE.pdf">A brief history of “IPAT”</a></p>
-</div>
-</section>
-<section id="population" class="slide level2 center">
-<h2>Population</h2>
-
-<img data-src="images/total-population.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <a href="https://population.un.org/wpp/Graphs/DemographicProfiles/Line/900">UN World Population Prospects</a></p>
-</div>
-</section>
-<section id="economy-gdp" class="slide level2 center">
-<h2>Economy (GDP)</h2>
-
-<img data-src="images/china-provincial-electricity-gdp.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <span class="citation" data-cites="lin2016economic">Lin, He, and Yuan (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="energy-intensity" class="slide level2 center">
-<h2>Energy intensity</h2>
-
-<img data-src="images/energy-intensity.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <a href="https://ourworldindata.org/grapher/energy-intensity?tab=chart&amp;country=JPN~USA~CHN~IND~OWID_WRL~DEU~GBR">Our World in Data</a></p>
-</div>
-</section>
-<section id="electrification" class="slide level2 center">
-<h2>Electrification</h2>
-
-<img data-src="images/electricity-share-in-final-energy.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <a href="https://yearbook.enerdata.net/electricity/share-electricity-final-consumption.html">EnerData</a></p>
-</div>
-</section>
-<section id="ev-and-load" class="slide level2 center">
-<h2>EV and load</h2>
-<div class="columns">
-<div class="column" style="width:30%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/ev-load.png"></p>
-</figure>
-</div>
-</div><div class="column" style="width:70%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/ev-charging.png"></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="footer">
-<p>Source: <a href="https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-potential-impact-of-electric-vehicles-on-global-energy-systems">McKinsey</a></p>
-</div>
-</section>
-<section id="energy-efficiency---first-fuel" class="slide level2 center">
-<h2>Energy efficiency - “First Fuel”</h2>
-
-<img data-src="images/ee-net-zero.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://www.iea.org/articles/net-zero-by-2050-hinges-on-a-global-push-to-increase-energy-efficiency">IEA</a>, <span class="citation" data-cites="iea_net_2021">IEA (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
-</div>
-</section>
-<section id="adoption-curve" class="slide level2 center">
-<h2>Adoption curve</h2>
-
-<img data-src="images/adoption-curve.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://en.wikipedia.org/wiki/Diffusion_of_innovations">Diffusion of innovations</a></p>
-</div>
-</section>
-<section id="rebound" class="slide level2 center">
-<h2>Rebound</h2>
-
-<img data-src="images/Illustration-of-rebound-effects.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://www.carbonbrief.org/guest-post-why-rebound-effects-may-cut-energy-savings-in-half/">CarbonBrief</a>, <span class="citation" data-cites="borenstein2015microeconomic">Borenstein (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span>, <span class="citation" data-cites="brockway2021energy">Brockway et al. (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
-</div>
-</section>
-<section id="limit-to-growth-degrowth-green-growth" class="slide level2 center">
-<h2>Limit to growth, degrowth, green growth</h2>
-
-<img data-src="images/limits-to-growth.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <span class="citation" data-cites="meadows2018limits">Meadows et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span>, <a href="https://media.nature.com/original/magazine-assets/d41586-022-00723-1/d41586-022-00723-1.pdf">50-year argument</a></p>
-</div>
-</section>
-<section id="decent-living" class="slide level2 center">
-<h2>Decent living</h2>
-
-<img data-src="images/decent-living.jpeg" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <span class="citation" data-cites="rao2018decent">Rao and Min (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
-</div>
-</section>
-<section id="human-behavior---demand-response" class="slide level2 center">
-<h2>Human behavior - demand response</h2>
-
-<img data-src="images/caiso-dr-20220906.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <a href="https://www.caiso.com/TodaysOutlook/Pages/default.aspx">CAIOS</a></p>
-</div>
-</section>
-<section id="human-behavior-intervention" class="slide level2 center">
-<h2>Human behavior intervention</h2>
-
-<img data-src="images/energy-savings-behaviorial-us.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://www.iea.org/articles/the-potential-of-behavioural-interventions-for-optimising-energy-use-at-home">IEA</a></p>
-</div>
-</section>
-<section id="load-forecasting" class="slide level2 center">
-<h2>Load forecasting</h2>
-
-<img data-src="images/load-forecasting.jpg" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="hong2016probabilistic">Hong and Fan (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="load-forecast" class="slide level2 center">
-<h2>Load forecast</h2>
-
-<img data-src="images/load-forecast-diagram.svg" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://learn.pjm.com/three-priorities/planning-for-the-future/load-forecasting.aspx">PJM</a>, <a href="https://www.iso-ne.com/system-planning/system-forecasting/load-forecast/">ISO New England</a></p>
-</div>
 </section>
 <section id="summary" class="slide level2 center">
 <h2>Summary</h2>
 <ul>
-<li>Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior<br>
+<li>IAM framework and models to analyze energy, emissions, and climate impacts<br>
 </li>
-<li>Understanding those drivers will help us learn the magnitude and shape of our demand<br>
+<li>Understanding the evolution of climate policy instuments<br>
 </li>
-<li>Load forecast integrates all insights to the show</li>
+<li>Learn the applicatons and limitations of social cost of carbon<br>
+</li>
+<li>Climate change affects energy supply and demand</li>
 </ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-borenstein2015microeconomic" class="csl-entry" role="doc-biblioentry">
-Borenstein, Severin. 2015. <span>“A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications.”</span> <em>The Energy Journal</em> 36 (1). <a href="https://doi.org/10.5547/01956574.36.1.1">https://doi.org/10.5547/01956574.36.1.1</a>.
-</div>
-<div id="ref-brockway2021energy" class="csl-entry" role="doc-biblioentry">
-Brockway, Paul E, Steve Sorrell, Gregor Semieniuk, Matthew Kuperus Heun, and Victor Court. 2021. <span>“Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications.”</span> <em>Renewable and Sustainable Energy Reviews</em> 141: 110781. <a href="https://doi.org/10.1016/j.rser.2021.110781">https://doi.org/10.1016/j.rser.2021.110781</a>.
-</div>
-<div id="ref-ehrlich1971impact" class="csl-entry" role="doc-biblioentry">
-Ehrlich, Paul R, and John P Holdren. 1971. <span>“Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.”</span> <em>Science</em> 171 (3977): 1212–17. <a href="https://doi.org/10.1097/00006254-197111000-00014">https://doi.org/10.1097/00006254-197111000-00014</a>.
-</div>
-<div id="ref-hong2016probabilistic" class="csl-entry" role="doc-biblioentry">
-Hong, Tao, and Shu Fan. 2016. <span>“Probabilistic Electric Load Forecasting: A Tutorial Review.”</span> <em>International Journal of Forecasting</em> 32 (3): 914–38. <a href="https://doi.org/10.1016/j.ijforecast.2015.11.011">https://doi.org/10.1016/j.ijforecast.2015.11.011</a>.
-</div>
-<div id="ref-iea_net_2021" class="csl-entry" role="doc-biblioentry">
-IEA. 2021. <span>“Net Zero by 2050.”</span> International Energy Agency.
-</div>
-<div id="ref-lin2016economic" class="csl-entry" role="doc-biblioentry">
-Lin, Jiang, Gang He, and Alexandria Yuan. 2016. <span>“Economic Rebalancing and Electricity Demand in China.”</span> <em>The Electricity Journal</em> 29 (3): 48–54. <a href="https://doi.org/10.1016/j.tej.2016.03.010">https://doi.org/10.1016/j.tej.2016.03.010</a>.
-</div>
-<div id="ref-meadows2018limits" class="csl-entry" role="doc-biblioentry">
-Meadows, Donella H, Dennis L Meadows, Jørgen Randers, and William W Behrens. 2018. <span>“The Limits to Growth.”</span> In <em>Green Planet Blues</em>, 25–29. Routledge.
-</div>
-<div id="ref-rao2018decent" class="csl-entry" role="doc-biblioentry">
-Rao, Narasimha D, and Jihoon Min. 2018. <span>“Decent Living Standards: Material Prerequisites for Human Wellbeing.”</span> <em>Social Indicators Research</em> 138 (1): 225–44. <a href="https://doi.org/10.1007/s11205-017-1650-0">https://doi.org/10.1007/s11205-017-1650-0</a>.
-</div>
-<div id="ref-swan2009modeling" class="csl-entry" role="doc-biblioentry">
-Swan, Lukas G., and V. Ismet Ugursal. 2009. <span>“Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques.”</span> <em>Renewable and Sustainable Energy Reviews</em> 13 (8): 1819–35. https://doi.org/<a href="https://doi.org/10.1016/j.rser.2008.09.033">https://doi.org/10.1016/j.rser.2008.09.033</a>.
-</div>
+<div id="refs" role="doc-bibliography">
+
 </div>
 <div class="footer">
 <p>Back to Course <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/">Home</a>, or Learn More about <a href="https://drganghe.github.io">Gang He</a></p>

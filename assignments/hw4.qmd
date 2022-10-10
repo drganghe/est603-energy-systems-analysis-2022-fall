@@ -1,0 +1,37 @@
+---
+title: Homework 4 Load forecast, power system
+draft: true
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+---
+
+## 1. Load forecast
+
+
+
+
+
+Further reading: 
+
+### References
+
+::: {#refs}
+:::

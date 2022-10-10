@@ -13,7 +13,7 @@ format:
     auto-stretch: true
     r-fit-text: true
     center: true
-    css: custom.css
+    css: /custom.css
     #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
 ---
 

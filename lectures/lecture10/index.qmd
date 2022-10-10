@@ -1,0 +1,45 @@
+---
+title: "Lecture 10 Energy Transition"
+author: "Gang He"
+date: October 31, 2022
+#image: "images/iams-carbon-brief.png"
+#suppress-bibliography: true
+draft: true
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    preview-links: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    css: /custom.css
+    #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
+---
+
+## Sample analytic questions
+
+-   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
+-   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
+-   What level of social cost of carbon should New York State use?\
+-   How climate change would affect energy supply and demand?\
+
+
+
+## Summary
+
+-   IAM framework and models to analyze energy, emissions, and climate impacts\
+-   Understanding the evolution of climate policy instuments\
+-   Learn the applicatons and limitations of social cost of carbon\
+-   Climate change affects energy supply and demand
+
+---
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+:::
