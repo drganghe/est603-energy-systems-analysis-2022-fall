@@ -32,7 +32,9 @@ website:
           - text: Lecture 7
             href: lectures/lecture7/index.qmd
           - text: Lecture 8
-            href: lectures/lecture8/index.qmd                                                             
+            href: lectures/lecture8/index.qmd
+          - text: Lecture 9
+            href: lectures/lecture9/index.qmd                                                                          
       - text: Assignments
         menu:
           - text: HW 0

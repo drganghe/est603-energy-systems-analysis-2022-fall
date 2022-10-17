@@ -26,10 +26,15 @@ format:
 ## 1. Load forecast
 
 
+## 2. Power sector planning
 
 
+## 3. Incoperating justice
 
-Further reading: 
+[En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&p1=110&p7=100&p10=5&p16=-0.03&p23=-30&p30=-0.07&p35=2&p39=250&p47=5&p50=5&p53=100&p55=100&p57=-10&p59=-100&p63=8.9&p65=100&p67=100)
+
+
+Further reading: https://en-roads.climateinteractive.org/scenario.html?v=22.10.0
 
 ### References
 

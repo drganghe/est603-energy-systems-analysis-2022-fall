@@ -130,7 +130,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
@@ -1134,6 +1134,111 @@
     "text": "Summary\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instuments\n\nLearn the applicatons and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
   },
   {
+    "objectID": "lectures/lecture9/index.html#sample-analytic-questions",
+    "href": "lectures/lecture9/index.html#sample-analytic-questions",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nHow much solar and wind capacity need to be built?\n\nHow cost delince of renewables and storage will change the capacity and generation mix of the power sector?\n\nHow much new transmission capacity is needed to harvest the benefits of interconnection?\n\nDoes CCS has role to play in the power sector decarbonization?"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#power-sectors-central-role",
+    "href": "lectures/lecture9/index.html#power-sectors-central-role",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Power sector’s central role",
+    "text": "Power sector’s central role\nOverarching strategy\n\n\nElectrification\n\nDecarbonization"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#why-power-sector-is-special",
+    "href": "lectures/lecture9/index.html#why-power-sector-is-special",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Why power sector is special?",
+    "text": "Why power sector is special?\n\nEssential good\n\nInfrastructure\n\nTechnology/network complexity: balance on real-time\n\nSupply/Demand inelasticity\n\n\nCapsital intensive\n\nInvestment takes time"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#u.s.-electricity-flow",
+    "href": "lectures/lecture9/index.html#u.s.-electricity-flow",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "U.S. electricity flow",
+    "text": "U.S. electricity flow\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#refresh-the-basics",
+    "href": "lectures/lecture9/index.html#refresh-the-basics",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Refresh the basics",
+    "text": "Refresh the basics\n\nEnergy and power\n\nkW, MW, GW, TW\n\nHeat rate and efficiency (Carnot, 1st, 2nd)\n\nThermodynamics"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#load-factor-and-load-curves",
+    "href": "lectures/lecture9/index.html#load-factor-and-load-curves",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Load factor and load curves",
+    "text": "Load factor and load curves\n\\(LF=\\frac{Energy\\ consumed}{Energy\\ at\\ peak\\ demand}=\\frac{Average\\ power}{Peak\\ power\\ demand}\\)\nA low load factor means a “peaky” load shape\n\n\nSource: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#supply-curve-and-dispatch",
+    "href": "lectures/lecture9/index.html#supply-curve-and-dispatch",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Supply curve and dispatch",
+    "text": "Supply curve and dispatch\n\n\nRead more: EIA"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#power-system-modeling-family",
+    "href": "lectures/lecture9/index.html#power-system-modeling-family",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Power system modeling family",
+    "text": "Power system modeling family\n\n\n\n\n\n\n\n\n\nType\nProduction Cost (Unit Commitment and Dispatch)\nNetwork Reliability (AC Power Flow, Dynamics)\nCapacity Expansion\n\n\n\n\nGenerator Adequacy\nYes\nNo\nOften\n\n\nFlexibility Requirement\nYes\nNo\nSomewhat\n\n\nTransmission Adequacy\nPartially\nYes\nTypically No\n\n\nGen Contingencies\nSomewhat\nYes\nNo\n\n\nTransmission Contingencies\nSomewhat\nYes\nNo\n\n\nFrequency Stability\nSomewhat\nYes\nNo\n\n\nVoltage Stability, Voltage control\nNo\nYes\nNo\n\n\nExamples\nPROMOD, GE-Maps, PLEXOS, GridView\nPositive sequence load flow (PSLF), power system simulator for engineering (PSSE)\nNEMS, ReEDS, Integrated Planning Model, MARKAL, Haiku"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#capacity-expansion-models",
+    "href": "lectures/lecture9/index.html#capacity-expansion-models",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Capacity expansion models",
+    "text": "Capacity expansion models\n\nCapacity expansion models simulate generation and transmission capacity investment, given assumptions about future electricity demand, fuel prices, technology cost and performance, and policy and regulation\n\nWhat mix of generators should we build to meet load?\n\nDoes a policy affect cost of service regions and competitive regions in different ways?"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#strength-and-limits",
+    "href": "lectures/lecture9/index.html#strength-and-limits",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Strength and limits",
+    "text": "Strength and limits\n\nStrength: Examine the impacts of power sector policies (or alternative technology/fuel trajectories) on the generation and capacity mix in the mid-to long-term\n\nLimits: Many do not have chronological unit commitment (i.e., every hour of the year chronologically); some use aggregate (model) plants for dispatch; transmission and power flow are a stylized representation (transport or DC)\n\nExample questions: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#key-questions-in-model-selection",
+    "href": "lectures/lecture9/index.html#key-questions-in-model-selection",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Key questions in model selection",
+    "text": "Key questions in model selection\n\nSpatial: \n\nGeographic: state, regional, national, international\n\nCost of service vs. competitive regions\n\n\nTemporal: time of day, seasons, annual, decadal\n\nTime steps: Building new capacity, dispatch\n\nTome horizon: near (2025), medium(2030), long (2050)\n\nGenerating units: individual plants or model plants, representation of capital costs and other production costs\n\nT&D: pipeflow, transport, DC powerflow, aggregated\n\nRepresentation of renewables: RE technologies, availabilities, accessibility cost, variability\n\nLink with economy wide model, environmental constraints"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#typical-output",
+    "href": "lectures/lecture9/index.html#typical-output",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Typical output",
+    "text": "Typical output\n\n\nSource: He et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#unit-committment-and-network-reliability",
+    "href": "lectures/lecture9/index.html#unit-committment-and-network-reliability",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Unit committment and network reliability",
+    "text": "Unit committment and network reliability\n\nUnit Commitment Model: Simulate detailed (hourly to sub-hourly) operation of a given system; Assess resource adequacy and other aspects of reliability of a system; Analyze the impact of changes in the system (e.g., retirement/addition of capacity) on system operation; Assess transmission congestion and locational marginal prices; Describe the daily pattern of emissions\n\nNetwork Reliability Model: Detailed simulations of the transmission network including dynamic events that can occur in seconds (and cause big problems); these models aren’t run on a day to day basis –they are only run to examine significant changes to an existing system"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#emerging-trends",
+    "href": "lectures/lecture9/index.html#emerging-trends",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Emerging trends",
+    "text": "Emerging trends\n\nSmart grid\n\nDistributed generation\n\nRenewable penetration\n\nEfficiency improvement\n\nElectrifying\n\nDR/DSM"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#summary",
+    "href": "lectures/lecture9/index.html#summary",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Summary",
+    "text": "Summary\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector"
+  },
+  {
     "objectID": "lectures/lecture7/index.html#sample-analytic-questions",
     "href": "lectures/lecture7/index.html#sample-analytic-questions",
     "title": "Lecture 7 Energy, Environment, and Human Health",
@@ -1341,6 +1446,6 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nLife cycle analysis and environmental impacts\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
   }
 ]

@@ -2,9 +2,9 @@
 title: "Lecture 9 Power Sector Analysis"
 author: "Gang He"
 date: October 24, 2022
-#image: "images/iams-carbon-brief.png"
+image: "images/hourly-dispatch.jpg"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -13,34 +13,150 @@ format:
     auto-stretch: true
     r-fit-text: true
     center: true
+    scrollable: true
     css: /custom.css
     #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
 ---
 
 ## Sample analytic questions
 
--   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
--   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
--   What level of social cost of carbon should New York State use?\
--   How climate change would affect energy supply and demand?\
+-   How much solar and wind capacity need to be built?\
+-   How cost delince of renewables and storage will change the capacity and generation mix of the power sector?\
+-   How much new transmission capacity is needed to harvest the benefits of interconnection?\
+-   Does CCS has role to play in the power sector decarbonization?\
+
 
 ## Power sector's central role
 
 Overarching strategy\
+
 - Electrification\
 - Decarbonization
 
+
 ## Why power sector is special?
 
+- Essential good\
+- Infrastructure\
+- Technology/network complexity: balance on real-time\
+- Supply/Demand inelasticity\
+  - Capsital intensive\
+  - Investment takes time\
 
+
+## U.S. electricity flow
+
+![](images/US-electricity-flow-2021.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
+:::
+
+
+## Refresh the basics
+
+- Energy and power\
+- kW, MW, GW, TW\
+- Heat rate and efficiency (Carnot, 1st, 2nd)\
+- Thermodynamics
+
+
+## Load factor and load curves
+
+$LF=\frac{Energy\ consumed}{Energy\ at\ peak\ demand}=\frac{Average\ power}{Peak\ power\ demand}$
+
+A low load factor means a “peaky” load shape
+
+
+![](images/load-profile-load-duration-curve.png){fig-align="center"}
+
+::: footer
+Source: @masters2013renewable
+:::
+
+
+## Supply curve and dispatch
+
+![](images/DispatchCurve.png){fig-align="center"}
+
+::: footer
+Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
+:::
+
+
+## Power system modeling family {.scrollable .smaller}
+
+|     Type    |     Production Cost (Unit Commitment and Dispatch)    |     Network Reliability (AC Power Flow,   Dynamics)    |     Capacity   Expansion          |
+|---|---|---|---|
+|     Generator Adequacy    |     Yes    |     No    |     Often    |
+|     Flexibility Requirement    |     Yes    |     No    |     Somewhat    |
+|     Transmission Adequacy    |     Partially    |     Yes    |     Typically No    |
+|     Gen Contingencies    |     Somewhat    |     Yes    |     No    |
+|     Transmission Contingencies    |     Somewhat    |     Yes    |     No    |
+|     Frequency Stability    |     Somewhat    |     Yes    |     No    |
+|     Voltage Stability, Voltage control    |     No    |     Yes    |     No    |
+|     Examples    |     PROMOD,   GE-Maps, PLEXOS, GridView    |     Positive sequence load flow (PSLF),   power system simulator for engineering (PSSE)    |     NEMS, ReEDS,   Integrated Planning Model, MARKAL,   Haiku    |
+
+
+## Capacity expansion models
+
+- Capacity expansion models simulate generation and transmission capacity investment, given assumptions about future electricity demand, fuel prices, technology cost and performance, and policy and regulation\
+- What mix of generators should we build to meet load?\
+- Does a policy affect cost of service regions and competitive regions in different ways?
+
+
+## Strength and limits{.smaller}
+
+- **Strength**: Examine the impacts of power sector policies (or alternative technology/fuel trajectories) on the generation and capacity mix in the mid-to long-term\
+- **Limits**: Many do not have chronological unit commitment (i.e., every hour of the year chronologically); some use aggregate (model) plants for dispatch; transmission and power flow are a stylized representation (transport or DC)\
+- **Example questions**: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?
+
+
+## Key questions in model selection{.smaller}
+
+- Spatial:\ 
+  - Geographic: state, regional, national, international\
+  - Cost of service vs. competitive regions\
+- Temporal: time of day, seasons, annual, decadal\
+- Time steps: Building new capacity, dispatch\
+- Tome horizon: near (2025), medium(2030), long (2050)\
+- Generating units: individual plants or model plants, representation of capital costs and other production costs\
+- T&D: pipeflow, transport, DC powerflow, aggregated\
+- Representation of renewables: RE technologies, availabilities, accessibility cost, variability\
+- Link with economy wide model, environmental constraints
+
+
+## Typical output
+
+![](images/hourly-dispatch.jpg){fig-align="center"}
+
+::: footer
+Source: @he_rapid_2020
+:::
+
+
+## Unit committment and network reliability{.smaller}
+
+- **Unit Commitment Model**: Simulate detailed (hourly to sub-hourly) operation of a given system; Assess resource adequacy and other aspects of reliability of a system; Analyze the impact of changes in the system (e.g., retirement/addition of capacity) on system operation; Assess transmission congestion and locational marginal prices; Describe the daily pattern of emissions\
+- **Network Reliability Model**: Detailed simulations of the transmission network including dynamic events that can occur in seconds (and cause big problems); these models aren't run on a day to day basis –they are only run to examine significant changes to an existing system
+
+
+## Emerging trends
+
+- Smart grid\
+- Distributed generation\
+- Renewable penetration\
+- Efficiency improvement\
+- Electrifying\
+- DR/DSM
 
 
 ## Summary
 
--   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
--   Learn the applicatons and limitations of social cost of carbon\
--   Climate change affects energy supply and demand
+-   Power sector's central role in decarbonization\
+-   Capacity expansion model to analyze the optimized investment decisions\
+-   Decisions in the real world is much more complicated\
+-   Emerging trends in the power sector
 
 ---
 

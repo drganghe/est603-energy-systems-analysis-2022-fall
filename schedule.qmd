@@ -13,7 +13,7 @@ title: Course Schedule
 | 7    | 10/3  | [Energy, environment, and health](lectures/lecture7/index.qmd)       | [HW3](assignments/hw3.qmd) assigned                                      |
 | 8    | 10/10 | Fall Break -- No class in session                                    |                                                                          |
 | 9    | 10/17 | [Energy and climate change](lectures/lecture8/index.qmd)             |                                                                          |
-| 10   | 10/24 | Life cycle analysis and environmental impacts                        | [HW3](assignments/hw3.qmd) due                                           |
+| 10   | 10/24 | [Power sector analysis](lectures/lecture9/index.qmd)                        | [HW3](assignments/hw3.qmd) due                                           |
 | 11   | 10/31 | Energy transition                                                    | Proposal due                                                             |
 | 12   | 11/7  | Human behavior, culture, and sustainable energy consumption          |                                                                          |
 | 13   | 11/14 | Energy poverty/access                                                | 4                                                                        |

@@ -10,8 +10,8 @@
   <meta name="generator" content="quarto-1.1.251">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2022-10-24">
-  <title>EST603 Energy Systems Analysis - Lecture 9 Power Sector Analysis</title>
+  <meta name="dcterms.date" content="2022-12-05">
+  <title>EST603 Energy Systems Analysis - Lecture 15 Summary</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -263,7 +263,6 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
-      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -340,264 +339,49 @@
       margin-right: 0; 
     }
   </style>
-<meta name="twitter:title" content="EST603 Energy Systems Analysis - Lecture 9 Power Sector Analysis">
-<meta name="twitter:image" content="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture9/images/hourly-dispatch.jpg">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="EST603 Energy Systems Analysis - Lecture 15 Summary">
+<meta name="twitter:card" content="summary">
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">Lecture 9 Power Sector Analysis</h1>
+  <h1 class="title">Lecture 15 Summary</h1>
   <p class="author">Gang He</p>
-  <p class="date">October 24, 2022</p>
+  <p class="date">December 5, 2022</p>
 </section>
 
 <section id="sample-analytic-questions" class="slide level2 center">
 <h2>Sample analytic questions</h2>
 <ul>
-<li>How much solar and wind capacity need to be built?<br>
+<li>If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?<br>
 </li>
-<li>How cost delince of renewables and storage will change the capacity and generation mix of the power sector?<br>
+<li>What needs to be included in New York State’s scoping plan to achieve goals in the Climate Leadership and Community Protection Act?<br>
 </li>
-<li>How much new transmission capacity is needed to harvest the benefits of interconnection?<br>
+<li>What level of social cost of carbon should New York State use?<br>
 </li>
-<li>Does CCS has role to play in the power sector decarbonization?<br>
+<li>How climate change would affect energy supply and demand?<br>
 </li>
-</ul>
-</section>
-<section id="power-sectors-central-role" class="slide level2 center">
-<h2>Power sector’s central role</h2>
-<p>Overarching strategy<br>
-</p>
-<ul>
-<li>Electrification<br>
-</li>
-<li>Decarbonization</li>
-</ul>
-</section>
-<section id="why-power-sector-is-special" class="slide level2 center">
-<h2>Why power sector is special?</h2>
-<ul>
-<li>Essential good<br>
-</li>
-<li>Infrastructure<br>
-</li>
-<li>Technology/network complexity: balance on real-time<br>
-</li>
-<li>Supply/Demand inelasticity<br>
-
-<ul>
-<li>Capsital intensive<br>
-</li>
-<li>Investment takes time<br>
-</li>
-</ul></li>
-</ul>
-</section>
-<section id="u.s.-electricity-flow" class="slide level2 center">
-<h2>U.S. electricity flow</h2>
-
-<img data-src="images/US-electricity-flow-2021.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <a href="https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php">EIA</a></p>
-</div>
-</section>
-<section id="refresh-the-basics" class="slide level2 center">
-<h2>Refresh the basics</h2>
-<ul>
-<li>Energy and power<br>
-</li>
-<li>kW, MW, GW, TW<br>
-</li>
-<li>Heat rate and efficiency (Carnot, 1st, 2nd)<br>
-</li>
-<li>Thermodynamics</li>
-</ul>
-</section>
-<section id="load-factor-and-load-curves" class="slide level2 center">
-<h2>Load factor and load curves</h2>
-<p><span class="math inline">\(LF=\frac{Energy\ consumed}{Energy\ at\ peak\ demand}=\frac{Average\ power}{Peak\ power\ demand}\)</span></p>
-<p>A low load factor means a “peaky” load shape</p>
-
-<img data-src="images/load-profile-load-duration-curve.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
-</div>
-</section>
-<section id="supply-curve-and-dispatch" class="slide level2 center">
-<h2>Supply curve and dispatch</h2>
-
-<img data-src="images/DispatchCurve.png" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Read more: <a href="https://www.eia.gov/todayinenergy/detail.php?id=7590">EIA</a></p>
-</div>
-</section>
-<section id="power-system-modeling-family" class="slide level2 scrollable smaller center">
-<h2>Power system modeling family</h2>
-<table>
-<colgroup>
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 25%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Type</th>
-<th>Production Cost (Unit Commitment and Dispatch)</th>
-<th>Network Reliability (AC Power Flow, Dynamics)</th>
-<th>Capacity Expansion</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Generator Adequacy</td>
-<td>Yes</td>
-<td>No</td>
-<td>Often</td>
-</tr>
-<tr class="even">
-<td>Flexibility Requirement</td>
-<td>Yes</td>
-<td>No</td>
-<td>Somewhat</td>
-</tr>
-<tr class="odd">
-<td>Transmission Adequacy</td>
-<td>Partially</td>
-<td>Yes</td>
-<td>Typically No</td>
-</tr>
-<tr class="even">
-<td>Gen Contingencies</td>
-<td>Somewhat</td>
-<td>Yes</td>
-<td>No</td>
-</tr>
-<tr class="odd">
-<td>Transmission Contingencies</td>
-<td>Somewhat</td>
-<td>Yes</td>
-<td>No</td>
-</tr>
-<tr class="even">
-<td>Frequency Stability</td>
-<td>Somewhat</td>
-<td>Yes</td>
-<td>No</td>
-</tr>
-<tr class="odd">
-<td>Voltage Stability, Voltage control</td>
-<td>No</td>
-<td>Yes</td>
-<td>No</td>
-</tr>
-<tr class="even">
-<td>Examples</td>
-<td>PROMOD, GE-Maps, PLEXOS, GridView</td>
-<td>Positive sequence load flow (PSLF), power system simulator for engineering (PSSE)</td>
-<td>NEMS, ReEDS, Integrated Planning Model, MARKAL, Haiku</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="capacity-expansion-models" class="slide level2 center">
-<h2>Capacity expansion models</h2>
-<ul>
-<li>Capacity expansion models simulate generation and transmission capacity investment, given assumptions about future electricity demand, fuel prices, technology cost and performance, and policy and regulation<br>
-</li>
-<li>What mix of generators should we build to meet load?<br>
-</li>
-<li>Does a policy affect cost of service regions and competitive regions in different ways?</li>
-</ul>
-</section>
-<section id="strength-and-limits" class="slide level2 smaller center">
-<h2>Strength and limits</h2>
-<ul>
-<li><strong>Strength</strong>: Examine the impacts of power sector policies (or alternative technology/fuel trajectories) on the generation and capacity mix in the mid-to long-term<br>
-</li>
-<li><strong>Limits</strong>: Many do not have chronological unit commitment (i.e., every hour of the year chronologically); some use aggregate (model) plants for dispatch; transmission and power flow are a stylized representation (transport or DC)<br>
-</li>
-<li><strong>Example questions</strong>: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?</li>
-</ul>
-</section>
-<section id="key-questions-in-model-selection" class="slide level2 smaller center">
-<h2>Key questions in model selection</h2>
-<ul>
-<li>Spatial:&nbsp;
-<ul>
-<li>Geographic: state, regional, national, international<br>
-</li>
-<li>Cost of service vs.&nbsp;competitive regions<br>
-</li>
-</ul></li>
-<li>Temporal: time of day, seasons, annual, decadal<br>
-</li>
-<li>Time steps: Building new capacity, dispatch<br>
-</li>
-<li>Tome horizon: near (2025), medium(2030), long (2050)<br>
-</li>
-<li>Generating units: individual plants or model plants, representation of capital costs and other production costs<br>
-</li>
-<li>T&amp;D: pipeflow, transport, DC powerflow, aggregated<br>
-</li>
-<li>Representation of renewables: RE technologies, availabilities, accessibility cost, variability<br>
-</li>
-<li>Link with economy wide model, environmental constraints</li>
-</ul>
-</section>
-<section id="typical-output" class="slide level2 center">
-<h2>Typical output</h2>
-
-<img data-src="images/hourly-dispatch.jpg" class="r-stretch quarto-figure-center"><div class="footer">
-<p>Source: <span class="citation" data-cites="he_rapid_2020">He et al. (<a href="#/references" role="doc-biblioref" onclick="">2020</a>)</span></p>
-</div>
-</section>
-<section id="unit-committment-and-network-reliability" class="slide level2 smaller center">
-<h2>Unit committment and network reliability</h2>
-<ul>
-<li><strong>Unit Commitment Model</strong>: Simulate detailed (hourly to sub-hourly) operation of a given system; Assess resource adequacy and other aspects of reliability of a system; Analyze the impact of changes in the system (e.g., retirement/addition of capacity) on system operation; Assess transmission congestion and locational marginal prices; Describe the daily pattern of emissions<br>
-</li>
-<li><strong>Network Reliability Model</strong>: Detailed simulations of the transmission network including dynamic events that can occur in seconds (and cause big problems); these models aren’t run on a day to day basis –they are only run to examine significant changes to an existing system</li>
-</ul>
-</section>
-<section id="emerging-trends" class="slide level2 center">
-<h2>Emerging trends</h2>
-<ul>
-<li>Smart grid<br>
-</li>
-<li>Distributed generation<br>
-</li>
-<li>Renewable penetration<br>
-</li>
-<li>Efficiency improvement<br>
-</li>
-<li>Electrifying<br>
-</li>
-<li>DR/DSM</li>
 </ul>
 </section>
 <section id="summary" class="slide level2 center">
 <h2>Summary</h2>
 <ul>
-<li>Power sector’s central role in decarbonization<br>
+<li>IAM framework and models to analyze energy, emissions, and climate impacts<br>
 </li>
-<li>Capacity expansion model to analyze the optimized investment decisions<br>
+<li>Understanding the evolution of climate policy instuments<br>
 </li>
-<li>Decisions in the real world is much more complicated<br>
+<li>Learn the applicatons and limitations of social cost of carbon<br>
 </li>
-<li>Emerging trends in the power sector</li>
+<li>Climate change affects energy supply and demand</li>
 </ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-he_rapid_2020" class="csl-entry" role="doc-biblioentry">
-He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. <span>“Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.”</span> <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.
-</div>
-<div id="ref-masters2013renewable" class="csl-entry" role="doc-biblioentry">
-Masters, Gilbert M. 2013. <em>Renewable and Efficient Electric Power Systems</em>. John Wiley &amp; Sons.
-</div>
+<div id="refs" role="doc-bibliography">
+
 </div>
 <div class="footer">
 <p>Back to Course <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/">Home</a>, or Learn More about <a href="https://drganghe.github.io">Gang He</a></p>
