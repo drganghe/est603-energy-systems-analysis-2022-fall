@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "#\nTopic\nDue Date\n\n\n\n\n0\nIRA emission reduction assessment\nN/A\n\n\n1\nAir quality in China and India\n9/12\n\n\n2\nEnergy project economics\n9/26\n\n\n3\nEnergy technology and impacts\n10/24\n\n\n4\nLoad and power system"
+  },
+  {
     "objectID": "assignments/hw1.html",
     "href": "assignments/hw1.html",
     "title": "Homework 1 Air quality in China and India",
@@ -23,28 +30,28 @@
   {
     "objectID": "assignments/hw0.html",
     "href": "assignments/hw0.html",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "title": "Homework 0 IRA emission reduction assessment",
     "section": "",
     "text": "This is a “get a taste of the field” homework."
   },
   {
     "objectID": "assignments/hw0.html#background",
     "href": "assignments/hw0.html#background",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "title": "Homework 0 IRA emission reduction assessment",
     "section": "Background",
     "text": "Background\nOn August 16, President Biden Signed H.R. 5376, The Inflation Reduction Act of 2022 into law. The law targets to reduce U.S. carbon emission by 40% compared to the 2005 level, but can it deliver? Energy systems analysis could help to answer such questions. Three notable groups have released energy and emissions models that have been widely cited by lawmakers, advocates and the press:\n\nThe REPEAT Project, an academic initiative that aims for data-driven climate policy at Princeton University, estimated the bill would cut emissions 42 percent of 2005 levels by 2030, or 27 percent without it.\nThe Rhodium Group, an economic and environment consulting firm, found that emissions would fall 31 to 44 percent from 2005 levels by 2030 under the “Inflation Reduction Act”, and decline 24 to 35 percent without the bill.\nEnergy Innovation, a climate and energy think tank, showed that emissions would fall 37 to 41 percent of 2005 levels by the end of the decade with the bill, compared to 24 percent without it."
   },
   {
     "objectID": "assignments/hw0.html#questions",
     "href": "assignments/hw0.html#questions",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "title": "Homework 0 IRA emission reduction assessment",
     "section": "Questions",
     "text": "Questions\nPlease compare models and results by those three groups and assess the pros and cons of those models, and discuss how to interpretate those estimates and findings.\n\nWhat models do the groups use?\nWhat are the key assumptions behind those estimates?\nWhat are the uncertainties in the modeling results?"
   },
   {
     "objectID": "assignments/hw0.html#further-readings",
     "href": "assignments/hw0.html#further-readings",
-    "title": "Homework 0 IRA Emission Reduction Assessment",
+    "title": "Homework 0 IRA emission reduction assessment",
     "section": "Further readings",
     "text": "Further readings\nhttps://www.eenews.net/articles/modeling-ira-carbon-cuts-caveats-uncertainty-and-luggage/\nhttps://www.economist.com/leaders/2022/08/08/americas-climate-plus-spending-bill-is-flawed-but-essential\nhttps://www.washingtonpost.com/climate-environment/2022/08/18/ira-inflation-reduction-act-climate-change/"
   },
@@ -1432,7 +1439,7 @@
     "href": "resources.html#open-source-efforts",
     "title": "Resources",
     "section": "Open-source efforts",
-    "text": "Open-source efforts\nOpen Model Initiative: Open models and open data will advance knowledge and lead to better energy policies.\nOSeMOSYS: The Open Source Energy Modeling System\nTEMOA: Tools for Energy Model Optimization and Assessment"
+    "text": "Open-source efforts\nOpen Model Initiative: Open models and open data will advance knowledge and lead to better energy policies.\nOSeMOSYS: The Open Source Energy Modeling System\nTEMOA: Tools for Energy Model Optimization and Assessment\nPyPSA: Python for Power System Analysis"
   },
   {
     "objectID": "resources.html#programming-language",

@@ -1,5 +1,5 @@
 ---
-title: Homework 0 IRA Emission Reduction Assessment
+title: Homework 0 IRA emission reduction assessment
 aliases:
   - /homeworks/hw0.html
 format: 

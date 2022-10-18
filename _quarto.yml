@@ -14,37 +14,9 @@ website:
       - text: Schedule
         href: schedule.qmd        
       - text: Lectures
-        menu:
-          - text: All Lectures
-            href: lectures.qmd
-          - text: Lecture 1
-            href: lectures/lecture1/index.qmd
-          - text: Lecture 2
-            href: lectures/lecture2/index.qmd
-          - text: Lecture 3
-            href: lectures/lecture3/index.qmd 
-          - text: Lecture 4
-            href: lectures/lecture4/index.qmd
-          - text: Lecture 5
-            href: lectures/lecture5/index.qmd
-          - text: Lecture 6
-            href: lectures/lecture6/index.qmd
-          - text: Lecture 7
-            href: lectures/lecture7/index.qmd
-          - text: Lecture 8
-            href: lectures/lecture8/index.qmd
-          - text: Lecture 9
-            href: lectures/lecture9/index.qmd                                                                          
+        href: lectures.qmd                                                                        
       - text: Assignments
-        menu:
-          - text: HW 0
-            href: assignments/hw0.qmd
-          - text: HW 1
-            href: assignments/hw1.qmd
-          - text: HW 2
-            href: assignments/hw2.qmd
-          - text: HW 3
-            href: assignments/hw3.qmd            
+        href: assignments.qmd           
       - text: Project
         href: project.qmd
       - text: Resources

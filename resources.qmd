@@ -73,6 +73,8 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 [TEMOA](https://www.temoaproject.org): Tools for Energy Model Optimization and Assessment
 
+[PyPSA](https://pypsa.org/): Python for Power System Analysis
+
    
 
 ## Programming language
