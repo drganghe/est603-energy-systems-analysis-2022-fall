@@ -557,7 +557,7 @@
     "href": "lectures/lecture4/index.html#learning-curve",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Learning curve",
-    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{-b}\\)\n\\(Lr=1-Pr\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slopes of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: Yelle (1979)"
+    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slopes of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: Yelle (1979)"
   },
   {
     "objectID": "lectures/lecture4/index.html#learning-of-differrent-technologies",

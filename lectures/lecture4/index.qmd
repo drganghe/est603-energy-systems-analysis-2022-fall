@@ -127,7 +127,7 @@ Empircial relations between unit costs and cumulative production.
 <center>
 $Y = aX^b$
 
-$Pr=2^{-b}$
+$Pr=2^{b}$
 
 $Lr=1-Pr$
 </center>
