@@ -557,7 +557,7 @@
     "href": "lectures/lecture4/index.html#learning-curve",
     "title": "Lecture 4 Economics for Energy Systems Analysis",
     "section": "Learning curve",
-    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slopes of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: Yelle (1979)"
+    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr=1-2^{b}\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slope of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: Yelle (1979)"
   },
   {
     "objectID": "lectures/lecture4/index.html#learning-of-differrent-technologies",
@@ -1194,7 +1194,7 @@
     "href": "lectures/lecture9/index.html#power-system-modeling-family",
     "title": "Lecture 9 Power Sector Analysis",
     "section": "Power system modeling family",
-    "text": "Power system modeling family\n\n\n\n\n\n\n\n\n\nType\nProduction Cost (Unit Commitment and Dispatch)\nNetwork Reliability (AC Power Flow, Dynamics)\nCapacity Expansion\n\n\n\n\nGenerator Adequacy\nYes\nNo\nOften\n\n\nFlexibility Requirement\nYes\nNo\nSomewhat\n\n\nTransmission Adequacy\nPartially\nYes\nTypically No\n\n\nGen Contingencies\nSomewhat\nYes\nNo\n\n\nTransmission Contingencies\nSomewhat\nYes\nNo\n\n\nFrequency Stability\nSomewhat\nYes\nNo\n\n\nVoltage Stability, Voltage control\nNo\nYes\nNo\n\n\nExamples\nPROMOD, GE-Maps, PLEXOS, GridView\nPositive sequence load flow (PSLF), power system simulator for engineering (PSSE)\nNEMS, ReEDS, Integrated Planning Model, MARKAL, Haiku"
+    "text": "Power system modeling family\n\n\n\n\n\n\n\n\n\nType\nProduction Cost (Unit Commitment and Dispatch)\nNetwork Reliability (AC Power Flow, Dynamics)\nCapacity Expansion\n\n\n\n\nGenerator Adequacy\nYes\nNo\nOften\n\n\nFlexibility Requirement\nYes\nNo\nSomewhat\n\n\nTransmission Adequacy\nPartially\nYes\nTypically No\n\n\nGen Contingencies\nSomewhat\nYes\nNo\n\n\nTransmission Contingencies\nSomewhat\nYes\nNo\n\n\nFrequency Stability\nSomewhat\nYes\nNo\n\n\nVoltage Stability, Voltage control\nNo\nYes\nNo\n\n\nExamples\nPROMOD, GE-Maps, PLEXOS, GridView\nPositive sequence load flow (PSLF), power system simulator for engineering (PSSE)\nNEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku"
   },
   {
     "objectID": "lectures/lecture9/index.html#capacity-expansion-models",
@@ -1454,5 +1454,40 @@
     "title": "Course Schedule",
     "section": "",
     "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nHuman behavior, culture, and sustainable energy consumption\n\n\n\n13\n11/14\nEnergy poverty/access\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#model-comparison",
+    "href": "lectures/lecture9/index.html#model-comparison",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Model comparison",
+    "text": "Model comparison\n\n\nSource: Johnston et al. (2019)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#switch-model-as-example",
+    "href": "lectures/lecture9/index.html#switch-model-as-example",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "SWITCH Model as example",
+    "text": "SWITCH Model as example\n\n\nSource: Johnston et al. (2019)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
+    "href": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Typical output: capacity/generation mix",
+    "text": "Typical output: capacity/generation mix\n\n\nSource: He et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#typical-output-transmission-expansions",
+    "href": "lectures/lecture9/index.html#typical-output-transmission-expansions",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Typical output: transmission expansions",
+    "text": "Typical output: transmission expansions\n\n\nRead more: PyPSA"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#u.s.-transmission-grid",
+    "href": "lectures/lecture9/index.html#u.s.-transmission-grid",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "U.S. transmission grid",
+    "text": "U.S. transmission grid\n\n\nSource: ArcGIS"
   }
 ]

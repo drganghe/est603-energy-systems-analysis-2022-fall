@@ -14,7 +14,7 @@ format:
     r-fit-text: true
     center: true
     css: /custom.css
-    #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
+    footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---
 
 ## Sample analytic questions

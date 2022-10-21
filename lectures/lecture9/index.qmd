@@ -15,7 +15,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    #footer: https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/
+    footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---
 
 ## Sample analytic questions
@@ -51,6 +51,16 @@ Overarching strategy\
 ::: footer
 Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
 :::
+
+
+## U.S. transmission grid
+
+![](images/us-transmission-grid.png){fig-align="center"}
+
+::: footer
+Source: [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?layers=d4090758322c4d32a4cd002ffaa0aa12&layerId=0)
+:::
+
 
 
 ## Refresh the basics
@@ -95,7 +105,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 |     Transmission Contingencies    |     Somewhat    |     Yes    |     No    |
 |     Frequency Stability    |     Somewhat    |     Yes    |     No    |
 |     Voltage Stability, Voltage control    |     No    |     Yes    |     No    |
-|     Examples    |     PROMOD,   GE-Maps, PLEXOS, GridView    |     Positive sequence load flow (PSLF),   power system simulator for engineering (PSSE)    |     NEMS, ReEDS,   Integrated Planning Model, MARKAL,   Haiku    |
+|     Examples    |     PROMOD,   GE-Maps, PLEXOS, GridView    |     Positive sequence load flow (PSLF),   power system simulator for engineering (PSSE)    |     NEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku    |
 
 
 ## Capacity expansion models
@@ -112,6 +122,23 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 - **Example questions**: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?
 
 
+## Model comparison
+
+![](images/model-comparison.png){fig-align="center"}
+
+::: footer
+Source: @johnston2019switch
+:::
+
+
+## SWITCH Model as example
+
+![](images/switch-model.jpg){fig-align="center"}
+
+::: footer
+Source: @johnston2019switch
+:::
+
 ## Key questions in model selection{.smaller}
 
 - Spatial:\ 
@@ -126,7 +153,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 - Link with economy wide model, environmental constraints
 
 
-## Typical output
+## Typical output: capacity/generation mix
 
 ![](images/hourly-dispatch.jpg){fig-align="center"}
 
@@ -134,6 +161,14 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 Source: @he_rapid_2020
 :::
 
+
+## Typical output: transmission expansions
+
+![](images/pypsa-eur.png){fig-align="center"}
+
+::: footer
+Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)
+:::
 
 ## Unit committment and network reliability{.smaller}
 

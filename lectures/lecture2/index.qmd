@@ -13,7 +13,7 @@ format:
     r-fit-text: true
     center: true
     css: /custom.css
-    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+    footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---
 
 ## {background-color="black" background-image="./images/one-ton-co2.jpg"}

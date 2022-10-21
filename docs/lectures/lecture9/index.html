@@ -403,6 +403,13 @@
 <p>Source: <a href="https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php">EIA</a></p>
 </div>
 </section>
+<section id="u.s.-transmission-grid" class="slide level2 center">
+<h2>U.S. transmission grid</h2>
+
+<img data-src="images/us-transmission-grid.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=d4090758322c4d32a4cd002ffaa0aa12&amp;layerId=0">ArcGIS</a></p>
+</div>
+</section>
 <section id="refresh-the-basics" class="slide level2 center">
 <h2>Refresh the basics</h2>
 <ul>
@@ -495,7 +502,7 @@
 <td>Examples</td>
 <td>PROMOD, GE-Maps, PLEXOS, GridView</td>
 <td>Positive sequence load flow (PSLF), power system simulator for engineering (PSSE)</td>
-<td>NEMS, ReEDS, Integrated Planning Model, MARKAL, Haiku</td>
+<td>NEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku</td>
 </tr>
 </tbody>
 </table>
@@ -519,6 +526,20 @@
 </li>
 <li><strong>Example questions</strong>: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?</li>
 </ul>
+</section>
+<section id="model-comparison" class="slide level2 center">
+<h2>Model comparison</h2>
+
+<img data-src="images/model-comparison.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <span class="citation" data-cites="johnston2019switch">Johnston et al. (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span></p>
+</div>
+</section>
+<section id="switch-model-as-example" class="slide level2 center">
+<h2>SWITCH Model as example</h2>
+
+<img data-src="images/switch-model.jpg" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Source: <span class="citation" data-cites="johnston2019switch">Johnston et al. (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span></p>
+</div>
 </section>
 <section id="key-questions-in-model-selection" class="slide level2 smaller center">
 <h2>Key questions in model selection</h2>
@@ -545,11 +566,18 @@
 <li>Link with economy wide model, environmental constraints</li>
 </ul>
 </section>
-<section id="typical-output" class="slide level2 center">
-<h2>Typical output</h2>
+<section id="typical-output-capacitygeneration-mix" class="slide level2 center">
+<h2>Typical output: capacity/generation mix</h2>
 
 <img data-src="images/hourly-dispatch.jpg" class="r-stretch quarto-figure-center"><div class="footer">
 <p>Source: <span class="citation" data-cites="he_rapid_2020">He et al. (<a href="#/references" role="doc-biblioref" onclick="">2020</a>)</span></p>
+</div>
+</section>
+<section id="typical-output-transmission-expansions" class="slide level2 center">
+<h2>Typical output: transmission expansions</h2>
+
+<img data-src="images/pypsa-eur.png" class="r-stretch quarto-figure-center"><div class="footer">
+<p>Read more: <a href="https://github.com/PyPSA/pypsa-eur">PyPSA</a></p>
 </div>
 </section>
 <section id="unit-committment-and-network-reliability" class="slide level2 smaller center">
@@ -595,6 +623,9 @@
 <div id="ref-he_rapid_2020" class="csl-entry" role="doc-biblioentry">
 He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. <span>“Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.”</span> <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.
 </div>
+<div id="ref-johnston2019switch" class="csl-entry" role="doc-biblioentry">
+Johnston, Josiah, Rodrigo Henriquez-Auba, Benjamı́n Maluenda, and Matthias Fripp. 2019. <span>“Switch 2.0: A Modern Platform for Planning High-Renewable Power Systems.”</span> <em>SoftwareX</em> 10: 100251. <a href="https://doi.org/10.1016/j.softx.2019.100251">https://doi.org/10.1016/j.softx.2019.100251</a>.
+</div>
 <div id="ref-masters2013renewable" class="csl-entry" role="doc-biblioentry">
 Masters, Gilbert M. 2013. <em>Renewable and Efficient Electric Power Systems</em>. John Wiley &amp; Sons.
 </div>
@@ -604,7 +635,7 @@ Masters, Gilbert M. 2013. <em>Renewable and Efficient Electric Power Systems</em
 </div>
 
 <div class="footer footer-default">
-
+<p><a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/" class="uri">https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/</a></p>
 </div>
 </section>
     </div>

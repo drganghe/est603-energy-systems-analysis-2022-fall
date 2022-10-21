@@ -14,7 +14,7 @@ format:
     r-fit-text: true
     center: true
     css: /custom.css
-    #footer: Back [home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+    footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---
 
 ## Sample analytic questions
@@ -129,14 +129,14 @@ $Y = aX^b$
 
 $Pr=2^{b}$
 
-$Lr=1-Pr$
+$Lr=1-Pr=1-2^{b}$
 </center>
 
 <p style="font-size:20pt; color:gray; text-align:center">
 Y: Unit costs  
 a: Cost of first unit  
 X: Units  
-b: Slopes of the learning curve  
+b: Slope of the learning curve  
 Pr: Progress ratio   
 Lr: Learing rate
 </p>
