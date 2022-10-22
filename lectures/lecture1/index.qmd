@@ -23,45 +23,34 @@ How to evaluate its impact to the emission reduction?
 ::: {.column width="50%"}
 ![](images/biden-sign.jpeg){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
-Source: [Washington Post](https://www.forbes.com/sites/alanohnsman/2022/08/20/biden-signs-climate-bill-how-long-range-evs-work-and-defeating-forever-chemicals/?sh=4149864b7c2f)
-</p>
 :::
 
 ::: {.column width="50%"}
 ![](images/ira-impact-repeat.png){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
-Source: [NY Times](https://www.nytimes.com/interactive/2022/08/02/climate/manchin-deal-emissions-cuts.html)
-</p>
 :::
+:::
+
+::: footer
+Source: Source: [Washington Post](https://www.forbes.com/sites/alanohnsman/2022/08/20/biden-signs-climate-bill-how-long-range-evs-work-and-defeating-forever-chemicals/?sh=4149864b7c2f), [NY Times](https://www.nytimes.com/interactive/2022/08/02/climate/manchin-deal-emissions-cuts.html)
 :::
 
 ## Why EST603?
 
 -   Quantitative skills/tools
-
     -   Research
-
     -   Jobs
-
 -   Evidence based energy/environmental policy making
 
 ## Organization
 
 -   Syllabus
-
 -   Brightspace
-
 -   Course website:
     <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
-
 -   Homework (4): 40%
-
 -   Proposal: 10%
-
 -   Final presentations: 20%
-
 -   Final paper/policy memo: 30%
 
 ## Contents
@@ -69,17 +58,11 @@ Source: [NY Times](https://www.nytimes.com/interactive/2022/08/02/climate/manchi
 ::: columns
 ::: {.column width="50%"}
 -   Energy systems
-
     -   Data
-
     -   Economics
-
     -   Technology
-
     -   Supply
-
     -   Demand
-
     -   Power
 :::
 
@@ -166,17 +149,14 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 
 ![](images/us-energy-infrastructure.png){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
+::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
-</p>
+:::
 
 ## The Energy Trillemma: Balancing trade-offs
 ::: columns
 ::: {.column width="50%"}
 ![](images/world-energy-trilemma-2021.png){fig-align="center"}
-<p style="font-size:14pt; color:gray;">
-Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/world-energy-trilemma-index)
-</p>
 :::
 
 ::: {.column width="50%"}
@@ -192,13 +172,16 @@ Those goals sometimes conflict with each other, and decisions has to make trade-
 :::
 :::
 
+::: footer
+Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/world-energy-trilemma-index)
+:::
+
+
 ## Energy, economy, and environment
 ::: columns
 ::: {.column width="50%"}
 ![](images/economy-environment-energy.jpeg){fig-align="center"}
-<p style="font-size:14pt; color:gray;">
-Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
-</p>
+
 :::
 
 ::: {.column width="50%"}
@@ -212,29 +195,32 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 :::
 :::
 
+::: footer
+Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
+:::
 
 ## Energy great achievement
 
 ![](images/energy-great-achievement.png){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
+::: footer
 Source: [National Academies](http://www.greatachievements.org/)
-</p>
+:::
 
 
 ## Energy grand challenges: SDGs
 ![](images/un-sdg.png){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
+::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-</p>
+:::
 
 ## Energy grand challenges: net-zero
 ![](images/iea-net-zero.png){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
+::: footer
 Source: @iea_net_2021 
-</p>
+:::
 
 
 ## Modeling can be useful/insightful (an example)
@@ -248,9 +234,9 @@ Source: @iea_net_2021
 ## Renewables are achieving grid parity: a structural change
 ![](images/irena-re-costs-2021.png){fig-align="center"}
 
-<p style="font-size:14pt; color:gray;">
+::: footer
 Source: @irena_renewable_2021 
-</p>
+:::
 
 
 ## Implications are profound
@@ -259,20 +245,17 @@ Source: @irena_renewable_2021
 ::: {.column width="50%"}
 <br>
 ![](images/accelerate-re-china.png){fig-align="center"}
-<p style="font-size:14pt; color:gray;">
-Source: @he_rapid_2020 
-</p>
 :::
 
 ::: {.column width="50%"}
 ![](images/re-costs-and-ccs.jpg){fig-align="center"}
-<p style="font-size:14pt; color:gray;">
-Source: @grant_cost_2021 
-</p>
 :::
 
 :::
 
+::: footer
+Source: @he_rapid_2020, @grant_cost_2021
+:::
 
 ## End with two quotes {.smaller}
 
@@ -282,9 +265,6 @@ Bill Hogan:
 
 >It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
 
-<p style="font-size:14pt; color:gray;">
-Source: @hogan_energy_2002   
-</p>
 :::
 
 ::: {.column width="50%"}
@@ -292,11 +272,13 @@ Huntington, Weyant, Sweeney “Modeling for insights, not numbers":
 
 >The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.
 
-<p style="font-size:14pt; color:gray;">
-Source: @huntington_modeling_1982  
-</p>
 :::
 :::
+
+::: footer
+Source: @hogan_energy_2002, @huntington_modeling_1982
+:::
+
 
 ---
 ### References
