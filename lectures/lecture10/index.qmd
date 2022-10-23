@@ -24,8 +24,70 @@ format:
 -   What level of social cost of carbon should New York State use?\
 -   How climate change would affect energy supply and demand?\
 
+## Transition history
+
+::: footer
+Source: 
+:::
+
+## Soft path vs. hard path
+
+::: footer
+Source: 
+:::
 
 
+## Drivers of energy transition
+
+- Demand
+- Supply: fossil fuel based, resources
+- Climate change
+- Environmental pollution
+- Energy security
+- Economics
+
+
+## 100% reneables: a debate
+
+
+::: footer
+Source: 
+:::
+
+
+## Changing perspection of 
+
+
+
+## Energy Transition: The German Energiewende
+
+- Fighting climate change
+- Reducing energy imports
+- Stimulating technology innovation and the green economy
+- Reducing and eliminating the risks of nuclear power
+- Energy security
+- Strengthening local economies and providing social justice
+
+## The 
+
+## The U.S.
+
+
+## Denmark
+
+![](images/denmark-chp.png){fig-align="center"}
+
+::: footer
+Source: 
+:::
+
+## China
+
+![](images/china-carbon-neutrality.png){fig-align="center"}
+
+::: footer
+Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-climate-targets-compare-against-a-common-baseline)
+:::
 
 ## Summary
 
