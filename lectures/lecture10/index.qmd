@@ -83,7 +83,7 @@ Source:
 
 ## China
 
-![](images/china-carbon-neutrality.png){fig-align="center"}
+![](images/china-carbon-neutrality.jpeg){fig-align="center"}
 
 ::: footer
 Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-climate-targets-compare-against-a-common-baseline)

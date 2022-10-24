@@ -40,7 +40,7 @@ Overarching strategy\
 - Infrastructure\
 - Technology/network complexity: balance on real-time\
 - Supply/Demand inelasticity\
-  - Capsital intensive\
+  - Capital intensive\
   - Investment takes time\
 
 
