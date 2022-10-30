@@ -137,7 +137,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\n\n\n\nGang He\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Energy Numbers\n\n\n\n\n\n\nGang He\n\n\nAug 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Energy Systems Overview\n\n\n\n\n\n\nGang He\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Economics for Energy Systems Analysis\n\n\n\n\n\n\nGang He\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Sources and Technologies\n\n\n\n\n\n\nGang He\n\n\nSep 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Demand\n\n\n\n\n\n\nGang He\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy, Environment, and Human Health\n\n\n\n\n\n\nGang He\n\n\nOct 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy and Climate Change\n\n\n\n\n\n\nGang He\n\n\nOct 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Power Sector Analysis\n\n\n\n\n\n\nGang He\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Energy Transition\n\n\n\n\n\n\nGang He\n\n\nOct 31, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
@@ -1489,5 +1489,187 @@
     "title": "Lecture 9 Power Sector Analysis",
     "section": "U.S. transmission grid",
     "text": "U.S. transmission grid\n\n\nSource: ArcGIS"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#sample-analytic-questions",
+    "href": "lectures/lecture10/index.html#sample-analytic-questions",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the drivers of energy transition?\n\nHow should each country think/design/implemnet its energy transition?\n\nHow to frame the role of different technologies in energy transition?\n\nHow geo-politics, wars, and pandemic impact the energy in transiton?"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#transition-history",
+    "href": "lectures/lecture10/index.html#transition-history",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Transition history",
+    "text": "Transition history\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#re-coal-a-milestone",
+    "href": "lectures/lecture10/index.html#re-coal-a-milestone",
+    "title": "Lecture 10 Energy Transition",
+    "section": "RE > coal: a milestone",
+    "text": "RE > coal: a milestone\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#soft-path-vs.-hard-path",
+    "href": "lectures/lecture10/index.html#soft-path-vs.-hard-path",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Soft path vs. hard path",
+    "text": "Soft path vs. hard path\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\n\nSource: Lovins (1976)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#u.s.-power-sector-half-way-to-zero",
+    "href": "lectures/lecture10/index.html#u.s.-power-sector-half-way-to-zero",
+    "title": "Lecture 10 Energy Transition",
+    "section": "U.S. power-sector half-way to zero",
+    "text": "U.S. power-sector half-way to zero\n\n\nSource: LBL"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#drivers-of-energy-transition",
+    "href": "lectures/lecture10/index.html#drivers-of-energy-transition",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Drivers of energy transition",
+    "text": "Drivers of energy transition\n\nDemand\nSupply: fossil fuel based, resources\nClimate change\nEnvironmental pollution\nEnergy security\nEconomics"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#reneables-a-debate",
+    "href": "lectures/lecture10/index.html#reneables-a-debate",
+    "title": "Lecture 10 Energy Transition",
+    "section": "100% reneables: a debate",
+    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\n\nSource: Jacobson et al. (2015), Clack et al. (2017)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#changing-perspective-of-renewables",
+    "href": "lectures/lecture10/index.html#changing-perspective-of-renewables",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Changing perspective of renewables",
+    "text": "Changing perspective of renewables\n\n\nSource: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#energy-transition-the-german-energiewende",
+    "href": "lectures/lecture10/index.html#energy-transition-the-german-energiewende",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Energy Transition: The German Energiewende",
+    "text": "Energy Transition: The German Energiewende\n\nFighting climate change\nReducing energy imports\nStimulating technology innovation and the green economy\nReducing and eliminating the risks of nuclear power\nEnergy security\nStrengthening local economies and providing social justice"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#germany-role-of-nuclear",
+    "href": "lectures/lecture10/index.html#germany-role-of-nuclear",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Germany: role of nuclear?",
+    "text": "Germany: role of nuclear?\n\nThree operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.\n\nSource: World Nuclear Association"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#the-u.s.-ira",
+    "href": "lectures/lecture10/index.html#the-u.s.-ira",
+    "title": "Lecture 10 Energy Transition",
+    "section": "The U.S. IRA",
+    "text": "The U.S. IRA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#denmark-distributed-generation-chp-and-wind",
+    "href": "lectures/lecture10/index.html#denmark-distributed-generation-chp-and-wind",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Denmark: Distributed generation (CHP and wind)",
+    "text": "Denmark: Distributed generation (CHP and wind)\n\n\nSource: Henning Parbo"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#china-the-scale-and-scope",
+    "href": "lectures/lecture10/index.html#china-the-scale-and-scope",
+    "title": "Lecture 10 Energy Transition",
+    "section": "China: the scale and scope",
+    "text": "China: the scale and scope\n\n\nSource: The Economist"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#renewable-expoding-while-coal-platauing",
+    "href": "lectures/lecture10/index.html#renewable-expoding-while-coal-platauing",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Renewable expoding while coal platauing",
+    "text": "Renewable expoding while coal platauing"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#china-phasing-out-coal",
+    "href": "lectures/lecture10/index.html#china-phasing-out-coal",
+    "title": "Lecture 10 Energy Transition",
+    "section": "China: phasing out coal",
+    "text": "China: phasing out coal\n\n\nSource: He et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#bazil-role-of-hydro-and-biofuel",
+    "href": "lectures/lecture10/index.html#bazil-role-of-hydro-and-biofuel",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Bazil: role of hydro and biofuel",
+    "text": "Bazil: role of hydro and biofuel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#africa-the-fogotten-billion",
+    "href": "lectures/lecture10/index.html#africa-the-fogotten-billion",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Africa: the fogotten billion",
+    "text": "Africa: the fogotten billion\n\n\nSource: Mulugetta et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#ukraine-crisis-an-accerlerator",
+    "href": "lectures/lecture10/index.html#ukraine-crisis-an-accerlerator",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Ukraine crisis: an accerlerator?",
+    "text": "Ukraine crisis: an accerlerator?\n\n\nSource: IEA, World Energy Outlook 2022"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#impact-to-emissions",
+    "href": "lectures/lecture10/index.html#impact-to-emissions",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Impact to emissions",
+    "text": "Impact to emissions\n\n\nSource: IEA, World Energy Outlook 2022"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#summary",
+    "href": "lectures/lecture10/index.html#summary",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Summary",
+    "text": "Summary\n\nDiverse factors that driver energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#the-u.s.",
+    "href": "lectures/lecture10/index.html#the-u.s.",
+    "title": "Lecture 10 Energy Transition",
+    "section": "The U.S.",
+    "text": "The U.S."
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#u.s.-ira",
+    "href": "lectures/lecture10/index.html#u.s.-ira",
+    "title": "Lecture 10 Energy Transition",
+    "section": "U.S.: IRA",
+    "text": "U.S.: IRA\n\n\nSource: Rhodium Group"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#the-u.s.-net-zero",
+    "href": "lectures/lecture10/index.html#the-u.s.-net-zero",
+    "title": "Lecture 10 Energy Transition",
+    "section": "The U.S.: net zero",
+    "text": "The U.S.: net zero"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#the-u.s.-net-zero-america",
+    "href": "lectures/lecture10/index.html#the-u.s.-net-zero-america",
+    "title": "Lecture 10 Energy Transition",
+    "section": "The U.S.: net zero America",
+    "text": "The U.S.: net zero America\n\n\nSource: ZERO Lab"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#changing-perspectives-of-renewables",
+    "href": "lectures/lecture10/index.html#changing-perspectives-of-renewables",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Changing perspectives of renewables",
+    "text": "Changing perspectives of renewables\n\n\nSource: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#china-phasing-out-coal-is-cha",
+    "href": "lectures/lecture10/index.html#china-phasing-out-coal-is-cha",
+    "title": "Lecture 10 Energy Transition",
+    "section": "China: phasing out coal is cha",
+    "text": "China: phasing out coal is cha\n\n\nSource: He et al. (2020)"
   }
 ]
