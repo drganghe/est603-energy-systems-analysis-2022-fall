@@ -2,6 +2,7 @@
 title: "Lecture 9 Power Sector Analysis"
 author: "Gang He"
 date: October 24, 2022
+date-format: long
 image: "images/hourly-dispatch.jpg"
 #suppress-bibliography: true
 #draft: true

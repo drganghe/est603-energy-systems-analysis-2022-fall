@@ -2,6 +2,7 @@
 title: "Lecture 11 Sustainable Energy Consumption"
 author: "Gang He"
 date: November 7, 2022
+date-format: long
 #image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
 draft: true

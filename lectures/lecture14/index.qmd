@@ -2,6 +2,7 @@
 title: "Lecture 14 Limitation of Models"
 author: "Gang He"
 date: November 28, 2022
+date-format: long
 #image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
 draft: true

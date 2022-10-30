@@ -2,6 +2,7 @@
 title: "Lecture 4 Economics for Energy Systems Analysis"
 author: "Gang He"
 date: September 12, 2022
+date-format: long
 image: "images/discounting-schedule.png"
 #suppress-bibliography: true
 #draft: true

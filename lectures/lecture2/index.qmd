@@ -2,6 +2,7 @@
 title: "Lecture 2 Make Sense of Energy Numbers"
 author: "Gang He"
 date: Aug 29, 2022
+date-format: long
 image: "images/boe-equations.png"
 #suppress-bibliography: true
 format:

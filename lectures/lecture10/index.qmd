@@ -2,6 +2,7 @@
 title: "Lecture 10 Energy Transition"
 author: "Gang He"
 date: October 31, 2022
+date-format: long
 image: "images/us-energy-transition.png"
 #suppress-bibliography: true
 #draft: true

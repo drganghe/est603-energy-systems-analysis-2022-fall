@@ -2,6 +2,7 @@
 title: "Lecture 15 Summary"
 author: "Gang He"
 date: December 5, 2022
+date-format: long
 #image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
 draft: true

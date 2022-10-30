@@ -2,6 +2,7 @@
 title: "Lecture 5 Energy Sources and Technologies"
 author: "Gang He"
 date: September 19, 2022
+date-format: long
 image: "images/block-island-wind.jpeg"
 #suppress-bibliography: true
 #draft: true

@@ -2,6 +2,7 @@
 title: "Lecture 1 Introduction"
 author: "Gang He"
 date: Aug 22, 2022
+date-format: long
 image: "images/economy-environment-energy.jpeg"
 format:
   revealjs:

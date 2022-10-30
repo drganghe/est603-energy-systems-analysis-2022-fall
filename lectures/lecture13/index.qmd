@@ -2,6 +2,7 @@
 title: "Lecture 13 Big Data/AI for Clean Energy"
 author: "Gang He"
 date: November 21, 2022
+date-format: long
 #image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
 draft: true

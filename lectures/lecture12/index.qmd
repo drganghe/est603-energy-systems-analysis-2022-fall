@@ -2,6 +2,7 @@
 title: "Lecture 12 Energy Poverty/Access"
 author: "Gang He"
 date: November 14, 2022
+date-format: long
 #image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
 draft: true

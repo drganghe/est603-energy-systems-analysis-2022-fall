@@ -2,6 +2,7 @@
 title: "Lecture 7 Energy, Environment, and Human Health"
 author: "Gang He"
 date: October 3, 2022
+date-format: long
 image: "images/iea-energy-air-pollution.png"
 #suppress-bibliography: true
 #draft: true

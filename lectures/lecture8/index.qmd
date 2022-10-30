@@ -2,6 +2,7 @@
 title: "Lecture 8 Energy and Climate Change"
 author: "Gang He"
 date: October 17, 2022
+date-format: long
 image: "images/iams-carbon-brief.png"
 #suppress-bibliography: true
 #draft: true
