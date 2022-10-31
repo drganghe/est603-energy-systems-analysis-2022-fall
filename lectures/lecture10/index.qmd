@@ -174,12 +174,29 @@ Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-
 :::
 
 
-## China: phasing out coal
+## China: phasing out coal{.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+
+![](images/retirement-score-china-coal-plants.webp){fig-align="center" width="80%"}
+
+:::
+
+::: {.column width="50%"}
 
 ![](images/china-coal-transition.png){fig-align="center"}
 
+Phasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution
+
+:::
+
+:::
+
+
 ::: footer
-Source: @he2020enabling
+Source: @cui2021plant, @he2020enabling
 :::
 
 ## Bazil: role of hydro and biofuel
