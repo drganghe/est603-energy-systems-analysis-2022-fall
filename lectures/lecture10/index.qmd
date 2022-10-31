@@ -21,7 +21,7 @@ format:
 ## Sample analytic questions
 
 -   What are the drivers of energy transition?\
--   How should each country think/design/implemnet its energy transition?\
+-   How should each country think/design/implement its energy transition?\
 -   How to frame the role of different technologies in energy transition?\
 -   How geo-politics, wars, and pandemic impact the energy in transiton?\
 
@@ -77,7 +77,7 @@ Source: @lovins_energy_1976
 ## Drivers of energy transition
 
 - Demand
-- Supply: fossil fuel based, resources
+- Supply
 - Climate change
 - Environmental pollution
 - Energy security
@@ -89,7 +89,7 @@ Source: @lovins_energy_1976
 ::: columns
 
 ::: {.column width="50%"}
-100% renewables (wind, water, solar) for all purposes
+100% renewables (wind, water, solar) for all purposes?
 
 - Resources, technology, economic ready  
 - Huge benefits
@@ -97,7 +97,7 @@ Source: @lovins_energy_1976
 :::
 
 ::: {.column width="50%"}
-100% renewable not viable
+100% renewable not viable/necesssary?
 
 - Modeling errors   
 - Implausible assumptions  
@@ -190,7 +190,7 @@ Source: @he2020enabling
 :::
 
 ::: {.column width="50%"}
-![](images/brazil-power-mix.png){fig-align="center"}
+![](images/brazil-power-mix.png){fig-align="center" width="90%"}
 :::
 
 :::
@@ -226,7 +226,7 @@ Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energ
 
 ## Summary
 
--   Diverse factors that driver energy transition\
+-   Diverse factors that drive energy transition\
 -   Common and differentiated solutions to energy\
 -   Leverage the advantages\
 -   Addressing uncertainties: geopolitics, wars, pandemic, and more
