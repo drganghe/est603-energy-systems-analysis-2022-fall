@@ -1,11 +1,11 @@
 ---
-title: "Lecture 11 Sustainable Energy Consumption"
+title: "Lecture 11 Energy Efficiency, Behavioral, and Sustainable Consumption"
 author: "Gang He"
 date: November 7, 2022
 date-format: long
-#image: "images/iams-carbon-brief.png"
+image: "images/behavior-change-net-zero.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -13,6 +13,7 @@ format:
     preview-links: true
     auto-stretch: true
     r-fit-text: true
+    scrollable: true
     center: true
     css: /custom.css
     footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
@@ -20,19 +21,204 @@ format:
 
 ## Sample analytic questions
 
--   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
--   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
--   What level of social cost of carbon should New York State use?\
--   How climate change would affect energy supply and demand?\
+-   If energy efficiency is a good thing, why is not everybody doing it?\
+-   How to design incentive programs to change people's behavior?\
+-   How big is rebound, and what to do with rebound?\
+-   What policies to push for sustainable energy consumption?\
+
+## Energy efficiency
+
+- Energy efficiency  
+- Energy conservation (saving)  
+- Energy efficiency and economic efficiency
+
+::: footer
+Read more: Kathryne Cleary and Karen Palmer, [RFF](https://www.rff.org/publications/explainers/energy-efficiency-101/)
+:::
+
+## Energy intensity
+
+![](images/energy-intensity.png){fig-align="center"}
+
+::: footer
+Source: [OurWorldinData](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=CHE~DEU~CHN~IND~GBR~USA~JPN~OWID_WRL)
+:::
+
+## Recall the abatement cost curve
+
+![](images/mckinsey-curve.png){fig-align="center"}
+
+::: footer
+Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
+:::
+
+## Energy efficiency gap
+
+![](images/ee-failure.png){fig-align="center"}
+
+::: footer
+Source: @gillingham2009energy
+:::
+
+## Information
+
+![](images/energy-label.png){fig-align="center"}
+
+::: footer
+Source: [FTC](https://consumer.ftc.gov/articles/how-use-energyguide-label-shop-home-appliances)
+:::
 
 
+## Standards{.smaller}
+
+- Response to Information Failure  
+  - May be good policy if information is too costly/ineffective  
+  - Eliminates consumer/producer choice
+  - Eliminates cost of acquiring/understanding information
+  - Focuses the market on producing the high-quality products
+  - Economies of scale in producing high quality product, but wouldn’t the market find it profitable to take advantage of this
+
+- Response to externalities  
+  - Disallow products that would not often be sold if external costs were internalized
+  - Inefficient if some consumers would purchase at the full social cost including externality
+  - Difficult in some cases to write standards that still permit optimal innovation and adaptation
+
+::: footer
+Source: Severin Boenstein
+:::
+
+## Behavior change in NZE
+
+![](images/behavior-change-net-zero.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+## Key behavior change for NZE
+
+![](images/key-behavior-change-nze.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+## Complexity of human behavior
+
+![](images/Kahneman-systems.jpeg){fig-align="center"}
+
+::: footer
+Read more: [Human Behavior Research](https://imotions.com/blog/human-behavior/)
+:::
+
+## Maslow's hierarchy of needs
+
+![](images/maslow-hierarchy-of-needs.svg){fig-align="center"}
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+:::
+
+## Stage of change theory
+
+![](images/stages-behavior-change.jpeg){fig-align="center"}
+
+::: footer
+Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html)
+:::
+
+## Nudge
+
+::: columns
+
+::: {.column width="50%"}
+![](images/nudge-cover.jpeg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+- Incentives
+- Understand mapping
+- Defaults
+- Give feedback
+- Expect error
+- Structure complex choices
+:::
+
+:::
+
+::: footer
+Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/book/9780300262285/nudge/)
+:::
+
+## Rebound{.smaller}
+
+|     Category    |     Description    |     Example    |
+|---|---|---|
+|     Direct   rebound    |     Homeowners use more of the more   efficient service    |     Consumer drives more with a more fuel   efficient   car    |
+|     Indirect   rebound    |     Homeowners re-spending on other   goods and services    |     Savings from efficient lighting   spend on 2nd   refrigerator    |
+|     Economy-wide   rebound    |     More efficient production and   shifts in demand alter economic structure and growth    |     A more efficient steam engine   increases production changes structural relationships and leads to economic growth    |
+
+## Economics of rebound{.smaller}
+
+- Energy efficiency lowers the marginal cost of usage so increases usage, given purchase  
+  - Amount of increase depends on price elasticity of demand for energy to run the appliance  
+  - Likely to be small if energy is small part of MC of use  
+- Energy efficiency may lower energy price, further increasing rebound effect  
+  - Likely to be small effect unless long-run supply is very inelastic  
+- But energy efficiency also raises the up-front cost of appliance, reducing total sales
+
+::: footer
+Source: Severin Boenstein
+:::
+
+## Rebound might be overplayed
+
+![](images/rebound-overplay.png){fig-align="center"}
+
+::: footer
+Source: @gillingham2013energy
+:::
+
+
+## Focus on welfare
+
+- Is rebound a “failure”? Depends on the goal  
+  - Reduce energy consumption?
+  - Improve social welfare?  
+- Rebound could be good  
+
+
+## Sustainable energy consumption{.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+![](images/un-sus-consumption.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+- Absolute reductions in the material goods and energy we consume;  
+- From material wealth and consumerism toward new measures of progress and well-being;  
+- Technological innovation and efficiency gains that help us to refine production processes;  
+- Recognition that consumption will need to increase for those individuals and communities whose needs are not being met, and  
+- A transformation of our economy from continuous growth to within the limits of a finite planet.  
+
+
+:::
+
+:::
+
+::: footer
+Read more: [UN](https://www.un.org/sustainabledevelopment/wp-content/uploads/2022/07/Goal-12-infographic.pdf), [USDN](https://sustainableconsumption.usdn.org/concept/overview)
+:::
 
 ## Summary
 
--   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
--   Learn the applicatons and limitations of social cost of carbon\
--   Climate change affects energy supply and demand
+-   There are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\
+-   Human behavior is complicated, and understanding it will help us to design policy\
+-   Rebound is real but might be overplayed, rebound could be good if improve welfare\
+-   Sustainable consumption and production within the limit
 
 ---
 
