@@ -121,7 +121,7 @@ Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_nee
 
 ## Stage of change theory
 
-![](images/stages-behavior-change.jpeg){fig-align="center"}
+![](images/stages-behavior-change.png){fig-align="center"}
 
 ::: footer
 Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html)
