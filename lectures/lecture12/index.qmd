@@ -1,9 +1,9 @@
 ---
-title: "Lecture 12 Energy Poverty/Access"
+title: "Lecture 12 Energy Poverty, Access, and Justice"
 author: "Gang He"
 date: November 14, 2022
 date-format: long
-#image: "images/iams-carbon-brief.png"
+#image: "images/just-transition-framework.png"
 #suppress-bibliography: true
 draft: true
 format:
@@ -13,6 +13,7 @@ format:
     preview-links: true
     auto-stretch: true
     r-fit-text: true
+    scrollable: true
     center: true
     css: /custom.css
     footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
@@ -20,12 +21,63 @@ format:
 
 ## Sample analytic questions
 
--   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
--   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
--   What level of social cost of carbon should New York State use?\
--   How climate change would affect energy supply and demand?\
+-   Why energy access is so foundamental for modern life?\
+-   The barriers and policies to facilitate energy access?\
+-   What is Justice40? And what investment are included?\
+-   What are the typical energ injustice and how to address them?\
+
+## Energy poverty and SDG
+
+![](images/energy-hdi-mdg.png){fig-align="center"}
+
+::: footer
+Read more: @alstone2015decentralized
+:::
+
+## Energy access and HDI
+
+![](images/energy-hdi.png){fig-align="center"}
+
+::: footer
+Read more: @alstone2015decentralized
+:::
+
+## Energy ladder
+
+![](images/energy-ladder.png){fig-align="center"}
+
+::: footer
+Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
+:::
+
+## China's electricity for all
 
 
+
+## The energy equity gap
+
+![](images/energy-equity-gap.webp){fig-align="center"}
+
+::: footer
+Source: @cong2022unveiling
+:::
+
+## Justice 40
+
+![](images/justice40.png){fig-align="center"}
+
+::: footer
+Source: [White House](https://www.whitehouse.gov/environmentaljustice/justice40/)
+:::
+
+
+## Just transition framework
+
+![](images/just-transition-framework.png){fig-align="center"}
+
+::: footer
+Source: [Climate Justice Alliance](https://climatejusticealliance.org/just-transition/)
+:::
 
 ## Summary
 

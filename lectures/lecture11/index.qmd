@@ -84,7 +84,7 @@ Source: [FTC](https://consumer.ftc.gov/articles/how-use-energyguide-label-shop-h
   - Difficult in some cases to write standards that still permit optimal innovation and adaptation
 
 ::: footer
-Source: Severin Boenstein
+Source: Severin Borenstein
 :::
 
 ## Behavior change in NZE
@@ -168,7 +168,7 @@ Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/b
 - But energy efficiency also raises the up-front cost of appliance, reducing total sales
 
 ::: footer
-Source: Severin Boenstein
+Source: Severin Borenstein
 :::
 
 ## Rebound might be overplayed
