@@ -1,5 +1,5 @@
 ---
-title: "Lecture 11 Energy Efficiency, Behavioral, and Sustainable Consumption"
+title: "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption"
 author: "Gang He"
 date: November 7, 2022
 date-format: long
