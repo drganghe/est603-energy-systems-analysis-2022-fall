@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.242">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>EST603 Energy Systems Analysis - Homework 4 Load forecast, power system</title>
+<title>EST603 Energy Systems Analysis - Homework 4 Load forecast, energy justice</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,25 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
-}
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
 }
 </style>
 
@@ -80,8 +61,8 @@ div.csl-indent {
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta name="twitter:title" content="EST603 Energy Systems Analysis - Homework 4 Load forecast, power system">
-<meta name="twitter:description" content="En-ROADS">
+<meta name="twitter:title" content="EST603 Energy Systems Analysis - Homework 4 Load forecast, energy justice">
+<meta name="twitter:description" content="Load forecast is very important for power system planning and operation. First visit NYISO website’s Custom Reports to explore all sorts of data out there.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -102,25 +83,32 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>
+    <a class="nav-link" href="http://drganghe.github.io">
+ <span class="menu-text">Dr.&nbsp;Gang He</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../syllabus.html">Syllabus</a>
+    <a class="nav-link" href="../syllabus.html">
+ <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../schedule.html">Schedule</a>
+    <a class="nav-link" href="../schedule.html">
+ <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../lectures.html">Lectures</a>
+    <a class="nav-link" href="../lectures.html">
+ <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assignments.html">Assignments</a>
+    <a class="nav-link" href="../assignments.html">
+ <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../project.html">Project</a>
+    <a class="nav-link" href="../project.html">
+ <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../resources.html">Resources</a>
+    <a class="nav-link" href="../resources.html">
+ <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
               <div class="quarto-toggle-container">
@@ -144,12 +132,8 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#load-forecast" id="toc-load-forecast" class="nav-link active" data-scroll-target="#load-forecast">1. Load forecast</a></li>
-  <li><a href="#power-sector-planning" id="toc-power-sector-planning" class="nav-link" data-scroll-target="#power-sector-planning">2. Power sector planning</a></li>
-  <li><a href="#incoperating-justice" id="toc-incoperating-justice" class="nav-link" data-scroll-target="#incoperating-justice">3. Incoperating justice</a>
-  <ul class="collapse">
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
-  </ul></li>
+  <li><a href="#load-forecast-and-ev-penetration" id="toc-load-forecast-and-ev-penetration" class="nav-link active" data-scroll-target="#load-forecast-and-ev-penetration">1. Load forecast and EV penetration</a></li>
+  <li><a href="#energy-justice" id="toc-energy-justice" class="nav-link" data-scroll-target="#energy-justice">2. Energy justice</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/drganghe/est603-energy-systems-analysis-2022-fall/edit/main/assignments/hw4.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/drganghe/est603-energy-systems-analysis-2022-fall/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/drganghe/est603-energy-systems-analysis-2022-fall/blob/main/assignments/hw4.qmd" class="toc-action">View source</a></p></div></div></nav>
     </div>
@@ -158,7 +142,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Homework 4 Load forecast, power system</h1>
+<h1 class="title">Homework 4 Load forecast, energy justice</h1>
 </div>
 
 
@@ -166,33 +150,47 @@ div.csl-indent {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
 
 </header>
 
-<section id="load-forecast" class="level2">
-<h2 class="anchored" data-anchor-id="load-forecast">1. Load forecast</h2>
+<section id="load-forecast-and-ev-penetration" class="level2">
+<h2 class="anchored" data-anchor-id="load-forecast-and-ev-penetration">1. Load forecast and EV penetration</h2>
+<p>Load forecast is very important for power system planning and operation. First visit NYISO website’s <a href="https://www.nyiso.com/custom-reports">Custom Reports</a> to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecase better. Download one whole year (2021) of <a href="data/OASIS_Real_Time_Weighted_Integrated_Actual_Load.csv">Real Time Weighted Integrated Actual Load</a> and <a href="data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv">Day Head Market Load Forcast</a> for Long Island. (Total 6pts)</p>
+<ul>
+<li>Draw the load curve (0.5pt) and load duration curve (0.5pt) of Long Island.<br>
+</li>
+<li>Show the characteristics of avaerge day hourly load curve on Long Island
+<ul>
+<li>All days average (0.5pt)<br>
+</li>
+<li>Weekday vs weekend (0.5pt)<br>
+</li>
+<li>Monthly avearge (0.5pt)<br>
+</li>
+<li>Seasonal average (0.5pt)<br>
+</li>
+</ul></li>
+<li>Find the hour(s)/day(s) with the largest forecase error, and try to explain why? (1pt)<br>
+</li>
+<li>Now make reasonable assumptions of EV penetration and EV charging on Long Island, and try to show how that would change the load curve. (1pt)</li>
+<li>Should PSEG Long Island worry about it, what policy/incentives should you use to change people’s havior of charging/discharging so to save costs for the utility companies? (1pt)</li>
+</ul>
 </section>
-<section id="power-sector-planning" class="level2">
-<h2 class="anchored" data-anchor-id="power-sector-planning">2. Power sector planning</h2>
-</section>
-<section id="incoperating-justice" class="level2">
-<h2 class="anchored" data-anchor-id="incoperating-justice">3. Incoperating justice</h2>
-<p><a href="https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&amp;p1=110&amp;p7=100&amp;p10=5&amp;p16=-0.03&amp;p23=-30&amp;p30=-0.07&amp;p35=2&amp;p39=250&amp;p47=5&amp;p50=5&amp;p53=100&amp;p55=100&amp;p57=-10&amp;p59=-100&amp;p63=8.9&amp;p65=100&amp;p67=100">En-ROADS</a></p>
-<p>Further reading: https://en-roads.climateinteractive.org/scenario.html?v=22.10.0</p>
-<section id="references" class="level3">
-
-
+<section id="energy-justice" class="level2">
+<h2 class="anchored" data-anchor-id="energy-justice">2. Energy justice</h2>
+<p>What is energy justice? Use one example to discuss how energy supply/demand might affect equity and justice of specific groups or population. Write a short essay (~400 words) to explain your thoughts. (Total 4pts)</p>
+<p><strong>Further reading</strong>:</p>
+<p>Arvind Jaggi, Senior Economist, Demand Forecasting &amp; Analysis, <a href="https://www.nyiso.com/documents/20142/19415353/04%202021%20GoldBook%20EVForecast.pdf/bc823f27-cbbd-669f-8d76-e695d59b9bed">Electric Vehicle Forecast Impacts (Gold Book 2021)</a></p>
+<p>Play around the <a href="https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&amp;p1=110&amp;p7=100&amp;p10=5&amp;p16=-0.03&amp;p23=-30&amp;p30=-0.07&amp;p35=2&amp;p39=250&amp;p47=5&amp;p50=5&amp;p53=100&amp;p55=100&amp;p57=-10&amp;p59=-100&amp;p63=8.9&amp;p65=100&amp;p67=100">En-ROADS</a> model, and change some of the parameters and check how assumptions affect modeling results.</p>
 
 
 </section>
-</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" role="doc-bibliography">
-
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -234,7 +232,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -270,24 +285,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var filterRegex = new RegExp(/https:\/\/drganghe\.github\.io\/est603-energy-systems-analysis-2022-fall/);
@@ -295,7 +328,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

@@ -4,7 +4,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "#\nTopic\nDue Date\n\n\n\n\n0\nIRA emission reduction assessment\nN/A\n\n\n1\nAir quality in China and India\n9/12\n\n\n2\nEnergy project economics\n9/26\n\n\n3\nEnergy technology and impacts\n10/24\n\n\n4\nLoad and power system"
+    "text": "#\nTopic\nDue Date\n\n\n\n\n0\nIRA emission reduction assessment\nN/A\n\n\n1\nAir quality in China and India\n9/12\n\n\n2\nEnergy project economics\n9/26\n\n\n3\nEnergy technology and impacts\n10/24\n\n\n4\nLoad forecast, energy justice\n11/21"
   },
   {
     "objectID": "assignments/hw1.html",
@@ -1453,7 +1453,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nEnergy efficiency, behavior, and sustainable consumption\n\n\n\n13\n11/14\nEnergy poverty, access, and justice\n4\n\n\n14\n11/21\nBig data and AI for clean energy [Thanksgiving Week]\n\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nEnergy efficiency, behavior, and sustainable consumption\nHW4 assigned\n\n\n13\n11/14\nEnergy poverty, access, and justice\n\n\n\n14\n11/21\nBig data and AI for clean energy\nHW4 due\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
   },
   {
     "objectID": "lectures/lecture9/index.html#model-comparison",
@@ -1811,5 +1811,19 @@
     "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Summary",
     "text": "Summary\n\nThere are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
+  },
+  {
+    "objectID": "assignments/hw4.html",
+    "href": "assignments/hw4.html",
+    "title": "Homework 4 Load forecast, energy justice",
+    "section": "",
+    "text": "Load forecast is very important for power system planning and operation. First visit NYISO website’s Custom Reports to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecase better. Download one whole year (2021) of Real Time Weighted Integrated Actual Load and Day Head Market Load Forcast for Long Island. (Total 6pts)\n\nDraw the load curve (0.5pt) and load duration curve (0.5pt) of Long Island.\n\nShow the characteristics of avaerge day hourly load curve on Long Island\n\nAll days average (0.5pt)\n\nWeekday vs weekend (0.5pt)\n\nMonthly avearge (0.5pt)\n\nSeasonal average (0.5pt)\n\n\nFind the hour(s)/day(s) with the largest forecase error, and try to explain why? (1pt)\n\nNow make reasonable assumptions of EV penetration and EV charging on Long Island, and try to show how that would change the load curve. (1pt)\nShould PSEG Long Island worry about it, what policy/incentives should you use to change people’s havior of charging/discharging so to save costs for the utility companies? (1pt)"
+  },
+  {
+    "objectID": "assignments/hw4.html#energy-justice",
+    "href": "assignments/hw4.html#energy-justice",
+    "title": "Homework 4 Load forecast, energy justice",
+    "section": "2. Energy justice",
+    "text": "2. Energy justice\nWhat is energy justice? Use one example to discuss how energy supply/demand might affect equity and justice of specific groups or population. Write a short essay (~400 words) to explain your thoughts. (Total 4pts)\nFurther reading:\nArvind Jaggi, Senior Economist, Demand Forecasting & Analysis, Electric Vehicle Forecast Impacts (Gold Book 2021)\nPlay around the En-ROADS model, and change some of the parameters and check how assumptions affect modeling results."
   }
 ]

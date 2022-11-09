@@ -1,6 +1,6 @@
 ---
-title: Homework 4 Load forecast, power system
-draft: true
+title: Homework 4 Load forecast, energy justice
+#draft: true
 format: 
   html: 
     theme: cosmo
@@ -23,20 +23,30 @@ format:
     colorlinks: true
 ---
 
-## 1. Load forecast
+## 1. Load forecast and EV penetration
+
+Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecase better. Download one whole year (2021) of [Real Time Weighted Integrated Actual Load](data/OASIS_Real_Time_Weighted_Integrated_Actual_Load.csv) and [Day Head Market Load Forcast](data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv) for Long Island. (Total 6pts)
+
+- Draw the load curve (0.5pt) and load duration curve (0.5pt) of Long Island.  
+- Show the characteristics of avaerge day hourly load curve on Long Island  
+  - All days average (0.5pt)  
+  - Weekday vs weekend (0.5pt)  
+  - Monthly avearge (0.5pt)  
+  - Seasonal average (0.5pt)  
+- Find the hour(s)/day(s) with the largest forecase error, and try to explain why? (1pt)  
+- Now make reasonable assumptions of EV penetration and EV charging on Long Island, and try to show how that would change the load curve. (1pt)
+- Should PSEG Long Island worry about it, what policy/incentives should you use to change people's havior of charging/discharging so to save costs for the utility companies? (1pt)
 
 
-## 2. Power sector planning
+## 2. Energy justice
+
+What is energy justice? Use one example to discuss how energy supply/demand might affect equity and justice of specific groups or population. Write a short essay (~400 words) to explain your thoughts. (Total 4pts)
 
 
-## 3. Incoperating justice
 
-[En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&p1=110&p7=100&p10=5&p16=-0.03&p23=-30&p30=-0.07&p35=2&p39=250&p47=5&p50=5&p53=100&p55=100&p57=-10&p59=-100&p63=8.9&p65=100&p67=100)
+**Further reading**: 
 
+Arvind Jaggi, Senior Economist, Demand Forecasting & Analysis, [Electric Vehicle Forecast Impacts (Gold Book 2021)](https://www.nyiso.com/documents/20142/19415353/04%202021%20GoldBook%20EVForecast.pdf/bc823f27-cbbd-669f-8d76-e695d59b9bed)
 
-Further reading: https://en-roads.climateinteractive.org/scenario.html?v=22.10.0
+Play around the [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&p1=110&p7=100&p10=5&p16=-0.03&p23=-30&p30=-0.07&p35=2&p39=250&p47=5&p50=5&p53=100&p55=100&p57=-10&p59=-100&p63=8.9&p65=100&p67=100) model, and change some of the parameters and check how assumptions affect modeling results. 
 
-### References
-
-::: {#refs}
-:::

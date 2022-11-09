@@ -8,4 +8,4 @@ title: Assignments
 | 1    | [Air quality in China and India](assignments/hw1.qmd)          | 9/12 |
 | 2    | [Energy project economics](assignments/hw2.qmd)               |  9/26      |
 | 3    | [Energy technology and impacts](assignments/hw3.qmd) | 10/24 |
-| 4    | Load and power system                      |    |
+| 4    | [Load forecast, energy justice](assignments/hw4.qmd)  |  11/21  |
