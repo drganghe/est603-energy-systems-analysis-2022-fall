@@ -3,9 +3,9 @@ title: "Lecture 12 Energy Poverty, Access, and Justice"
 author: "Gang He"
 date: November 14, 2022
 date-format: long
-#image: "images/just-transition-framework.png"
+image: "images/just-transition-framework.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -26,6 +26,7 @@ format:
 -   What is Justice40? And what investment are included?\
 -   What are the typical energ injustice and how to address them?\
 
+
 ## Energy poverty and SDG
 
 ![](images/energy-hdi-mdg.png){fig-align="center"}
@@ -33,6 +34,7 @@ format:
 ::: footer
 Read more: @alstone2015decentralized
 :::
+
 
 ## Energy access and HDI
 
@@ -42,6 +44,15 @@ Read more: @alstone2015decentralized
 Read more: @alstone2015decentralized
 :::
 
+
+## Energy poverty and gender equity
+
+- Women and kids spend more time collecting woods  
+- Women spend more time on cooking without clean fuel/energy
+- Women bear more burden on indoor airpollution  
+- Women have less oportunity for development 
+
+
 ## Energy ladder
 
 ![](images/energy-ladder.png){fig-align="center"}
@@ -50,8 +61,76 @@ Read more: @alstone2015decentralized
 Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
 :::
 
+## Sustainable energy for all
+
+![](images/sdg7-progress.png){fig-align="center"}
+
+::: footer
+Read more: [Tracking SDG7 The Energy Progress Report 2022](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2022-full_report.pdf)
+:::
+
+
+## Share of population with electricity
+
+![](images/share-of-population-with-electricity.png){fig-align="center"}
+
+::: footer
+Read more: [Tracking SDG7 The Energy Progress Report 2022](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2022-full_report.pdf)
+:::
+
+
+## Share of population with clean cooking fuel
+
+![](images/share-of-population-with-clean-cooking.png){fig-align="center"}
+
+::: footer
+Read more: [Tracking SDG7 The Energy Progress Report 2022](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2022-full_report.pdf)
+:::
+
+
 ## China's electricity for all
 
+::: columns
+
+::: {.column width="50%"}
+![](images/electrification-path.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/china-efa.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @He2017efa 
+:::
+
+
+## Energy justice
+
+> The goal of achieving equity in both the social and economic participation in the energy system, while also remediating social, economic, and health burdens on those disproportionately harmed by the energy system.
+
+::: footer
+Read more: [DOE](https://www.energy.gov/diversity/articles/how-energy-justice-presidential-initiatives-and-executive-orders-shape-equity)
+:::
+
+## EJ conceptual questions
+
+![](images/energy-justice-conceptual.png){fig-align="center"}
+
+::: footer
+Source: @jenkins2016energy
+:::
+
+
+## Rooftop solar by race and ethnicity
+
+![](images/household-income-and-rooftop-solar.png){fig-align="center"}
+
+::: footer
+Source: @sunter2019disparities
+:::
 
 
 ## The energy equity gap
@@ -61,6 +140,7 @@ Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
 ::: footer
 Source: @cong2022unveiling
 :::
+
 
 ## Justice 40
 
@@ -79,12 +159,32 @@ Source: [White House](https://www.whitehouse.gov/environmentaljustice/justice40/
 Source: [Climate Justice Alliance](https://climatejusticealliance.org/just-transition/)
 :::
 
+
+## Energy, environmental, climate justice
+
+| Energy | Environmental | Climate |
+|---|---|---|
+| Energy supply/demand | Environment burden/benefits | Climate impact/benefits |
+
+**Common Questions**:  
+Who bears the burden? Who harvests the benefits? Do we know the injustice? Can people involve in the decision proceses? How to compensate?
+
+
+## NYS CLCPA disadvantaged communities (DACs)
+
+![](images/nysclcpa-dac.png){fig-align="center"}
+
+::: footer
+Read more: [Draft Disadvantaged
+Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Communities-Criteria)
+:::
+
 ## Summary
 
--   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
--   Learn the applicatons and limitations of social cost of carbon\
--   Climate change affects energy supply and demand
+-   Electricity/energy access is foundamental to other morden services, education, health, and information\
+-   Energy access also has gender equity, health cobenefits, and other implications\
+-   Energy justice is important to achieve just transition \
+-   An reflection on our approach to energy justice
 
 ---
 
