@@ -1,5 +1,5 @@
 ---
-title: "Lecture 13 Big Data/AI for Clean Energy"
+title: "Lecture 13 Big Data and AI for Clean Energy"
 author: "Gang He"
 date: November 21, 2022
 date-format: long
@@ -14,6 +14,7 @@ format:
     auto-stretch: true
     r-fit-text: true
     center: true
+    scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---
@@ -26,6 +27,24 @@ format:
 -   How climate change would affect energy supply and demand?\
 
 
+## "AI is the new electricity"
+
+::: columns
+
+:::{.column width="50%"}
+![](images/andrew-ng.png){fig-align="center"}
+:::
+
+:::{.column width="50%"}
+>Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.  
+--Andrew Ng
+:::
+
+:::
+
+## 
+
+## 
 
 ## Summary
 

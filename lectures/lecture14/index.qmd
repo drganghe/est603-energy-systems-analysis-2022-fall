@@ -1,5 +1,5 @@
 ---
-title: "Lecture 14 Limitation of Models"
+title: "Lecture 14 Limitations of Models"
 author: "Gang He"
 date: November 28, 2022
 date-format: long
@@ -14,6 +14,7 @@ format:
     auto-stretch: true
     r-fit-text: true
     center: true
+    scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---

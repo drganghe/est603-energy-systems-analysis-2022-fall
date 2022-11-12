@@ -25,17 +25,17 @@ format:
 
 ## 1. Load forecast and EV penetration
 
-Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecase better. Download one whole year (2021) of [Real Time Weighted Integrated Actual Load](data/OASIS_Real_Time_Weighted_Integrated_Actual_Load.csv) and [Day Head Market Load Forcast](data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv) for Long Island. (Total 6pts)
+Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecast better. Download one whole year (2021) of [Real Time Weighted Integrated Actual Load](data/OASIS_Real_Time_Weighted_Integrated_Actual_Load.csv) and [Day Head Market Load Forcast](data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv) for Long Island. (Total 6pts)
 
 - Draw the load curve (0.5pt) and load duration curve (0.5pt) of Long Island.  
-- Show the characteristics of avaerge day hourly load curve on Long Island  
+- Show the characteristics of average day hourly load curve on Long Island  
   - All days average (0.5pt)  
-  - Weekday vs weekend (0.5pt)  
+  - Weekday vs. weekend (0.5pt)  
   - Monthly avearge (0.5pt)  
   - Seasonal average (0.5pt)  
-- Find the hour(s)/day(s) with the largest forecase error, and try to explain why? (1pt)  
+- Find the hour(s)/day(s) with the largest forecast error, and try to explain why? (1pt)  
 - Now make reasonable assumptions of EV penetration and EV charging on Long Island, and try to show how that would change the load curve. (1pt)
-- Should PSEG Long Island worry about it, what policy/incentives should you use to change people's havior of charging/discharging so to save costs for the utility companies? (1pt)
+- Should PSEG Long Island worry about it, what policy/incentives should you use to change people's behavior of charging/discharging so to save costs for the utility companies? (1pt)
 
 
 ## 2. Energy justice
