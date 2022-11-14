@@ -23,8 +23,8 @@ format:
 
 -   Why energy access is so foundamental for modern life?\
 -   The barriers and policies to facilitate energy access?\
--   What is Justice40? And what investment are included?\
--   What are the typical energ injustice and how to address them?\
+-   What is Justice40? And what investments are included?\
+-   What are the typical energy injustice and how to address them?\
 
 
 ## Energy poverty and SDG
@@ -47,9 +47,9 @@ Read more: @alstone2015decentralized
 
 ## Energy poverty and gender equity
 
-- Women and kids spend more time collecting woods  
-- Women spend more time on cooking without clean fuel/energy
-- Women bear more burden on indoor airpollution  
+- Women and kids spend more time collecting wood fuel    
+- Women spend more time on cooking without clean fuel/energy  
+- Women bear more burden on indoor air pollution  
 - Women have less oportunity for development 
 
 
@@ -110,6 +110,8 @@ Source: @He2017efa
 ## Energy justice
 
 > The goal of achieving equity in both the social and economic participation in the energy system, while also remediating social, economic, and health burdens on those disproportionately harmed by the energy system.
+
+--Initiative for Energy Justice, 2019 
 
 ::: footer
 Read more: [DOE](https://www.energy.gov/diversity/articles/how-energy-justice-presidential-initiatives-and-executive-orders-shape-equity)
@@ -181,9 +183,9 @@ Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Commu
 
 ## Summary
 
--   Electricity/energy access is foundamental to other morden services, education, health, and information\
+-   Electricity/energy access is foundamental to other modern services: education, health, and information\
 -   Energy access also has gender equity, health cobenefits, and other implications\
--   Energy justice is important to achieve just transition \
+-   Energy justice is important to achieve just transition\
 -   An reflection on our approach to energy justice
 
 ---
