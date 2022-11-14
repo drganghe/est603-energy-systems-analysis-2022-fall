@@ -14,10 +14,10 @@ title: Course Schedule
 | 8    | 10/10 | Fall Break -- No class in session  |      |
 | 9    | 10/17 | [Energy and climate change](lectures/lecture8/index.qmd) |    |
 | 10   | 10/24 | [Power sector analysis](lectures/lecture9/index.qmd) | [HW3](assignments/hw3.qmd) due  |
-| 11   | 10/31 | [Energy transition](lectures/lecture10/index.qmd) | Proposal due    |
+| 11   | 10/31 | [Energy transition](lectures/lecture10/index.qmd) | [Proposal](project.qmd) due    |
 | 12   | 11/7  | [Energy efficiency, behavior, and sustainable consumption](lectures/lecture11/index.qmd) | [HW4](assignments/hw4.qmd) assigned |
-| 13   | 11/14 | Energy poverty, access, and justice   |    |
+| 13   | 11/14 | [Energy poverty, access, and justice](lectures/lecture12/index.qmd)   |    |
 | 14   | 11/21 | Big data and AI for clean energy   | [HW4](assignments/hw4.qmd) due     |
 | 15   | 11/28 | Limitations of models       |    |
-| 16   | 12/5  | No class -- preparing final paper  | Presentation due   |
-| 17   | 12/12 | No class -- preparing final paper  | Paper due   |
+| 16   | 12/5  | No class -- preparing final paper  | [Presentation](project.qmd) due   |
+| 17   | 12/12 | No class -- preparing final paper  | [Paper](project.qmd) due   |

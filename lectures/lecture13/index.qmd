@@ -21,37 +21,52 @@ format:
 
 ## Sample analytic questions
 
--   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
--   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
--   What level of social cost of carbon should New York State use?\
--   How climate change would affect energy supply and demand?\
+-   What are the new advancements in AI and big data?\
+-   How AI and bid data could be used in faciliating clean energy transition and addressing climate change?\
+-   Any good examples or success stories of AI for energy/climate change?\
+-   What skills are need to work in this field?\
 
 
 ## "AI is the new electricity"
 
 ::: columns
 
-:::{.column width="50%"}
+:::{.column width="40%"}
 ![](images/andrew-ng.png){fig-align="center"}
 :::
 
-:::{.column width="50%"}
+:::{.column width="60%"}
 >Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.  
+
 --Andrew Ng
 :::
 
 :::
 
-## 
+## Machine learning, artifitial intelligence, and deep learning
 
-## 
+
+## Algorithms
+
+
+## How AI has 
+
+
+## Deep solar
+
+
+## AI to improve wind perfomance
+
+
+## AI saves data center cooling energy
+
 
 ## Summary
 
--   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
--   Learn the applicatons and limitations of social cost of carbon\
--   Climate change affects energy supply and demand
+-   AI and big data has transformed how we live, and how can we save the planet\
+-   AI does not automatic add new insights, but it provide powerful tools to analyze increasingly available big data\
+-   Learning those new tools and skills becomes necessary to work in the field\
+-   The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.  
 
 ---
 
