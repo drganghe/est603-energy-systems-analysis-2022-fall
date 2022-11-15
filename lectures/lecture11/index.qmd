@@ -72,11 +72,12 @@ Source: [FTC](https://consumer.ftc.gov/articles/how-use-energyguide-label-shop-h
 ## Standards{.smaller}
 
 - Response to Information Failure  
-  - May be good policy if information is too costly/ineffective  
-  - Eliminates consumer/producer choice
-  - Eliminates cost of acquiring/understanding information
-  - Focuses the market on producing the high-quality products
-  - Economies of scale in producing high quality product, but wouldn’t the market find it profitable to take advantage of this
+  - Might be good policy if information is too costly/ineffective  
+    - Eliminates cost of acquiring/understanding information
+    - Eliminates consumer/producer choice
+  - Focuses the market on producing high-quality products
+    - Economies of scale 
+    - Might be captured by technology (regular review of technology progress)
 
 - Response to externalities  
   - Disallow products that would not often be sold if external costs were internalized
@@ -160,12 +161,12 @@ Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/b
 
 ## Economics of rebound{.smaller}
 
-- Energy efficiency lowers the marginal cost of usage so increases usage, given purchase  
-  - Amount of increase depends on price elasticity of demand for energy to run the appliance  
-  - Likely to be small if energy is small part of MC of use  
-- Energy efficiency may lower energy price, further increasing rebound effect  
+- Energy efficiency lowers the marginal cost of usage so increases usage  
+  - Amount of increase depends on price elasticity    
+  - Likely to be small effect if energy is small part of marginal cost of use  
+- Energy efficiency may lower energy price, further increases rebound effect  
   - Likely to be small effect unless long-run supply is very inelastic  
-- But energy efficiency also raises the up-front cost of appliance, reducing total sales
+- But energy efficiency also raises the up-front cost of products, reducing total sales
 
 ::: footer
 Source: Severin Borenstein
