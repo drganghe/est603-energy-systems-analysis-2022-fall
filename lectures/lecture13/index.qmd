@@ -45,20 +45,63 @@ format:
 
 ## Machine learning, artifitial intelligence, and deep learning
 
+![](images/ai-ml-dl.png){fig-align="center"}
+
+::: footer
+Read more: @lee2021empirical
+:::
+
 
 ## Algorithms
 
+![](images/ai-algorithms.png){fig-align="center"}
+
+::: footer
+Read more: @lee2021empirical
+:::
 
 ## How AI has 
 
 
 ## Deep solar
 
+::: columns
+
+:::{.column width="50%"}
+![](images/deep-solar-1.png){fig-align="center"}
+:::
+
+:::{.column width="50%"}
+![](images/deep-solar-2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: @yu2018deepsolar
+:::
+
 
 ## AI to improve wind perfomance
 
+![](images/ml-and-wind.png){fig-align="center"}
+
+::: footer
+Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy)
+:::
+
 
 ## AI saves data center cooling energy
+
+![](images/deepmind-data-center-control.png){fig-align="center"}
+
+::: footer
+Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
+:::
+
+
+## AI capabilities
+
 
 
 ## Summary
