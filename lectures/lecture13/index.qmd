@@ -3,9 +3,9 @@ title: "Lecture 13 Big Data and AI for Clean Energy"
 author: "Gang He"
 date: November 21, 2022
 date-format: long
-#image: "images/iams-carbon-brief.png"
+image: "images/ai-ml-dl.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -27,6 +27,19 @@ format:
 -   What skills are need to work in this field?\
 
 
+## Offshore wind turbine inspection using drones and AI
+
+<center>
+A local example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6KwFJ19u4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conference2018/conference/presentations/Passaretti_Mike_powerpoint.pdf), Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot)
+:::
+
+
 ## "AI is the new electricity"
 
 ::: columns
@@ -43,7 +56,72 @@ format:
 
 :::
 
-## Machine learning, artifitial intelligence, and deep learning
+::: footer
+Read more: [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
+:::
+
+
+## Milestones in AI
+
+::: columns
+
+:::{.column width="30%"}
+![](images/pale-blut-dot.png){fig-align="center"}
+:::
+
+:::{.column width="30%"}
+::: {.r-fit-text}
+Perspective:   
+
+- Universe created:    
+
+  - 13.8 billion years ago  
+
+- Earth created:   
+
+  - 4.54 billion years ago  
+
+- Modern human:    
+
+  - 300,000 years ago  
+
+- Civilization:  
+
+  - 12,000 years ago  
+
+- Written record:  
+
+  - 5,000 years ago  
+
+:::
+:::
+
+:::{.column width="40%"}
+::: {.r-fit-text}
+- 1943: Neural networks
+- 1957: Perceptron
+- 1974-86: Backpropagation, RBM, RNN
+- 1989-98: CNN, MNIST, LSTM, Bidirectional RNN
+- 2006: “Deep Learning”, DBN
+- 2009: ImageNet
+- 2012: AlexNet, Dropout
+- 2014: GANs
+- 2014: DeepFace
+- 2016: AlphaGo
+- 2017: AlphaZero, Capsule Networks
+- 2018: AlphaFold 1, BERT
+- 2021: AlphaFold 2
+:::
+:::
+
+:::
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+:::
+
+
+## Aartifitial intelligence, machine learning, and deep learning
 
 ![](images/ai-ml-dl.png){fig-align="center"}
 
@@ -52,7 +130,7 @@ Read more: @lee2021empirical
 :::
 
 
-## Algorithms
+## AI Algorithms
 
 ![](images/ai-algorithms.png){fig-align="center"}
 
@@ -60,8 +138,37 @@ Read more: @lee2021empirical
 Read more: @lee2021empirical
 :::
 
-## How AI has 
+## How AI has transformed our society
 
+![](images/ai-transformation.webp){fig-align="center"}
+
+::: footer
+Figure [source](https://www.techbooky.com/ai-transforming-business/), read more: [GAO](https://www.gao.gov/products/gao-18-142sp)
+
+:::
+
+
+## Key enabling factors
+
+::: columns
+
+:::{.column width="50%"}
+- Technological maturity  
+- Availability and quality of data  
+- Growing importance of cybersecurity  
+- Training and re-skilling of energy sector
+professionals  
+:::
+
+:::{.column width="50%"}
+![](images/ai-re.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: [IRENA](https://www.irena.org/publications/2019/Sep/Artificial-Intelligence-and-Big-Data)
+:::
 
 ## Deep solar
 
@@ -100,9 +207,81 @@ Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-
 :::
 
 
-## AI capabilities
+## Global inventory of solar PV
+
+![](images/solar-pv-inventory.webp){fig-align="center"}
+
+::: footer
+Source: @kruitwagen2021global
+:::
+
+## Machine learning for electricity access
+
+![](images/electrification-asset-wealth.webp){fig-align="center"}
+
+::: footer
+Source: @ratledge2022using
+:::
 
 
+## AI for climate solutions
+
+![](images/climate-solution-ai-areas.png){fig-align="center"}
+
+::: footer
+Source: @rolnick2022tackling
+:::
+
+
+## AI for GHG mitigation
+
+![](images/ai-ghg-mitigation.webp){fig-align="center"}
+
+::: footer
+Source: @kaack2022aligning
+:::
+
+## AI ethics: why?
+
+- Biases  
+- Privacy  
+- Mistakes  
+- Environmental impacts  
+- Other unaware impacts  
+
+::: footer
+Read more:
+:::
+
+## AI ethics: principles{.smaller}
+
+- Proportionality and do no harm  
+- Safety and security  
+- Fariness and non-discrimination   
+- Sustainability  
+- Right to privacy, and data protection  
+- Human oversight and dtermination  
+- Transparency and explainability  
+- Responsibility and Accountability  
+- Awareness and literacy  
+- Multi-stakeholder and adaptive governance and colloboration  
+
+
+::: footer
+Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
+:::
+
+## AI ethics: how?
+
+- Still slow responding to the fast evolving  
+- Education and research  
+- Assessment and communication  
+- Governance and cooperation  
+- Value alligned design  
+
+::: footer
+Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE Ethics in Action](https://ethicsinaction.ieee.org/)
+:::
 
 ## Summary
 
