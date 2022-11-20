@@ -9,7 +9,7 @@ image: "images/just-transition-framework.png"
 format:
   revealjs:
     theme: white
-    embed-resources: true
+#    embed-resources: true
     slide-number: true
     preview-links: auto
     link-external-newwindow: true

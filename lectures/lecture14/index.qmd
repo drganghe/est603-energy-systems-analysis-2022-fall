@@ -9,7 +9,7 @@ draft: true
 format:
   revealjs:
     theme: white
-    embed-resources: true
+#    embed-resources: true
     slide-number: true
     preview-links: auto
     link-external-newwindow: true
@@ -38,7 +38,30 @@ format:
 
 ## Political feasibility
 
+## Why a model in the first place
+
+- Description  
+- Explanation  
+- Experimentation  
+- Providing sources of analogy  
+- Communication/Education  
+- Providing focal objects or centerpiece for scientific dialogue  
+- Thought experiment  
+- Projection  
+
+
 ## Modeling for insights
+
+- Model based on research questions  
+- Model elements, structure, relations  
+- Do not over-interpret  
+- Do not misinterpret  
+- "All models are wrong, but some are **useful**". Avoid useless models.
+
+- Where to use model  
+- How to build your model  
+- What to say about your model  
+
 
 ## Summary
 
