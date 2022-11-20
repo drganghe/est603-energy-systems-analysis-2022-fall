@@ -19,5 +19,5 @@ title: Course Schedule
 | 13   | 11/14 | [Energy poverty, access, and justice](lectures/lecture12/index.qmd)   |    |
 | 14   | 11/21 | [Big data and AI for clean energy](lectures/lecture13/index.qmd)   | [HW4](assignments/hw4.qmd) due     |
 | 15   | 11/28 | Limitations of models       |    |
-| 16   | 12/5  | No class -- preparing final paper  | [Presentation](project.qmd) due   |
+| 16   | 12/5  | No class -- preparing final presentation  | [Presentation](project.qmd) due   |
 | 17   | 12/12 | No class -- preparing final paper  | [Paper](project.qmd) due   |

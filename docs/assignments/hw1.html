@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -102,25 +102,32 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>
+    <a class="nav-link" href="http://drganghe.github.io">
+ <span class="menu-text">Dr.&nbsp;Gang He</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../syllabus.html">Syllabus</a>
+    <a class="nav-link" href="../syllabus.html">
+ <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../schedule.html">Schedule</a>
+    <a class="nav-link" href="../schedule.html">
+ <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../lectures.html">Lectures</a>
+    <a class="nav-link" href="../lectures.html">
+ <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assignments.html">Assignments</a>
+    <a class="nav-link" href="../assignments.html">
+ <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../project.html">Project</a>
+    <a class="nav-link" href="../project.html">
+ <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../resources.html">Resources</a>
+    <a class="nav-link" href="../resources.html">
+ <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
               <div class="quarto-toggle-container">
@@ -166,6 +173,7 @@ div.csl-indent {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -198,14 +206,8 @@ div.csl-indent {
 <h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
 <p><span class="citation" data-cites="zhang_drivers_2019">Zhang et al. (<a href="#ref-zhang_drivers_2019" role="doc-biblioref">2019</a>)</span>, <span class="citation" data-cites="guan_socioeconomic_2014">Guan et al. (<a href="#ref-guan_socioeconomic_2014" role="doc-biblioref">2014</a>)</span>, and <span class="citation" data-cites="apte_toward_2019">Apte and Pant (<a href="#ref-apte_toward_2019" role="doc-biblioref">2019</a>)</span>.</p>
 <section id="references" class="level3">
-
-
-
-
-</section>
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
 <div id="ref-apte_toward_2019" class="csl-entry" role="doc-biblioentry">
 Apte, Joshua S., and Pallavi Pant. 2019. <span>“Toward Cleaner Air for a Billion Indians.”</span> <em>Proceedings of the National Academy of Sciences</em> 116 (22): 10614–16. <a href="https://doi.org/10.1073/pnas.1905458116">https://doi.org/10.1073/pnas.1905458116</a>.
 </div>
@@ -215,7 +217,13 @@ Guan, Dabo, Xin Su, Qiang Zhang, Glen P. Peters, Zhu Liu, Yu Lei, and Kebin He. 
 <div id="ref-zhang_drivers_2019" class="csl-entry" role="doc-biblioentry">
 Zhang, Qiang, Yixuan Zheng, Dan Tong, Min Shao, Shuxiao Wang, Yuanhang Zhang, Xiangde Xu, et al. 2019. <span>“Drivers of Improved <span>PM</span>2.5 Air Quality in China from 2013 to 2017.”</span> <em>Proceedings of the National Academy of Sciences</em>, November. <a href="https://doi.org/10.1073/pnas.1907956116">https://doi.org/10.1073/pnas.1907956116</a>.
 </div>
-</div></section></div></main> <!-- /main -->
+</div>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -257,7 +265,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -293,24 +318,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var filterRegex = new RegExp(/https:\/\/drganghe\.github\.io\/est603-energy-systems-analysis-2022-fall/);
@@ -318,7 +361,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

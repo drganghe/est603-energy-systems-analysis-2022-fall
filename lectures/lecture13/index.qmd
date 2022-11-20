@@ -9,8 +9,10 @@ image: "images/ai-ml-dl.png"
 format:
   revealjs:
     theme: white
+    embed-resources: true
     slide-number: true
-    preview-links: true
+    preview-links: auto
+    link-external-newwindow: true
     auto-stretch: true
     r-fit-text: true
     center: true

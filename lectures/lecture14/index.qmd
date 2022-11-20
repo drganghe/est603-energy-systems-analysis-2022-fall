@@ -9,8 +9,10 @@ draft: true
 format:
   revealjs:
     theme: white
+    embed-resources: true
     slide-number: true
-    preview-links: true
+    preview-links: auto
+    link-external-newwindow: true
     auto-stretch: true
     r-fit-text: true
     center: true
@@ -26,7 +28,17 @@ format:
 -   What level of social cost of carbon should New York State use?\
 -   How climate change would affect energy supply and demand?\
 
+## Structural change
 
+## Shale gas revolution
+
+## Renewable costs
+
+## Uncertainties
+
+## Political feasibility
+
+## Modeling for insights
 
 ## Summary
 

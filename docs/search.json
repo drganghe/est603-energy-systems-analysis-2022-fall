@@ -25,7 +25,7 @@
     "href": "assignments/hw1.html#further-readings",
     "title": "Homework 1 Air quality in China and India",
     "section": "Further readings",
-    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019)."
+    "text": "Further readings\nZhang et al. (2019), Guan et al. (2014), and Apte and Pant (2019).\n\nReferences\n\n\nApte, Joshua S., and Pallavi Pant. 2019. “Toward Cleaner Air for a Billion Indians.” Proceedings of the National Academy of Sciences 116 (22): 10614–16. https://doi.org/10.1073/pnas.1905458116.\n\n\nGuan, Dabo, Xin Su, Qiang Zhang, Glen P. Peters, Zhu Liu, Yu Lei, and Kebin He. 2014. “The Socioeconomic Drivers of China’s Primary PM2.5 Emissions.” Environmental Research Letters 9 (2): 024010. https://doi.org/10.1088/1748-9326/9/2/024010.\n\n\nZhang, Qiang, Yixuan Zheng, Dan Tong, Min Shao, Shuxiao Wang, Yuanhang Zhang, Xiangde Xu, et al. 2019. “Drivers of Improved PM2.5 Air Quality in China from 2013 to 2017.” Proceedings of the National Academy of Sciences, November. https://doi.org/10.1073/pnas.1907956116."
   },
   {
     "objectID": "assignments/hw0.html",
@@ -67,7 +67,7 @@
     "href": "assignments/hw2.html#a-tale-of-two-nuclear-plants",
     "title": "Homework 2 Energy project economics",
     "section": "2. A tale of two nuclear plants",
-    "text": "2. A tale of two nuclear plants\n\nBackground\nPlease read the story of the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant. One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction cost, while the other is offered to extend operation in the midist of California’s clean energy quest.\n\n\nQuestions\n\nHow long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences) (1pt)\n\nKey assumptions: LILCO attaches a 3 percent surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nResidential rates in 2020: 21.22 cents/kWh\nTotal electricity consumption in 2020: 20 TWh\nDistount rate: 4%\nAssuming the real value of total annual surchage stay the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surchages.\n\nDiablo Canyon generated nearly 9 percent of Cailifornia’s electricity last year and roughly 15 percent of the state’s clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What’s the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)? (1pt)\n\nKey assumptions: 1.4 billion forgivable loans\nNameplate capacity: 2,256 MW\nCapacity factor: 80%\nDistount rate: 4%\n\n\nFurther readings\nGet to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investmetn decisions.\nNew York Times, June 19, 1983. How Long Island Will Pay For Shoreham\nTimothy Bolger and Christopher Twarowski, June 11, 2009, Nuclear Waste: 20 Years After Shoreham’s Closure\nNathan Rott, September 1, 2022. California lawmakers extend the life of the state’s last nuclear power plant\nRai, Reeves, and Margolis (2016), Yu et al. (2018), Hultman, Koomey, and Kammen (2007)."
+    "text": "2. A tale of two nuclear plants\n\nBackground\nPlease read the story of the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant. One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction cost, while the other is offered to extend operation in the midist of California’s clean energy quest.\n\n\nQuestions\n\nHow long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences) (1pt)\n\nKey assumptions: LILCO attaches a 3 percent surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nResidential rates in 2020: 21.22 cents/kWh\nTotal electricity consumption in 2020: 20 TWh\nDistount rate: 4%\nAssuming the real value of total annual surchage stay the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surchages.\n\nDiablo Canyon generated nearly 9 percent of Cailifornia’s electricity last year and roughly 15 percent of the state’s clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What’s the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)? (1pt)\n\nKey assumptions: 1.4 billion forgivable loans\nNameplate capacity: 2,256 MW\nCapacity factor: 80%\nDistount rate: 4%\n\n\nFurther readings\nGet to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investmetn decisions.\nNew York Times, June 19, 1983. How Long Island Will Pay For Shoreham\nTimothy Bolger and Christopher Twarowski, June 11, 2009, Nuclear Waste: 20 Years After Shoreham’s Closure\nNathan Rott, September 1, 2022. California lawmakers extend the life of the state’s last nuclear power plant\nRai, Reeves, and Margolis (2016), Yu et al. (2018), Hultman, Koomey, and Kammen (2007).\n\n\nReferences\n\n\nHultman, Nathan E., Jonathan G. Koomey, and Daniel M. Kammen. 2007. “What History Can Teach Us about the Future Costs of u.s. Nuclear Power.” Environmental Science & Technology 41 (7): 2087–94. https://doi.org/10.1021/es0725089.\n\n\nRai, Varun, D. Cale Reeves, and Robert Margolis. 2016. “Overcoming Barriers and Uncertainties in the Adoption of Residential Solar PV.” Renewable Energy 89 (April): 498–505. https://doi.org/10.1016/j.renene.2015.11.080.\n\n\nYu, Jiafan, Zhecheng Wang, Arun Majumdar, and Ram Rajagopal. 2018. “DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.” Joule 2 (12): 2605–17. https://doi.org/10.1016/j.joule.2018.11.021."
   },
   {
     "objectID": "assignments/hw3.html",
@@ -88,7 +88,21 @@
     "href": "assignments/hw3.html#how-much-land-does-it-really-need-for-solar-to-power-the-u.s.-and-the-world",
     "title": "Homework 3 Energy technology and impacts",
     "section": "3. How much land does it really need for solar to power the U.S. and the world",
-    "text": "3. How much land does it really need for solar to power the U.S. and the world\nYou may see news or analysis that a small portion of U.S. (or the world’s) land can power the electricity need for the U.S. (or the whole world). With the class, you should feel uneasy not to do some back-of-the-envelope calculations to check if those claims really make sense.\n\nFirst, go to credible sources to get the basics: total electricity consumpiton in the U.S (world) in 2021, average capacity factor of solar PV in the U.S. (world) in 2021 (if you do not have the direct number, you can use the total solar generation and total solar capacity to calculate the capacity factor). Please show your number and sources, it is also good practice to compare multiple sources. (0.5pt)\n\nNext, figure out how much solar capacity is needed to meet the electricity demand for both the U.S. and the world if all powered by solar. (0.5pt)\n\nIn addition, get the land use intensity of solar PV, citing NREL report or other research papers, you may get a range of numbers and you can calculate the results as a range. (1pt)\n\nNow, you can calculate how much land is needed to power U.S. and the whole world. (0.5pt)\n\nCompare your results with what you read from the news, and the total area of Long Island, and the area of the New York State. (0.5pt)\n\nDiscuss what factors will impact your results, and how to interpretate your results. (1pt)\n\nFurther reading: Yelle (1979), Cagle et al. (2022), Loveringa et al. (2022)"
+    "text": "3. How much land does it really need for solar to power the U.S. and the world\nYou may see news or analysis that a small portion of U.S. (or the world’s) land can power the electricity need for the U.S. (or the whole world). With the class, you should feel uneasy not to do some back-of-the-envelope calculations to check if those claims really make sense.\n\nFirst, go to credible sources to get the basics: total electricity consumpiton in the U.S (world) in 2021, average capacity factor of solar PV in the U.S. (world) in 2021 (if you do not have the direct number, you can use the total solar generation and total solar capacity to calculate the capacity factor). Please show your number and sources, it is also good practice to compare multiple sources. (0.5pt)\n\nNext, figure out how much solar capacity is needed to meet the electricity demand for both the U.S. and the world if all powered by solar. (0.5pt)\n\nIn addition, get the land use intensity of solar PV, citing NREL report or other research papers, you may get a range of numbers and you can calculate the results as a range. (1pt)\n\nNow, you can calculate how much land is needed to power U.S. and the whole world. (0.5pt)\n\nCompare your results with what you read from the news, and the total area of Long Island, and the area of the New York State. (0.5pt)\n\nDiscuss what factors will impact your results, and how to interpretate your results. (1pt)\n\nFurther reading: Yelle (1979), Cagle et al. (2022), Loveringa et al. (2022)\n\nReferences\n\n\nCagle, Alexander, Morgan Shepherd, Steven Grodsky, Alona Armstrong, Sarah M Jordaan, and Rebecca Hernandez. 2022. “Standardized Metrics to Quantify Solar Energy-Land Relationships: A Global Systematic Review.” Available at SSRN. https://doi.org/10.2139/ssrn.4069060.\n\n\nLoveringa, Jessica, Marian Swaina, Linus Blomqvista, Rebecca R Hernandezb, and Jessica Lovering. 2022. “Land-Use Intensity of Electricity Production and Tomorrow’s Energy Landscape.” PLoS ONE 17: 7. https://doi.org/10.1371/journal.pone.0270155.\n\n\nYelle, Louis E. 1979. “The Learning Curve: Historical Review and Comprehensive Survey.” Decision Sciences 10 (2): 302–28. https://doi.org/10.1111/j.1540-5915.1979.tb00026.x."
+  },
+  {
+    "objectID": "assignments/hw4.html",
+    "href": "assignments/hw4.html",
+    "title": "Homework 4 Load forecast, energy justice",
+    "section": "",
+    "text": "Load forecast is very important for power system planning and operation. First visit NYISO website’s Custom Reports to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecast better. Download one whole year (2021) of Real Time Weighted Integrated Actual Load and Day Head Market Load Forcast for Long Island. (Total 6pts)\n\nDraw the load curve (0.5pt) and load duration curve (0.5pt) of Long Island.\n\nShow the characteristics of average day hourly load curve on Long Island\n\nAll days average (0.5pt)\n\nWeekday vs. weekend (0.5pt)\n\nMonthly avearge (0.5pt)\n\nSeasonal average (0.5pt)\n\n\nFind the hour(s)/day(s) with the largest forecast error, and try to explain why? (1pt)\n\nNow make reasonable assumptions of EV penetration and EV charging on Long Island, and try to show how that would change the load curve. (1pt)\nShould PSEG Long Island worry about it, what policy/incentives should you use to change people’s behavior of charging/discharging so to save costs for the utility companies? (1pt)"
+  },
+  {
+    "objectID": "assignments/hw4.html#energy-justice",
+    "href": "assignments/hw4.html#energy-justice",
+    "title": "Homework 4 Load forecast, energy justice",
+    "section": "2. Energy justice",
+    "text": "2. Energy justice\nWhat is energy justice? Use one example to discuss how energy supply/demand might affect equity and justice of specific groups or population. Write a short essay (~400 words) to explain your thoughts. (Total 4pts)\nFurther reading:\nArvind Jaggi, Senior Economist, Demand Forecasting & Analysis, Electric Vehicle Forecast Impacts (Gold Book 2021)\nPlay around the En-ROADS model, and change some of the parameters and check how assumptions affect modeling results."
   },
   {
     "objectID": "index.html",
@@ -474,6 +488,279 @@
     "title": "Lecture 5 Energy Sources and Technologies",
     "section": "Summary",
     "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better job in simulation and projections"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#sample-analytic-questions",
+    "href": "lectures/lecture11/index.html#sample-analytic-questions",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nIf energy efficiency is a good thing, why is not everybody doing it?\n\nHow to design incentive programs to change people’s behavior?\n\nHow big is rebound, and what to do with rebound?\n\nWhat policies to push for sustainable energy consumption?"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#energy-efficiency",
+    "href": "lectures/lecture11/index.html#energy-efficiency",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\nEnergy efficiency\n\nEnergy conservation (saving)\n\nEnergy efficiency and economic efficiency\n\n\nRead more: Kathryne Cleary and Karen Palmer, RFF"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#energy-intensity",
+    "href": "lectures/lecture11/index.html#energy-intensity",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Energy intensity",
+    "text": "Energy intensity\n\n\nSource: OurWorldinData"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#recall-the-abatement-cost-curve",
+    "href": "lectures/lecture11/index.html#recall-the-abatement-cost-curve",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Recall the abatement cost curve",
+    "text": "Recall the abatement cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#energy-efficiency-gap",
+    "href": "lectures/lecture11/index.html#energy-efficiency-gap",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Energy efficiency gap",
+    "text": "Energy efficiency gap\n\n\nSource: Gillingham, Newell, and Palmer (2009)"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#information",
+    "href": "lectures/lecture11/index.html#information",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Information",
+    "text": "Information\n\n\nSource: FTC"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#standards",
+    "href": "lectures/lecture11/index.html#standards",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Standards",
+    "text": "Standards\n\nResponse to Information Failure\n\nMight be good policy if information is too costly/ineffective\n\nEliminates cost of acquiring/understanding information\nEliminates consumer/producer choice\n\nFocuses the market on producing high-quality products\n\nEconomies of scale\nMight be captured by technology (regular review of technology progress)\n\n\nResponse to externalities\n\nDisallow products that would not often be sold if external costs were internalized\nInefficient if some consumers would purchase at the full social cost including externality\nDifficult in some cases to write standards that still permit optimal innovation and adaptation\n\n\n\nSource: Severin Borenstein"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#behavior-change-in-nze",
+    "href": "lectures/lecture11/index.html#behavior-change-in-nze",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Behavior change in NZE",
+    "text": "Behavior change in NZE\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#key-behavior-change-for-nze",
+    "href": "lectures/lecture11/index.html#key-behavior-change-for-nze",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Key behavior change for NZE",
+    "text": "Key behavior change for NZE\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#complexity-of-human-behavior",
+    "href": "lectures/lecture11/index.html#complexity-of-human-behavior",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Complexity of human behavior",
+    "text": "Complexity of human behavior\n\n\nRead more: Human Behavior Research"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#maslows-hierarchy-of-needs",
+    "href": "lectures/lecture11/index.html#maslows-hierarchy-of-needs",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Maslow’s hierarchy of needs",
+    "text": "Maslow’s hierarchy of needs\n\n\nRead more: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#stage-of-change-theory",
+    "href": "lectures/lecture11/index.html#stage-of-change-theory",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Stage of change theory",
+    "text": "Stage of change theory\n\n\nRead more: Behavior change models"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#nudge",
+    "href": "lectures/lecture11/index.html#nudge",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Nudge",
+    "text": "Nudge\n\n\n\n\n\n\n\n\n\nIncentives\nUnderstand mapping\nDefaults\nGive feedback\nExpect error\nStructure complex choices\n\n\n\n\nRead more: Richard H. Thaler and Cass R. Sunstein"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#rebound",
+    "href": "lectures/lecture11/index.html#rebound",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Rebound",
+    "text": "Rebound\n\n\n\n\n\n\n\n\nCategory\nDescription\nExample\n\n\n\n\nDirect rebound\nHomeowners use more of the more efficient service\nConsumer drives more with a more fuel efficient car\n\n\nIndirect rebound\nHomeowners re-spending on other goods and services\nSavings from efficient lighting spend on 2nd refrigerator\n\n\nEconomy-wide rebound\nMore efficient production and shifts in demand alter economic structure and growth\nA more efficient steam engine increases production changes structural relationships and leads to economic growth"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#economics-of-rebound",
+    "href": "lectures/lecture11/index.html#economics-of-rebound",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Economics of rebound",
+    "text": "Economics of rebound\n\nEnergy efficiency lowers the marginal cost of usage so increases usage\n\nAmount of increase depends on price elasticity\n\nLikely to be small effect if energy is small part of marginal cost of use\n\n\nEnergy efficiency may lower energy price, further increases rebound effect\n\nLikely to be small effect unless long-run supply is very inelastic\n\n\nBut energy efficiency also raises the up-front cost of products, reducing total sales\n\n\nSource: Severin Borenstein"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#rebound-might-be-overplayed",
+    "href": "lectures/lecture11/index.html#rebound-might-be-overplayed",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Rebound might be overplayed",
+    "text": "Rebound might be overplayed\n\n\nSource: Kenneth, Gernot, et al. (2013)"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#focus-on-welfare",
+    "href": "lectures/lecture11/index.html#focus-on-welfare",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Focus on welfare",
+    "text": "Focus on welfare\n\nIs rebound a “failure”? Depends on the goal\n\nReduce energy consumption?\nImprove social welfare?\n\n\nRebound could be good"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#sustainable-energy-consumption",
+    "href": "lectures/lecture11/index.html#sustainable-energy-consumption",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Sustainable energy consumption",
+    "text": "Sustainable energy consumption\n\n\n\n\n\n\n\n\n\nAbsolute reductions in the material goods and energy we consume;\n\nFrom material wealth and consumerism toward new measures of progress and well-being;\n\nTechnological innovation and efficiency gains that help us to refine production processes;\n\nRecognition that consumption will need to increase for those individuals and communities whose needs are not being met, and\n\nA transformation of our economy from continuous growth to within the limits of a finite planet.\n\n\n\n\nRead more: UN, USDN"
+  },
+  {
+    "objectID": "lectures/lecture11/index.html#summary",
+    "href": "lectures/lecture11/index.html#summary",
+    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
+    "section": "Summary",
+    "text": "Summary\n\nThere are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#sample-analytic-questions",
+    "href": "lectures/lecture10/index.html#sample-analytic-questions",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the drivers of energy transition?\n\nHow should each country think/design/implement its energy transition?\n\nHow to frame the role of different technologies in energy transition?\n\nHow geo-politics, wars, and pandemic impact the energy in transiton?"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#transition-history",
+    "href": "lectures/lecture10/index.html#transition-history",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Transition history",
+    "text": "Transition history\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#re-coal-a-milestone",
+    "href": "lectures/lecture10/index.html#re-coal-a-milestone",
+    "title": "Lecture 10 Energy Transition",
+    "section": "RE > coal: a milestone",
+    "text": "RE > coal: a milestone\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#u.s.-power-sector-half-way-to-zero",
+    "href": "lectures/lecture10/index.html#u.s.-power-sector-half-way-to-zero",
+    "title": "Lecture 10 Energy Transition",
+    "section": "U.S. power-sector half-way to zero",
+    "text": "U.S. power-sector half-way to zero\n\n\nSource: LBL"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#soft-path-vs.-hard-path",
+    "href": "lectures/lecture10/index.html#soft-path-vs.-hard-path",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Soft path vs. hard path",
+    "text": "Soft path vs. hard path\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\n\nSource: Lovins (1976)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#drivers-of-energy-transition",
+    "href": "lectures/lecture10/index.html#drivers-of-energy-transition",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Drivers of energy transition",
+    "text": "Drivers of energy transition\n\nDemand\nSupply\nClimate change\nEnvironmental pollution\nEnergy security\nEconomics"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#reneables-a-debate",
+    "href": "lectures/lecture10/index.html#reneables-a-debate",
+    "title": "Lecture 10 Energy Transition",
+    "section": "100% reneables: a debate",
+    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes?\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable/necesssary?\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\n\nSource: Jacobson et al. (2015), Clack et al. (2017)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#changing-perspectives-of-renewables",
+    "href": "lectures/lecture10/index.html#changing-perspectives-of-renewables",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Changing perspectives of renewables",
+    "text": "Changing perspectives of renewables\n\n\nSource: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#energy-transition-the-german-energiewende",
+    "href": "lectures/lecture10/index.html#energy-transition-the-german-energiewende",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Energy Transition: The German Energiewende",
+    "text": "Energy Transition: The German Energiewende\n\nFighting climate change\nReducing energy imports\nStimulating technology innovation and the green economy\nReducing and eliminating the risks of nuclear power\nEnergy security\nStrengthening local economies and providing social justice"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#germany-role-of-nuclear",
+    "href": "lectures/lecture10/index.html#germany-role-of-nuclear",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Germany: role of nuclear?",
+    "text": "Germany: role of nuclear?\n\nThree operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.\n\nSource: World Nuclear Association"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#the-u.s.-net-zero-america",
+    "href": "lectures/lecture10/index.html#the-u.s.-net-zero-america",
+    "title": "Lecture 10 Energy Transition",
+    "section": "The U.S.: net zero America",
+    "text": "The U.S.: net zero America\n\n\nSource: ZERO Lab"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#u.s.-ira",
+    "href": "lectures/lecture10/index.html#u.s.-ira",
+    "title": "Lecture 10 Energy Transition",
+    "section": "U.S.: IRA",
+    "text": "U.S.: IRA\n\n\nSource: Rhodium Group"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#denmark-distributed-generation-chp-and-wind",
+    "href": "lectures/lecture10/index.html#denmark-distributed-generation-chp-and-wind",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Denmark: Distributed generation (CHP and wind)",
+    "text": "Denmark: Distributed generation (CHP and wind)\n\n\nSource: Henning Parbo"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#china-the-scale-and-scope",
+    "href": "lectures/lecture10/index.html#china-the-scale-and-scope",
+    "title": "Lecture 10 Energy Transition",
+    "section": "China: the scale and scope",
+    "text": "China: the scale and scope\n\n\nSource: The Economist"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#china-phasing-out-coal",
+    "href": "lectures/lecture10/index.html#china-phasing-out-coal",
+    "title": "Lecture 10 Energy Transition",
+    "section": "China: phasing out coal",
+    "text": "China: phasing out coal\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution\n\n\n\nSource: Cui et al. (2021), He et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#bazil-role-of-hydro-and-biofuel",
+    "href": "lectures/lecture10/index.html#bazil-role-of-hydro-and-biofuel",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Bazil: role of hydro and biofuel",
+    "text": "Bazil: role of hydro and biofuel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#africa-the-fogotten-billion",
+    "href": "lectures/lecture10/index.html#africa-the-fogotten-billion",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Africa: the fogotten billion",
+    "text": "Africa: the fogotten billion\n\n\nSource: Mulugetta et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#ukraine-crisis-an-accerlerator",
+    "href": "lectures/lecture10/index.html#ukraine-crisis-an-accerlerator",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Ukraine crisis: an accerlerator?",
+    "text": "Ukraine crisis: an accerlerator?\n\n\nSource: IEA, World Energy Outlook 2022"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#impact-to-emissions",
+    "href": "lectures/lecture10/index.html#impact-to-emissions",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Impact to emissions",
+    "text": "Impact to emissions\n\n\nSource: IEA, World Energy Outlook 2022"
+  },
+  {
+    "objectID": "lectures/lecture10/index.html#summary",
+    "href": "lectures/lecture10/index.html#summary",
+    "title": "Lecture 10 Energy Transition",
+    "section": "Summary",
+    "text": "Summary\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
   },
   {
     "objectID": "lectures/lecture4/index.html#sample-analytic-questions",
@@ -1008,6 +1295,132 @@
     "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\n\nSource: Hogan (2002), Huntington, Weyant, and Sweeney (1982)"
   },
   {
+    "objectID": "lectures/lecture12/index.html#sample-analytic-questions",
+    "href": "lectures/lecture12/index.html#sample-analytic-questions",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhy energy access is so foundamental for modern life?\n\nThe barriers and policies to facilitate energy access?\n\nWhat is Justice40? And what investments are included?\n\nWhat are the typical energy injustice and how to address them?"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#energy-poverty-and-sdg",
+    "href": "lectures/lecture12/index.html#energy-poverty-and-sdg",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Energy poverty and SDG",
+    "text": "Energy poverty and SDG\n\n\nRead more: Alstone, Gershenson, and Kammen (2015)"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#energy-access-and-hdi",
+    "href": "lectures/lecture12/index.html#energy-access-and-hdi",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Energy access and HDI",
+    "text": "Energy access and HDI\n\n\nRead more: Alstone, Gershenson, and Kammen (2015)"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#energy-poverty-and-gender-equity",
+    "href": "lectures/lecture12/index.html#energy-poverty-and-gender-equity",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Energy poverty and gender equity",
+    "text": "Energy poverty and gender equity\n\nWomen and kids spend more time collecting wood fuel\n\nWomen spend more time on cooking without clean fuel/energy\n\nWomen bear more burden on indoor air pollution\n\nWomen have less oportunity for development"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#energy-ladder",
+    "href": "lectures/lecture12/index.html#energy-ladder",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Energy ladder",
+    "text": "Energy ladder\n\n\nRead more: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#sustainable-energy-for-all",
+    "href": "lectures/lecture12/index.html#sustainable-energy-for-all",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Sustainable energy for all",
+    "text": "Sustainable energy for all\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#share-of-population-with-electricity",
+    "href": "lectures/lecture12/index.html#share-of-population-with-electricity",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Share of population with electricity",
+    "text": "Share of population with electricity\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#share-of-population-with-clean-cooking-fuel",
+    "href": "lectures/lecture12/index.html#share-of-population-with-clean-cooking-fuel",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Share of population with clean cooking fuel",
+    "text": "Share of population with clean cooking fuel\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#chinas-electricity-for-all",
+    "href": "lectures/lecture12/index.html#chinas-electricity-for-all",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "China’s electricity for all",
+    "text": "China’s electricity for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: He and Victor (2017)"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#energy-justice",
+    "href": "lectures/lecture12/index.html#energy-justice",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Energy justice",
+    "text": "Energy justice\n\nThe goal of achieving equity in both the social and economic participation in the energy system, while also remediating social, economic, and health burdens on those disproportionately harmed by the energy system.\n\n–Initiative for Energy Justice, 2019\n\nRead more: DOE"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#ej-conceptual-questions",
+    "href": "lectures/lecture12/index.html#ej-conceptual-questions",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "EJ conceptual questions",
+    "text": "EJ conceptual questions\n\n\nSource: Jenkins et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#rooftop-solar-by-race-and-ethnicity",
+    "href": "lectures/lecture12/index.html#rooftop-solar-by-race-and-ethnicity",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Rooftop solar by race and ethnicity",
+    "text": "Rooftop solar by race and ethnicity\n\n\nSource: Sunter, Castellanos, and Kammen (2019)"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#the-energy-equity-gap",
+    "href": "lectures/lecture12/index.html#the-energy-equity-gap",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "The energy equity gap",
+    "text": "The energy equity gap\n\n\nSource: Cong et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#justice-40",
+    "href": "lectures/lecture12/index.html#justice-40",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Justice 40",
+    "text": "Justice 40\n\n\nSource: White House"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#just-transition-framework",
+    "href": "lectures/lecture12/index.html#just-transition-framework",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Just transition framework",
+    "text": "Just transition framework\n\n\nSource: Climate Justice Alliance"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#energy-environmental-climate-justice",
+    "href": "lectures/lecture12/index.html#energy-environmental-climate-justice",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Energy, environmental, climate justice",
+    "text": "Energy, environmental, climate justice\n\n\n\n\n\n\n\n\nEnergy\nEnvironmental\nClimate\n\n\n\n\nEnergy supply/demand\nEnvironment burden/benefits\nClimate impact/benefits\n\n\n\nCommon Questions:\nWho bears the burden? Who harvests the benefits? Do we know the injustice? Can people involve in the decision proceses? How to compensate?"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#nys-clcpa-disadvantaged-communities-dacs",
+    "href": "lectures/lecture12/index.html#nys-clcpa-disadvantaged-communities-dacs",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "NYS CLCPA disadvantaged communities (DACs)",
+    "text": "NYS CLCPA disadvantaged communities (DACs)\n\n\nRead more: Draft Disadvantaged Communities Criteria"
+  },
+  {
+    "objectID": "lectures/lecture12/index.html#summary",
+    "href": "lectures/lecture12/index.html#summary",
+    "title": "Lecture 12 Energy Poverty, Access, and Justice",
+    "section": "Summary",
+    "text": "Summary\n\nElectricity/energy access is foundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approach to energy justice"
+  },
+  {
     "objectID": "lectures/lecture8/index.html#sample-analytic-questions",
     "href": "lectures/lecture8/index.html#sample-analytic-questions",
     "title": "Lecture 8 Energy and Climate Change",
@@ -1064,11 +1477,11 @@
     "text": "The mitigation wedges\n\n\nSource: Pacala and Socolow (2004)"
   },
   {
-    "objectID": "lectures/lecture8/index.html#the-mckingsey-curve",
-    "href": "lectures/lecture8/index.html#the-mckingsey-curve",
+    "objectID": "lectures/lecture8/index.html#the-mckinsey-curve",
+    "href": "lectures/lecture8/index.html#the-mckinsey-curve",
     "title": "Lecture 8 Energy and Climate Change",
-    "section": "The Mckingsey curve",
-    "text": "The Mckingsey curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+    "section": "The Mckinsey curve",
+    "text": "The Mckinsey curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
   },
   {
     "objectID": "lectures/lecture8/index.html#social-economic-impacts",
@@ -1169,6 +1582,13 @@
     "text": "U.S. electricity flow\n\n\nSource: EIA"
   },
   {
+    "objectID": "lectures/lecture9/index.html#u.s.-transmission-grid",
+    "href": "lectures/lecture9/index.html#u.s.-transmission-grid",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "U.S. transmission grid",
+    "text": "U.S. transmission grid\n\n\nSource: ArcGIS"
+  },
+  {
     "objectID": "lectures/lecture9/index.html#refresh-the-basics",
     "href": "lectures/lecture9/index.html#refresh-the-basics",
     "title": "Lecture 9 Power Sector Analysis",
@@ -1211,6 +1631,20 @@
     "text": "Strength and limits\n\nStrength: Examine the impacts of power sector policies (or alternative technology/fuel trajectories) on the generation and capacity mix in the mid-to long-term\n\nLimits: Many do not have chronological unit commitment (i.e., every hour of the year chronologically); some use aggregate (model) plants for dispatch; transmission and power flow are a stylized representation (transport or DC)\n\nExample questions: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?"
   },
   {
+    "objectID": "lectures/lecture9/index.html#model-comparison",
+    "href": "lectures/lecture9/index.html#model-comparison",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Model comparison",
+    "text": "Model comparison\n\n\nSource: Johnston et al. (2019)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#switch-model-as-example",
+    "href": "lectures/lecture9/index.html#switch-model-as-example",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "SWITCH Model as example",
+    "text": "SWITCH Model as example\n\n\nSource: Johnston et al. (2019)"
+  },
+  {
     "objectID": "lectures/lecture9/index.html#key-questions-in-model-selection",
     "href": "lectures/lecture9/index.html#key-questions-in-model-selection",
     "title": "Lecture 9 Power Sector Analysis",
@@ -1218,11 +1652,18 @@
     "text": "Key questions in model selection\n\nSpatial: \n\nGeographic: state, regional, national, international\n\nCost of service vs. competitive regions\n\n\nTemporal: time of day, seasons, annual, decadal\n\nTime steps: Building new capacity, dispatch\n\nTome horizon: near (2025), medium(2030), long (2050)\n\nGenerating units: individual plants or model plants, representation of capital costs and other production costs\n\nT&D: pipeflow, transport, DC powerflow, aggregated\n\nRepresentation of renewables: RE technologies, availabilities, accessibility cost, variability\n\nLink with economy wide model, environmental constraints"
   },
   {
-    "objectID": "lectures/lecture9/index.html#typical-output",
-    "href": "lectures/lecture9/index.html#typical-output",
+    "objectID": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
+    "href": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
     "title": "Lecture 9 Power Sector Analysis",
-    "section": "Typical output",
-    "text": "Typical output\n\n\nSource: He et al. (2020)"
+    "section": "Typical output: capacity/generation mix",
+    "text": "Typical output: capacity/generation mix\n\n\nSource: He et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture9/index.html#typical-output-transmission-expansions",
+    "href": "lectures/lecture9/index.html#typical-output-transmission-expansions",
+    "title": "Lecture 9 Power Sector Analysis",
+    "section": "Typical output: transmission expansions",
+    "text": "Typical output: transmission expansions\n\n\nRead more: PyPSA"
   },
   {
     "objectID": "lectures/lecture9/index.html#unit-committment-and-network-reliability",
@@ -1244,6 +1685,139 @@
     "title": "Lecture 9 Power Sector Analysis",
     "section": "Summary",
     "text": "Summary\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#sample-analytic-questions",
+    "href": "lectures/lecture13/index.html#sample-analytic-questions",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the new advancements in AI and big data?\n\nHow AI and bid data could be used in faciliating clean energy transition and addressing climate change?\n\nAny good examples or success stories of AI for energy/climate change?\n\nWhat skills are need to work in this field?"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#offshore-wind-turbine-inspection-using-drones-and-ai",
+    "href": "lectures/lecture13/index.html#offshore-wind-turbine-inspection-using-drones-and-ai",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Offshore wind turbine inspection using drones and AI",
+    "text": "Offshore wind turbine inspection using drones and AI\n\nA local example\n\n\n\n\nRead more: ULC Technologies, Photo: NASA"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-is-the-new-electricity",
+    "href": "lectures/lecture13/index.html#ai-is-the-new-electricity",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "“AI is the new electricity”",
+    "text": "“AI is the new electricity”\n\n\n\n\n\n\n\n\n\nJust as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.\n\n–Andrew Ng\n\n\n\nRead more: Andrew Ng: Why AI Is the New Electricity"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#milestones-in-ai",
+    "href": "lectures/lecture13/index.html#milestones-in-ai",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Milestones in AI",
+    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n\n\n\n\n\nRead more: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#aartifitial-intelligence-machine-learning-and-deep-learning",
+    "href": "lectures/lecture13/index.html#aartifitial-intelligence-machine-learning-and-deep-learning",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Aartifitial intelligence, machine learning, and deep learning",
+    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\nRead more: Lee and He (2021)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-algorithms",
+    "href": "lectures/lecture13/index.html#ai-algorithms",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI Algorithms",
+    "text": "AI Algorithms\n\n\nRead more: Lee and He (2021)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#how-ai-has-transformed-our-society",
+    "href": "lectures/lecture13/index.html#how-ai-has-transformed-our-society",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "How AI has transformed our society",
+    "text": "How AI has transformed our society\n\n\nFigure source, read more: GAO"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#key-enabling-factors",
+    "href": "lectures/lecture13/index.html#key-enabling-factors",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Key enabling factors",
+    "text": "Key enabling factors\n\n\n\nTechnological maturity\n\nAvailability and quality of data\n\nGrowing importance of cybersecurity\n\nTraining and re-skilling of energy sector professionals\n\n\n\n\n\n\n\n\n\n\n\nRead more: IRENA"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#deep-solar",
+    "href": "lectures/lecture13/index.html#deep-solar",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Deep solar",
+    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Yu et al. (2018)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-to-improve-wind-perfomance",
+    "href": "lectures/lecture13/index.html#ai-to-improve-wind-perfomance",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI to improve wind perfomance",
+    "text": "AI to improve wind perfomance\n\n\nRead more: Deepmind"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-saves-data-center-cooling-energy",
+    "href": "lectures/lecture13/index.html#ai-saves-data-center-cooling-energy",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI saves data center cooling energy",
+    "text": "AI saves data center cooling energy\n\n\nRead more: Deepmind"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#global-inventory-of-solar-pv",
+    "href": "lectures/lecture13/index.html#global-inventory-of-solar-pv",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Global inventory of solar PV",
+    "text": "Global inventory of solar PV\n\n\nSource: Kruitwagen et al. (2021)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#machine-learning-for-electricity-access",
+    "href": "lectures/lecture13/index.html#machine-learning-for-electricity-access",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Machine learning for electricity access",
+    "text": "Machine learning for electricity access\n\n\nSource: Ratledge et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-for-climate-solutions",
+    "href": "lectures/lecture13/index.html#ai-for-climate-solutions",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI for climate solutions",
+    "text": "AI for climate solutions\n\n\nSource: Rolnick et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-for-ghg-mitigation",
+    "href": "lectures/lecture13/index.html#ai-for-ghg-mitigation",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI for GHG mitigation",
+    "text": "AI for GHG mitigation\n\n\nSource: Kaack et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-ethics-why",
+    "href": "lectures/lecture13/index.html#ai-ethics-why",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI ethics: why?",
+    "text": "AI ethics: why?\n\nBiases\n\nPrivacy\n\nMistakes\n\nEnvironmental impacts\n\nOther unaware impacts\n\n\nRead more:"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-ethics-principles",
+    "href": "lectures/lecture13/index.html#ai-ethics-principles",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI ethics: principles",
+    "text": "AI ethics: principles\n\nProportionality and do no harm\n\nSafety and security\n\nFariness and non-discrimination\n\nSustainability\n\nRight to privacy, and data protection\n\nHuman oversight and dtermination\n\nTransparency and explainability\n\nResponsibility and Accountability\n\nAwareness and literacy\n\nMulti-stakeholder and adaptive governance and colloboration\n\n\nRead more: UNESCO"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#ai-ethics-how",
+    "href": "lectures/lecture13/index.html#ai-ethics-how",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "AI ethics: how?",
+    "text": "AI ethics: how?\n\nStill slow responding to the fast evolving\n\nEducation and research\n\nAssessment and communication\n\nGovernance and cooperation\n\nValue alligned design\n\n\nRead more: UNESCO, IEEE Ethics in Action"
+  },
+  {
+    "objectID": "lectures/lecture13/index.html#summary",
+    "href": "lectures/lecture13/index.html#summary",
+    "title": "Lecture 13 Big Data and AI for Clean Energy",
+    "section": "Summary",
+    "text": "Summary\n\nAI and big data has transformed how we live, and how can we save the planet\n\nAI does not automatic add new insights, but it provide powerful tools to analyze increasingly available big data\n\nLearning those new tools and skills becomes necessary to work in the field\n\nThe potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous."
   },
   {
     "objectID": "lectures/lecture7/index.html#sample-analytic-questions",
@@ -1453,685 +2027,6 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nEnergy efficiency, behavior, and sustainable consumption\nHW4 assigned\n\n\n13\n11/14\nEnergy poverty, access, and justice\n\n\n\n14\n11/21\nBig data and AI for clean energy\nHW4 due\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final paper\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
-  },
-  {
-    "objectID": "lectures/lecture9/index.html#model-comparison",
-    "href": "lectures/lecture9/index.html#model-comparison",
-    "title": "Lecture 9 Power Sector Analysis",
-    "section": "Model comparison",
-    "text": "Model comparison\n\n\nSource: Johnston et al. (2019)"
-  },
-  {
-    "objectID": "lectures/lecture9/index.html#switch-model-as-example",
-    "href": "lectures/lecture9/index.html#switch-model-as-example",
-    "title": "Lecture 9 Power Sector Analysis",
-    "section": "SWITCH Model as example",
-    "text": "SWITCH Model as example\n\n\nSource: Johnston et al. (2019)"
-  },
-  {
-    "objectID": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
-    "href": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
-    "title": "Lecture 9 Power Sector Analysis",
-    "section": "Typical output: capacity/generation mix",
-    "text": "Typical output: capacity/generation mix\n\n\nSource: He et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture9/index.html#typical-output-transmission-expansions",
-    "href": "lectures/lecture9/index.html#typical-output-transmission-expansions",
-    "title": "Lecture 9 Power Sector Analysis",
-    "section": "Typical output: transmission expansions",
-    "text": "Typical output: transmission expansions\n\n\nRead more: PyPSA"
-  },
-  {
-    "objectID": "lectures/lecture9/index.html#u.s.-transmission-grid",
-    "href": "lectures/lecture9/index.html#u.s.-transmission-grid",
-    "title": "Lecture 9 Power Sector Analysis",
-    "section": "U.S. transmission grid",
-    "text": "U.S. transmission grid\n\n\nSource: ArcGIS"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#sample-analytic-questions",
-    "href": "lectures/lecture10/index.html#sample-analytic-questions",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhat are the drivers of energy transition?\n\nHow should each country think/design/implement its energy transition?\n\nHow to frame the role of different technologies in energy transition?\n\nHow geo-politics, wars, and pandemic impact the energy in transiton?"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#transition-history",
-    "href": "lectures/lecture10/index.html#transition-history",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Transition history",
-    "text": "Transition history\n\n\nSource: EIA"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#re-coal-a-milestone",
-    "href": "lectures/lecture10/index.html#re-coal-a-milestone",
-    "title": "Lecture 10 Energy Transition",
-    "section": "RE > coal: a milestone",
-    "text": "RE > coal: a milestone\n\n\nSource: EIA"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#soft-path-vs.-hard-path",
-    "href": "lectures/lecture10/index.html#soft-path-vs.-hard-path",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Soft path vs. hard path",
-    "text": "Soft path vs. hard path\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\n\nSource: Lovins (1976)"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#u.s.-power-sector-half-way-to-zero",
-    "href": "lectures/lecture10/index.html#u.s.-power-sector-half-way-to-zero",
-    "title": "Lecture 10 Energy Transition",
-    "section": "U.S. power-sector half-way to zero",
-    "text": "U.S. power-sector half-way to zero\n\n\nSource: LBL"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#drivers-of-energy-transition",
-    "href": "lectures/lecture10/index.html#drivers-of-energy-transition",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Drivers of energy transition",
-    "text": "Drivers of energy transition\n\nDemand\nSupply\nClimate change\nEnvironmental pollution\nEnergy security\nEconomics"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#reneables-a-debate",
-    "href": "lectures/lecture10/index.html#reneables-a-debate",
-    "title": "Lecture 10 Energy Transition",
-    "section": "100% reneables: a debate",
-    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes?\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable/necesssary?\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\n\nSource: Jacobson et al. (2015), Clack et al. (2017)"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#changing-perspective-of-renewables",
-    "href": "lectures/lecture10/index.html#changing-perspective-of-renewables",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Changing perspective of renewables",
-    "text": "Changing perspective of renewables\n\n\nSource: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#energy-transition-the-german-energiewende",
-    "href": "lectures/lecture10/index.html#energy-transition-the-german-energiewende",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Energy Transition: The German Energiewende",
-    "text": "Energy Transition: The German Energiewende\n\nFighting climate change\nReducing energy imports\nStimulating technology innovation and the green economy\nReducing and eliminating the risks of nuclear power\nEnergy security\nStrengthening local economies and providing social justice"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#germany-role-of-nuclear",
-    "href": "lectures/lecture10/index.html#germany-role-of-nuclear",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Germany: role of nuclear?",
-    "text": "Germany: role of nuclear?\n\nThree operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.\n\nSource: World Nuclear Association"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#the-u.s.-ira",
-    "href": "lectures/lecture10/index.html#the-u.s.-ira",
-    "title": "Lecture 10 Energy Transition",
-    "section": "The U.S. IRA",
-    "text": "The U.S. IRA"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#denmark-distributed-generation-chp-and-wind",
-    "href": "lectures/lecture10/index.html#denmark-distributed-generation-chp-and-wind",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Denmark: Distributed generation (CHP and wind)",
-    "text": "Denmark: Distributed generation (CHP and wind)\n\n\nSource: Henning Parbo"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#china-the-scale-and-scope",
-    "href": "lectures/lecture10/index.html#china-the-scale-and-scope",
-    "title": "Lecture 10 Energy Transition",
-    "section": "China: the scale and scope",
-    "text": "China: the scale and scope\n\n\nSource: The Economist"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#renewable-expoding-while-coal-platauing",
-    "href": "lectures/lecture10/index.html#renewable-expoding-while-coal-platauing",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Renewable expoding while coal platauing",
-    "text": "Renewable expoding while coal platauing"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#china-phasing-out-coal",
-    "href": "lectures/lecture10/index.html#china-phasing-out-coal",
-    "title": "Lecture 10 Energy Transition",
-    "section": "China: phasing out coal",
-    "text": "China: phasing out coal\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution\n\n\n\nSource: Cui et al. (2021), He et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#bazil-role-of-hydro-and-biofuel",
-    "href": "lectures/lecture10/index.html#bazil-role-of-hydro-and-biofuel",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Bazil: role of hydro and biofuel",
-    "text": "Bazil: role of hydro and biofuel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EIA"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#africa-the-fogotten-billion",
-    "href": "lectures/lecture10/index.html#africa-the-fogotten-billion",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Africa: the fogotten billion",
-    "text": "Africa: the fogotten billion\n\n\nSource: Mulugetta et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#ukraine-crisis-an-accerlerator",
-    "href": "lectures/lecture10/index.html#ukraine-crisis-an-accerlerator",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Ukraine crisis: an accerlerator?",
-    "text": "Ukraine crisis: an accerlerator?\n\n\nSource: IEA, World Energy Outlook 2022"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#impact-to-emissions",
-    "href": "lectures/lecture10/index.html#impact-to-emissions",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Impact to emissions",
-    "text": "Impact to emissions\n\n\nSource: IEA, World Energy Outlook 2022"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#summary",
-    "href": "lectures/lecture10/index.html#summary",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Summary",
-    "text": "Summary\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#the-u.s.",
-    "href": "lectures/lecture10/index.html#the-u.s.",
-    "title": "Lecture 10 Energy Transition",
-    "section": "The U.S.",
-    "text": "The U.S."
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#u.s.-ira",
-    "href": "lectures/lecture10/index.html#u.s.-ira",
-    "title": "Lecture 10 Energy Transition",
-    "section": "U.S.: IRA",
-    "text": "U.S.: IRA\n\n\nSource: Rhodium Group"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#the-u.s.-net-zero",
-    "href": "lectures/lecture10/index.html#the-u.s.-net-zero",
-    "title": "Lecture 10 Energy Transition",
-    "section": "The U.S.: net zero",
-    "text": "The U.S.: net zero"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#the-u.s.-net-zero-america",
-    "href": "lectures/lecture10/index.html#the-u.s.-net-zero-america",
-    "title": "Lecture 10 Energy Transition",
-    "section": "The U.S.: net zero America",
-    "text": "The U.S.: net zero America\n\n\nSource: ZERO Lab"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#changing-perspectives-of-renewables",
-    "href": "lectures/lecture10/index.html#changing-perspectives-of-renewables",
-    "title": "Lecture 10 Energy Transition",
-    "section": "Changing perspectives of renewables",
-    "text": "Changing perspectives of renewables\n\n\nSource: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture10/index.html#china-phasing-out-coal-is-cha",
-    "href": "lectures/lecture10/index.html#china-phasing-out-coal-is-cha",
-    "title": "Lecture 10 Energy Transition",
-    "section": "China: phasing out coal is cha",
-    "text": "China: phasing out coal is cha\n\n\nSource: He et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture8/index.html#the-mckinsey-curve",
-    "href": "lectures/lecture8/index.html#the-mckinsey-curve",
-    "title": "Lecture 8 Energy and Climate Change",
-    "section": "The Mckinsey curve",
-    "text": "The Mckinsey curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#sample-analytic-questions",
-    "href": "lectures/lecture11/index.html#sample-analytic-questions",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nIf energy efficiency is a good thing, why is not everybody doing it?\n\nHow to design incentive programs to change people’s behavior?\n\nHow big is rebound, and what to do with rebound?\n\nWhat policies to push for sustainable energy consumption?"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#energy-efficiency",
-    "href": "lectures/lecture11/index.html#energy-efficiency",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Energy efficiency",
-    "text": "Energy efficiency\n\nEnergy efficiency\n\nEnergy conservation (saving)\n\nEnergy efficiency and economic efficiency\n\n\nRead more: Kathryne Cleary and Karen Palmer, RFF"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#energy-intensity",
-    "href": "lectures/lecture11/index.html#energy-intensity",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Energy intensity",
-    "text": "Energy intensity\n\n\nSource: OurWorldinData"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#recall-the-abatement-cost-curve",
-    "href": "lectures/lecture11/index.html#recall-the-abatement-cost-curve",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Recall the abatement cost curve",
-    "text": "Recall the abatement cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#energy-efficiency-gap",
-    "href": "lectures/lecture11/index.html#energy-efficiency-gap",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Energy efficiency gap",
-    "text": "Energy efficiency gap\n\n\nSource: Gillingham, Newell, and Palmer (2009)"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#information",
-    "href": "lectures/lecture11/index.html#information",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Information",
-    "text": "Information\n\n\nSource: FTC"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#standards",
-    "href": "lectures/lecture11/index.html#standards",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Standards",
-    "text": "Standards\n\nResponse to Information Failure\n\nMight be good policy if information is too costly/ineffective\n\nEliminates cost of acquiring/understanding information\nEliminates consumer/producer choice\n\nFocuses the market on producing high-quality products\n\nEconomies of scale\nMight be captured by technology (regular review of technology progress)\n\n\nResponse to externalities\n\nDisallow products that would not often be sold if external costs were internalized\nInefficient if some consumers would purchase at the full social cost including externality\nDifficult in some cases to write standards that still permit optimal innovation and adaptation\n\n\n\nSource: Severin Borenstein"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#behavior-change-in-nze",
-    "href": "lectures/lecture11/index.html#behavior-change-in-nze",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Behavior change in NZE",
-    "text": "Behavior change in NZE\n\n\nSource: IEA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#key-behavior-change-for-nze",
-    "href": "lectures/lecture11/index.html#key-behavior-change-for-nze",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Key behavior change for NZE",
-    "text": "Key behavior change for NZE\n\n\nSource: IEA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#complexity-of-human-behavior",
-    "href": "lectures/lecture11/index.html#complexity-of-human-behavior",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Complexity of human behavior",
-    "text": "Complexity of human behavior\n\n\nRead more: Human Behavior Research"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#maslows-hierarchy-of-needs",
-    "href": "lectures/lecture11/index.html#maslows-hierarchy-of-needs",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Maslow’s hierarchy of needs",
-    "text": "Maslow’s hierarchy of needs\n\n\nRead more: Wikipedia"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#stage-of-change-theory",
-    "href": "lectures/lecture11/index.html#stage-of-change-theory",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Stage of change theory",
-    "text": "Stage of change theory\n\n\nRead more: Behavior change models"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#nudge",
-    "href": "lectures/lecture11/index.html#nudge",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Nudge",
-    "text": "Nudge\n\n\n\n\n\n\n\n\n\nIncentives\nUnderstand mapping\nDefaults\nGive feedback\nExpect error\nStructure complex choices\n\n\n\n\nRead more: Richard H. Thaler and Cass R. Sunstein"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#rebound",
-    "href": "lectures/lecture11/index.html#rebound",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Rebound",
-    "text": "Rebound\n\n\n\n\n\n\n\n\nCategory\nDescription\nExample\n\n\n\n\nDirect rebound\nHomeowners use more of the more efficient service\nConsumer drives more with a more fuel efficient car\n\n\nIndirect rebound\nHomeowners re-spending on other goods and services\nSavings from efficient lighting spend on 2nd refrigerator\n\n\nEconomy-wide rebound\nMore efficient production and shifts in demand alter economic structure and growth\nA more efficient steam engine increases production changes structural relationships and leads to economic growth"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#economics-of-rebound",
-    "href": "lectures/lecture11/index.html#economics-of-rebound",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Economics of rebound",
-    "text": "Economics of rebound\n\nEnergy efficiency lowers the marginal cost of usage so increases usage\n\nAmount of increase depends on price elasticity\n\nLikely to be small effect if energy is small part of marginal cost of use\n\n\nEnergy efficiency may lower energy price, further increases rebound effect\n\nLikely to be small effect unless long-run supply is very inelastic\n\n\nBut energy efficiency also raises the up-front cost of products, reducing total sales\n\n\nSource: Severin Borenstein"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#rebound-might-be-overplayed",
-    "href": "lectures/lecture11/index.html#rebound-might-be-overplayed",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Rebound might be overplayed",
-    "text": "Rebound might be overplayed\n\n\nSource: Kenneth, Gernot, et al. (2013)"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#focus-on-welfare",
-    "href": "lectures/lecture11/index.html#focus-on-welfare",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Focus on welfare",
-    "text": "Focus on welfare\n\nIs rebound a “failure”? Depends on the goal\n\nReduce energy consumption?\nImprove social welfare?\n\n\nRebound could be good"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#sustainable-energy-consumption",
-    "href": "lectures/lecture11/index.html#sustainable-energy-consumption",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Sustainable energy consumption",
-    "text": "Sustainable energy consumption\n\n\n\n\n\n\n\n\n\nAbsolute reductions in the material goods and energy we consume;\n\nFrom material wealth and consumerism toward new measures of progress and well-being;\n\nTechnological innovation and efficiency gains that help us to refine production processes;\n\nRecognition that consumption will need to increase for those individuals and communities whose needs are not being met, and\n\nA transformation of our economy from continuous growth to within the limits of a finite planet.\n\n\n\n\nRead more: UN, USDN"
-  },
-  {
-    "objectID": "lectures/lecture11/index.html#summary",
-    "href": "lectures/lecture11/index.html#summary",
-    "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "Summary",
-    "text": "Summary\n\nThere are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
-  },
-  {
-    "objectID": "assignments/hw4.html",
-    "href": "assignments/hw4.html",
-    "title": "Homework 4 Load forecast, energy justice",
-    "section": "",
-    "text": "Load forecast is very important for power system planning and operation. First visit NYISO website’s Custom Reports to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min intervial and 1-hour interval), and comparing them and analyze how to make forecast better. Download one whole year (2021) of Real Time Weighted Integrated Actual Load and Day Head Market Load Forcast for Long Island. (Total 6pts)\n\nDraw the load curve (0.5pt) and load duration curve (0.5pt) of Long Island.\n\nShow the characteristics of average day hourly load curve on Long Island\n\nAll days average (0.5pt)\n\nWeekday vs. weekend (0.5pt)\n\nMonthly avearge (0.5pt)\n\nSeasonal average (0.5pt)\n\n\nFind the hour(s)/day(s) with the largest forecast error, and try to explain why? (1pt)\n\nNow make reasonable assumptions of EV penetration and EV charging on Long Island, and try to show how that would change the load curve. (1pt)\nShould PSEG Long Island worry about it, what policy/incentives should you use to change people’s behavior of charging/discharging so to save costs for the utility companies? (1pt)"
-  },
-  {
-    "objectID": "assignments/hw4.html#energy-justice",
-    "href": "assignments/hw4.html#energy-justice",
-    "title": "Homework 4 Load forecast, energy justice",
-    "section": "2. Energy justice",
-    "text": "2. Energy justice\nWhat is energy justice? Use one example to discuss how energy supply/demand might affect equity and justice of specific groups or population. Write a short essay (~400 words) to explain your thoughts. (Total 4pts)\nFurther reading:\nArvind Jaggi, Senior Economist, Demand Forecasting & Analysis, Electric Vehicle Forecast Impacts (Gold Book 2021)\nPlay around the En-ROADS model, and change some of the parameters and check how assumptions affect modeling results."
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#sample-analytic-questions",
-    "href": "lectures/lecture12/index.html#sample-analytic-questions",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhy energy access is so foundamental for modern life?\n\nThe barriers and policies to facilitate energy access?\n\nWhat is Justice40? And what investments are included?\n\nWhat are the typical energy injustice and how to address them?"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-poverty-and-sdg",
-    "href": "lectures/lecture12/index.html#energy-poverty-and-sdg",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy poverty and SDG",
-    "text": "Energy poverty and SDG\n\n\nRead more: Alstone, Gershenson, and Kammen (2015)"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-access-and-hdi",
-    "href": "lectures/lecture12/index.html#energy-access-and-hdi",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy access and HDI",
-    "text": "Energy access and HDI\n\n\nRead more: Alstone, Gershenson, and Kammen (2015)"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-ladder",
-    "href": "lectures/lecture12/index.html#energy-ladder",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy ladder",
-    "text": "Energy ladder\n\n\nRead more: Our World in Data"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#sustainable-energy-for-all",
-    "href": "lectures/lecture12/index.html#sustainable-energy-for-all",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Sustainable energy for all",
-    "text": "Sustainable energy for all\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#share-of-population-with-electricity",
-    "href": "lectures/lecture12/index.html#share-of-population-with-electricity",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Share of population with electricity",
-    "text": "Share of population with electricity\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#share-of-population-with-clean-cooking-fuel",
-    "href": "lectures/lecture12/index.html#share-of-population-with-clean-cooking-fuel",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Share of population with clean cooking fuel",
-    "text": "Share of population with clean cooking fuel\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#chinas-electricity-for-all",
-    "href": "lectures/lecture12/index.html#chinas-electricity-for-all",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "China’s electricity for all",
-    "text": "China’s electricity for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: He and Victor (2017)"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-justice",
-    "href": "lectures/lecture12/index.html#energy-justice",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy justice",
-    "text": "Energy justice\n\nThe goal of achieving equity in both the social and economic participation in the energy system, while also remediating social, economic, and health burdens on those disproportionately harmed by the energy system.\n\n–Initiative for Energy Justice, 2019\n\nRead more: DOE"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#ej-conceptual-questions",
-    "href": "lectures/lecture12/index.html#ej-conceptual-questions",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "EJ conceptual questions",
-    "text": "EJ conceptual questions\n\n\nSource: Jenkins et al. (2016)"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#rooftop-solar-by-race-and-ethnicity",
-    "href": "lectures/lecture12/index.html#rooftop-solar-by-race-and-ethnicity",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Rooftop solar by race and ethnicity",
-    "text": "Rooftop solar by race and ethnicity\n\n\nSource: Sunter, Castellanos, and Kammen (2019)"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#the-energy-equity-gap",
-    "href": "lectures/lecture12/index.html#the-energy-equity-gap",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "The energy equity gap",
-    "text": "The energy equity gap\n\n\nSource: Cong et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#justice-40",
-    "href": "lectures/lecture12/index.html#justice-40",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Justice 40",
-    "text": "Justice 40\n\n\nSource: White House"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#just-transition-framework",
-    "href": "lectures/lecture12/index.html#just-transition-framework",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Just transition framework",
-    "text": "Just transition framework\n\n\nSource: Climate Justice Alliance"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#summary",
-    "href": "lectures/lecture12/index.html#summary",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Summary",
-    "text": "Summary\n\nElectricity/energy access is foundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approach to energy justice"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy",
-    "href": "lectures/lecture12/index.html#energy",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy",
-    "text": "Energy"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-environmental-climate-justice",
-    "href": "lectures/lecture12/index.html#energy-environmental-climate-justice",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy, environmental, climate justice",
-    "text": "Energy, environmental, climate justice\n\n\n\n\n\n\n\n\nEnergy\nEnvironmental\nClimate\n\n\n\n\nEnergy supply/demand\nEnvironment burden/benefits\nClimate impact/benefits\n\n\n\nCommon Questions:\nWho bears the burden? Who harvests the benefits? Do we know the injustice? Can people involve in the decision proceses? How to compensate?"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#nys-c",
-    "href": "lectures/lecture12/index.html#nys-c",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "NYS C",
-    "text": "NYS C"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#nys-clcpa",
-    "href": "lectures/lecture12/index.html#nys-clcpa",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "NYS CLCPA",
-    "text": "NYS CLCPA"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#nys-clcpa-a",
-    "href": "lectures/lecture12/index.html#nys-clcpa-a",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "NYS CLCPA A",
-    "text": "NYS CLCPA A"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#nys-clcpa-dsi",
-    "href": "lectures/lecture12/index.html#nys-clcpa-dsi",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "NYS CLCPA Dsi",
-    "text": "NYS CLCPA Dsi"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#nys-clcpa-disadvantaged-communities",
-    "href": "lectures/lecture12/index.html#nys-clcpa-disadvantaged-communities",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "NYS CLCPA disadvantaged communities",
-    "text": "NYS CLCPA disadvantaged communities"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#nys-clcpa-disadvantaged-communities-dacs",
-    "href": "lectures/lecture12/index.html#nys-clcpa-disadvantaged-communities-dacs",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "NYS CLCPA disadvantaged communities (DACs)",
-    "text": "NYS CLCPA disadvantaged communities (DACs)\n\n\nRead more: Draft Disadvantaged Communities Criteria"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-pover",
-    "href": "lectures/lecture12/index.html#energy-pover",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy pover",
-    "text": "Energy pover"
-  },
-  {
-    "objectID": "lectures/lecture12/index.html#energy-poverty-and-gender-equity",
-    "href": "lectures/lecture12/index.html#energy-poverty-and-gender-equity",
-    "title": "Lecture 12 Energy Poverty, Access, and Justice",
-    "section": "Energy poverty and gender equity",
-    "text": "Energy poverty and gender equity\n\nWomen and kids spend more time collecting wood fuel\n\nWomen spend more time on cooking without clean fuel/energy\n\nWomen bear more burden on indoor air pollution\n\nWomen have less oportunity for development"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#sample-analytic-questions",
-    "href": "lectures/lecture13/index.html#sample-analytic-questions",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhat are the new advancements in AI and big data?\n\nHow AI and bid data could be used in faciliating clean energy transition and addressing climate change?\n\nAny good examples or success stories of AI for energy/climate change?\n\nWhat skills are need to work in this field?"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#offshore-wind-turbine-inspection-using-drones-and-ai",
-    "href": "lectures/lecture13/index.html#offshore-wind-turbine-inspection-using-drones-and-ai",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Offshore wind turbine inspection using drones and AI",
-    "text": "Offshore wind turbine inspection using drones and AI\n\nA local example\n\n\n\n\nRead more: ULC Technologies, Photo: NASA"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-is-the-new-electricity",
-    "href": "lectures/lecture13/index.html#ai-is-the-new-electricity",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "“AI is the new electricity”",
-    "text": "“AI is the new electricity”\n\n\n\n\n\n\n\n\n\nJust as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.\n\n–Andrew Ng\n\n\n\nRead more: Andrew Ng: Why AI Is the New Electricity"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#milestones-in-ai",
-    "href": "lectures/lecture13/index.html#milestones-in-ai",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Milestones in AI",
-    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n\n\n\n\n\nRead more: Wikipedia"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#aartifitial-intelligence-machine-learning-and-deep-learning",
-    "href": "lectures/lecture13/index.html#aartifitial-intelligence-machine-learning-and-deep-learning",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Aartifitial intelligence, machine learning, and deep learning",
-    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\nRead more: Lee and He (2021)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-algorithms",
-    "href": "lectures/lecture13/index.html#ai-algorithms",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI Algorithms",
-    "text": "AI Algorithms\n\n\nRead more: Lee and He (2021)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#how-ai-has-transformed-our-society",
-    "href": "lectures/lecture13/index.html#how-ai-has-transformed-our-society",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "How AI has transformed our society",
-    "text": "How AI has transformed our society\n\n\nFigure source, read more: GAO"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#deep-solar",
-    "href": "lectures/lecture13/index.html#deep-solar",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Deep solar",
-    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Yu et al. (2018)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-to-improve-wind-perfomance",
-    "href": "lectures/lecture13/index.html#ai-to-improve-wind-perfomance",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI to improve wind perfomance",
-    "text": "AI to improve wind perfomance\n\n\nRead more: Deepmind"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-saves-data-center-cooling-energy",
-    "href": "lectures/lecture13/index.html#ai-saves-data-center-cooling-energy",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI saves data center cooling energy",
-    "text": "AI saves data center cooling energy\n\n\nRead more: Deepmind"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#global-inventory-of-solar-pv",
-    "href": "lectures/lecture13/index.html#global-inventory-of-solar-pv",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Global inventory of solar PV",
-    "text": "Global inventory of solar PV\n\n\nSource: Kruitwagen et al. (2021)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#machine-learning-for-electricity-access",
-    "href": "lectures/lecture13/index.html#machine-learning-for-electricity-access",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Machine learning for electricity access",
-    "text": "Machine learning for electricity access\n\n\nSource: Ratledge et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-for-climate-solutions",
-    "href": "lectures/lecture13/index.html#ai-for-climate-solutions",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI for climate solutions",
-    "text": "AI for climate solutions\n\n\nSource: Rolnick et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-for-ghg-mitigation",
-    "href": "lectures/lecture13/index.html#ai-for-ghg-mitigation",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI for GHG mitigation",
-    "text": "AI for GHG mitigation\n\n\nSource: Kaack et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-ethics-why",
-    "href": "lectures/lecture13/index.html#ai-ethics-why",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI ethics: why?",
-    "text": "AI ethics: why?\n\nBiases\n\nPrivacy\n\nMistakes\n\nEnvironmental impacts\n\nOther unaware impacts\n\n\nRead more:"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-ethics-principles",
-    "href": "lectures/lecture13/index.html#ai-ethics-principles",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI ethics: principles",
-    "text": "AI ethics: principles\n\nProportionality and do no harm\n\nSafety and security\n\nFariness and non-discrimination\n\nSustainability\n\nRight to privacy, and data protection\n\nHuman oversight and dtermination\n\nTransparency and explainability\n\nResponsibility and Accountability\n\nAwareness and literacy\n\nMulti-stakeholder and adaptive governance and colloboration\n\n\nRead more: UNESCO"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#ai-ethics-how",
-    "href": "lectures/lecture13/index.html#ai-ethics-how",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "AI ethics: how?",
-    "text": "AI ethics: how?\n\nStill slow responding to the fast evolving\n\nEducation and research\n\nAssessment and communication\n\nGovernance and cooperation\n\nValue alligned design\n\n\nRead more: UNESCO, IEEE Ethics in Action"
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#summary",
-    "href": "lectures/lecture13/index.html#summary",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Summary",
-    "text": "Summary\n\nAI and big data has transformed how we live, and how can we save the planet\n\nAI does not automatic add new insights, but it provide powerful tools to analyze increasingly available big data\n\nLearning those new tools and skills becomes necessary to work in the field\n\nThe potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous."
-  },
-  {
-    "objectID": "lectures/lecture13/index.html#key-enabling-factors",
-    "href": "lectures/lecture13/index.html#key-enabling-factors",
-    "title": "Lecture 13 Big Data and AI for Clean Energy",
-    "section": "Key enabling factors",
-    "text": "Key enabling factors\n\n\n\nTechnological maturity\n\nAvailability and quality of data\n\nGrowing importance of cybersecurity\n\nTraining and re-skilling of energy sector professionals\n\n\n\n\n\n\n\n\n\n\n\nRead more: IRENA"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nEnergy efficiency, behavior, and sustainable consumption\nHW4 assigned\n\n\n13\n11/14\nEnergy poverty, access, and justice\n\n\n\n14\n11/21\nBig data and AI for clean energy\nHW4 due\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nNo class – preparing final presentation\nPresentation due\n\n\n17\n12/12\nNo class – preparing final paper\nPaper due"
   }
 ]
