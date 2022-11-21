@@ -24,7 +24,7 @@ format:
 ## Sample analytic questions
 
 -   What are the new advancements in AI and big data?\
--   How AI and bid data could be used in faciliating clean energy transition and addressing climate change?\
+-   How AI and big data could be used in facilitating clean energy transition and addressing climate change?\
 -   Any good examples or success stories of AI for energy/climate change?\
 -   What skills are need to work in this field?\
 
@@ -262,9 +262,9 @@ Read more:
 - Fariness and non-discrimination   
 - Sustainability  
 - Right to privacy, and data protection  
-- Human oversight and dtermination  
+- Human oversight and determination  
 - Transparency and explainability  
-- Responsibility and Accountability  
+- Responsibility and accountability  
 - Awareness and literacy  
 - Multi-stakeholder and adaptive governance and colloboration  
 
@@ -275,7 +275,7 @@ Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
 
 ## AI ethics: how?
 
-- Still slow responding to the fast evolving  
+- Still slow responding to the fast evolving challenges 
 - Education and research  
 - Assessment and communication  
 - Governance and cooperation  
@@ -288,7 +288,7 @@ Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE E
 ## Summary
 
 -   AI and big data has transformed how we live, and how can we save the planet\
--   AI does not automatic add new insights, but it provide powerful tools to analyze increasingly available big data\
+-   AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\
 -   Learning those new tools and skills becomes necessary to work in the field\
 -   The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.  
 

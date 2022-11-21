@@ -23,20 +23,59 @@ format:
 
 ## Sample analytic questions
 
--   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
--   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
--   What level of social cost of carbon should New York State use?\
--   How climate change would affect energy supply and demand?\
+-   How do I know if I should trust a model and its results?\
+-   What are the methods to address uncertainties?\
+-   What are the emerging topics to improve IAMs?\
+-   How to interpate modeling results to communicate effectively?\
 
-## Structural change
+## Projections went off
+
+![](images/1970s-projections-us-energy.png){fig-align="center"}
+
+::: footer
+Source: @craig2002what
+:::
+
+
+## Why? Structural change
 
 ## Shale gas revolution
 
+
+## Changing landsacpe of new power generation capacities
+
+![](images/new-power-capacity.png){fig-align="center"}
+
+::: footer
+Source: [Head Waters Economics](https://headwaterseconomics.org/economic-development/evolution-electricity-generation/)
+:::
+
+
 ## Renewable costs
+
+![](/lectures/lecture10/images/ipcc-re-costs.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
+:::
+
+## IEA keep underestimating solar and wind
+
+![](images/iea-underestimate-solarwind.png){fig-align="center"}
+
+::: footer
+Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
+:::
 
 ## Uncertainties
 
 ## Political feasibility
+
+## Mission impossible
+
+- Predict the unpredictable  
+- Price the priceless  
+
 
 ## Why a model in the first place
 
@@ -65,10 +104,10 @@ format:
 
 ## Summary
 
--   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
--   Learn the applicatons and limitations of social cost of carbon\
--   Climate change affects energy supply and demand
+-   Know the limitation of models\
+-   Use model appropriately\
+-   Inteprate/communicate the results carefully\
+-   Models 
 
 ---
 
