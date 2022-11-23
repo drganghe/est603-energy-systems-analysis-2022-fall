@@ -1,11 +1,11 @@
 ---
-title: "Lecture 15 Summary"
+title: "Lecture 15 Review and summary"
 author: "Gang He"
 date: December 5, 2022
 date-format: long
-#image: "images/iams-carbon-brief.png"
+image: "/lectures/lecture3/images/energy-systems.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -21,23 +21,185 @@ format:
     footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
 ---
 
-## Sample analytic questions
+## Start with two quotes
 
--   If all fossil plants stop generating from 2023, how that will contribute to the climate mitigation?\
--   What needs to be included in New York State's scoping plan to achieve goals in the Climate Leadership and Community Protection Act?\
--   What level of social cost of carbon should New York State use?\
--   How climate change would affect energy supply and demand?\
+::: columns
+::: {.column width="50%"}
+George Box:
+
+>All models are wrong, but some are useful.
+:::
+
+::: {.column width="50%"}
+Albert Einstein:
+
+>Everything should be made as simple as possible, but not simpler.
+:::
+:::
 
 
+## Energy systems
 
-## 
+![](/lectures/lecture3/images/energy-systems.png){fig-align="center"}
 
-## Summary
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+## What we have learn
+
+::: columns
+::: {.column width="50%"}
+-   Energy systems
+    -   Data
+    -   Economics
+    -   Technology
+    -   Supply
+    -   Demand
+    -   Power
+:::
+
+::: {.column width="50%"}
+-   Tools/skills
+
+    -   Data analysis
+
+    -   Economic analysis
+
+    -   Life cycle analysis
+
+    -   Energy-economy-environment (nexus)
+:::
+:::
+
+## How modelers think about an energy system
+ 
+- System components, structure, and relations  
+- Networks (transmission, transport)  
+- Objectives and constraints (if do optimization)  
+- Validation and calibration  
+- Intepretion and communication  
+
+
+## Data quality
+
+- Availability  
+- Accessibility  
+- Credibility  
+
+Comparison, Validation, Verification
+
+
+## Project economics
+
+- Project economics is useful for basic cost-benefit analysis  
+- Getting the price (discounting) right  
+- Understanding technology dynamics will help to model future projections  
+- Aware of the limitations   
+
+
+## Energy sources and technologies {.smaller}
+
+- Theory - learn and understand the physics of energy technologies: 
+  - thermaldynamics (fossil)  
+  - kinematics (wind)  
+  - light and semiconductor (solar)  
+  - gravity (hydro, tidal)  
+  - atomic (nuclear)    
+- Practice - learn all kinds of corrections based on real-world situation  
+- The physics doesn't change, corrections help us to do better job in simulation and projections  
+
+
+## Energy demand
+
+- Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior   
+- Understanding those drivers will help us learn the magnitude and shape of our demand  
+- Load forecast integrates all insights to the show  
+
+
+## Energy, environment, and human health
+
+-   Environmental and health impact are the external impacts of energy system\
+-   Energy-air-pollution-human health framework of analysis\
+-   Energy-water-carbon nexus\
+-   System impacts shows the constraint in systems modeling
+
+## Energy and climate change
 
 -   IAM framework and models to analyze energy, emissions, and climate impacts\
 -   Understanding the evolution of climate policy instuments\
 -   Learn the applicatons and limitations of social cost of carbon\
 -   Climate change affects energy supply and demand
+
+
+## Power sector analysis
+
+-   Power sector's central role in decarbonization\
+-   Capacity expansion model to analyze the optimized investment decisions\
+-   Decisions in the real world is much more complicated\
+-   Emerging trends in the power sector
+
+
+## Energy transition
+
+-   Diverse factors that drive energy transition\
+-   Common and differentiated solutions to energy\
+-   Leverage the advantages\
+-   Addressing uncertainties: geopolitics, wars, pandemic, and more
+
+
+## Energy efficiency
+
+-   There are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\
+-   Human behavior is complicated, and understanding it will help us to design policy\
+-   Rebound is real but might be overplayed, rebound could be good if improve welfare\
+-   Sustainable consumption and production within the limit
+
+
+## Energy poverty, access, and justice
+
+-   Electricity/energy access is foundamental to other modern services: education, health, and information\
+-   Energy access also has gender equity, health cobenefits, and other implications\
+-   Energy justice is important to achieve just transition\
+-   An reflection on our approach to energy justice
+
+
+## AI and big data for clean energy
+
+-   AI and big data has transformed how we live, and how can we save the planet\
+-   AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\
+-   Learning those new tools and skills becomes necessary to work in the field\
+-   The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.  
+
+## Limitations of models
+
+-   Know the limitation of models\
+-   Use model appropriately\
+-   Inteprate/communicate the results carefully\
+-   Models for social good  
+
+
+## End with two quotes {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Bill Hogan:
+
+>It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
+
+:::
+
+::: {.column width="50%"}
+Huntington, Weyant, Sweeney “Modeling for insights, not numbers":
+
+>The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.
+
+:::
+:::
+
+::: footer
+Source: @hogan_energy_2002, @huntington_modeling_1982
+:::
 
 ---
 

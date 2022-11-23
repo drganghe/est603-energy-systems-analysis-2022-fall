@@ -3,9 +3,9 @@ title: "Lecture 14 Limitations of Models"
 author: "Gang He"
 date: November 28, 2022
 date-format: long
-#image: "images/iams-carbon-brief.png"
+image: "images/iea-underestimate-solarwind.png"
 #suppress-bibliography: true
-draft: true
+#draft: true
 format:
   revealjs:
     theme: white
@@ -27,6 +27,8 @@ format:
 -   What are the methods to address uncertainties?\
 -   What are the emerging topics to improve IAMs?\
 -   How to interpate modeling results to communicate effectively?\
+-  Where to use model? How to build your model? What to say about your model?   
+
 
 ## Projections went off
 
@@ -37,12 +39,62 @@ Source: @craig2002what
 :::
 
 
-## Why? Structural change
+## IEA underestimates solar and wind
 
-## Shale gas revolution
+![](images/iea-underestimate-solarwind.png){fig-align="center"}
+
+::: footer
+Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
+:::
+
+
+
+## Science models are in better positions
+
+::: columns
+
+::: {.column width="50%"}
+![](images/1982-exxon-projection.png){fig-align="center" width="90%"}
+:::
+
+::: {.column width="50%"}
+![](images/obervation-vs-models.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: [Inside Climate News](https://insideclimatenews.org/news/22092015/exxon-confirmed-global-warming-consensus-in-1982-with-in-house-climate-models/), @hausfather2020evaluating
+:::
+
+
+## Conditions for model robustness
+
+Models can be accurate when they describe systems that  
+
+- are observable and measurable  
+- exhibit constancy of structure over time  
+- exhibit constancy across variations in conditions not specified in the model  
+- permit the collection of ample data
+
+::: footer
+Read more: @hodges1992you
+:::
+
+
+## Social economic structural changes
+
+- Core data and assumptions, which drive results, are based on historical experiences, which can be off if structural conditions change  
+- The exact timing and character of pivotal events and technology changes is unpredictable
+
+::: footer
+Read more: [Turning Numbers into Knowledge](https://www.koomey.com/books.html)
+:::
 
 
 ## Changing landsacpe of new power generation capacities
+
+<center> Shale gas revolution </center>
 
 ![](images/new-power-capacity.png){fig-align="center"}
 
@@ -59,17 +111,6 @@ Source: [Head Waters Economics](https://headwaterseconomics.org/economic-develop
 Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
 :::
 
-## IEA keep underestimating solar and wind
-
-![](images/iea-underestimate-solarwind.png){fig-align="center"}
-
-::: footer
-Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
-:::
-
-## Uncertainties
-
-## Political feasibility
 
 ## Mission impossible
 
@@ -77,7 +118,57 @@ Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-
 - Price the priceless  
 
 
-## Why a model in the first place
+## Better modeling uncertainties {.smaller}
+
+- Define an endpoint of analysis  
+- List all uncertain parameters  
+- Specify maximum range of values  
+- Specify subjective probability distribution for values within the range  
+- Determin and account for correlations  
+- Probability distribution of model predictions  
+- Derive quantitative uncertainties 
+- Obtain additional data and repeat analysis if needed  
+
+::: footer
+Read more: [IAEA](https://inis.iaea.org/collection/NCLCollectionStore/_Public/24/045/24045072.pdf)
+:::
+
+
+## Incoporating political economy
+
+::: columns
+
+::: {.column width="50%"}
+
+::: r-fit-text
+
+Examples 
+
+- Risk averse investors  
+- Subsidies or taxes  
+- Carbon lock-in  
+- Unequal costs and benefits of climate polices accrue to different groups  
+- Public opinion  
+- Confidence in political institutions  
+- Trade and investments  
+- Competence of goverment  
+
+:::
+
+:::
+
+::: {.column width="50%"}
+![](images/state-level-support-climate.webp){fig-align="center" width="80%"}
+:::
+
+:::
+
+::: footer
+Source: @peng2021climate, @peng2021surprisingly
+:::
+
+
+## Why a model in the first place{.smaller}
 
 - Description  
 - Explanation  
@@ -95,11 +186,56 @@ Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-
 - Model elements, structure, relations  
 - Do not over-interpret  
 - Do not misinterpret  
-- "All models are wrong, but some are **useful**". Avoid useless models.
+- "All models are wrong, but some are **useful**". Avoid useless models.  
 
-- Where to use model  
-- How to build your model  
-- What to say about your model  
+
+## Focusing on structures and relations
+
+![](images/en-roads-structure.png){fig-align="center"}
+
+::: footer
+Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)
+:::
+
+
+## Knowing limitations
+
+- Known unknowns  
+- Unknown unknowns  
+- "Garbage in, garbage out"  
+
+
+## Inteprating results
+
+- Results are outcomes of assumptions and models  
+- Results does not translate to policies  
+- Communicating the sensitivities and uncertainties  
+
+
+## Open source 
+
+- Open model (code)  
+- Open data  
+- Open results  
+- Open validation  
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Open_energy_system_models)
+:::
+
+
+## Ensure model for society
+
+- Mind the assumptions  
+- Mind the hubris  
+- Mind the framing  
+- Mind the consequences  
+- Mind the unknowns  
+- Questions not answers  
+
+::: footer
+Read more: @saltelli2020five
+:::
 
 
 ## Summary
@@ -107,7 +243,7 @@ Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-
 -   Know the limitation of models\
 -   Use model appropriately\
 -   Inteprate/communicate the results carefully\
--   Models 
+-   Models for social good  
 
 ---
 
