@@ -13,6 +13,7 @@ format:
     slide-number: true
     preview-links: auto
     link-external-newwindow: true
+    citations-hover: true
     auto-stretch: true
     r-fit-text: true
     center: true

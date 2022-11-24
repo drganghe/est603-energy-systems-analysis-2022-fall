@@ -116,7 +116,7 @@
     "href": "index.html#description",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
     "section": "Description",
-    "text": "Description\nThis class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results."
+    "text": "Description\nThis class offers a systems approach and introduces useful modeling tools and skillsets to capture and reveal the grand challenges and opportunites of energy systems. The scope of this class includes energy systems overview, make sense of energy numbers, energy project economics, energy sources and technologies, energy demand, energy, environment, and human health, energy and climate change, power system analysis, energy transition, energy efficiency, behavior, and sustainable consumption, energy poverty, access, and justice, big data and AI for clean energy, limitations of models, and other emerging topics for the energy systems to achieve carbon neutrality. This class encourage students to design research projects, using the modeling tools, and presenting results."
   },
   {
     "objectID": "index.html#learning-objectives",
@@ -2146,7 +2146,7 @@
     "href": "lectures/lecture14/index.html#sample-analytic-questions",
     "title": "Lecture 14 Limitations of Models",
     "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nHow do I know if I should trust a model and its results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve IAMs?\n\nHow to interpate modeling results to communicate effectively?\n\nWhere to use model? How to build your model? What to say about your model?"
+    "text": "Sample analytic questions\n\nHow do I know if I should trust a model and its results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve IAMs?\n\nHow to interpret modeling results to communicate effectively?\n\nWhere to use model? How to build your model? What to say about your model?"
   },
   {
     "objectID": "lectures/lecture14/index.html#projections-went-off",
@@ -2272,7 +2272,7 @@
     "href": "lectures/lecture14/index.html#summary",
     "title": "Lecture 14 Limitations of Models",
     "section": "Summary",
-    "text": "Summary\n\nKnow the limitation of models\n\nUse model appropriately\n\nInteprate/communicate the results carefully\n\nModels for social good"
+    "text": "Summary\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModels for social good"
   },
   {
     "objectID": "lectures/lecture14/index.html#better-modeling-uncertainties",

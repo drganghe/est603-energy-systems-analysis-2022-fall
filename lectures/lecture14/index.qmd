@@ -13,6 +13,7 @@ format:
     slide-number: true
     preview-links: auto
     link-external-newwindow: true
+    citations-hover: true
     auto-stretch: true
     r-fit-text: true
     center: true
@@ -26,7 +27,7 @@ format:
 -   How do I know if I should trust a model and its results?\
 -   What are the methods to address uncertainties?\
 -   What are the emerging topics to improve IAMs?\
--   How to interpate modeling results to communicate effectively?\
+-   How to interpret modeling results to communicate effectively?\
 -  Where to use model? How to build your model? What to say about your model?   
 
 
@@ -242,7 +243,7 @@ Read more: @saltelli2020five
 
 -   Know the limitation of models\
 -   Use model appropriately\
--   Inteprate/communicate the results carefully\
+-   Interpret/communicate the results effectively\
 -   Models for social good  
 
 ---
