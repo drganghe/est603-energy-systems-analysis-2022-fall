@@ -206,11 +206,11 @@ Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)
 - "Garbage in, garbage out"  
 
 
-## Inteprating results
+## Interpreting results
 
 - Results are outcomes of assumptions and models  
-- Results does not translate to policies  
-- Communicating the sensitivities and uncertainties  
+- Results does not automatically translate to policies  
+- Communicating the limitations and uncertainties  
 
 
 ## Open source 

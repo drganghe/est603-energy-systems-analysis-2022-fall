@@ -19,7 +19,7 @@ title: Syllabus
 
 ## Course Description
 
-This class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results. 
+This class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems and enable evidence-based decision making. We'll discuss the limitations of models and other emerging topics on global clean energy transition. This class encourage students to design research projects, use the modeling tools, interpret and present results. 
 
 ## Learning Objectives 
 

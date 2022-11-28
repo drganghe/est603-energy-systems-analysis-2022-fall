@@ -165,7 +165,7 @@
     "href": "syllabus.html#course-description",
     "title": "Syllabus",
     "section": "Course Description",
-    "text": "Course Description\nThis class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems or individual energy projects so to understand energy systems and enable evidence-based decision making. This class encourage students to design research projects, using the modeling tools, and presenting results."
+    "text": "Course Description\nThis class offers a systems analysis approach and introduces useful modeling tools to capture and reveal the complexity of energy systems. The scope of this class includes main forms of energy, major energy production, conversion, and consumption activities, and technology innovation and transition embedded in the energy systems. We’ll first discuss the theoretical and empirical knowledge base and data sources to understand the energy-environmental and climate problems. The class will then introduce the modeling tools and skills to analyze energy systems and enable evidence-based decision making. We’ll discuss the limitations of models and other emerging topics on global clean energy transition. This class encourage students to design research projects, use the modeling tools, interpret and present results."
   },
   {
     "objectID": "syllabus.html#learning-objectives",
@@ -2287,5 +2287,12 @@
     "title": "Lecture 15 Review and summary",
     "section": "Start with two quotes",
     "text": "Start with two quotes\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#interpreting-results",
+    "href": "lectures/lecture14/index.html#interpreting-results",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Interpreting results",
+    "text": "Interpreting results\n\nResults are outcomes of assumptions and models\n\nResults does not automatically translate to policies\n\nCommunicating the limitations and uncertainties"
   }
 ]
