@@ -183,8 +183,8 @@ Source: @peng2021climate, @peng2021surprisingly
 
 ## Modeling for insights
 
-- Model based on research questions  
-- Model elements, structure, relations  
+- Modeling based on research questions  
+- Modeling elements, structure, relations  
 - Do not over-interpret  
 - Do not misinterpret  
 - "All models are wrong, but some are **useful**". Avoid useless models.  
