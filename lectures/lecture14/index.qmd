@@ -220,6 +220,8 @@ Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)
 - Open results  
 - Open validation  
 
+In Open we Trust! 
+
 ::: footer
 Read more: [Wikipedia](https://en.wikipedia.org/wiki/Open_energy_system_models)
 :::
