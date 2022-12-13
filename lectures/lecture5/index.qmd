@@ -25,7 +25,7 @@ format:
 ## Sample analytic questions
 
 - How many solar/wind capacities are needed to meet global energy need?  
-- How many coal can be saved/emissions can be mitigated if China's average coal power efficiency increased by 1 percentage point?    
+- How much coal can be saved/emissions can be mitigated if China's average coal power efficiency increased by 1 percentage point?    
 - Why combined heat and power saves energy?  
 - How to design the layout of solar/wind farms to improve production?    
 

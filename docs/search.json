@@ -347,14 +347,14 @@
     "href": "lectures/lecture2/index.html#big-data-and-ai-era",
     "title": "Lecture 2 Make Sense of Energy Numbers",
     "section": "Big data and AI era",
-    "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessaries means big picture\nAI doesnot necessaries means better insights"
+    "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approches\n\nBig data doesnot necessarily mean big picture\nAI doesnot necessarily mean better insights"
   },
   {
     "objectID": "lectures/lecture5/index.html#sample-analytic-questions",
     "href": "lectures/lecture5/index.html#sample-analytic-questions",
     "title": "Lecture 5 Energy Sources and Technologies",
     "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nHow many solar/wind capacities are needed to meet global energy need?\n\nHow many coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?\n\nHow to design the layout of solar/wind farms to improve production?"
+    "text": "Sample analytic questions\n\nHow many solar/wind capacities are needed to meet global energy need?\n\nHow much coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?\n\nWhy combined heat and power saves energy?\n\nHow to design the layout of solar/wind farms to improve production?"
   },
   {
     "objectID": "lectures/lecture5/index.html#thermodynamics",
@@ -1698,7 +1698,7 @@
     "href": "lectures/lecture13/index.html#offshore-wind-turbine-inspection-using-drones-and-ai",
     "title": "Lecture 13 Big Data and AI for Clean Energy",
     "section": "Offshore wind turbine inspection using drones and AI",
-    "text": "Offshore wind turbine inspection using drones and AI\n\nA local example\n\n\n\n\nRead more: ULC Technologies, Photo: NASA"
+    "text": "Offshore wind turbine inspection using drones and AI\n\nA local example\n\n\n\n\nRead more: ULC Technologies"
   },
   {
     "objectID": "lectures/lecture13/index.html#ai-is-the-new-electricity",
@@ -1712,7 +1712,7 @@
     "href": "lectures/lecture13/index.html#milestones-in-ai",
     "title": "Lecture 13 Big Data and AI for Clean Energy",
     "section": "Milestones in AI",
-    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n\n\n\n\n\nRead more: Wikipedia"
+    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
   },
   {
     "objectID": "lectures/lecture13/index.html#aartifitial-intelligence-machine-learning-and-deep-learning",

@@ -210,9 +210,9 @@ Comparison, Validation, Verification
 - Big climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters
 - Data driven approches
 
-Big data doesnot necessaries means big picture   
+Big data doesnot necessarily mean big picture   
 
-AI doesnot necessaries means better insights
+AI doesnot necessarily mean better insights
 
 ---
 ### References

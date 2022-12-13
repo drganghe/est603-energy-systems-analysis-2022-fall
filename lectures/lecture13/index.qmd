@@ -39,7 +39,7 @@ A local example
 </center>
 
 ::: footer
-Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conference2018/conference/presentations/Passaretti_Mike_powerpoint.pdf), Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot)
+Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conference2018/conference/presentations/Passaretti_Mike_powerpoint.pdf) 
 :::
 
 
@@ -120,7 +120,7 @@ Perspective:
 :::
 
 ::: footer
-Read more: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 :::
 
 
