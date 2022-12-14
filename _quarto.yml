@@ -23,7 +23,7 @@ website:
         href: resources.qmd
   page-navigation: true
   page-footer: 
-    left: "Copyright &copy; 2022 [Gang He](http://drganghe.github.io). All rights reserved." 
+    left: "&copy; 2022 [Gang He](http://drganghe.github.io)" 
     right: 
       - icon: github
         href: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall

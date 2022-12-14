@@ -150,7 +150,7 @@ Source: @johnston2019switch
   - Cost of service vs. competitive regions\
 - Temporal: time of day, seasons, annual, decadal\
 - Time steps: Building new capacity, dispatch\
-- Tome horizon: near (2025), medium(2030), long (2050)\
+- Time horizon: near (2025), medium(2030), long (2050)\
 - Generating units: individual plants or model plants, representation of capital costs and other production costs\
 - T&D: pipeflow, transport, DC powerflow, aggregated\
 - Representation of renewables: RE technologies, availabilities, accessibility cost, variability\

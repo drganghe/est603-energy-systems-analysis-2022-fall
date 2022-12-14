@@ -1649,7 +1649,7 @@
     "href": "lectures/lecture9/index.html#key-questions-in-model-selection",
     "title": "Lecture 9 Power Sector Analysis",
     "section": "Key questions in model selection",
-    "text": "Key questions in model selection\n\nSpatial: \n\nGeographic: state, regional, national, international\n\nCost of service vs. competitive regions\n\n\nTemporal: time of day, seasons, annual, decadal\n\nTime steps: Building new capacity, dispatch\n\nTome horizon: near (2025), medium(2030), long (2050)\n\nGenerating units: individual plants or model plants, representation of capital costs and other production costs\n\nT&D: pipeflow, transport, DC powerflow, aggregated\n\nRepresentation of renewables: RE technologies, availabilities, accessibility cost, variability\n\nLink with economy wide model, environmental constraints"
+    "text": "Key questions in model selection\n\nSpatial: \n\nGeographic: state, regional, national, international\n\nCost of service vs. competitive regions\n\n\nTemporal: time of day, seasons, annual, decadal\n\nTime steps: Building new capacity, dispatch\n\nTime horizon: near (2025), medium(2030), long (2050)\n\nGenerating units: individual plants or model plants, representation of capital costs and other production costs\n\nT&D: pipeflow, transport, DC powerflow, aggregated\n\nRepresentation of renewables: RE technologies, availabilities, accessibility cost, variability\n\nLink with economy wide model, environmental constraints"
   },
   {
     "objectID": "lectures/lecture9/index.html#typical-output-capacitygeneration-mix",
