@@ -187,7 +187,7 @@ Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
 - Networks (transmission, transport)  
 - Objectives and constraints (if do optimization)  
 - Validation and calibration  
-- Intepretion and communication  
+- Intepretation and communication  
 
 ---
 ### References

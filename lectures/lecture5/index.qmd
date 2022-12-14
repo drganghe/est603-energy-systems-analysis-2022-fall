@@ -350,7 +350,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
   - gravity (hydro, tidal)  
   - atomic (nuclear)    
 - Practice - learn all kinds of corrections based on real-world situation  
-- The physics doesn't change, corrections help us to do better job in simulation and projections  
+- The physics doesn't change, corrections help us to do better jobs in simulation and projections  
 
 
 

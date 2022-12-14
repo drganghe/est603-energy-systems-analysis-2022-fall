@@ -40,7 +40,9 @@ website:
   #  creator: "@DrGangHe"
   #  image: "/lectures/lecture2/images/boe-equations.png"
   site-url: "https://drganghe.github.io/est603-energy-systems-analysis-2022-fall"
-
+  google-analytics:
+    tracking-id: "G-X3EWB1872J"
+    anonymize-ip: true
 
 bibliography: readings.bib
 

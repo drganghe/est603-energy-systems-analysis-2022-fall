@@ -208,7 +208,7 @@ Source: @craig2022overcoming
 ## Summary
 
 -   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
+-   Understanding the evolution of climate policy instruments\
 -   Learn the applicatons and limitations of social cost of carbon\
 -   Climate change affects energy supply and demand
 

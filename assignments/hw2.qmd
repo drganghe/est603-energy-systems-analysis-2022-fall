@@ -33,24 +33,24 @@ Mr. XYZ lives in Stony Brook, and installed a rooftop solar system in July 2021.
 
 ### Questions
 
-1. Learn to use [PVWatts](https://pvwatts.nrel.gov/index.php) to simulate the monthly and annual generation of a distributed PV system. Please use the below sysetm information:
+1. Learn to use [PVWatts](https://pvwatts.nrel.gov/index.php) to simulate the monthly and annual generation of a distributed PV system. Please use the below system information:
 Location: 11794  
 DC Systems Size(kW): 6.4  
-All other parameters use defalt numbers  
+All other parameters use defalt settings  
 Please compare your simulated monthly results with actual system daily generation [data](/homeworks/data/solar-daily-generation.xlsx) over a year, compare the monthly generation and annual generation and show the margin of error in each month and annual sum (**1pt**). Discuss the risks/uncertainties to use simulation results to make purchase desision (**1pt**)?  
 
 2. Calculate the simple payback time (in years, no discounting) of the solar system assuming the following (**0.5pt**):  
 System costs (including panel and installation): $14,000  
 State tax rebate: 25% (with a maximam of $5,000) of system costs   
-Fed tax credit: 26% of system costs   
+Federal tax credit: 26% of system costs   
 Household average monthly electricity payment before installation: $140  
 Household monthly PV system connection fee (cost): $15  
-What's payback time without the State and Fed tax credit (**0.5pt**)?  
+What's the payback time without the State and Federal tax credit (**0.5pt**)?  
 
 3. Now taking into acount of discounting:  
-Annual discounting rate: 5%  
-Mr. XYZ got bank loan to pay half of the systems costs: Annual Percentage Rate (4%). Monthly payment for two years.  
-Mr. XYZ would received the tax credit in April during the tax filing month the following year   
+Annual discount rate: 5%  
+Mr. XYZ got bank loan to pay half of the system costs: Annual Percentage Rate (4%). Monthly payment for two years.  
+Mr. XYZ would received the tax credit in April during the tax filing month the following year.   
 Use July 2021 as the baseline month.  
 What's the payback time (in months) (**1pt**)?  
 
@@ -83,30 +83,30 @@ Learn to use NREL's System Advisory Model (SAM) to do more nuanced simulations.
 
 ### Background  
 
-Please read the story of the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant). One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction cost, while the other is offered to extend operation in the midist of California's clean energy quest.
+Please read the story of the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant). One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction costs, while the other is offered to extend operation in the midist of California's clean energy quest.
 
 
 ### Questions
 
-1. How long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions has drastic consequences)  (**1pt**)
+1. How long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions have drastic consequences)  (**1pt**)
 
 Key assumptions: LILCO attaches a **3 percent** surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately **$6 billion** price tag in 1989.   
 Residential rates in 2020: **21.22 cents/kWh**   
 Total electricity consumption in 2020: **20 TWh**   
-Distount rate: **4%**   
-Assuming the real value of total annual surchage stay the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surchages.   
+Discount rate: **4%**   
+Assuming the real value of total annual surcharge stays the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surcharges.   
 
-2. Diablo Canyon generated nearly 9 percent of Cailifornia's electricity last year and roughly 15 percent of the state's clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What's the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)?  (**1pt**)
+2. Diablo Canyon generated nearly 9 percent of Cailifornia's electricity last year and roughly 15 percent of the State's clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What's the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)?  (**1pt**)
 
 Key assumptions: **1.4** billion forgivable loans   
 Nameplate capacity: **2,256 MW**   
 Capacity factor: **80%**   
-Distount rate: **4%**   
+Discount rate: **4%**   
 
 
 ### Further readings
 
-Get to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investmetn decisions.
+Get to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.
 
 New York Times, June 19, 1983. [How Long Island Will Pay For Shoreham](https://www.nytimes.com/1983/06/19/nyregion/how-li-will-pay-for-shoreham.html)  
 

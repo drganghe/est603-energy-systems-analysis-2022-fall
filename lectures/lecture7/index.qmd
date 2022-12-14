@@ -190,10 +190,10 @@ Source: [American Society of Civil Engineers](https://www.asce.org/publications-
 
 ## Summary
 
--   Environmental and health impact are the external impacts of energy system\
+-   Environmental and health impacts are the externalities of energy systems\
 -   Energy-air-pollution-human health framework of analysis\
 -   Energy-water-carbon nexus\
--   System impacts shows the constraint in systems modeling
+-   System impacts show the constraint in systems modeling
 
 ---
 

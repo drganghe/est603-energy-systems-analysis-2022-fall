@@ -62,13 +62,9 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ::: {.column width="50%"}
 -   Tools/skills
-
     -   Data analysis
-
     -   Economic analysis
-
     -   Life cycle analysis
-
     -   Energy-economy-environment (nexus)
 :::
 :::
@@ -79,7 +75,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 - Networks (transmission, transport)  
 - Objectives and constraints (if do optimization)  
 - Validation and calibration  
-- Intepretion and communication  
+- Intepretation and communication  
 
 
 ## Data quality
@@ -120,16 +116,16 @@ Comparison, Validation, Verification
 
 ## Energy, environment, and human health
 
--   Environmental and health impact are the external impacts of energy system\
+-   Environmental and health impacts are the externalities of energy systems\
 -   Energy-air-pollution-human health framework of analysis\
 -   Energy-water-carbon nexus\
--   System impacts shows the constraint in systems modeling
+-   System impacts show the constraint in systems modeling
 
 ## Energy and climate change
 
 -   IAM framework and models to analyze energy, emissions, and climate impacts\
--   Understanding the evolution of climate policy instuments\
--   Learn the applicatons and limitations of social cost of carbon\
+-   Understanding the evolution of climate policy instruments\
+-   Learn the applications and limitations of social cost of carbon\
 -   Climate change affects energy supply and demand
 
 
@@ -176,8 +172,8 @@ Comparison, Validation, Verification
 
 -   Know the limitation of models\
 -   Use model appropriately\
--   Inteprate/communicate the results carefully\
--   Models for social good  
+-   Interpret/communicate the results effectively\
+-   Modeling for social good  
 
 
 ## End with two quotes {.smaller}
