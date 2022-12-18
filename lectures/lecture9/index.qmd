@@ -135,7 +135,7 @@ Source: @johnston2019switch
 :::
 
 
-## SWITCH Model as example
+## SWITCH Model as an example
 
 ![](images/switch-model.jpg){fig-align="center"}
 

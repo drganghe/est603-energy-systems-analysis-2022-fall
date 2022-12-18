@@ -1,5 +1,5 @@
 ---
-title: "Lecture 15 Review and summary"
+title: "Lecture 15 Review and Summary"
 author: "Gang He"
 date: December 5, 2022
 date-format: long
