@@ -620,7 +620,7 @@
     "href": "lectures/lecture11/index.html#summary",
     "title": "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Summary",
-    "text": "Summary\n\nThere are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
+    "text": "Summary\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
   },
   {
     "objectID": "lectures/lecture10/index.html#sample-analytic-questions",
@@ -1418,7 +1418,7 @@
     "href": "lectures/lecture12/index.html#summary",
     "title": "Lecture 12 Energy Poverty, Access, and Justice",
     "section": "Summary",
-    "text": "Summary\n\nElectricity/energy access is foundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approach to energy justice"
+    "text": "Summary\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice"
   },
   {
     "objectID": "lectures/lecture8/index.html#sample-analytic-questions",
@@ -2111,14 +2111,14 @@
     "href": "lectures/lecture15/index.html#energy-efficiency",
     "title": "Lecture 15 Review and Summary",
     "section": "Energy efficiency",
-    "text": "Energy efficiency\n\nThere are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
+    "text": "Energy efficiency\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
   },
   {
     "objectID": "lectures/lecture15/index.html#energy-poverty-access-and-justice",
     "href": "lectures/lecture15/index.html#energy-poverty-access-and-justice",
     "title": "Lecture 15 Review and Summary",
     "section": "Energy poverty, access, and justice",
-    "text": "Energy poverty, access, and justice\n\nElectricity/energy access is foundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approach to energy justice"
+    "text": "Energy poverty, access, and justice\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice"
   },
   {
     "objectID": "lectures/lecture15/index.html#ai-and-big-data-for-clean-energy",
@@ -2132,7 +2132,7 @@
     "href": "lectures/lecture15/index.html#limitations-of-models",
     "title": "Lecture 15 Review and Summary",
     "section": "Limitations of models",
-    "text": "Limitations of models\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModeling for social good"
+    "text": "Limitations of models\n\nKnow the limitations of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModeling for social good"
   },
   {
     "objectID": "lectures/lecture15/index.html#end-with-two-quotes",
@@ -2301,5 +2301,12 @@
     "title": "Lecture 9 Power Sector Analysis",
     "section": "SWITCH Model as an example",
     "text": "SWITCH Model as an example\n\n\nSource: Johnston et al. (2019)"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#what-we-have-learned",
+    "href": "lectures/lecture15/index.html#what-we-have-learned",
+    "title": "Lecture 15 Review and Summary",
+    "section": "What we have learned",
+    "text": "What we have learned\n\n\n\nEnergy systems\n\nData\nEconomics\nTechnology\nSupply\nDemand\nPower\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nLife cycle analysis\nEnergy-economy-environment (nexus)"
   }
 ]

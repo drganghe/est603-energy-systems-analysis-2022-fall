@@ -47,7 +47,7 @@ Albert Einstein:
 Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
 
-## What we have learn
+## What we have learned
 
 ::: columns
 ::: {.column width="50%"}
@@ -147,7 +147,7 @@ Comparison, Validation, Verification
 
 ## Energy efficiency
 
--   There are barriers for energy efficiency and that where inforamtion and standards can help address the energy efficiency gap\
+-   There are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\
 -   Human behavior is complicated, and understanding it will help us to design policy\
 -   Rebound is real but might be overplayed, rebound could be good if improve welfare\
 -   Sustainable consumption and production within the limit
@@ -155,10 +155,10 @@ Comparison, Validation, Verification
 
 ## Energy poverty, access, and justice
 
--   Electricity/energy access is foundamental to other modern services: education, health, and information\
+-   Electricity/energy access is fundamental to other modern services: education, health, and information\
 -   Energy access also has gender equity, health cobenefits, and other implications\
 -   Energy justice is important to achieve just transition\
--   An reflection on our approach to energy justice
+-   An reflection on our approaches to energy justice
 
 
 ## AI and big data for clean energy
@@ -170,7 +170,7 @@ Comparison, Validation, Verification
 
 ## Limitations of models
 
--   Know the limitation of models\
+-   Know the limitations of models\
 -   Use model appropriately\
 -   Interpret/communicate the results effectively\
 -   Modeling for social good  
