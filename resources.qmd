@@ -9,13 +9,13 @@ title: Resources
 
 ## Modeler’s community
 
+[Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
+
 [Macro-Energy Systems](https://www.macroenergysystems.org/)
 
 National Center for Atmospheric Research, [Community Earth System Model](https://www.cesm.ucar.edu/)
 
-[Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
-
-Stanford University, [Energy Model Forum](https://emf.stanford.edu/)
+Stanford University, [Energy Modeling Forum](https://emf.stanford.edu/)
 
 Stockholm Environment Institute, [Community of Energy, Environment, and Development](https://leap.sei.org/)
 

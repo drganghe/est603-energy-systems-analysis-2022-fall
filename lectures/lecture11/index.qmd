@@ -232,5 +232,5 @@ Read more: [UN](https://www.un.org/sustainabledevelopment/wp-content/uploads/202
 :::
 
 ::: footer
-Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture11/#/title-slide), All [Lectures](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html), Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall), or Learn More About [Gang He](https://drganghe.github.io)
 :::

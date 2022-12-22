@@ -260,5 +260,5 @@ Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energ
 :::
 
 ::: footer
-Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture10/#/title-slide), All [Lectures](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html), Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall), or Learn More About [Gang He](https://drganghe.github.io)
 :::

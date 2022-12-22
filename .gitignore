@@ -1,4 +1,5 @@
 /.quarto/
+/_extensions/
 
 #R Temporal Files
 ~$*.Rhistory*
@@ -21,3 +22,4 @@ Backup of *.doc*
 ~$*.ppt*
 # Visio autosave temporary files
 *.~vsd*
+/.luarc.json

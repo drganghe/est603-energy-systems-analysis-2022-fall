@@ -82,10 +82,10 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 ## Matching supply and demand
 
 It operates like "magic"   
-But relys on massive infrastructure, markets, and regulations   
+But relies on massive infrastructure, markets, and regulations   
 
 - Deliver service at the right time, location, and price  
-- Meet safety, reliability, and environmental standard  
+- Meet safety, reliability, and environmental standards  
 - Increasingly disrupted by political economy and climate change  
 
 Solution is usually location and temporal based  
@@ -187,7 +187,7 @@ Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
 - Networks (transmission, transport)  
 - Objectives and constraints (if do optimization)  
 - Validation and calibration  
-- Intepretation and communication  
+- Interpretation and communication  
 
 ---
 ### References
@@ -196,5 +196,5 @@ Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
 :::
 
 ::: footer
-Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture3/#/title-slide), All [Lectures](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html), Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall), or Learn More About [Gang He](https://drganghe.github.io)
 :::

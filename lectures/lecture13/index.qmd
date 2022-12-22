@@ -301,5 +301,5 @@ Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE E
 :::
 
 ::: footer
-Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture13/#/title-slide), All [Lectures](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html), Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall), or Learn More About [Gang He](https://drganghe.github.io)
 :::

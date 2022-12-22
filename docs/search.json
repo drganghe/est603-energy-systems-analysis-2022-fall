@@ -144,7 +144,7 @@
     "href": "index.html#how-to-help",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
     "section": "How to help",
-    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. Any comments and suggestions are very welcome."
+    "text": "How to help\nIf you find any issue, please use the “Report an issue” on the right side of a specific page. Any comments and suggestions are very welcome. If you like this work, you can help more people to access the open-source course by spreading the word."
   },
   {
     "objectID": "lectures.html",
@@ -221,7 +221,7 @@
     "href": "lectures/lecture2/index.html#section",
     "title": "Lecture 2 Make Sense of Energy Numbers",
     "section": "",
-    "text": "Photo by Gang He"
+    "text": "Photo by Gang He on the train to UNFCCC CoP15 conference, Dec 6, 2009."
   },
   {
     "objectID": "lectures/lecture2/index.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
@@ -949,7 +949,7 @@
     "href": "lectures/lecture3/index.html#matching-supply-and-demand",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "Matching supply and demand",
-    "text": "Matching supply and demand\nIt operates like “magic”\nBut relys on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standard\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
+    "text": "Matching supply and demand\nIt operates like “magic”\nBut relies on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standards\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
   },
   {
     "objectID": "lectures/lecture3/index.html#electrify-eveything-where-are-we-now",
@@ -1026,7 +1026,7 @@
     "href": "lectures/lecture3/index.html#how-modelers-think-about-an-energy-system",
     "title": "Lecture 3 Energy Systems Overview",
     "section": "How modelers think about an energy system",
-    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretation and communication"
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nInterpretation and communication"
   },
   {
     "objectID": "lectures/lecture6/index.html#sample-analytic-questions",
@@ -1992,7 +1992,7 @@
     "href": "resources.html#modelers-community",
     "title": "Resources",
     "section": "Modeler’s community",
-    "text": "Modeler’s community\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nIntegrated Assessment Modeling Consortium\nStanford University, Energy Model Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData\n\nClimate Change AI"
+    "text": "Modeler’s community\nIntegrated Assessment Modeling Consortium\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nStanford University, Energy Modeling Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData\n\nClimate Change AI"
   },
   {
     "objectID": "resources.html#models-we-discuss-in-the-class",

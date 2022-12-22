@@ -24,7 +24,7 @@ format:
 ## {background-color="black" background-image="./images/one-ton-co2.jpg"}
 
 ::: footer
-Photo by Gang He
+Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
 :::
 
 
@@ -221,5 +221,5 @@ AI doesnot necessarily mean better insights
 :::
 
 ::: footer
-Back to Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/), or Learn More about [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture2/#/title-slide), All [Lectures](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html), Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall), or Learn More About [Gang He](https://drganghe.github.io)
 :::
