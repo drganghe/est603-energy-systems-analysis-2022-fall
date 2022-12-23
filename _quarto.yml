@@ -3,13 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "EST603 Energy Systems Analysis"
+  title: "Energy Systems Analysis"
   description: "An open course on energy systems analysis developed by Dr. Gang He, covering topics including: energy systems overview; make sense of energy numbers; energy project economics; energy sources and technologies; energy demand; energy, environment, and human health; energy and climate change; power system analysis; energy transition; energy efficiency; behavior, and sustainable consumption; energy poverty, access, and justice; big data and AI for clean energy; limitations of models; and other emerging topics for the energy systems; and real world energy assignments. Other key words: energy system analysis, energy course, energy class, open course."
   navbar:
     background: light
-    right:
-      - text: Dr. Gang He
-        href: http://drganghe.github.io
+    left:
       - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
@@ -22,6 +20,11 @@ website:
         href: project.qmd
       - text: Resources
         href: resources.qmd
+      - text: Dr. Gang He
+        href: http://drganghe.github.io        
+    right: 
+      - icon: github
+        href: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall
   page-navigation: true
   page-footer: 
     left: "&copy; 2022 [Gang He](http://drganghe.github.io)" 

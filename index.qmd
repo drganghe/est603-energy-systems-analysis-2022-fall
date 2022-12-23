@@ -54,9 +54,24 @@ Please feel free to reuse any material that you find helpful. Copyrights belong 
 
 If you find any issue, please use the "Report an issue" on the right side of a specific page. Any comments and suggestions are very welcome. If you like this work, you can help more people to access the open-source course by spreading the word. 
 
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_mastodon"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_email"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+<!--
 <ul class="share-buttons">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdrganghe.github.io%2Fest603-energy-systems-analysis-2022-fall%2Flectures.html&quote=Sharing%20Dr.%20Gang%20He's%20open%20course%20on%20Energy%20Systems%20Analysis" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="https://drganghe.github.io/files/images/social/color/Facebook.png" /></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fdrganghe.github.io%2Fest603-energy-systems-analysis-2022-fall%2Flectures.html&text=Sharing%20Dr.%20Gang%20He's%20open%20course%20on%20Energy%20Systems%20Analysis:%20https%3A%2F%2Fdrganghe.github.io%2Fest603-energy-systems-analysis-2022-fall%2Flectures.html&via=DrGangHe" target="_blank" title="Tweet"><img alt="Tweet" src="https://drganghe.github.io/files/images/social/color/Twitter.png" /></a></li>
   <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdrganghe.github.io%2Fest603-energy-systems-analysis-2022-fall%2Flectures.html&title=Sharing%20Dr.%20Gang%20He's%20open%20course%20on%20Energy%20Systems%20Analysis&summary=Sharing%20Dr.%20Gang%20He's%20open%20course%20on%20Energy%20Systems%20Analysis&source=https%3A%2F%2Fdrganghe.github.io%2Fest603-energy-systems-analysis-2022-fall%2Flectures.html" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://drganghe.github.io/files/images/social/color/LinkedIn.png" /></a></li>
   <li><a href="mailto:?subject=Sharing%20Dr.%20Gang%20He's%20open%20course%20on%20Energy%20Systems%20Analysis&body=Sharing%20Dr.%20Gang%20He's%20open%20course%20on%20Energy%20Systems%20Analysis:%20https%3A%2F%2Fdrganghe.github.io%2Fest603-energy-systems-analysis-2022-fall%2Flectures.html" target="_blank" title="Send email"><img alt="Send email" src="https://drganghe.github.io/files/images/social/color/Email.png" /></a></li>
 </ul>
+-->
