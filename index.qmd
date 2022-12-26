@@ -6,11 +6,15 @@ toc: false
 css: /custom.css
 ---
 
+<!--
 **Department**: [Department of Technology and Society](https://www.stonybrook.edu/est/) @ [Stony Brook University](https://www.stonybrook.edu/)
+
 
 **Instructor**: Gang He
 
 **Credits**: 3
+
+-->
 
 ## Description
 

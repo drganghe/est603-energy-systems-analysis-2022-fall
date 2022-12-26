@@ -109,14 +109,7 @@
     "href": "index.html",
     "title": "EST603 Energy Systems Analysis (Fall 2022)",
     "section": "",
-    "text": "Department: Department of Technology and Society @ Stony Brook University\nInstructor: Gang He\nCredits: 3"
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "EST603 Energy Systems Analysis (Fall 2022)",
-    "section": "Description",
-    "text": "Description\nThis class offers a systems approach and introduces useful modeling tools and skillsets to capture and reveal the grand challenges and opportunites of energy systems. The scope of this class includes energy systems overview, make sense of energy numbers, energy project economics, energy sources and technologies, energy demand, energy, environment, and human health, energy and climate change, power system analysis, energy transition, energy efficiency, behavior, and sustainable consumption, energy poverty, access, and justice, big data and AI for clean energy, limitations of models, and other emerging topics for the energy systems to achieve carbon neutrality. This class encourage students to design research projects, using the modeling tools, and presenting results."
+    "text": "This class offers a systems approach and introduces useful modeling tools and skillsets to capture and reveal the grand challenges and opportunites of energy systems. The scope of this class includes energy systems overview, make sense of energy numbers, energy project economics, energy sources and technologies, energy demand, energy, environment, and human health, energy and climate change, power system analysis, energy transition, energy efficiency, behavior, and sustainable consumption, energy poverty, access, and justice, big data and AI for clean energy, limitations of models, and other emerging topics for the energy systems to achieve carbon neutrality. This class encourage students to design research projects, using the modeling tools, and presenting results."
   },
   {
     "objectID": "index.html#learning-objectives",
@@ -1554,6 +1547,258 @@
     "text": "Summary\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instruments\n\nLearn the applicatons and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
   },
   {
+    "objectID": "lectures/lecture15/index.html#start-with-two-quotes",
+    "href": "lectures/lecture15/index.html#start-with-two-quotes",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Start with two quotes",
+    "text": "Start with two quotes\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-systems",
+    "href": "lectures/lecture15/index.html#energy-systems",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#what-we-have-learned",
+    "href": "lectures/lecture15/index.html#what-we-have-learned",
+    "title": "Lecture 15 Review and Summary",
+    "section": "What we have learned",
+    "text": "What we have learned\n\n\n\nEnergy systems\n\nData\nEconomics\nTechnology\nSupply\nDemand\nPower\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nLife cycle analysis\nEnergy-economy-environment (nexus)"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#how-modelers-think-about-an-energy-system",
+    "href": "lectures/lecture15/index.html#how-modelers-think-about-an-energy-system",
+    "title": "Lecture 15 Review and Summary",
+    "section": "How modelers think about an energy system",
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretation and communication"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#data-quality",
+    "href": "lectures/lecture15/index.html#data-quality",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Data quality",
+    "text": "Data quality\n\nAvailability\n\nAccessibility\n\nCredibility\n\nComparison, Validation, Verification"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#project-economics",
+    "href": "lectures/lecture15/index.html#project-economics",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Project economics",
+    "text": "Project economics\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-sources-and-technologies",
+    "href": "lectures/lecture15/index.html#energy-sources-and-technologies",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy sources and technologies",
+    "text": "Energy sources and technologies\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better job in simulation and projections"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-demand",
+    "href": "lectures/lecture15/index.html#energy-demand",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy demand",
+    "text": "Energy demand\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and shape of our demand\n\nLoad forecast integrates all insights to the show"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-environment-and-human-health",
+    "href": "lectures/lecture15/index.html#energy-environment-and-human-health",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy, environment, and human health",
+    "text": "Energy, environment, and human health\n\nEnvironmental and health impacts are the externalities of energy systems\n\nEnergy-air-pollution-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts show the constraint in systems modeling"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-and-climate-change",
+    "href": "lectures/lecture15/index.html#energy-and-climate-change",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy and climate change",
+    "text": "Energy and climate change\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instruments\n\nLearn the applications and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#power-sector-analysis",
+    "href": "lectures/lecture15/index.html#power-sector-analysis",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Power sector analysis",
+    "text": "Power sector analysis\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-transition",
+    "href": "lectures/lecture15/index.html#energy-transition",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy transition",
+    "text": "Energy transition\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-efficiency",
+    "href": "lectures/lecture15/index.html#energy-efficiency",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#energy-poverty-access-and-justice",
+    "href": "lectures/lecture15/index.html#energy-poverty-access-and-justice",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Energy poverty, access, and justice",
+    "text": "Energy poverty, access, and justice\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#ai-and-big-data-for-clean-energy",
+    "href": "lectures/lecture15/index.html#ai-and-big-data-for-clean-energy",
+    "title": "Lecture 15 Review and Summary",
+    "section": "AI and big data for clean energy",
+    "text": "AI and big data for clean energy\n\nAI and big data has transformed how we live, and how can we save the planet\n\nAI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\n\nLearning those new tools and skills becomes necessary to work in the field\n\nThe potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous."
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#limitations-of-models",
+    "href": "lectures/lecture15/index.html#limitations-of-models",
+    "title": "Lecture 15 Review and Summary",
+    "section": "Limitations of models",
+    "text": "Limitations of models\n\nKnow the limitations of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModeling for social good"
+  },
+  {
+    "objectID": "lectures/lecture15/index.html#end-with-two-quotes",
+    "href": "lectures/lecture15/index.html#end-with-two-quotes",
+    "title": "Lecture 15 Review and Summary",
+    "section": "End with two quotes",
+    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\n\nSource: Hogan (2002), Huntington, Weyant, and Sweeney (1982)"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#sample-analytic-questions",
+    "href": "lectures/lecture14/index.html#sample-analytic-questions",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nHow do I know if I should trust a model and its results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve IAMs?\n\nHow to interpret modeling results to communicate effectively?\n\nWhere to use model? How to build your model? What to say about your model?"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#projections-went-off",
+    "href": "lectures/lecture14/index.html#projections-went-off",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Projections went off",
+    "text": "Projections went off\n\n\nSource: Craig, Gadgil, and Koomey (2002)"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#iea-underestimates-solar-and-wind",
+    "href": "lectures/lecture14/index.html#iea-underestimates-solar-and-wind",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "IEA underestimates solar and wind",
+    "text": "IEA underestimates solar and wind\n\n\nSource: Ecofys"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#science-models-are-in-better-positions",
+    "href": "lectures/lecture14/index.html#science-models-are-in-better-positions",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Science models are in better positions",
+    "text": "Science models are in better positions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Inside Climate News, Hausfather et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#conditions-for-model-robustness",
+    "href": "lectures/lecture14/index.html#conditions-for-model-robustness",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Conditions for model robustness",
+    "text": "Conditions for model robustness\nModels can be accurate when they describe systems that\n\nare observable and measurable\n\nexhibit constancy of structure over time\n\nexhibit constancy across variations in conditions not specified in the model\n\npermit the collection of ample data\n\n\nRead more: Hodges, Dewar, et al. (1992)"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#social-economic-structural-changes",
+    "href": "lectures/lecture14/index.html#social-economic-structural-changes",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Social economic structural changes",
+    "text": "Social economic structural changes\n\nCore data and assumptions, which drive results, are based on historical experiences, which can be off if structural conditions change\n\nThe exact timing and character of pivotal events and technology changes is unpredictable\n\n\nRead more: Turning Numbers into Knowledge"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#changing-landsacpe-of-new-power-generation-capacities",
+    "href": "lectures/lecture14/index.html#changing-landsacpe-of-new-power-generation-capacities",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Changing landsacpe of new power generation capacities",
+    "text": "Changing landsacpe of new power generation capacities\n\nShale gas revolution\n\n\n\nSource: Head Waters Economics"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#renewable-costs",
+    "href": "lectures/lecture14/index.html#renewable-costs",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Renewable costs",
+    "text": "Renewable costs\n\n\nSource: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#mission-impossible",
+    "href": "lectures/lecture14/index.html#mission-impossible",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Mission impossible",
+    "text": "Mission impossible\n\nPredict the unpredictable\n\nPrice the priceless"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#better-modeling-uncertainties",
+    "href": "lectures/lecture14/index.html#better-modeling-uncertainties",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Better modeling uncertainties",
+    "text": "Better modeling uncertainties\n\nDefine an endpoint of analysis\n\nList all uncertain parameters\n\nSpecify maximum range of values\n\nSpecify subjective probability distribution for values within the range\n\nDetermin and account for correlations\n\nProbability distribution of model predictions\n\nDerive quantitative uncertainties\nObtain additional data and repeat analysis if needed\n\n\nRead more: IAEA"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#incoporating-political-economy",
+    "href": "lectures/lecture14/index.html#incoporating-political-economy",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Incoporating political economy",
+    "text": "Incoporating political economy\n\n\n\nExamples\n\nRisk averse investors\n\nSubsidies or taxes\n\nCarbon lock-in\n\nUnequal costs and benefits of climate polices accrue to different groups\n\nPublic opinion\n\nConfidence in political institutions\n\nTrade and investments\n\nCompetence of goverment\n\n\n\n\n\n\n\n\n\n\n\nSource: Peng, Iyer, Bosetti, et al. (2021), Peng, Iyer, Binsted, et al. (2021)"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#why-a-model-in-the-first-place",
+    "href": "lectures/lecture14/index.html#why-a-model-in-the-first-place",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Why a model in the first place",
+    "text": "Why a model in the first place\n\nDescription\n\nExplanation\n\nExperimentation\n\nProviding sources of analogy\n\nCommunication/Education\n\nProviding focal objects or centerpiece for scientific dialogue\n\nThought experiment\n\nProjection"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#modeling-for-insights",
+    "href": "lectures/lecture14/index.html#modeling-for-insights",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Modeling for insights",
+    "text": "Modeling for insights\n\nModeling based on research questions\n\nModeling elements, structure, relations\n\nDo not over-interpret\n\nDo not misinterpret\n\n“All models are wrong, but some are useful”. Avoid useless models."
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#focusing-on-structures-and-relations",
+    "href": "lectures/lecture14/index.html#focusing-on-structures-and-relations",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Focusing on structures and relations",
+    "text": "Focusing on structures and relations\n\n\nSource: Climate Interactive"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#knowing-limitations",
+    "href": "lectures/lecture14/index.html#knowing-limitations",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Knowing limitations",
+    "text": "Knowing limitations\n\nKnown unknowns\n\nUnknown unknowns\n\n“Garbage in, garbage out”"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#interpreting-results",
+    "href": "lectures/lecture14/index.html#interpreting-results",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Interpreting results",
+    "text": "Interpreting results\n\nResults are outcomes of assumptions and models\n\nResults does not automatically translate to policies\n\nCommunicating the limitations and uncertainties"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#open-source",
+    "href": "lectures/lecture14/index.html#open-source",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Open source",
+    "text": "Open source\n\nOpen model (code)\n\nOpen data\n\nOpen results\n\nOpen validation\n\nIn Open we Trust!\n\nRead more: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#ensure-model-for-society",
+    "href": "lectures/lecture14/index.html#ensure-model-for-society",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Ensure model for society",
+    "text": "Ensure model for society\n\nMind the assumptions\n\nMind the hubris\n\nMind the framing\n\nMind the consequences\n\nMind the unknowns\n\nQuestions not answers\n\n\nRead more: Saltelli et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture14/index.html#summary",
+    "href": "lectures/lecture14/index.html#summary",
+    "title": "Lecture 14 Limitations of Models",
+    "section": "Summary",
+    "text": "Summary\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModels for social good"
+  },
+  {
     "objectID": "lectures/lecture9/index.html#sample-analytic-questions",
     "href": "lectures/lecture9/index.html#sample-analytic-questions",
     "title": "Lecture 9 Power Sector Analysis",
@@ -1638,11 +1883,11 @@
     "text": "Model comparison\n\n\nSource: Johnston et al. (2019)"
   },
   {
-    "objectID": "lectures/lecture9/index.html#switch-model-as-example",
-    "href": "lectures/lecture9/index.html#switch-model-as-example",
+    "objectID": "lectures/lecture9/index.html#switch-model-as-an-example",
+    "href": "lectures/lecture9/index.html#switch-model-as-an-example",
     "title": "Lecture 9 Power Sector Analysis",
-    "section": "SWITCH Model as example",
-    "text": "SWITCH Model as example\n\n\nSource: Johnston et al. (2019)"
+    "section": "SWITCH Model as an example",
+    "text": "SWITCH Model as an example\n\n\nSource: Johnston et al. (2019)"
   },
   {
     "objectID": "lectures/lecture9/index.html#key-questions-in-model-selection",
@@ -2030,283 +2275,10 @@
     "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/22\nIntroduction\nHW0\n\n\n2\n8/29\nMake sense of energy numbers\nHW1 assigned\n\n\n3\n9/5\nEnergy systems overview\n\n\n\n4\n9/12\nEconomics for energy systems analysis\nHW1 due  HW2 assigned\n\n\n5\n9/19\nEnergy sources\n\n\n\n6\n9/26\nEnergy demand\nHW2 due\n\n\n7\n10/3\nEnergy, environment, and health\nHW3 assigned\n\n\n8\n10/10\nFall Break – No class in session\n\n\n\n9\n10/17\nEnergy and climate change\n\n\n\n10\n10/24\nPower sector analysis\nHW3 due\n\n\n11\n10/31\nEnergy transition\nProposal due\n\n\n12\n11/7\nEnergy efficiency, behavior, and sustainable consumption\nHW4 assigned\n\n\n13\n11/14\nEnergy poverty, access, and justice\n\n\n\n14\n11/21\nBig data and AI for clean energy\nHW4 due\n\n\n15\n11/28\nLimitations of models\n\n\n\n16\n12/5\nReview and summary\nPresentation due\n\n\n17\n12/12\nNo class – preparing final project\nPaper due"
   },
   {
-    "objectID": "lectures/lecture15/index.html#energy-systems",
-    "href": "lectures/lecture15/index.html#energy-systems",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy systems",
-    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#what-we-have-learn",
-    "href": "lectures/lecture15/index.html#what-we-have-learn",
-    "title": "Lecture 15 Review and Summary",
-    "section": "What we have learn",
-    "text": "What we have learn\n\n\n\nEnergy systems\n\nData\nEconomics\nTechnology\nSupply\nDemand\nPower\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nLife cycle analysis\nEnergy-economy-environment (nexus)"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#how-modelers-think-about-an-energy-system",
-    "href": "lectures/lecture15/index.html#how-modelers-think-about-an-energy-system",
-    "title": "Lecture 15 Review and Summary",
-    "section": "How modelers think about an energy system",
-    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nIntepretation and communication"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#data-quality",
-    "href": "lectures/lecture15/index.html#data-quality",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Data quality",
-    "text": "Data quality\n\nAvailability\n\nAccessibility\n\nCredibility\n\nComparison, Validation, Verification"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#project-economics",
-    "href": "lectures/lecture15/index.html#project-economics",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Project economics",
-    "text": "Project economics\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-sources-and-technologies",
-    "href": "lectures/lecture15/index.html#energy-sources-and-technologies",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy sources and technologies",
-    "text": "Energy sources and technologies\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better job in simulation and projections"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-demand",
-    "href": "lectures/lecture15/index.html#energy-demand",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy demand",
-    "text": "Energy demand\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and shape of our demand\n\nLoad forecast integrates all insights to the show"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-environment-and-human-health",
-    "href": "lectures/lecture15/index.html#energy-environment-and-human-health",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy, environment, and human health",
-    "text": "Energy, environment, and human health\n\nEnvironmental and health impacts are the externalities of energy systems\n\nEnergy-air-pollution-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts show the constraint in systems modeling"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-and-climate-change",
-    "href": "lectures/lecture15/index.html#energy-and-climate-change",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy and climate change",
-    "text": "Energy and climate change\n\nIAM framework and models to analyze energy, emissions, and climate impacts\n\nUnderstanding the evolution of climate policy instruments\n\nLearn the applications and limitations of social cost of carbon\n\nClimate change affects energy supply and demand"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#power-sector-analysis",
-    "href": "lectures/lecture15/index.html#power-sector-analysis",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Power sector analysis",
-    "text": "Power sector analysis\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-transition",
-    "href": "lectures/lecture15/index.html#energy-transition",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy transition",
-    "text": "Energy transition\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-efficiency",
-    "href": "lectures/lecture15/index.html#energy-efficiency",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy efficiency",
-    "text": "Energy efficiency\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#energy-poverty-access-and-justice",
-    "href": "lectures/lecture15/index.html#energy-poverty-access-and-justice",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Energy poverty, access, and justice",
-    "text": "Energy poverty, access, and justice\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#ai-and-big-data-for-clean-energy",
-    "href": "lectures/lecture15/index.html#ai-and-big-data-for-clean-energy",
-    "title": "Lecture 15 Review and Summary",
-    "section": "AI and big data for clean energy",
-    "text": "AI and big data for clean energy\n\nAI and big data has transformed how we live, and how can we save the planet\n\nAI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\n\nLearning those new tools and skills becomes necessary to work in the field\n\nThe potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous."
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#limitations-of-models",
-    "href": "lectures/lecture15/index.html#limitations-of-models",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Limitations of models",
-    "text": "Limitations of models\n\nKnow the limitations of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModeling for social good"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#end-with-two-quotes",
-    "href": "lectures/lecture15/index.html#end-with-two-quotes",
-    "title": "Lecture 15 Review and Summary",
-    "section": "End with two quotes",
-    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\n\nSource: Hogan (2002), Huntington, Weyant, and Sweeney (1982)"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#sample-analytic-questions",
-    "href": "lectures/lecture14/index.html#sample-analytic-questions",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nHow do I know if I should trust a model and its results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve IAMs?\n\nHow to interpret modeling results to communicate effectively?\n\nWhere to use model? How to build your model? What to say about your model?"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#projections-went-off",
-    "href": "lectures/lecture14/index.html#projections-went-off",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Projections went off",
-    "text": "Projections went off\n\n\nSource: Craig, Gadgil, and Koomey (2002)"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#iea-underestimates-solar-and-wind",
-    "href": "lectures/lecture14/index.html#iea-underestimates-solar-and-wind",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "IEA underestimates solar and wind",
-    "text": "IEA underestimates solar and wind\n\n\nSource: Ecofys"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#science-models-are-in-better-positions",
-    "href": "lectures/lecture14/index.html#science-models-are-in-better-positions",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Science models are in better positions",
-    "text": "Science models are in better positions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Inside Climate News, Hausfather et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#conditions-for-model-robustness",
-    "href": "lectures/lecture14/index.html#conditions-for-model-robustness",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Conditions for model robustness",
-    "text": "Conditions for model robustness\nModels can be accurate when they describe systems that\n\nare observable and measurable\n\nexhibit constancy of structure over time\n\nexhibit constancy across variations in conditions not specified in the model\n\npermit the collection of ample data\n\n\nRead more: Hodges, Dewar, et al. (1992)"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#social-economic-structural-changes",
-    "href": "lectures/lecture14/index.html#social-economic-structural-changes",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Social economic structural changes",
-    "text": "Social economic structural changes\n\nCore data and assumptions, which drive results, are based on historical experiences, which can be off if structural conditions change\n\nThe exact timing and character of pivotal events and technology changes is unpredictable\n\n\nRead more: Turning Numbers into Knowledge"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#changing-landsacpe-of-new-power-generation-capacities",
-    "href": "lectures/lecture14/index.html#changing-landsacpe-of-new-power-generation-capacities",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Changing landsacpe of new power generation capacities",
-    "text": "Changing landsacpe of new power generation capacities\n\nShale gas revolution\n\n\n\nSource: Head Waters Economics"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#renewable-costs",
-    "href": "lectures/lecture14/index.html#renewable-costs",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Renewable costs",
-    "text": "Renewable costs\n\n\nSource: IPCC"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#mission-impossible",
-    "href": "lectures/lecture14/index.html#mission-impossible",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Mission impossible",
-    "text": "Mission impossible\n\nPredict the unpredictable\n\nPrice the priceless"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#better-uncertainties",
-    "href": "lectures/lecture14/index.html#better-uncertainties",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Better uncertainties",
-    "text": "Better uncertainties\n\nDefine an endpoint of analysis\n\nList all uncertain parameters\n\nSpecify maximum range of values\n\nSpecify subjective probability distribution for values within the range\n\nDetermin and account for correlations\n\nProbability distribution of model predictions\n\nDerive quantitative uncertainties\nObtain additional data and repeat analysis if needed\n\n\nRead more: IAEA"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#incoporating-political-economy",
-    "href": "lectures/lecture14/index.html#incoporating-political-economy",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Incoporating political economy",
-    "text": "Incoporating political economy\n\n\n\nExamples\n\nRisk averse investors\n\nSubsidies or taxes\n\nCarbon lock-in\n\nUnequal costs and benefits of climate polices accrue to different groups\n\nPublic opinion\n\nConfidence in political institutions\n\nTrade and investments\n\nCompetence of goverment\n\n\n\n\n\n\n\n\n\n\n\nSource: Peng, Iyer, Bosetti, et al. (2021), Peng, Iyer, Binsted, et al. (2021)"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#why-a-model-in-the-first-place",
-    "href": "lectures/lecture14/index.html#why-a-model-in-the-first-place",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Why a model in the first place",
-    "text": "Why a model in the first place\n\nDescription\n\nExplanation\n\nExperimentation\n\nProviding sources of analogy\n\nCommunication/Education\n\nProviding focal objects or centerpiece for scientific dialogue\n\nThought experiment\n\nProjection"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#modeling-for-insights",
-    "href": "lectures/lecture14/index.html#modeling-for-insights",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Modeling for insights",
-    "text": "Modeling for insights\n\nModeling based on research questions\n\nModeling elements, structure, relations\n\nDo not over-interpret\n\nDo not misinterpret\n\n“All models are wrong, but some are useful”. Avoid useless models."
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#focusing-on-structures-and-relations",
-    "href": "lectures/lecture14/index.html#focusing-on-structures-and-relations",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Focusing on structures and relations",
-    "text": "Focusing on structures and relations\n\n\nSource: Climate Interactive"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#knowing-limitations",
-    "href": "lectures/lecture14/index.html#knowing-limitations",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Knowing limitations",
-    "text": "Knowing limitations\n\nKnown unknowns\n\nUnknown unknowns\n\n“Garbage in, garbage out”"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#inteprating-results",
-    "href": "lectures/lecture14/index.html#inteprating-results",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Inteprating results",
-    "text": "Inteprating results\n\nResults are outcomes of assumptions and models\n\nResults does not translate to policies\n\nCommunicating the sensitivities and uncertainties"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#open-source",
-    "href": "lectures/lecture14/index.html#open-source",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Open source",
-    "text": "Open source\n\nOpen model (code)\n\nOpen data\n\nOpen results\n\nOpen validation\n\nIn Open we Trust!\n\nRead more: Wikipedia"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#ensure-model-for-society",
-    "href": "lectures/lecture14/index.html#ensure-model-for-society",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Ensure model for society",
-    "text": "Ensure model for society\n\nMind the assumptions\n\nMind the hubris\n\nMind the framing\n\nMind the consequences\n\nMind the unknowns\n\nQuestions not answers\n\n\nRead more: Saltelli et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#summary",
-    "href": "lectures/lecture14/index.html#summary",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Summary",
-    "text": "Summary\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModels for social good"
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#better-modeling-uncertainties",
-    "href": "lectures/lecture14/index.html#better-modeling-uncertainties",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Better modeling uncertainties",
-    "text": "Better modeling uncertainties\n\nDefine an endpoint of analysis\n\nList all uncertain parameters\n\nSpecify maximum range of values\n\nSpecify subjective probability distribution for values within the range\n\nDetermin and account for correlations\n\nProbability distribution of model predictions\n\nDerive quantitative uncertainties\nObtain additional data and repeat analysis if needed\n\n\nRead more: IAEA"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#start-with-two-quotes",
-    "href": "lectures/lecture15/index.html#start-with-two-quotes",
-    "title": "Lecture 15 Review and Summary",
-    "section": "Start with two quotes",
-    "text": "Start with two quotes\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
-  },
-  {
-    "objectID": "lectures/lecture14/index.html#interpreting-results",
-    "href": "lectures/lecture14/index.html#interpreting-results",
-    "title": "Lecture 14 Limitations of Models",
-    "section": "Interpreting results",
-    "text": "Interpreting results\n\nResults are outcomes of assumptions and models\n\nResults does not automatically translate to policies\n\nCommunicating the limitations and uncertainties"
-  },
-  {
-    "objectID": "lectures/lecture9/index.html#switch-model-as-an-example",
-    "href": "lectures/lecture9/index.html#switch-model-as-an-example",
-    "title": "Lecture 9 Power Sector Analysis",
-    "section": "SWITCH Model as an example",
-    "text": "SWITCH Model as an example\n\n\nSource: Johnston et al. (2019)"
-  },
-  {
-    "objectID": "lectures/lecture15/index.html#what-we-have-learned",
-    "href": "lectures/lecture15/index.html#what-we-have-learned",
-    "title": "Lecture 15 Review and Summary",
-    "section": "What we have learned",
-    "text": "What we have learned\n\n\n\nEnergy systems\n\nData\nEconomics\nTechnology\nSupply\nDemand\nPower\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nLife cycle analysis\nEnergy-economy-environment (nexus)"
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "Lecture 1: Introduction\n\n\n\n\n\n\nLecture 2: Make sense of energy numbers\n\n\n\n\n\n\n\n\n\n\nLecture 3: Energy systems overview\n\n\n\n\n\n\nLecture 4: Economics for energy systems analysis\n\n\n\n\n\n\n\n\n\n\nLecture 5: Energy sources\n\n\n\n\n\n\nLecture 6: Energy demand\n\n\n\n\n\n\n\n\n\n\nLecture 7: Energy, environment, and health\n\n\n\n\n\n\nLecture 8: Energy and climate change\n\n\n\n\n\n\n\n\n\n\nLecture 9: Power sector analysis\n\n\n\n\n\n\nLecture 10: Energy transition\n\n\n\n\n\n\n\n\n\n\nLecture 11: Energy efficiency and behavior\n\n\n\n\n\n\nLecture 12: Energy poverty, access, and justice\n\n\n\n\n\n\n\n\n\n\nLecture 13: Big data and AI for clean energy\n\n\n\n\n\n\nLecture 14: Limitations of models"
   }
 ]

@@ -1,0 +1,168 @@
+---
+title: Videos
+#page-layout: full
+css: /custom.css
+---
+
+::: {.grid}
+
+<!--Lecture 1-2-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 1: [Introduction](lectures/lecture1/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2menXMZMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 2: [Make sense of energy numbers](lectures/lecture2/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TDhsb-5yyIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<hr>
+
+::: {.grid}
+
+<!--Lecture 3-4-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 3: [Energy systems overview](lectures/lecture3/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3yMTGL1VgMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 4: [Economics for energy systems analysis](lectures/lecture4/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fb42oTdedpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<hr>
+
+::: {.grid}
+
+<!--Lecture 5-6-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 5: [Energy sources](lectures/lecture5/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WsNN-WFhAwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 6: [Energy demand](lectures/lecture6/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZDNI2ENa3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<hr>
+
+::: {.grid}
+<!--Lecture 7-8-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 7: [Energy, environment, and health](lectures/lecture7/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBgCHUxpTSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 8: [Energy and climate change](lectures/lecture8/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3hkLRzUxI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<hr>
+
+::: {.grid}
+<!--Lecture 9-10-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 9: [Power sector analysis](lectures/lecture9/index.qmd)
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52us4ftQFXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 10: [Energy transition](lectures/lecture10/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFtuza6l0_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<hr>
+
+::: {.grid}
+
+<!--Lecture 11-12-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 11: [Energy efficiency and behavior](lectures/lecture12/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFciVMLrOlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 12: [Energy poverty, access, and justice](lectures/lecture12/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ytpmuPUuzQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<hr>
+
+::: {.grid}
+
+<!--Lecture 13-14-->
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 13: [Big data and AI for clean energy](lectures/lecture13/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujZ0AP6Qzeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Lecture 14: [Limitations of models](lectures/lecture14/index.qmd){target="_blank"}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzOiFlkQvYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+:::
+
+:::
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_mastodon"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_email"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
