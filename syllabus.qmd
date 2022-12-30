@@ -79,3 +79,7 @@ Each student must pursue his or her academic goals honestly and be personally ac
 ## Critical Incident Management 
 
 Stony Brook University expects students to respect the rights, privileges, and property of other people. Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn. Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures. Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

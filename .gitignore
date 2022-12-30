@@ -1,5 +1,17 @@
+# Git
+.git
+.gitattributes
+.github
+.gitignore
+/.gitignore/
+
+# Quarto
+.quarto
 /.quarto/
+
+# Extensions and backups
 /_extensions/
+/_backup/
 
 #R Temporal Files
 ~$*.Rhistory*
