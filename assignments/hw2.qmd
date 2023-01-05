@@ -83,7 +83,7 @@ Learn to use NREL's System Advisory Model (SAM) to do more nuanced simulations.
 
 ### Background  
 
-Please read the story of the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant). One plant never commerically opertaed and was decommisioned and the rate-payers are still paying the construction costs, while the other is offered to extend operation in the midist of California's clean energy quest.
+Please read the story of the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant). One plant never commerically operated and was decommisioned and the rate-payers are still paying the construction costs, while the other is offered to extend operation in the midist of California's clean energy quest.
 
 
 ### Questions
