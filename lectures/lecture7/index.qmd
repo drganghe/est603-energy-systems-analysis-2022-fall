@@ -1,5 +1,6 @@
 ---
 title: "Lecture 7 Energy, Environment, and Human Health"
+description-meta: "Energy environmental and human health impacts"
 author: "Gang He"
 date: October 3, 2022
 date-format: long

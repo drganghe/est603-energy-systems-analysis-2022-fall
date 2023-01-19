@@ -1,5 +1,6 @@
 ---
 title: Project
+description-meta: "{{< meta website.description >}}"
 format: 
   html: 
     theme: cosmo

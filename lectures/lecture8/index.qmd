@@ -1,5 +1,6 @@
 ---
 title: "Lecture 8 Energy and Climate Change"
+description-meta: "Evolution of climate change policy instruments"
 author: "Gang He"
 date: October 17, 2022
 date-format: long

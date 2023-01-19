@@ -1,5 +1,6 @@
 ---
 title: Course Schedule
+description-meta: "{{< meta website.description >}}"
 ---
 
 | Week | Date  | Lecture    | Assignment     |

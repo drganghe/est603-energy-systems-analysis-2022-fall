@@ -1,9 +1,12 @@
 ---
 title: "Lecture 3 Energy Systems Overview"
+description-meta: "Energy systems overview"
 author: "Gang He"
 date: September 6, 2022
 date-format: long
 image: "images/Energy-2021-United-States.png"
+include-in-header: 
+  - canonical.html
 #suppress-bibliography: true
 format:
   revealjs:

@@ -1,5 +1,6 @@
 ---
 title: "Lecture 5 Energy Sources and Technologies"
+description-meta: "Energy technologies, thermodynamics, solar, wind, nuclear, and hydro"
 author: "Gang He"
 date: September 19, 2022
 date-format: long

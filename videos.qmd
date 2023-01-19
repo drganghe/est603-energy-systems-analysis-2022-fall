@@ -1,5 +1,6 @@
 ---
 title: Videos
+description-meta: "{{< meta website.description >}}"
 #page-layout: full
 css: /custom.css
 ---

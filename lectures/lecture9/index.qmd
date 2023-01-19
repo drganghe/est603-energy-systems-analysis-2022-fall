@@ -1,5 +1,6 @@
 ---
 title: "Lecture 9 Power Sector Analysis"
+description-meta: "Electrification, and decarbonization of the power systems"
 author: "Gang He"
 date: October 24, 2022
 date-format: long

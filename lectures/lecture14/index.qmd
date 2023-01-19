@@ -1,5 +1,6 @@
 ---
 title: "Lecture 14 Limitations of Models"
+description-meta: "Limitations of energy models"
 author: "Gang He"
 date: November 28, 2022
 date-format: long

@@ -1,5 +1,6 @@
 ---
 title: "Lecture 1 Introduction"
+description-meta: "Introduction to energy systems analysis"
 author: "Gang He"
 date: Aug 22, 2022
 date-format: long

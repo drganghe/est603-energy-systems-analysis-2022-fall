@@ -1,5 +1,6 @@
 ---
 title: "Lecture 2 Make Sense of Energy Numbers"
+description-meta: "Make sense of energy numbers and data sources"
 author: "Gang He"
 date: Aug 29, 2022
 date-format: long

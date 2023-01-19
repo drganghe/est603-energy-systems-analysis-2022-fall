@@ -1,5 +1,6 @@
 ---
 title: "Lecture 15 Review and Summary"
+description-meta: "Review and summary of energy systems analysis"
 author: "Gang He"
 date: December 5, 2022
 date-format: long

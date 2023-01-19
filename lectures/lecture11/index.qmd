@@ -1,5 +1,6 @@
 ---
 title: "Lecture 11 Energy Efficiency, Behavior, and Sustainable Consumption"
+description-meta: "Energy efficiency, behavior, rebound effect"
 author: "Gang He"
 date: November 7, 2022
 date-format: long

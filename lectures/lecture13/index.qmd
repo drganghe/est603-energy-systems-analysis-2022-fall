@@ -1,5 +1,6 @@
 ---
 title: "Lecture 13 Big Data and AI for Clean Energy"
+description-meta: "Big data and AI for clean energy"
 author: "Gang He"
 date: November 21, 2022
 date-format: long
@@ -253,7 +254,7 @@ Source: @kaack2022aligning
 - Other unaware impacts  
 
 ::: footer
-Read more:
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence), [AI Ethics: What It Is And Why It Matters](https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters)
 :::
 
 ## AI ethics: principles{.smaller}

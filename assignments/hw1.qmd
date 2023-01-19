@@ -1,5 +1,6 @@
 ---
 title: Homework 1 Air quality in China and India
+description-meta: "{{< meta website.description >}}"
 #aliases:
 #  - /homeworks/hw1.html
 format: 

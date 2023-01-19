@@ -1,5 +1,6 @@
 ---
 title: "Lecture 6 Energy Demand"
+description-meta: "Energy demand and the driving factors"
 author: "Gang He"
 date: September 26, 2022
 date-format: long

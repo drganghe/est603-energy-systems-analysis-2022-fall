@@ -1,5 +1,6 @@
 ---
 title: "Lecture 10 Energy Transition"
+description-meta: "Global clean energy transition"
 author: "Gang He"
 date: October 31, 2022
 date-format: long

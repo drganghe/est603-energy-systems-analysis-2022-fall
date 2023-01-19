@@ -1,5 +1,6 @@
 ---
 title: "EST603 Energy Systems Analysis (Fall 2022)"
+description-meta: "{{< meta website.description >}}"
 image: "/files/images/energy-systems-analysis.png"
 sidebar: false
 toc: false
