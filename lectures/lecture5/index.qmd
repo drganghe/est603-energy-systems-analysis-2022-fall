@@ -238,7 +238,7 @@ Read more: NREL, [Validation of Power Output for the WIND Toolkit](https://www.n
 ## Important corrections
 
 - Temperature: $\rho = \frac{P\times M.W. \times 10^{-3}}{RT}=\frac{1 atm\times 28.97 g/mol \times 10^{-3}kg/g}{8.2056\times 10^{-5}m^3\cdot atm/(K\cdot mol)\times(273.15+T)K}$   
-- Altitude: $P=P_0 e^{-1.185\times 10^{-4}H}$  (H in elevation in meters)  
+- Altitude: $P=P_0 e^{-1.185\times 10^{-4}H}$  (H is elevation in meters)  
 - Tower height: $\frac{v}{v_0}=(\frac{H}{H_0})^\alpha$  (\alpha is the friction coefficient)  
   
 
