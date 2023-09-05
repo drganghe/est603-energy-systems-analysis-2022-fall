@@ -1,6 +1,7 @@
 ---
 title: Videos
-description-meta: "{{< meta website.description >}}"
+repo-actions: false
+#description-meta: "{{< meta website.description >}}"
 #page-layout: full
 css: /custom.css
 ---

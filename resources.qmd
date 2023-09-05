@@ -1,6 +1,6 @@
 ---
 title: Resources
-description-meta: "{{< meta website.description >}}"
+#description-meta: "{{< meta website.description >}}"
 ---
 
 >All models are wrong, but some are useful”.

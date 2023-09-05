@@ -26,8 +26,10 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 ## Reuse of material
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 
+
 Please feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my [site](https://drganghe.github.io) or this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) for credit.
 
 ## How to help  
 
-If you find any issue, please use the "Report an issue" on the right side of a specific page. Any comments and suggestions are very welcome.
+If you like this course, please **Star** this repository. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.

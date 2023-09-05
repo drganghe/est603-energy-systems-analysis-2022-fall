@@ -1,6 +1,7 @@
 ---
 title: Assignments
-description-meta: "{{< meta website.description >}}"
+#description-meta: "{{< meta website.description >}}"
+repo-actions: false
 ---
 
 | # | Topic | pdf | Due Date |

@@ -1,10 +1,11 @@
 ---
-title: "EST603 Energy Systems Analysis (Fall 2022)"
-description-meta: "{{< meta website.description >}}"
+title: "Energy Systems Analysis (Fall 2022)"
+#description-meta: "{{< meta website.description >}}"
 image: "/files/images/energy-systems-analysis.png"
 sidebar: false
 toc: false
 css: /custom.css
+repo-actions: false
 ---
 
 <!--
@@ -57,7 +58,7 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 ## How to help  
 
-If you find any issue, please use the "Report an issue" on the right side of a specific page. Any comments and suggestions are very welcome. If you like this work, you can help more people to access the open-source course by spreading the word. 
+If you like this course, please **Star** the course [repository](https://github.com/drganghe/est603-energy-systems-analysis-2022-fall). If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.
 
 <!--Include social share buttons-->
 

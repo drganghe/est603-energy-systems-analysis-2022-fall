@@ -1,5 +1,6 @@
 ---
 title: Page Unplugged
+repo-actions: false
 ---
 
 The page you requested cannot be found (perhaps it was unplugged).

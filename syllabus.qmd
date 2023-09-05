@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-description-meta: "{{< meta website.description >}}"
+#description-meta: "{{< meta website.description >}}"
 ---
 
 ## Course Information
