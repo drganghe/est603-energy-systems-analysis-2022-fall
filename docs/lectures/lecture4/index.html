@@ -8,7 +8,7 @@
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.330">
+  <meta name="generator" content="quarto-1.4.415">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2022-09-12">
@@ -34,6 +34,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -351,7 +352,6 @@
       margin-right: 0; 
     }
   </style>
-  <link rel="canonical" href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture4/index.html">
 <meta property="og:title" content="Energy Systems Analysis - Lecture 4 Economics for Energy Systems Analysis">
 <meta property="og:image" content="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture4/images/discounting-schedule.png">
 <meta property="og:site_name" content="Energy Systems Analysis">
@@ -387,9 +387,9 @@ Gang He
 </li>
 <li>When to retire a nuclear/coal power plant?<br>
 </li>
-<li>Should I install rooftop solar or buy an EV?<br>
+<li>Should I install rooftop solar? Buy an EV?<br>
 </li>
-<li>How long should the government subsidies heatpump?<br>
+<li>How long should the government subsidies heatpumps?<br>
 </li>
 <li>When can offshore wind achieve grid parity?</li>
 </ul>
@@ -450,21 +450,21 @@ Payback: with discounting</p>
 <section id="the-power-of-discounting" class="slide level2 center">
 <h2>The power of discounting</h2>
 
-<img data-src="images/discounting-schedule.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/discounting-schedule.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: Gang He, source <a href="discounting.xlsx">data</a></p>
 </div>
 </section>
 <section id="declining-discounting" class="slide level2 center">
 <h2>Declining discounting</h2>
 
-<img data-src="images/declining-discounting.jpeg" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/declining-discounting.jpeg" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="weitzman2001gamma">Weitzman (<a href="#/references" role="doc-biblioref" onclick="">2001</a>)</span>, <span class="citation" data-cites="arrow_determining_2013">Arrow et al. (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
 </div>
 </section>
 <section id="lcoe" class="slide level2 center">
 <h2>LCOE</h2>
 <center>
-<span class="math inline">\(LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{\frac{E_t}{(1+r)^t}}}\)</span>
+<span class="math inline">\(LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{E_t}}\)</span>
 </center>
 <p style="font-size:20pt; color:gray; text-align:center">
 I: Investment costs<br>
@@ -475,28 +475,24 @@ F: Fuel costs
 <section id="comparing-lcoe" class="slide level2 center">
 <h2>Comparing LCOE</h2>
 
-<img data-src="images/lazard-lcoe-2021.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/lazard-lcoe-2021.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/">Lazard LCOE 15.0</a></p>
 </div>
 </section>
 <section id="limitations-of-lcoe" class="slide level2 center">
 <h2>Limitations of LCOE</h2>
 <ul>
-<li>Fossil: Do not include other costs (e.g.&nbsp;enviromental, carbon, etc.)<br>
+<li>Fossil: not include other costs (e.g.&nbsp;enviromental, carbon, etc.)<br>
 </li>
-<li>RE: Do not include integraton costs</li>
-<li>Focus on economics, do not include social cultural acceptance</li>
+<li>RE: not include integraton costs</li>
+<li>Focus on economics, not include social cultural acceptance</li>
 </ul>
 </section>
 <section id="learning-curve" class="slide level2 center">
 <h2>Learning curve</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/cumulative-learning-curve.png"></p>
-</figure>
-</div>
+<p><img data-src="images/cumulative-learning-curve.png" class="quarto-figure-center"></p>
 </div><div class="column" style="width:50%;">
 Empircial relations between unit costs and cumulative production.
 <center>
@@ -521,14 +517,14 @@ Lr: Learing rate
 <section id="learning-of-differrent-technologies" class="slide level2 center">
 <h2>Learning of differrent technologies</h2>
 
-<img data-src="images/energy-technology-learning.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/energy-technology-learning.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="grubler_dynamics_1999">Grübler, Nakićenović, and Victor (<a href="#/references" role="doc-biblioref" onclick="">1999</a>)</span></p>
 </div>
 </section>
 <section id="drivers-of-learning" class="slide level2 center">
 <h2>Drivers of learning</h2>
 
-<img data-src="images/contribution-to-module-cost-change.jpg" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/contribution-to-module-cost-change.jpg" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="kavlak_evaluating_2018">Kavlak, McNerney, and Trancik (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
 </div>
 </section>
@@ -545,21 +541,21 @@ Lr: Learing rate
 <section id="how-renewables-are-getting-cheap" class="slide level2 center">
 <h2>How renewables are getting cheap</h2>
 
-<img data-src="images/learning-curves-for-electricity-prices.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/learning-curves-for-electricity-prices.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://ourworldindata.org/cheap-renewables-growth">Our World in Data</a></p>
 </div>
 </section>
 <section id="why-nuclear-costs-are-going-up" class="slide level2 center">
 <h2>Why nuclear costs are going up?</h2>
 
-<img data-src="images/nuclear-learning.jpg" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/nuclear-learning.jpg" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="GRUBLER20105174">Grubler (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span></p>
 </div>
 </section>
 <section id="role-of-global-supply-chain-in-pv" class="slide level2 center">
 <h2>Role of global supply chain in PV</h2>
 
-<img data-src="images/fig2_prices_historical_national_global.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/fig2_prices_historical_national_global.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
 </div>
 </section>
@@ -581,7 +577,7 @@ Lr: Learing rate
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-arrow_determining_2013" class="csl-entry" role="listitem">
 Arrow, K., M. Cropper, C. Gollier, B. Groom, G. Heal, R. Newell, W. Nordhaus, et al. 2013. <span>“Determining Benefits and Costs for Future Generations.”</span> <em>Science</em> 341 (6144): 349–50. <a href="https://doi.org/10.1126/science.1235665">https://doi.org/10.1126/science.1235665</a>.
 </div>
@@ -975,17 +971,21 @@ Yelle, Louis E. 1979. <span>“The Learning Curve: Historical Review and Compreh
         }
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/est603-energy-systems-analysis-2022-fall");
         var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href);
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
               // target, if specified
               link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
           }
         }
     });

@@ -8,7 +8,7 @@
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.330">
+  <meta name="generator" content="quarto-1.4.415">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2022-12-05">
@@ -34,6 +34,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -398,7 +399,7 @@ Gang He
 <section id="energy-systems" class="slide level2 center">
 <h2>Energy systems</h2>
 
-<img data-src="../../lectures/lecture3/images/energy-systems.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="../..\lectures/lecture3/images/energy-systems.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: IIASA, <a href="https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf">Energy Primier</a></p>
 </div>
 </section>
@@ -616,7 +617,7 @@ Gang He
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-hogan_energy_2002" class="csl-entry" role="listitem">
 Hogan, William W. 2002. <span>“Energy Modeling for Policy Studies.”</span> <em>Operations Research</em> 50 (1): 89–95. <a href="https://doi.org/10.1287/opre.50.1.89.17803">https://doi.org/10.1287/opre.50.1.89.17803</a>.
 </div>
@@ -995,17 +996,21 @@ Huntington, Hillard G, John P Weyant, and James L Sweeney. 1982. <span>“Modeli
         }
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/est603-energy-systems-analysis-2022-fall");
         var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href);
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
               // target, if specified
               link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
           }
         }
     });

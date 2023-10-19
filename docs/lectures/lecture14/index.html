@@ -8,7 +8,7 @@
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.330">
+  <meta name="generator" content="quarto-1.4.415">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2022-11-28">
@@ -34,6 +34,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -396,14 +397,14 @@ Gang He
 <section id="projections-went-off" class="slide level2 center">
 <h2>Projections went off</h2>
 
-<img data-src="images/1970s-projections-us-energy.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/1970s-projections-us-energy.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="craig2002what">Craig, Gadgil, and Koomey (<a href="#/references" role="doc-biblioref" onclick="">2002</a>)</span></p>
 </div>
 </section>
 <section id="iea-underestimates-solar-and-wind" class="slide level2 center">
 <h2>IEA underestimates solar and wind</h2>
 
-<img data-src="images/iea-underestimate-solarwind.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/iea-underestimate-solarwind.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/">Ecofys</a></p>
 </div>
 </section>
@@ -411,17 +412,9 @@ Gang He
 <h2>Science models are in better positions</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/1982-exxon-projection.png" style="width:90.0%"></p>
-</figure>
-</div>
+<p><img data-src="images/1982-exxon-projection.png" class="quarto-figure-center" style="width:90.0%"></p>
 </div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/obervation-vs-models.png"></p>
-</figure>
-</div>
+<p><img data-src="images/obervation-vs-models.png" class="quarto-figure-center"></p>
 </div>
 </div>
 <div class="footer">
@@ -461,14 +454,14 @@ Gang He
 Shale gas revolution
 </center>
 
-<img data-src="images/new-power-capacity.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/new-power-capacity.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://headwaterseconomics.org/economic-development/evolution-electricity-generation/">Head Waters Economics</a></p>
 </div>
 </section>
 <section id="renewable-costs" class="slide level2 center">
 <h2>Renewable costs</h2>
 
-<img data-src="../../lectures/lecture10/images/ipcc-re-costs.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="../..\lectures/lecture10/images/ipcc-re-costs.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/">IPCC</a></p>
 </div>
 </section>
@@ -527,11 +520,7 @@ Shale gas revolution
 </ul>
 </div>
 </div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/state-level-support-climate.webp" style="width:80.0%"></p>
-</figure>
-</div>
+<p><img data-src="images/state-level-support-climate.webp" class="quarto-figure-center" style="width:80.0%"></p>
 </div>
 </div>
 <div class="footer">
@@ -575,7 +564,7 @@ Shale gas revolution
 <section id="focusing-on-structures-and-relations" class="slide level2 center">
 <h2>Focusing on structures and relations</h2>
 
-<img data-src="images/en-roads-structure.png" class="r-stretch quarto-figure-center"><div class="footer">
+<img data-src="images/en-roads-structure.png" class="quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://www.climateinteractive.org/en-roads/">Climate Interactive</a></p>
 </div>
 </section>
@@ -649,7 +638,7 @@ Shale gas revolution
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-craig2002what" class="csl-entry" role="listitem">
 Craig, Paul P, Ashok Gadgil, and Jonathan G Koomey. 2002. <span>“What Can History Teach Us? A Retrospective Examination of Long-Term Energy Forecasts for the United States.”</span> <em>Annual Review of Energy and the Environment</em> 27 (1): 83–118. <a href="https://doi.org/10.1146/annurev.energy.27.122001.083425">https://doi.org/10.1146/annurev.energy.27.122001.083425</a>.
 </div>
@@ -1040,17 +1029,21 @@ Saltelli, Andrea, Gabriele Bammer, Isabelle Bruno, Erica Charters, Monica Di Fio
         }
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/est603-energy-systems-analysis-2022-fall");
         var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href);
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
               // target, if specified
               link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
           }
         }
     });
