@@ -28,11 +28,11 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 
 
-Please link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
+Please feel free to link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
 
 > This course/class benefits from the [Energy Systems Analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) class material developed by Dr. [Gang He](https://drganghe.github.io).
 
 
 ## How to help  
 
-If you like this course, please **Star** this repository. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.
+If you like this course, you can **Star** the course [repository](https://github.com/drganghe/est603-energy-systems-analysis-2022-fall) to help more people see it. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.
